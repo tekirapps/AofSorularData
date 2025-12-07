@@ -1,0 +1,39 @@
+{
+  "ders_kodu": "SMY201U",
+  "ders_adi": "SOSYAL MEDYA VE PROPAGANDA",
+  "sinavlar": [
+    {
+      "baslik": "2024 Ara Sınav",
+      "tur": "CIKMIS",
+      "yil": 2024,
+      "sorular": [
+        {
+          "soruid": 1,
+          "soru_metni": "Bir sosyal medya kampanyasında, belirli bir ideolojinin sembolleri sürekli tekrar edilerek aidiyet oluşturuluyorsa, hangi propaganda hedefi ön plandadır?",
+          "secenekler": {
+            "A": "Karışıklık çıkarmak",
+            "B": "Rakibi güçlendirmek",
+            "C": "Bütünleşme sağlamak",
+            "D": "Bireyi yalnızlaştırmak",
+            "E": "Bilimsel gerçekleri göstermek"
+          },
+          "dogru_cevap": "C",
+          "neden_dogru": "Bütünleşme propagandası, kitleyi sistemle özdeşleştirmeyi amaçlar; sembol tekrarı bunu destekler."
+        },
+        {
+          "soruid": 2,
+          "soru_metni": "Aşağıdakilerden hangisi iletişimin temel ögelerinden biri değildir?",
+          "secenekler": {
+            "A": "Kaynak",
+            "B": "Alıcı",
+            "C": "Kanal",
+            "D": "Gürültü",
+            "E": "Yolculuk"
+          },
+          "dogru_cevap": "E",
+          "neden_dogru": "" 
+        }
+      ]
+    }
+  ]
+}
