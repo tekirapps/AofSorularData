@@ -1,0 +1,39 @@
+[
+  {
+    "bolum_adi": "Sosyal Medya Yöneticiliği",
+    "tip": "ONLISANS",
+    "donemler": [
+      {
+        "donem_adi": "3. Yarıyıl",
+        "dersler": [
+          {
+            "ders_adi": "SOSYAL MEDYA VE PROPAGANDA",
+            "kod": "SMY201U",
+            "dosya_adi": "sosyalmedyapropaganda_sorular.json" 
+          },
+          {
+            "ders_adi": "İdare Hukuku",
+            "kod": "HUK103U",
+            "dosya_adi": "huk_103_sorular.json"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "bolum_adi": "Türk Dili ve Edebiyatı",
+    "tip": "LISANS",
+    "donemler": [
+      {
+        "donem_adi": "1. Yarıyıl",
+        "dersler": [
+          {
+            "ders_adi": "Eski Türk Edebiyatına Giriş",
+            "kod": "TDE101U",
+            "dosya_adi": "tde_101_sorular.json"
+          }
+        ]
+      }
+    ]
+  }
+]
