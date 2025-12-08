@@ -1,0 +1,39 @@
+{
+  "ders_kodu": "HUK101U",
+  "ders_adi": "Hukukun Temel Kavramları",
+  "sinavlar": [
+    {
+      "baslik": "2023 Ara Sınav",
+      "tur": "CIKMIS",
+      "yil": 2023,
+      "sorular": [
+        {
+          "soruid": 1001,  
+          "soru_metni": "Hukuk kurallarını diğerlerinden ayıran temel fark nedir?",
+          "secenekler": {
+            "A": "Manevi yaptırım",
+            "B": "Maddi yaptırım",
+            "C": "Ayıplama",
+            "D": "Dışlanma",
+            "E": "Günah sayılma"
+          },
+          "dogru_cevap": "B",
+          "neden_dogru": "Hukuk kuralları devlet gücüyle desteklenir."
+        },
+        {
+          "soruid": 1002,
+          "soru_metni": "Aşağıdakilerden hangisi kamu hukuku dalıdır?",
+          "secenekler": {
+             "A": "Borçlar Hukuku",
+             "B": "Ticaret Hukuku",
+             "C": "İdare Hukuku",
+             "D": "Medeni Hukuk",
+             "E": "Devletler Özel Hukuku"
+          },
+          "dogru_cevap": "C",
+          "neden_dogru": ""
+        }
+      ]
+    }
+  ]
+}
