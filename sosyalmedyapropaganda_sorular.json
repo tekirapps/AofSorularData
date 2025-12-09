@@ -10,7 +10,7 @@
         {
           "soruid": 1,
           "soru_metni": "Bir sosyal medya kampanyasında, belirli bir ideolojinin sembolleri sürekli tekrar edilerek aidiyet oluşturuluyorsa, hangi propaganda hedefi ön plandadır?",
-          "resim_url": "https://...",
+          "resim_url": "https://cdn.istiklal.com.tr/news/640839.jpg",
           "secenekler": {
             "A": "Karışıklık çıkarmak",
             "B": "Rakibi güçlendirmek",
@@ -24,6 +24,7 @@
         {
           "soruid": 2,
           "soru_metni": "Aşağıdakilerden hangisi iletişimin temel ögelerinden biri değildir?",
+          "resim_url": null,
           "secenekler": {
             "A": "Kaynak",
             "B": "Alıcı",
