@@ -1,0 +1,573 @@
+{
+  "ders_kodu": "SMY203U",
+  "ders_adi": "DİJİTAL YAYINCILIK",
+  "sinavlar": [
+    {
+      "baslik": "2025 Ünite 2 Yapay Zeka Destekli Çıkabilecek Sorular",
+      "tur": "AI",
+      "yil": 2025,
+      "sorular": [
+    {
+      "soruid": 1,
+      "soru_metni": "Dijital medyanın temeli sayılan ilk bilgisayar ENIAC, hangi amaçla ve ne zaman geliştirilmiştir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Eğitim amaçlı - 1950",
+        "B": "Ticari amaçlı - 1960",
+        "C": "Askeri amaçlı - 1946",
+        "D": "Sağlık amaçlı - 1970",
+        "E": "Eğlence amaçlı - 1980"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Metinde, ENIAC adındaki ilk bilgisayarın askeri amaçlarla 1946 yılında geliştirilmesiyle dijital çağın başladığı belirtilmektedir."
+    },
+    {
+      "soruid": 2,
+      "soru_metni": "Türkiye'de internet üzerinden yayın yapmaya başlayan ilk dergi aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Nokta",
+        "B": "Aktüel",
+        "C": "Tempo",
+        "D": "Atlas",
+        "E": "Leman"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Türkiye'de 1995 yılında Aktüel dergisi ilk internet yayını yapmaya başlayan yayın olma özelliğini göstermiştir."
+    },
+    {
+      "soruid": 3,
+      "soru_metni": "Geleneksel medya ile dijital medya arasındaki 'hız' farkı düşünüldüğünde, dijital medyada bir olayın yayınlanması ortalama ne kadar sürmektedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "1 gün",
+        "B": "1 saat",
+        "C": "30 dakika",
+        "D": "4 dakika",
+        "E": "12 saat"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": "Metinde, geleneksel medyanın bir önceki günün haberini verdiği, dijital medyada ise olay gerçekleştikten sonra yayınlanması için ortalama 4 dakikalık bir süreye ihtiyaç duyulduğu belirtilmektedir."
+    },
+    {
+      "soruid": 4,
+      "soru_metni": "Massachusetts Teknoloji Enstitüsü (MIT) araştırmasına göre, sosyal medyada yalan haberlerin yayılma hızı geleneksel medyaya göre nasıldır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Daha yavaştır",
+        "B": "Aynı hızdadır",
+        "C": "6 kat daha hızlıdır",
+        "D": "2 kat daha yavaştır",
+        "E": "Ölçülemez durumdadır"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Science Dergisi'nde yayımlanan MIT araştırmasına göre yalan haberin sosyal medyada geleneksel medyaya oranla 6 kat daha hızlı yayıldığı ortaya çıkarılmıştır."
+    },
+    {
+      "soruid": 5,
+      "soru_metni": "Karekod (QR Kod) sistemi ilk olarak hangi yıl ve hangi firma tarafından geliştirilmiştir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "1990 - IBM",
+        "B": "1994 - Denso Wave",
+        "C": "2000 - Apple",
+        "D": "1985 - Microsoft",
+        "E": "2005 - Google"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "QR kod uygulaması ilk olarak 1994 yılında Denso Wave isimli Japon bir firma tarafından geliştirilmiştir."
+    },
+    {
+      "soruid": 6,
+      "soru_metni": "1962 yılında Morton Heilig tarafından icat edilen ilk sanal gerçeklik simülatörünün adı nedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Oculus",
+        "B": "Sensorama",
+        "C": "Matrix",
+        "D": "Cybervision",
+        "E": "Hololens"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Metinde, 'Sensorama' adlı ilk sanal gerçeklik simülatörünün 1962 yılında Morton Heilig tarafından icat edildiği belirtilmektedir."
+    },
+    {
+      "soruid": 7,
+      "soru_metni": "Hız olgusunun habercilikte yarattığı doğruluk ve etik sorunlarına karşı bir tepki olarak ortaya çıkan kavram hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Yavaş Gazetecilik (Slow Journalism)",
+        "B": "Sarı Gazetecilik",
+        "C": "Yurttaş Gazeteciliği",
+        "D": "Robot Gazetecilik",
+        "E": "Magazin Gazeteciliği"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Bilecen ve Bayraktutan'a göre hız olgusunun yarattığı sorunlara (doğruluk, denetim eksikliği vb.) karşı 'Yavaş Gazetecilik' kavramı gündeme gelmiştir."
+    },
+    {
+      "soruid": 8,
+      "soru_metni": "Anadolu Ajansı'nın (AA) web sitesinde kullandığı ve gündeme ilişkin konuları kısa sürede bütüncül sunan uygulamanın adı nedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Haber Saati",
+        "B": "60 Saniyede Bugün",
+        "C": "Günlük Özet",
+        "D": "Hızlı Bakış",
+        "E": "Ajans Bülteni"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "AA sitesinde yer alan '60 Saniyede Bugün' adlı bölüm, gündeme ilişkin konuların kısa bir geçmişini bütüncül şekilde sunan bir video uygulamasıdır."
+    },
+    {
+      "soruid": 9,
+      "soru_metni": "Ruşen Çakır tarafından kurulan, Periscope ve YouTube üzerinden yayın yapan, 2016'da IPI Özgür Medya Öncüsü ödülünü alan platform hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "140journos",
+        "B": "Teyit.org",
+        "C": "Medyascope",
+        "D": "Bianet",
+        "E": "Onedio"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Medyascope, Ruşen Çakır tarafından kurulan, video temelli yayın yapan ve IPI (Uluslararası Basın Enstitüsü) ödülü alan platformdur."
+    },
+    {
+      "soruid": 10,
+      "soru_metni": "Aşağıdakilerden hangisi Journo platformunun öncelikli hedef kitlesi ve yayın konuları arasındadır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Sadece spor haberleri",
+        "B": "Magazin dünyası",
+        "C": "Gazeteciler, medya çalışanları ve haber üretim teknolojileri",
+        "D": "Çocuk eğitimi",
+        "E": "Yemek tarifleri"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Journo; gazetecilere, medya çalışanlarına ve gazeteci adaylarına yönelik yayın yapmakta, haber üretim teknolojileri ve gazetecilerin sorunlarını ele almaktadır."
+    },
+    {
+      "soruid": 11,
+      "soru_metni": "Teyit.org, gelirlerinin büyük bir kısmını (%90) hangi sosyal medya platformu ile yaptığı haber doğrulama anlaşmasından elde etmektedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Twitter",
+        "B": "Facebook",
+        "C": "Instagram",
+        "D": "Youtube",
+        "E": "Tiktok"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Teyit.org, IFCN imzacısı olarak Facebook ile sözleşme imzalamış ve gelirlerinin yaklaşık %90'ını bu doğrulama organizasyonundan elde etmektedir."
+    },
+    {
+      "soruid": 12,
+      "soru_metni": "Doğruluk Payı platformunda yer alan ve hükümetin siyasi vaatlerini takip ederek istatistiksel olarak sunan bölümün adı nedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Vaatmetre",
+        "B": "Siyaset Takip",
+        "C": "Hükümetre",
+        "D": "Politik Analiz",
+        "E": "Meclis Raporu"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Doğruluk Payı sitesinde 'Hükümetre' adlı bölümde hükümetin siyasi vaatleri tematik olarak sınıflandırılıp takip edilmektedir."
+    },
+    {
+      "soruid": 13,
+      "soru_metni": "Yapay zeka algoritmalarının verileri toplayıp analiz ederek otomatik olarak haber metni yazmasına ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Sarı Gazetecilik",
+        "B": "Algoritmik Habercilik (Otomatik Gazetecilik)",
+        "C": "Yurttaş Haberciliği",
+        "D": "Geleneksel Habercilik",
+        "E": "Araştırmacı Gazetecilik"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Algoritmik habercilik veya otomatik gazetecilik, yazılımların veri kümelerinden otomatik olarak haber metni üretmesi sürecidir."
+    },
+    {
+      "soruid": 14,
+      "soru_metni": "Associated Press (AP) ajansının kurumsal kazanç haberlerini otomatikleştirmek için kullandığı yazılım aracı hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Photoshop",
+        "B": "Wordsmith",
+        "C": "Wordpress",
+        "D": "Google Analytics",
+        "E": "Excel"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Metinde AP'nin, Automated Insights tarafından geliştirilen 'Wordsmith' yazılımını kullanarak haberleri otomatikleştirdiği belirtilmiştir."
+    },
+    {
+      "soruid": 15,
+      "soru_metni": "Drone'ların (İnsansız Hava Aracı) habercilikte yaygın olarak kullanılmaya başlanması hangi olay sonrasında hız kazanmıştır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "2001 İkiz Kuleler Saldırısı",
+        "B": "2011 Japonya Depremi ve Fukuşima Nükleer Felaketi",
+        "C": "2020 Covid-19 Pandemisi",
+        "D": "2004 Hint Okyanusu Tsunami",
+        "E": "1999 Gölcük Depremi"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "2011 Fukuşima felaketinde radyasyon nedeniyle insanların giremediği yerlere drone'ların girmesi, bu teknolojinin habercilikte yaygınlaşmasını sağlamıştır."
+    },
+    {
+      "soruid": 16,
+      "soru_metni": "Aşağıdakilerden hangisi Drone haberciliğinin dezavantajlarından biri olarak kabul edilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Ekonomik olması",
+        "B": "Haber toplamayı kolaylaştırması",
+        "C": "Özel yaşamın gizliliği ve mahremiyet riski",
+        "D": "Görüntü kalitesini artırması",
+        "E": "Alternatif bakış açısı sunması"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Metinde drone kullanımının dezavantajları arasında ulusal güvenlik, kamu güvenliği ve 'özel yaşamın korunması riski' sayılmıştır."
+    },
+    {
+      "soruid": 17,
+      "soru_metni": "Hollanda Gazetecilik Fonu'nun gelecek senaryolarından 'Senaryo 1'de, haber mecrası olarak hangi platformların öne çıkacağı öngörülmektedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Yerel gazeteler",
+        "B": "Devlet televizyonları",
+        "C": "Facebook, Google, Apple gibi küresel teknoloji devleri",
+        "D": "Basılı dergiler",
+        "E": "Radyo istasyonları"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Senaryo 1'e göre Facebook, Twitter, Google gibi platformlar ürettikleri içeriklerle en çok tercih edilen haber mecraları haline gelecektir."
+    },
+    {
+      "soruid": 18,
+      "soru_metni": "Aşağıdaki platformlardan hangisi Türkiye'deki 'yeni nesil haber platformları' arasında sayılamaz?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "140journos",
+        "B": "Medyascope",
+        "C": "Teyit.org",
+        "D": "Resmi Gazete (Basılı)",
+        "E": "Doğruluk Payı"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": "Resmi Gazete geleneksel ve resmi bir devlet yayınıdır; diğer şıklar metinde geçen dijital tabanlı yeni nesil haber platformlarıdır."
+    },
+    {
+      "soruid": 19,
+      "soru_metni": "Dijital medyanın 'hiperteks' özelliği haberlere ne gibi bir katkı sağlar?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Sadece metin okunmasını sağlar",
+        "B": "Haberin hem güncel hem de tarihsel süreçlerine bağlantılarla takip imkânı sunar",
+        "C": "Haberin kağıda basılmasını sağlar",
+        "D": "Haberin tek yönlü olmasını sağlar",
+        "E": "Haberin silinmesini engeller"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Metinde hiperteks özelliğinin ses, görsel ve videoya bağlantı vererek haberin hem güncel hem de tarihsel süreçlerinin takibini sağladığı belirtilmiştir."
+    },
+    {
+      "soruid": 20,
+      "soru_metni": "BBC ve New York Times, 2015 yılında mülteci krizini anlatmak için hangi teknolojiyi ilk kez habercilikte kullanmıştır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Telgraf",
+        "B": "Faks",
+        "C": "Sanal Gerçeklik (VR)",
+        "D": "Radyo dalgaları",
+        "E": "Daktilo"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "BBC ve NYT, 2015'te 'oradaymış hissi veren' sanal gerçeklik (VR) teknolojisini habercilikte (örneğin Calais'deki mülteciler için) kullanmıştır."
+    },
+    {
+      "soruid": 21,
+      "soru_metni": "Haberin, oyunlaştırma teknikleri kullanılarak (örneğin 'Suriye'den kaçış: Doğru seçimleri yapabilir misiniz?') sunulmasına ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Haber Oyunları (Newsgames)",
+        "B": "Video Haber",
+        "C": "Podcast",
+        "D": "Blog",
+        "E": "Forum"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Bu teknik, haberin bir oyun mantığı içinde takip edilmesini sağlayan 'haber oyunları' olarak tanımlanmıştır."
+    },
+    {
+      "soruid": 22,
+      "soru_metni": "Picard'a göre dijital haber platformlarının editoryal kadrolarda küçülmeye gidip maliyetleri düşürmek için yöneldiği kaynak nedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Devlet bankaları",
+        "B": "Yurttaş gazeteciliği ve kitlesel fonlama",
+        "C": "Kağıt ithalatı",
+        "D": "Matbaa kurulumu",
+        "E": "Uydu kiralama"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Picard'a göre platformlar maliyet sorunlarını aşmak için kitlesel fonlamaya yönelmekte ve yurttaş gazeteciliğine daha fazla önem vermektedir."
+    },
+    {
+      "soruid": 23,
+      "soru_metni": "Dijital ortamda dil bariyerini aşan ve programlama dillerinin (bilgisayar dilinin) ön plana çıktığı yeni dil kavramına ne ad verilmektedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Esperanto",
+        "B": "Latince",
+        "C": "Netspeak veya Netlish",
+        "D": "Osmanlıca",
+        "E": "Sanskritçe"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Metinde, internet dilinin artık 'Netspeak' veya 'Netlish' olarak adlandırıldığı ve programlama dillerinin öne çıktığı belirtilmektedir."
+    },
+    {
+      "soruid": 24,
+      "soru_metni": "Amerika'nın savunma amaçlı kurduğu ve internetin atası sayılan ARPANET projesi hangi on yılda ortaya çıkmıştır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "1940'lar",
+        "B": "1960'lar",
+        "C": "1980'ler",
+        "D": "1990'lar",
+        "E": "2000'ler"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "ARPANET projesi 1960'larda (özellikle Rusların Sputnik hamlesine karşı) ABD Savunma Bakanlığı tarafından geliştirilmiştir."
+    },
+    {
+      "soruid": 25,
+      "soru_metni": "Mark Glaser'in karşılaştırmasına göre, 'Eski Yöntem'de gazeteci her şeyi bilen kişiyken, 'Yeni Yöntem'de durum nasıldır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Gazeteci hiçbir şey bilmez.",
+        "B": "Hükümet her şeyi bilir.",
+        "C": "İzleyiciler gazetecilerden daha çok şeyi biliyor.",
+        "D": "Sadece editörler bilir.",
+        "E": "Bilgiye ulaşmak imkansızdır."
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Tablo 2.2'de Glaser'in karşılaştırmasına göre yeni bakış açısında 'İzleyiciler gazetecilerden daha çok şeyi biliyor' ifadesi yer almaktadır."
+    },
+    {
+      "soruid": 26,
+      "soru_metni": "Yeni medyada farklı medya türlerinin (ses, video, metin) bir arada kullanılarak sinerji yaratılmasına ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Mecralar-arası yayıncılık (Cross-Media Publishing)",
+        "B": "Tek yönlü yayıncılık",
+        "C": "Basılı yayıncılık",
+        "D": "Radyo yayıncılığı",
+        "E": "Analog yayıncılık"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Metinde, yeni medyada 'Mecralar-arası yayıncılık' (Cross-Media Publishing) sayesinde sinerjinin arttığı belirtilmiştir."
+    },
+    {
+      "soruid": 27,
+      "soru_metni": "Anadolu Ajansı'nın özerk bir statüye kavuşarak 'Anonim Şirket' olarak yapılandırıldığı tarih hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "1920",
+        "B": "1923",
+        "C": "1925",
+        "D": "1930",
+        "E": "1950"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Anadolu Ajansı, 1 Mart 1925'te şirketleşerek özerk bir statüye kavuşmuştur."
+    },
+    {
+      "soruid": 28,
+      "soru_metni": "Medyascope platformunun haberleri tematik olarak sınıflandırırken (ör: Kitapscope, Teknoscope) kullandığı dil özelliği nedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Resmi devlet dili",
+        "B": "Sosyal medya jargonu",
+        "C": "Akademik dil",
+        "D": "Sokak ağzı",
+        "E": "Edebi dil"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Metinde Medyascope'un tematik sınıflandırmada (scope eki gibi) 'sosyal medya jargonunu' benimsediği belirtilmektedir."
+    },
+    {
+      "soruid": 29,
+      "soru_metni": "Doğruluk Payı platformunun haber okuyucularına sunduğu 'okuma süresi' bilgisinin amacı nedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Reklam göstermek",
+        "B": "Okuyucuyu siteden uzaklaştırmak",
+        "C": "Kullanıcıya içeriğin ne kadar vaktini alacağını önceden belirtmek",
+        "D": "Yazarları yarıştırmak",
+        "E": "İnternet kotasını ölçmek"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Doğruluk Payı'nda haberlerin başında yer alan okuma süresi, kullanıcının o içeriğe ne kadar zaman ayırması gerektiğini gösteren bir özelliktir."
+    },
+    {
+      "soruid": 30,
+      "soru_metni": "John Pavlik'e göre dijital medya gazetecilikte aşağıdakilerden hangisini değiştirmemiştir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Haber içeriğinin doğasını",
+        "B": "Gazetecilerin iş yapma şeklini",
+        "C": "Haberin temel değerini (gerçeği arama ilkesini)",
+        "D": "Basın odası ve endüstri yapısını",
+        "E": "Haber örgütleri ve okuyucu arasındaki ilişkiyi"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Pavlik 4 değişim alanı sayar (içerik, iş yapma şekli, yapı, ilişkiler). Haberin temel değeri olan gerçeği arama ilkesinin değiştiğine dair bir madde yoktur (Metindeki liste esas alındığında)."
+    },
+    {
+      "soruid": 31,
+      "soru_metni": "Aşağıdakilerden hangisi Türkiye'de internet ortamında görülen ilk medya kuruluşu olarak ön plana çıkmaktadır? (Ünite Sorusu 1)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Hürriyet",
+        "B": "Milliyet",
+        "C": "Aktüel",
+        "D": "Akşam",
+        "E": "Yeni Şafak"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "1995 yılında Aktüel dergisi Türkiye'de ilk internet yayını yapmaya başlayan yayın olma özelliğini göstermiştir."
+    },
+    {
+      "soruid": 32,
+      "soru_metni": "Geleneksel gazetecilik dijital iletişim olanaklarının sunduğu avantajlardan dolayı basılıdan dijital ortamlara büyük bir hızla yönelme durumu içindedir. Bu durumun en temel nedeni aşağıdakilerden hangisidir? (Ünite Sorusu 2)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Sosyokültürel değerler",
+        "B": "Ekonomi ve üretim",
+        "C": "Askeri teknolojiler",
+        "D": "Endüstriyel gelişme ve sanayi",
+        "E": "Kâğıt ve baskı maliyetlerinin artışı"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": "Metinde basılıdan dijitale geçişin en temel nedeninin artan kağıt ve baskı maliyetleri olduğu vurgulanmıştır."
+    },
+    {
+      "soruid": 33,
+      "soru_metni": "Aşağıdakilerden hangisi, dijital medyanın mali desteklerinden biri değildir? (Ünite Sorusu 3)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Ücretli arşiv",
+        "B": "Devlet destekleri",
+        "C": "Criteo/AdChoices destekleri",
+        "D": "Gönüllü bağışları",
+        "E": "Kitlesel fonlama"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Türkiye'de alternatif dijital medya genellikle devlet tarafından desteklenmemekte, aksine fonlama ve reklam gelirleriyle ayakta durmaktadır."
+    },
+    {
+      "soruid": 34,
+      "soru_metni": "Aşağıdakilerden hangisi, yavaş gazetecilik olgusunun gündeme gelmesindeki temel nedenlerden biridir? (Ünite Sorusu 4)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Dijital medyadaki editöryal denetimin sınırlı olması",
+        "B": "Dijital medyanın gereğinden fazla hızlı olması",
+        "C": "Teknik altı yapıların gelişmemiş olması",
+        "D": "İnsanlardaki sakinleşme güdüsü",
+        "E": "Teknik alt yapıların günümüzde gereğinden hızlı gelişmesi"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Yavaş gazetecilik, hızın getirdiği denetim eksikliği, doğruluk sorunları ve editöryal zaafiyetlere bir tepki olarak neden gösterilmiştir."
+    },
+    {
+      "soruid": 35,
+      "soru_metni": "Aşağıdakilerden hangisi yeni nesil haber organizasyonlarının öncelikli olarak kullandığı araçlar arasında yer almaz? (Ünite Sorusu 5)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "İnfografikler",
+        "B": "Zaman akışı",
+        "C": "Haritalar",
+        "D": "Test ve haber oyunları",
+        "E": "İnternet trafiğinin izlenmesi"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": "İnternet trafiğinin izlenmesi bir arka plan teknik işlemidir, okuyucuya sunulan bir haber anlatım aracı (infografik, oyun vb. gibi) değildir."
+    },
+    {
+      "soruid": 36,
+      "soru_metni": "Aşağıdakilerden hangisi yeni nesil haber organizasyonları için mutlaka gereklidir? (Ünite Sorusu 6)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Haberlerin tematik olarak etiketlenmesi ve sınıflandırılması",
+        "B": "Haberlerin etiketlenmesi",
+        "C": "Sitede büyük ve yüksek çözünürlüklü resimlerin kullanılması",
+        "D": "GIF resimlerin kullanılması",
+        "E": "Sitenin kendi sunucusunda videoların saklanması"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Bilgi karmaşasını önlemek ve okuyucunun aradığını bulmasını sağlamak için tematik sınıflandırma ve etiketleme hayati öneme sahiptir."
+    },
+    {
+      "soruid": 37,
+      "soru_metni": "Aşağıdakilerden hangisi Amerika'nın merkezi haber ajanslarından Associated Press (AP)'in kullandığı yeni nesil habercilik araçlarından biri değildir? (Ünite Sorusu 7)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Haber arama motoru ve tematik optimizasyon",
+        "B": "Herkese açık grup açarak etkinlik düzenlemek",
+        "C": "Simülasyon",
+        "D": "Artırılmış gerçeklik",
+        "E": "Hareketli görseller"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "AP'nin özellikleri arasında simülasyon, AR, VR ve tematik optimizasyon sayılmış ancak 'herkese açık grup açarak etkinlik düzenlemek' sayılmamıştır."
+    },
+    {
+      "soruid": 38,
+      "soru_metni": "Yeni nesil habercilik uygulamalarını kullanan Anadolu Ajansı hangi tarihte anonim şirket unvanını almıştır? (Ünite Sorusu 8)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "6 Nisan 1920",
+        "B": "1 Mart 1925",
+        "C": "6 Mart 1920",
+        "D": "1 Nisan 1920",
+        "E": "16 Nisan 1920"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Metinde Anadolu Ajansı'nın 1 Mart 1925 tarihinde Anonim Şirket statüsüne geçtiği belirtilmiştir."
+    },
+    {
+      "soruid": 39,
+      "soru_metni": "Facebook'un Teyit.org benzeri sitelerle çalışabilmesi için aşağıdakilerden hangisi gereklidir? (Ünite Sorusu 9)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Avrupa Birliği desteklerinden yararlanmak",
+        "B": "Türkiye'de tüzel bir kişiliğe sahip olmak",
+        "C": "Uluslararası Doğruluk Kontrolü Ağı (IFCN)'nda imzası bulunmak",
+        "D": "Devlet desteklerinden yararlanmak",
+        "E": "Facebook'a ücret ödemek"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Facebook ile partner olabilmek için organizasyonun Uluslararası Doğruluk Kontrolü Ağı (IFCN) imzacısı olması gerekmektedir."
+    },
+    {
+      "soruid": 40,
+      "soru_metni": "Yeni nesil haber platformlarına duyulan başlıca gereksinim aşağıdaki hangi iki temel unsur ile açıklanabilir? (Ünite Sorusu 10)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Bağımsız içerik - Eleştirel düşünce",
+        "B": "Beğeni kazanma - Takipçi sayısının artması",
+        "C": "İnterneti kullanma deneyimi - Mesajı uygun ortamda sunabilme yeterliliği",
+        "D": "Teknolojiyi kullanma becerisi - İnterneti kullanma deneyimi",
+        "E": "Teknolojiyi kullanma becerisi - İçeriği değerlendirebilme yeteneği"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Yeni nesil haberciliğin temel motivasyonu, bilgi kirliliği içinde bağımsız içerik sunmak ve okuyucuya eleştirel düşünce/doğrulama imkanı sağlamaktır."
+    }
+      ]
+    }
+  ]
+}
