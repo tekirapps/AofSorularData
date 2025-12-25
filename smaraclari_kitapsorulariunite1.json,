@@ -1,0 +1,573 @@
+{
+  "ders_kodu": "SMY209U",
+  "ders_adi": "SOSYAL MEDYA ARAÇLARI",
+  "sinavlar": [
+    {
+      "baslik": "2025 Ünite 1 Yapay Zeka Destekli Çıkabilecek Sorular",
+      "tur": "AI",
+      "yil": 2025,
+      "sorular": [
+    {
+      "soruid": 1,
+      "soru_metni": "İnsanoğlu tarafından verileri kaydetmek amacıyla ikincil bir araç kullanmak yerine, sıfırdan tasarlanarak geliştirilen ilk araç aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Papirüs",
+        "B": "Hesaptaşları",
+        "C": "Mağara Resimleri",
+        "D": "Duman",
+        "E": "Tablet"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Metinde, insanoğlu tarafından verileri kaydetmek için sıfırdan tasarlanarak geliştirilen ilk aracın hesaptaşları olduğu özellikle vurgulanmıştır."
+    },
+    {
+      "soruid": 2,
+      "soru_metni": "Marshall McLuhan, elektronik iletişim araçlarının dünyayı küçülterek herkesin birbirinden haberdar olduğu bir yere dönüştürmesini hangi kavramla açıklamıştır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Ağ Toplumu",
+        "B": "Sanal Cemaat",
+        "C": "Global Köy",
+        "D": "Enformasyon Toplumu",
+        "E": "Dijital Uçurum"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "McLuhan, internet ve dijital iletişim araçlarının dünyayı 'Global Köy'e dönüştürdüğünü savunmuştur."
+    },
+    {
+      "soruid": 3,
+      "soru_metni": "1940'lı yıllarda askeri amaçlarla geliştirilen ve 30 ton ağırlığında olan ilk bilgisayarın adı nedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "ARPANET",
+        "B": "UNIVAC",
+        "C": "ENIAC",
+        "D": "IBM PC",
+        "E": "MACINTOSH"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "1940'lı yılların başında John Mauchly ve J. Prosper Eckert tarafından geliştirilen ilk bilgisayar ENIAC'tır."
+    },
+    {
+      "soruid": 4,
+      "soru_metni": "İnternetin atası sayılan ve ABD Savunma Bakanlığı tarafından geliştirilen proje hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "WWW",
+        "B": "ETHERNET",
+        "C": "INTRANET",
+        "D": "ARPANET",
+        "E": "NSFNET"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": "İnternetin temelleri, ABD'de yürütülen ARPANET (Advanced Research Projects Agency Network) projesiyle atılmıştır."
+    },
+    {
+      "soruid": 5,
+      "soru_metni": "E-postalarda kullanılan '@' işaretini tasarlayan ve ilk e-postayı gönderen kişi kimdir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Tim Berners-Lee",
+        "B": "Vinton Cerf",
+        "C": "Ray Tomlinson",
+        "D": "Bill Gates",
+        "E": "Steve Jobs"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "ARPANET projesinde çalışan Ray Tomlinson, ilk mesajı göndermiş ve '@' işaretini tasarlamıştır."
+    },
+    {
+      "soruid": 6,
+      "soru_metni": "World Wide Web (www) teknolojisini ve HTML dilini geliştirerek internetin küresel çapta yaygınlaşmasını sağlayan kişi kimdir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Tim Berners-Lee",
+        "B": "Mark Zuckerberg",
+        "C": "Tim O'Reilly",
+        "D": "Bob Kahn",
+        "E": "Marshall McLuhan"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "CERN'de çalışan Tim Berners-Lee, HTML ve HTTP protokollerini geliştirerek World Wide Web'i (www) ortaya çıkarmıştır."
+    },
+    {
+      "soruid": 7,
+      "soru_metni": "Web 2.0 kavramı ilk kez kim tarafından ortaya atılmıştır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Bill Gates",
+        "B": "Tim O'Reilly",
+        "C": "Steve Jobs",
+        "D": "Vinton Cerf",
+        "E": "John Markoff"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Web 2.0 kavramı ilk olarak O'Reilly Media'nın kurucusu Tim O'Reilly tarafından 2004 yılında ortaya atılmıştır."
+    },
+    {
+      "soruid": 8,
+      "soru_metni": "Aşağıdakilerden hangisi Web 1.0 döneminin özelliklerinden biridir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Kullanıcıların içerik üretebilmesi",
+        "B": "Sosyal medya uygulamalarının yaygın olması",
+        "C": "Etkileşimin olmadığı, sadece okumaya dayalı durağan sayfalar olması",
+        "D": "Yapay zekanın etkin olması",
+        "E": "Mobil uygulamaların kullanılması"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Web 1.0, kullanıcıların sadece içerik tükettiği, etkileşimin olmadığı statik (durağan) sayfalardan oluşan dönemdir."
+    },
+    {
+      "soruid": 9,
+      "soru_metni": "Lev Manovich'e göre aşağıdakilerden hangisi yeni medyanın 5 temel prensibinden biri değildir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Sayısal Temsil",
+        "B": "Modülerlik",
+        "C": "Otomasyon",
+        "D": "Tek Yönlülük",
+        "E": "Kod Dönüştürme"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": "Manovich'in 5 prensibi: Sayısal Temsil, Modülerlik, Otomasyon, Değişkenlik ve Kod Dönüştürme'dir. Tek yönlülük geleneksel medyanın özelliğidir."
+    },
+    {
+      "soruid": 10,
+      "soru_metni": "Yeni medya içeriklerinin matematiksel olarak tanımlanabilmesini ve algoritmalarla değiştirilebilmesini ifade eden özellik hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Modülerlik",
+        "B": "Sayısal Temsil",
+        "C": "Kod Dönüştürme",
+        "D": "Otomasyon",
+        "E": "Değişkenlik"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Sayısal Temsil, medya içeriklerinin dijital kodlardan oluştuğunu ve matematiksel olarak işlenebildiğini ifade eder."
+    },
+    {
+      "soruid": 11,
+      "soru_metni": "Farklı iletişim hizmetlerinin (TV, radyo, gazete, telefon) tek bir dijital cihaz veya platform üzerinde toplanmasına ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Yakınsama (Convergence)",
+        "B": "Ayrışma",
+        "C": "Modülasyon",
+        "D": "Simülasyon",
+        "E": "Kodlama"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Yakınsama, farklı platformlar aracılığıyla sunulan iletişim hizmetlerinin tek bir çatı altında interaktif şekilde sunulmasını ifade eder."
+    },
+    {
+      "soruid": 12,
+      "soru_metni": "Semantik (Anlamsal) Web olarak da bilinen ve makinelerin verileri anlamlandırarak insan-makine etkileşimini artırdığı web dönemi hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Web 1.0",
+        "B": "Web 2.0",
+        "C": "Web 3.0",
+        "D": "Web 4.0",
+        "E": "Web 5.0"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Web 3.0, makinelerin verileri işleyip anlam çıkarabildiği Semantik Web dönemidir."
+    },
+    {
+      "soruid": 13,
+      "soru_metni": "İnternete bağlı cihazların birbirleriyle veri alışverişi yapabildiği 'Nesnelerin İnterneti' (IoT) kavramı hangi web dönemiyle daha çok ilişkilendirilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Web 1.0",
+        "B": "Web 2.0",
+        "C": "Web 3.0",
+        "D": "Web 4.0",
+        "E": "Web 5.0"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": "Web 4.0 (Simbiyotik Web), nesnelerin interneti, bulut bilişim ve makine-makine etkileşiminin zirveye çıktığı dönemdir."
+    },
+    {
+      "soruid": 14,
+      "soru_metni": "Geleceğin teknolojisi olarak görülen ve 'Duygusal Web' olarak adlandırılan, yapay zekanın duyguları anlamlandırabileceği dönem hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Web 2.0",
+        "B": "Web 3.0",
+        "C": "Web 4.0",
+        "D": "Web 5.0",
+        "E": "Web 6.0"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": "Web 5.0, emotive sensory web (duygusal web) olarak tanımlanmakta ve yapay zekanın duyguları işleyebileceği öngörülmektedir."
+    },
+    {
+      "soruid": 15,
+      "soru_metni": "Dijital iletişim ağlarının etkisiyle biçimlenmiş sosyal yapıya ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Tarım Toplumu",
+        "B": "Sanayi Toplumu",
+        "C": "Ağ Toplumu",
+        "D": "Geleneksel Toplum",
+        "E": "Feodal Toplum"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Castells ve Dijk gibi düşünürler, dijital ağların etkisiyle şekillenen yeni sosyal yapıyı 'Ağ Toplumu' olarak tanımlamışlardır."
+    },
+    {
+      "soruid": 16,
+      "soru_metni": "Manuel Castells, dijital ağlarda bireyin kendi içeriğini üretip yaymasını hangi kavramla açıklamıştır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Kitlesel Öz İletişim (Mass Self Communication)",
+        "B": "Tek Yönlü İletişim",
+        "C": "Geleneksel İletişim",
+        "D": "Yüz Yüze İletişim",
+        "E": "Sözsüz İletişim"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Castells, internetteki yeni iletişim biçimini 'Kitlesel Öz İletişim' olarak tanımlar; birey hem içerik üreticisi hem de seçici bir alıcıdır."
+    },
+    {
+      "soruid": 17,
+      "soru_metni": "Aşağıdakilerden hangisi dijitalleşmenin sağladığı avantajlardan biri **değildir**?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Veri depolamanın kolaylaşması",
+        "B": "İçeriğin manipüle edilmesinin zorlaşması",
+        "C": "Veriye erişimin hızlanması",
+        "D": "İçeriğin araçtan bağımsızlaşması",
+        "E": "Etkileşimin artması"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Dijitalleşme ile verilerin manipüle edilmesi (değiştirilmesi) zorlaşmamış, aksine çok daha kolay hale gelmiştir."
+    },
+    {
+      "soruid": 18,
+      "soru_metni": "Bilgisayarda üretilen görüntülerin (hologram, animasyon vb.) fiziksel ortam üzerine gerçek zamanlı olarak yerleştirilmesine ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Sanal Gerçeklik",
+        "B": "Artırılmış Gerçeklik (AR)",
+        "C": "Büyük Veri",
+        "D": "Bulut Bilişim",
+        "E": "Yapay Zeka"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Artırılmış Gerçeklik (AR), dijital unsurların fiziksel dünya üzerine akıllı cihazlar aracılığıyla yerleştirilmesidir."
+    },
+    {
+      "soruid": 19,
+      "soru_metni": "Aşağıdakilerden hangisi Web 2.0'ın özelliklerinden biri **değildir**?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Kullanıcı merkezli olması",
+        "B": "Sosyal medya uygulamalarının ortaya çıkması",
+        "C": "Tek yönlü bilgi akışı sağlaması",
+        "D": "Katılımcı ve etkileşimli olması",
+        "E": "Kullanıcının içerik üretmesi"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Tek yönlü bilgi akışı Web 1.0'ın özelliğidir; Web 2.0 çift yönlü ve etkileşimlidir."
+    },
+    {
+      "soruid": 20,
+      "soru_metni": "İnternet kullanan herkesin oluşturduğu; sosyal medya, arama motorları ve bloglardan elde edilen verilerin işlenebilir hale gelmiş devasa yığınına ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Bulut Bilişim",
+        "B": "Nesnelerin İnterneti",
+        "C": "Büyük Veri (Big Data)",
+        "D": "Yapay Zeka",
+        "E": "Algoritma"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Büyük Veri (Big Data), çeşitli dijital kaynaklardan elde edilen ve işlenerek anlamlı hale getirilen devasa veri yığınıdır."
+    },
+    {
+      "soruid": 21,
+      "soru_metni": "Yeni medyanın 'Modülerlik' ilkesi neyi ifade eder?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Medyanın tek parça olmasını",
+        "B": "Medya ögelerinin kendi kimliklerini koruyan küçük parçaların birleşiminden oluşmasını",
+        "C": "İçeriğin değiştirilememesini",
+        "D": "Sadece metin tabanlı olmasını",
+        "E": "Analog sinyallerle çalışmasını"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Modülerlik, dijital nesnelerin (resim, ses, video vb.) bir araya gelerek daha büyük nesneleri oluşturması ancak kendi bağımsız yapılarını korumasıdır."
+    },
+    {
+      "soruid": 22,
+      "soru_metni": "Manovich'in 'Otomasyon' ilkesine göre aşağıdakilerden hangisi söylenebilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Her işlemin insan eliyle yapılması gerekir.",
+        "B": "İnsan faktörünün üretim sürecinden kısmen veya tamamen çıkarılabilmesidir.",
+        "C": "Bilgisayarların insanlar olmadan çalışamamasıdır.",
+        "D": "Sadece sanayi üretiminde geçerlidir.",
+        "E": "Web 1.0'ın temel özelliğidir."
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Otomasyon, algoritmalar ve yazılımlar sayesinde bazı işlemlerin (filtreleme, arama, düzenleme) insan müdahalesi olmadan yapılabilmesidir."
+    },
+    {
+      "soruid": 23,
+      "soru_metni": "Aşağıdakilerden hangisi beden dışı (ekstrasomatik) belleğin özelliklerinden biridir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Sadece insan zihninde saklanması",
+        "B": "Nesilden nesile sözlü aktarılması",
+        "C": "Bilgiyi insan belleği dışında bir araç üzerine kaydederek saklaması",
+        "D": "Unutulmaya müsait olması",
+        "E": "Anlam bozulmalarına açık olması"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Beden dışı bellek, bilgiyi insan hafızası dışında (taş, kağıt, disk vb.) depolayarak bozulmadan saklanmasını sağlayan sistemdir."
+    },
+    {
+      "soruid": 24,
+      "soru_metni": "Gutenberg'in matbaayı geliştirmesi iletişim tarihinde neye yol açmıştır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Bilginin sadece seçkinlerde kalmasına",
+        "B": "Kitapların elle yazılmaya devam etmesine",
+        "C": "Kitlesel basım ile bilginin hızla yayılmasına ve maliyetlerin düşmesine",
+        "D": "İnternetin icadına",
+        "E": "Radyonun icadına"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Matbaa, kitlesel üretimi sağlayarak bilginin ucuzlamasına, yaygınlaşmasına ve eğitimin standartlaşmasına neden olmuştur."
+    },
+    {
+      "soruid": 25,
+      "soru_metni": "Ağ toplumunda 'bireyleşme' (individuation) kavramı neyi ifade eder?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Bireyin toplumdan tamamen kopmasını",
+        "B": "Herkesin aynı şeyi düşünmesini",
+        "C": "Kişinin birey statüsü kazanarak kendini dünyaya sunma sürecini",
+        "D": "Aile bağlarının güçlenmesini",
+        "E": "Geleneksel yapıların korunmasını"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Ağ toplumunda bireyleşme, kişinin geleneksel bağlardan sıyrılarak kendini bir özne/birey olarak inşa etmesi ve sunması sürecidir."
+    },
+    {
+      "soruid": 26,
+      "soru_metni": "Endüstri 4.0 ile Web 4.0 arasındaki ilişki düşünüldüğünde, aşağıdaki teknolojilerden hangisi her ikisinin de merkezinde yer alır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Televizyon",
+        "B": "Radyo",
+        "C": "Nesnelerin İnterneti (IoT) ve Akıllı Sistemler",
+        "D": "Matbaa",
+        "E": "Telgraf"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Endüstri 4.0 ve Web 4.0; IoT, büyük veri, bulut bilişim gibi akıllı ve bağlantılı sistemler üzerinde yükselmektedir."
+    },
+    {
+      "soruid": 27,
+      "soru_metni": "Vinton Gray Cerf ve Bob Kahn'ın internetin gelişimine en büyük katkısı nedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "İlk bilgisayarı üretmeleri",
+        "B": "TCP/IP protokollerini geliştirerek bilgisayarların birbiriyle konuşmasını sağlamaları",
+        "C": "Sosyal medyayı icat etmeleri",
+        "D": "Akıllı telefonu bulmaları",
+        "E": "Web 2.0 terimini bulmaları"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Cerf ve Kahn, bilgisayarlar arası iletişim standardı olan TCP/IP protokollerini geliştirerek internetin mimarisini oluşturmuşlardır."
+    },
+    {
+      "soruid": 28,
+      "soru_metni": "Dijital verilerin sabit diskler yerine internet tabanlı sunucularda saklanmasına ve her yerden erişilebilmesine ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Bulut Bilişim (Cloud Computing)",
+        "B": "Sabit Depolama",
+        "C": "Flash Bellek",
+        "D": "Disket",
+        "E": "Analog Kayıt"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Bulut bilişim, verilerin internet üzerindeki sunucularda depolanması ve zaman/mekan sınırı olmadan erişilebilmesidir."
+    },
+    {
+      "soruid": 29,
+      "soru_metni": "Marshall McLuhan'a göre, yazının icadından matbaaya kadar geçen ve el yazmalı eserlerin hakim olduğu döneme ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Kabile Çağı",
+        "B": "Edebiyat Çağı (Chirografik Kültür)",
+        "C": "Basım Çağı",
+        "D": "Elektronik Çağ",
+        "E": "Dijital Çağ"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "McLuhan bu dönemi Edebiyat Çağı, Baldini ise Chirografik (El Yazmalı) Kültür olarak adlandırmıştır."
+    },
+    {
+      "soruid": 30,
+      "soru_metni": "Yeni medyanın 'Kod Dönüştürme' (Transcoding) ilkesi neyi anlatır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Medyanın sadece görsel olmasını",
+        "B": "Kültürel katman ile bilgisayar katmanının birbirini etkilemesini ve verinin bilgisayar diline çevrilmesini",
+        "C": "Şifreli mesajlaşmayı",
+        "D": "Analog yayını",
+        "E": "Sadece yazılımcıların medya üretebilmesini"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Kod dönüştürme, medya içeriğinin bilgisayar tarafından anlaşılabilir veri formatına (dijital koda) dönüştürülmesi ve bu iki katmanın etkileşimidir."
+    },
+    {
+      "soruid": 31,
+      "soru_metni": "----, bilgiyi/veriyi, insan belleği dışında depolayan ve belli bir kodlama sistemi aracılığıyla, bozulmadan yeniden anlaşılmasını sağlayan sistemdir. Yukarıdaki boşluğu aşağıdakilerden hangisi doğru biçimde tamamlar? (Ünite Sorusu 1)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Bellek",
+        "B": "Toplumsal Bellek",
+        "C": "Beden Dışı Bellek",
+        "D": "Sosyal Medya",
+        "E": "Somatik Bellek"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Beden dışı (ekstrasomatik) bellek, verilerin insan hafızası haricinde araçlara kaydedilmesini ifade eder."
+    },
+    {
+      "soruid": 32,
+      "soru_metni": "Marshall McLuhan'a göre M.Ö. 3500'lerde yazının icadıyla başlayıp 1400'lü yıllarda Gutenberg'in matbaasına kadar geçen zaman dilimi aşağıdakilerden hangisidir? (Ünite Sorusu 2)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Kabile Çağı",
+        "B": "Edebiyat Çağı",
+        "C": "Orta Çağ",
+        "D": "Basım Çağı",
+        "E": "Elektrik-Elektronik Çağ"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "McLuhan bu el yazmalı dönemi 'Edebiyat Çağı' olarak sınıflandırmıştır."
+    },
+    {
+      "soruid": 33,
+      "soru_metni": "Aşağıdakilerden hangisi ARPANET projesi kapsamında geliştirilmiştir? (Ünite Sorusu 3)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Electronic Numerical Integrator",
+        "B": "World Wide Web",
+        "C": "Hypertext Markup Language",
+        "D": "Hypertext Transfer Protocol",
+        "E": "Transmission Control Protocol/Internet Protocol"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": "Vinton Cerf ve Bob Kahn, ARPANET projesinde TCP/IP protokollerini geliştirmişlerdir. (Not: Ünite sonu cevap anahtarında bu sorunun cevabı E olarak verilmiştir)."
+    },
+    {
+      "soruid": 34,
+      "soru_metni": "Dijital (yeni) medyanın özelliklerine ilişkin aşağıda sunulan ifadelerden hangisi yanlıştır? (Ünite Sorusu 4)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Yeni medya içerikleri her biri birer sözel temsil olan analog kodlardan oluşmaktadır",
+        "B": "Yeni medya ögeleri kendi kimlik ve karakterini koruyan küçük parçalardan oluşur",
+        "C": "Dijital medyanın otomasyon özelliği insan faktörünün bilinçli şekilde yahut kısmi olarak üretim sürecinden çıkarılabilmesini ifade eder",
+        "D": "Geleneksel medyadan farklı olarak yeni medya ögeleri değişkendir ve kolayca manipüle edilebilir",
+        "E": "Dijital medya içerikleri ortak bir bilgisayar dili olarak kodlara dönüştürülebilir"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Yeni medya içerikleri 'analog kodlardan' değil, 'sayısal (dijital) kodlardan' oluşur. A şıkkı yanlıştır."
+    },
+    {
+      "soruid": 35,
+      "soru_metni": "I. İçeriğin belirli araç ve kanallardan bağımsız hale gelmesi. II. Verilerin sıkıştırılmasının ve depolanmasının kolaylaşması. III. Veriye erişimin daha hızlı ve kolay hale gelmesi. IV. Verilerin/içeriklerin manipülasyonunun zorlaşması. Yukarıdakilerden hangisi veya hangileri dijitalleşmenin sonuçlarından değildir? (Ünite Sorusu 5)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Yalnız III",
+        "B": "Yalnız IV",
+        "C": "Yalnız II",
+        "D": "I ve II",
+        "E": "I, II ve III"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Dijitalleşme ile verilerin manipülasyonu (değiştirilmesi) zorlaşmamış, aksine çok daha kolaylaşmıştır. Bu yüzden IV. madde yanlıştır."
+    },
+    {
+      "soruid": 36,
+      "soru_metni": "Bilgisayarda üretilen ses, görüntü, animasyon, hologram gibi dijital unsurların akıllı telefon, tablet ve sanal gerçeklik gözlükleri aracılığıyla fiziksel ortamın üzerine gerçek zamanlı olarak yerleştirilmesine ---- denir. Yukarıdaki boşluğu aşağıdakilerden hangisi doğru biçimde tamamlar? (Ünite Sorusu 6)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Nesnelerin İnterneti",
+        "B": "Büyük Veri",
+        "C": "Bulut Sistemi",
+        "D": "Artırılmış Gerçeklik",
+        "E": "3D Yazıcı"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": "Tanım, Artırılmış Gerçeklik (Augmented Reality - AR) teknolojisine aittir."
+    },
+    {
+      "soruid": 37,
+      "soru_metni": "Web 2.0'a ilişkin aşağıda sunulan yargılardan hangisi yanlıştır? (Ünite Sorusu 7)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Çift yönlü iletişime imkân sunmuştur",
+        "B": "Sosyal medya uygulamaları bu dönemde ortaya çıkmıştır",
+        "C": "Etkileşimli (interaktif) özelliğe sahiptir",
+        "D": "Pasif izleyicileri aktif kullanıcılara dönüştürmüştür",
+        "E": "Simbiyotik özelliktedir (makine-makine etkileşimi)"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": "Simbiyotik web ve gelişmiş makine-makine etkileşimi Web 4.0'ın özelliğidir; Web 2.0 daha çok insan-insan etkileşimi ve sosyal ağlarla ilgilidir."
+    },
+    {
+      "soruid": 38,
+      "soru_metni": "Aşağıdaki kavramlardan hangisi 'kişinin birey statüsü kazanmasını, kendisini dünyaya bir birey olarak dayatmasını sağlayan fizyolojik, psikolojik ve sosyokültürel süreçler' olarak tanımlanmaktadır? (Ünite Sorusu 8)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Bireyleşme (individuation)",
+        "B": "Ben-merkezcilik (egocentric)",
+        "C": "Sosyal ağ",
+        "D": "Sosyal sorumluluk",
+        "E": "Kitlesel öz iletişim"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Bu tanım, ağ toplumunda bireyin konumunu açıklayan 'Bireyleşme' kavramının tanımıdır."
+    },
+    {
+      "soruid": 39,
+      "soru_metni": "Aşağıdaki tanımlardan hangisi ağ toplumu kavramını açıklamaktadır? (Ünite Sorusu 9)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Doğada ve toplumda var olan her türlü örgütlenme biçimi",
+        "B": "Bireyin içinde doğduğu aile, okul ve mahalle gibi sosyal kurumlar",
+        "C": "İnternet ve dijital sosyal ağlarla birlikte zaman ve mekân algısının değişmesi",
+        "D": "Bağlantıda olma, diğerlerini etkileme ve etkilenme durumu",
+        "E": "Dijital iletişim ağlarının etkisiyle biçimlenmiş olan sosyal yapı"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": "Ağ toplumu, dijital iletişim teknolojilerinin ve ağların etkisiyle yeniden şekillenen sosyal yapıyı ifade eder."
+    },
+    {
+      "soruid": 40,
+      "soru_metni": "----, cihaz ve sistemlerin internet aracılığıyla diğer cihaz ve sistemlerle bağlantıda olduğu, kendi aralarında veri alışverişi yapabildiği iletişim ağını ifade eder. Yukarıdaki boşluğu aşağıdakilerden hangisi doğru biçimde tamamlar? (Ünite Sorusu 10)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Artırılmış Gerçeklik",
+        "B": "Bulut Bilişim Sistemleri",
+        "C": "Büyük Veri",
+        "D": "Nesnelerin İnterneti",
+        "E": "Duygusal Web"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": "Nesnelerin İnterneti (IoT), cihazların birbirleriyle internet üzerinden iletişim kurduğu sistemdir."
+    }
+      ]
+    }
+  ]
+}
