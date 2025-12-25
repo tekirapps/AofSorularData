@@ -1,0 +1,573 @@
+{
+  "ders_kodu": "SMY203U",
+  "ders_adi": "DİJİTAL TASARIM",
+  "sinavlar": [
+    {
+      "baslik": "2025 Ünite 7 Yapay Zeka Destekli Çıkabilecek Sorular",
+      "tur": "AI",
+      "yil": 2025,
+      "sorular": [
+    {
+      "soruid": 1,
+      "soru_metni": "3D tasarımı 2D tasarımdan ayıran ve ekrana doğru gelen ya da ekrandan çıkan boyutu ifade eden eksen hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "X ekseni",
+        "B": "Y ekseni",
+        "C": "Z ekseni",
+        "D": "A ekseni",
+        "E": "W ekseni"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Metinde, 2D tasarımdan farklı olarak 3D tasarımda 'derinlik' faktörünü belirleyen eksenin Z ekseni olduğu belirtilmiştir."
+    },
+    {
+      "soruid": 2,
+      "soru_metni": "1960 yılında 'Bilgisayar Grafiği' (Computer Graphics) kavramını ortaya atan ve 'Boeing Adamı' çalışmasıyla tanınan isim kimdir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Ed Catmull",
+        "B": "William Fetter",
+        "C": "Ivan Sutherland",
+        "D": "Steve Jobs",
+        "E": "George Lucas"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "William Fetter, 1960 yılında 'Computer Graphics' terimini yaratmış ve Boeing'deki çalışmalarıyla (insan modellemesi) tanınmıştır."
+    },
+    {
+      "soruid": 3,
+      "soru_metni": "1963 yılında geliştirdiği 'Sketchpad' programı ile kullanıcının bir programla gerçek anlamda etkileşimini (ekrana kalemle çizim yapabilmeyi) sağlayan kişi kimdir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Ivan Sutherland",
+        "B": "John Lasseter",
+        "C": "Steve Russell",
+        "D": "Frederic Parke",
+        "E": "Tim Berners Lee"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Ivan Sutherland, doktora tezi kapsamında geliştirdiği Sketchpad ile ekrana ışık kalemiyle 2D ve 3D şekiller çizilmesini sağlamıştır."
+    },
+    {
+      "soruid": 4,
+      "soru_metni": "Sinema tarihinde ilk kez 3D bilgisayar canlandırmasının (yüz ve el modellemesi) kullanıldığı 1976 yapımı film hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Star Wars",
+        "B": "Tron",
+        "C": "Futureworld",
+        "D": "Terminator 2",
+        "E": "Toy Story"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Ed Catmull ve Frederic Parke tarafından yapılan Futureworld (1976), ilk 3D canlandırmanın görüldüğü film olma özelliğini taşır."
+    },
+    {
+      "soruid": 5,
+      "soru_metni": "1995 yılında Pixar tarafından yapılan ve sinema tarihinin 'ilk uzun metrajlı 3D canlandırma filmi' olma özelliğini taşıyan yapım hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "A Bug's Life",
+        "B": "Toy Story (Oyuncak Hikayesi)",
+        "C": "Shrek",
+        "D": "Ice Age",
+        "E": "Finding Nemo"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "1995 yapımı Toy Story, tamamen bilgisayar ortamında üretilen ilk uzun metrajlı 3D animasyon filmidir."
+    },
+    {
+      "soruid": 6,
+      "soru_metni": "3D tasarım sürecinde; fikir, hikaye ve konsept tasarımının yapıldığı ilk aşamaya ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Production (Yapım)",
+        "B": "Post-Production (Yapım Sonrası)",
+        "C": "Pre-Production (Yapım Öncesi)",
+        "D": "Rendering",
+        "E": "Rigging"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Tasarımın planlandığı, hikayenin yazıldığı ve konseptin belirlendiği hazırlık aşaması 'Yapım Öncesi' (Pre-Production) olarak adlandırılır."
+    },
+    {
+      "soruid": 7,
+      "soru_metni": "3D modellemede bir karakterin veya nesnenin, modelleme sırasında oranlarını korumak için kullanılan teknik çizimlerine ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Blueprint",
+        "B": "Render",
+        "C": "Texture",
+        "D": "Shader",
+        "E": "Script"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Özellikle araç ve karakter modellemede, nesnenin önden, yandan ve üstten görünüşlerini içeren teknik referans resimlerine 'Blueprint' denir."
+    },
+    {
+      "soruid": 8,
+      "soru_metni": "3D modellemede yüzeyi oluşturan en küçük yapı birimi olan ve 'nokta' anlamına gelen terim hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Edge (Kenar)",
+        "B": "Polygon (Yüzey)",
+        "C": "Vertex (Nokta)",
+        "D": "Face",
+        "E": "Pixel"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Vertex (çoğulu Vertices), 3D uzayda bir konumu belirten ve yüzeye sahip olmayan noktalardır."
+    },
+    {
+      "soruid": 9,
+      "soru_metni": "İki noktanın (vertex) birleşmesiyle oluşan yapıya ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Polygon",
+        "B": "Edge (Kenar)",
+        "C": "Face",
+        "D": "Border",
+        "E": "Element"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "İki vertexin (noktanın) bir araya gelmesiyle 'Edge' denilen kenarlar oluşur."
+    },
+    {
+      "soruid": 10,
+      "soru_metni": "3D modellemede 'Organik Model' kategorisine aşağıdakilerden hangisi girer?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Araba",
+        "B": "Robot",
+        "C": "İnsan veya Hayvan karakteri",
+        "D": "Bina",
+        "E": "Masa"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Yaşayan, nefes alıp veren, anatomik yapıya sahip modeller (insan, hayvan, bitki) organik model sınıfındadır."
+    },
+    {
+      "soruid": 11,
+      "soru_metni": "3D bir yüzeyin iki boyutlu (2D) düzleme açılarak boyama ve dokulandırma işlemine hazır hale getirilmesine ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Rigging",
+        "B": "UV Mapping (UV Haritası Çıkarma)",
+        "C": "Rendering",
+        "D": "Extrusion",
+        "E": "Smoothing"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Karmaşık 3D yüzeylerin 2D resim olarak açılması ve üzerine doku kaplanması işlemine UV Mapping (UV haritası açma) denir."
+    },
+    {
+      "soruid": 12,
+      "soru_metni": "Altın, bakır, demir gibi metalik yüzeylerde ve parlama/yansıma istenen plastik yüzeylerde en sık tercih edilen malzeme (material) tipi hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Lambert",
+        "B": "Blinn",
+        "C": "Anisotropic",
+        "D": "Flat",
+        "E": "Constant"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Blinn malzeme tipi, metalik ve plastik yüzeylerdeki parlama ve yansımayı düzgün bir şekilde elde etmek için kullanılır."
+    },
+    {
+      "soruid": 13,
+      "soru_metni": "Üzerinde parlaklık ve yansıma olmayan, kağıt veya kumaş gibi mat yüzeyleri simüle etmek için kullanılan malzeme tipi hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Phong",
+        "B": "Blinn",
+        "C": "Lambert",
+        "D": "Chrome",
+        "E": "Glass"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Lambert malzeme tipi, parlaklık ve yansıması olmayan mat yüzeyler (kağıt, duvar vb.) için kullanılır."
+    },
+    {
+      "soruid": 14,
+      "soru_metni": "Saç, tüy veya fırçalanmış (aşınmış) metal gibi yönlü yansıma gerektiren yüzeylerde kullanılan malzeme tipi hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Anisotropic",
+        "B": "Lambert",
+        "C": "Blinn",
+        "D": "Phong",
+        "E": "Basic"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Anisotropic malzeme tipi, saç, tüy ve zımparalanmış metal gibi yüzeylerdeki ışık kırılmalarını taklit eder."
+    },
+    {
+      "soruid": 15,
+      "soru_metni": "3 Noktalı Aydınlatma (3-Point Lighting) tekniğinde, sahneye hakim olan, en yoğun ve gölge oluşturan temel ışık kaynağına ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Fill Light (Dolgu Işığı)",
+        "B": "Back Light (Arka Işık)",
+        "C": "Key Light (Anahtar Işık)",
+        "D": "Ambient Light (Çevresel Işık)",
+        "E": "Rim Light"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Key Light (Anahtar Işık), sahnenin ana ışık kaynağıdır, en parlaktır ve temel gölgeleri oluşturur."
+    },
+    {
+      "soruid": 16,
+      "soru_metni": "Anahtar ışığın oluşturduğu sert gölgeleri yumuşatmak ve detayları ortaya çıkarmak için kullanılan ikincil ışık kaynağı hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Key Light",
+        "B": "Fill Light (Dolgu Işığı)",
+        "C": "Back Light",
+        "D": "Spot Light",
+        "E": "Sun Light"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Fill Light (Dolgu Işığı), anahtar ışığın ters tarafına konularak gölgeleri yumuşatır ve detayların görünmesini sağlar."
+    },
+    {
+      "soruid": 17,
+      "soru_metni": "Objeyi arka plandan ayırmak ve derinlik hissi yaratmak için objenin arkasına yerleştirilen ışık kaynağı hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Key Light",
+        "B": "Fill Light",
+        "C": "Back Light (Arka Işık)",
+        "D": "Directional Light",
+        "E": "Point Light"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Back Light (Arka Işık), nesnenin konturlarını vurgulayarak onu arka plandan ayırır."
+    },
+    {
+      "soruid": 18,
+      "soru_metni": "3D sahnede hazırlanan model, doku ve ışık bilgilerinin matematiksel olarak hesaplanıp son görüntüye (resim veya video) dönüştürülmesi işlemine ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Modelleme",
+        "B": "Rigging",
+        "C": "Render (Görüntüleme/Hesaplama)",
+        "D": "Compositing",
+        "E": "Animation"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Render, 3D sahnedeki tüm verilerin hesaplanarak final görselin (bitmap) oluşturulması işlemidir."
+    },
+    {
+      "soruid": 19,
+      "soru_metni": "Aşağıdakilerden hangisi Render süresini uzatan faktörlerden biri değildir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Yansıma ve kırılma efektleri",
+        "B": "Yüksek poligon sayısı",
+        "C": "Partikül sistemleri",
+        "D": "Düşük çözünürlüklü basit dokular kullanmak",
+        "E": "Raytracing (Işın izleme) hesaplamaları"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": "Düşük çözünürlüklü ve basit dokular render süresini uzatmaz, aksine kısaltır. Diğer şıklar (yansıma, yüksek poligon vb.) hesaplama yükünü artırır."
+    },
+    {
+      "soruid": 20,
+      "soru_metni": "Yansıma, kırılma ve gölge gibi karmaşık ışık etkilerini fiziksel olarak doğru hesaplayan, Scanline yöntemine göre daha yavaş ama kaliteli olan render tekniği hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Wireframe",
+        "B": "Scanline",
+        "C": "Raytracing (Işın İzleme)",
+        "D": "Real-time",
+        "E": "Flat Shading"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Raytracing, ışık ışınlarının fiziksel davranışlarını (yansıma, kırılma) taklit ederek gerçekçi sonuçlar veren render tekniğidir."
+    },
+    {
+      "soruid": 21,
+      "soru_metni": "Yapım Sonrası (Post-Production) aşamasında, farklı kaynaklardan gelen görüntülerin (render, video, arka plan) birleştirildiği sürece ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Modelleme",
+        "B": "Dijital Birleştirme (Compositing)",
+        "C": "Rigging",
+        "D": "UV Mapping",
+        "E": "Sculpting"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Compositing (Dijital Birleştirme), render alınan katmanların, efektlerin ve diğer görüntülerin tek bir bütün halinde birleştirilmesi işlemidir."
+    },
+    {
+      "soruid": 22,
+      "soru_metni": "1982 yapımı, kapsamlı 3D bilgisayar grafikleri ve 'Light Cycle' sahnesiyle bilinen Disney filmi hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Star Wars",
+        "B": "Tron",
+        "C": "Avatar",
+        "D": "Matrix",
+        "E": "Terminator"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "1982 yapımı Tron filmi, dönemine göre devrimsel nitelikteki bilgisayar grafikleri ve ışık motosikleti sahneleriyle tanınır."
+    },
+    {
+      "soruid": 23,
+      "soru_metni": "3D modellemede, bir karakteri hareket ettirebilmek için içine yerleştirilen iskelet sistemine ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Skinning",
+        "B": "Rendering",
+        "C": "Rig / Rigging",
+        "D": "Morphing",
+        "E": "Tracing"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Rigging, bir 3D modele hareket kabiliyeti kazandırmak için sanal kemik ve eklem sisteminin (iskelet) kurulması işlemidir."
+    },
+    {
+      "soruid": 24,
+      "soru_metni": "Gerçek dünyadaki aydınlatma bilgisini içeren ve 3D sahnede gerçekçi yansımalar/ışıklandırma elde etmek için kullanılan resim formatı hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "JPEG",
+        "B": "GIF",
+        "C": "HDR (High Dynamic Range) Image",
+        "D": "PNG",
+        "E": "BMP"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "HDR (Image Based Lighting) resimler, hem renk hem de ışık yoğunluğu bilgisini barındırarak sahnede gerçekçi aydınlatma sağlar."
+    },
+    {
+      "soruid": 25,
+      "soru_metni": "Final Fantasy (2001) filmindeki karakterlerin gerçekçi olmasına rağmen izleyicide yarattığı rahatsızlık hissi hangi kavramla açıklanır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Mükemmeliyetçilik",
+        "B": "Tekinsiz Vadi (Uncanny Valley)",
+        "C": "Plasebo Etkisi",
+        "D": "Yabancılaşma",
+        "E": "Sempatiklik"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Tekinsiz Vadi, yapay bir karakterin insana çok benzeyip tam olarak insan gibi olamadığı noktada yarattığı ürperti ve rahatsızlık hissidir."
+    },
+    {
+      "soruid": 26,
+      "soru_metni": "1993 yapımı Jurassic Park filminin sinema tarihindeki önemi nedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "İlk sesli film olması",
+        "B": "İlk renkli film olması",
+        "C": "İlk fotogerçekçi 3D bilgisayar karakterlerinin (dinozorlar) kullanılması",
+        "D": "Tamamı bilgisayarda yapılan ilk film olması",
+        "E": "İlk 3D gözlükle izlenen film olması"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Jurassic Park, bilgisayar üretimi fotogerçekçi canlıların (dinozorların) canlı çekimle başarılı bir şekilde birleştirildiği ilk büyük yapımdır."
+    },
+    {
+      "soruid": 27,
+      "soru_metni": "3D modellemede 'Poligon' nedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Modelin rengidir",
+        "B": "En az üç noktanın (vertex) birleşmesiyle oluşan yüzeydir",
+        "C": "Işık kaynağıdır",
+        "D": "Kamera açısıdır",
+        "E": "Hareket çizgisidir"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Poligon, en az üç vertex ve bunları bağlayan kenarların oluşturduğu kapalı yüzeydir."
+    },
+    {
+      "soruid": 28,
+      "soru_metni": "Aşağıdakilerden hangisi bir 3D yazılımda bulunan sanal ışık türlerinden biri değildir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Spot Light",
+        "B": "Point Light",
+        "C": "Directional Light",
+        "D": "Area Light",
+        "E": "Sound Light"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": "Sound Light diye bir ışık türü literatürde yoktur; diğerleri standart 3D aydınlatma araçlarıdır."
+    },
+    {
+      "soruid": 29,
+      "soru_metni": "Bir 3D modelin yüzey yapısının (poligon akışının) düzgün ve hatasız örülmüş olmasına ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Topoloji",
+        "B": "Animasyon",
+        "C": "Simülasyon",
+        "D": "Koreografi",
+        "E": "Fotogrametri"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Topoloji, modelin üzerindeki poligonların dizilimi ve akışıdır; iyi bir topoloji animasyon ve render için kritiktir."
+    },
+    {
+      "soruid": 30,
+      "soru_metni": "1986 yapımı 'Luxo Jr.' kısa filminde ilk kez kullanılan ve bilgisayar grafiğine derinlik katan özellik nedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Renk",
+        "B": "Ses",
+        "C": "Gölge",
+        "D": "Hareket",
+        "E": "Doku"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Pixar'ın Luxo Jr. filmi, bilgisayar grafiklerinde ışık-gölge hesaplamasının hikaye anlatımına katkısını gösteren ilk örnektir."
+    },
+    {
+      "soruid": 31,
+      "soru_metni": "3d bir tasarımda \"z\" ekseni neyi ifade eder? (Ünite Sorusu 1)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Uzunluğu",
+        "B": "Yüksekliği",
+        "C": "Genişliği",
+        "D": "Derinliği",
+        "E": "Boyu"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": "X yatay, Y dikey, Z ise derinlik eksenini ifade eder."
+    },
+    {
+      "soruid": 32,
+      "soru_metni": "Pixar'ın ilk kısa filmi aşağıdakilerden hangisidir? (Ünite Sorusu 2)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Geri's Game",
+        "B": "Luxo Jr.",
+        "C": "For the Birds",
+        "D": "Toy Story",
+        "E": "Tin Toy"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Pixar'ın 1986 yapımı ilk kısa filmi Luxo Jr.'dır."
+    },
+    {
+      "soruid": 33,
+      "soru_metni": "1976 yılında Ed Catmul ve Frederic Parkenin birlikte yaptıkları Futureworld filmi ile ilgili aşağıdaki ifadelerden hangisi doğrudur? (Ünite Sorusu 3)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "İlk defa reytracing kullanılmıştır.",
+        "B": "En iyi karakter canlandırması yapılmıştır.",
+        "C": "3 Oscar ödülü almıştır.",
+        "D": "Arnold render motoru kullanılmıştır.",
+        "E": "İlk 3d canlandırmanın görüldüğü film olma özelliğini taşımaktadır."
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": "Futureworld, 3D bilgisayar canlandırmasının (yüz ve el) kullanıldığı ilk filmdir."
+    },
+    {
+      "soruid": 34,
+      "soru_metni": "Bir 3d tasarım çalışmasının görselleştirildiği ilk aşama aşağıdakilerden hangisidir? (Ünite Sorusu 4)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Görsel efektler",
+        "B": "Işıklandırma",
+        "C": "Dokulandırma",
+        "D": "Konsept tasarımı",
+        "E": "Modelleme"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": "Tasarımın görselleştirildiği, stilin belirlendiği ilk (yapım öncesi) aşama Konsept Tasarımı'dır."
+    },
+    {
+      "soruid": 35,
+      "soru_metni": "3d modellemede Vertex nedir? (Ünite Sorusu 5)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Modelin dokusundaki parlamayı sağlar.",
+        "B": "Model üzerindeki noktalara denir.",
+        "C": "Model üzerindeki kenarlara denir.",
+        "D": "Model üzerindeki yüzeylere denir.",
+        "E": "Modelin bütününü ifade eder."
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Vertex (Köşe noktası), model üzerindeki noktalara verilen isimdir."
+    },
+    {
+      "soruid": 36,
+      "soru_metni": "Aşağıdakilerden hangisi malzeme tiplerinden biri değildir? (Ünite Sorusu 6)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Blinn",
+        "B": "Phong",
+        "C": "Anisotropic",
+        "D": "Lambert",
+        "E": "Reflection"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": "Blinn, Phong, Lambert ve Anisotropic malzeme (shader) tipleridir; Reflection (Yansıma) ise bir malzeme özelliği veya kanalıdır, malzeme tipi değildir."
+    },
+    {
+      "soruid": 37,
+      "soru_metni": "Hangisi 3d yazılımlarda kullanılan ışık tiplerinden biri değildir? (Ünite Sorusu 7)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Noktasal ışıklar",
+        "B": "Alan ışıkları",
+        "C": "Kutup ışıkları",
+        "D": "Doğrultulu ışıklar",
+        "E": "Spot ışıklar"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Kutup ışıkları (Aurora) doğal bir fenomendir, 3D yazılımlardaki standart bir ışık aracı (Spot, Point, Area vb.) değildir."
+    },
+    {
+      "soruid": 38,
+      "soru_metni": "Üç ışıkla aydınlatmada aşağıdakilerden hangisi anahtar ışığın özelliklerinden biridir? (Ünite Sorusu 8)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Sahneye hakim olan ışık kaynağı olması",
+        "B": "Sahnedeki modelin arkasında yer alması",
+        "C": "Kamerayla aynı yerde bulunması",
+        "D": "Yoğunluğu en az olan ışık olması",
+        "E": "Gölge yapmaması"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Anahtar ışık (Key Light), sahneye hakim olan, en güçlü ve ana gölgeyi oluşturan ışıktır."
+    },
+    {
+      "soruid": 39,
+      "soru_metni": "Aşağıdakilerden hangisi render süresinin uzamasına neden olan işlemlerden biri değildir? (Ünite Sorusu 9)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Modelin yüzey özelliklerinde yansıma olması",
+        "B": "Lambert malzeme tipi kullanılması",
+        "C": "Modelin yüzey özelliklerinde ışığın kırılması",
+        "D": "Yüzey sayısının fazla olması",
+        "E": "Partikül kullanılması"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Lambert mat ve yansımasız bir malzeme olduğu için hesaplaması kolaydır ve render süresini uzatmaz; diğerleri (yansıma, kırılma, partikül) süreyi uzatır."
+    },
+    {
+      "soruid": 40,
+      "soru_metni": "Aşağıdakilerden hangisi yapım sonrası aşamasına aittir? (Ünite Sorusu 10)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Referans resim kullanımı",
+        "B": "Render",
+        "C": "Modelleme",
+        "D": "Dijital birleştirme",
+        "E": "Işıklandırma"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": "Dijital birleştirme (Compositing), render ve çekimlerin bir araya getirildiği yapım sonrası (post-production) aşamasıdır."
+    }
+      ]
+    }
+  ]
+}
