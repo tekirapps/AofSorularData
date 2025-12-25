@@ -1,0 +1,573 @@
+{
+  "ders_kodu": "SMY209U",
+  "ders_adi": "SOSYAL MEDYA ARAÇLARI",
+  "sinavlar": [
+    {
+      "baslik": "2025 Ünite 8 Yapay Zeka Destekli Çıkabilecek Sorular",
+      "tur": "AI",
+      "yil": 2025,
+      "sorular": [
+   {
+      "soruid": 1,
+      "soru_metni": "Sosyal medya kullanıcılarının kendi tercihleri doğrultusunda yapılandırdıkları, gerçekle uyumlu veya uyumsuz olabilen dijital kimliklere ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Anonim Kimlik",
+        "B": "Sanal Kimlik",
+        "C": "Biyometrik Kimlik",
+        "D": "Kurumsal Kimlik",
+        "E": "Gizli Profil"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Metinde sanal kimlik; sosyal medya kullanıcılarının kendi tercihleri doğrultusunda yapılandırdıkları dijital kimlikler olarak tanımlanmıştır [cite: 978-979]."
+    },
+    {
+      "soruid": 2,
+      "soru_metni": "Sosyal medyada kullanıcıların profillerinin ve paylaşımlarının diğer kullanıcılar tarafından sevilme, kabul görme ve takdir edilme durumunun ifadesi aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Paylaşım",
+        "B": "Etkileşim",
+        "C": "Beğeni",
+        "D": "Yorum",
+        "E": "Erişim"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Beğeni, kullanıcıların kabul görme ve takdir edilme durumlarının sanal dünyadaki ifade ediliş şeklidir[cite: 989]."
+    },
+    {
+      "soruid": 3,
+      "soru_metni": "Türkiye Cumhuriyeti Anayasası'nın 26. Maddesi'ne göre, düşünceyi açıklama ve yayma hürriyeti hangi durumlarda sınırlandırılabilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Hiçbir durumda sınırlandırılamaz.",
+        "B": "Sadece savaş durumunda sınırlandırılabilir.",
+        "C": "Milli güvenlik, kamu düzeni, suçların önlenmesi ve özel hayatın gizliliği gibi durumlarda sınırlandırılabilir.",
+        "D": "Sadece internet yavaşladığında sınırlandırılabilir.",
+        "E": "Sadece ticari kaygılarla sınırlandırılabilir."
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Anayasa'nın 26. Maddesi; milli güvenlik, kamu düzeni, suçların önlenmesi, özel hayatın gizliliği gibi durumlarda bu hürriyetin sınırlandırılabileceğini belirtir [cite: 1023-1024]."
+    },
+    {
+      "soruid": 4,
+      "soru_metni": "Türk Ceza Kanunu'nun (TCK) 125. Maddesi'nde düzenlenen ve sosyal medyada en sık işlenen suçlardan biri olan suç tipi hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Tehdit",
+        "B": "Şantaj",
+        "C": "Hakaret",
+        "D": "Hırsızlık",
+        "E": "Dolandırıcılık"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "TCK 125. Madde, bir kimsenin onur, şeref ve saygınlığını rencide edecek fiilleri 'Hakaret' suçu olarak tanımlar ve sosyal medyada sıkça işlenir [cite: 1056-1057]."
+    },
+    {
+      "soruid": 5,
+      "soru_metni": "Sosyal medyada hakaret suçunun 'alenen' (herkesin görebileceği şekilde) işlenmesi durumunda ceza nasıl uygulanır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Ceza yarı oranında indirilir.",
+        "B": "Ceza değişmez.",
+        "C": "Ceza altıda bir oranında artırılır.",
+        "D": "Sadece para cezasına çevrilir.",
+        "E": "Ceza verilmez."
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "TCK 125/4 maddesine göre hakaretin alenen işlenmesi halinde ceza altıda biri oranında artırılır[cite: 1063]."
+    },
+    {
+      "soruid": 6,
+      "soru_metni": "Bir kişinin özel hayatına ilişkin görüntü veya sesleri hukuka aykırı olarak ifşa etmek (yaymak) TCK'nın hangi maddesi kapsamında suçtur?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "TCK 134 - Özel Hayatın Gizliliğini İhlal",
+        "B": "TCK 106 - Tehdit",
+        "C": "TCK 125 - Hakaret",
+        "D": "TCK 243 - Bilişim Sistemine Girme",
+        "E": "TCK 142 - Hırsızlık"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Kişilerin özel hayatının gizliliğini ihlal etmek ve bu görüntü/sesleri ifşa etmek TCK 134. madde kapsamında suçtur [cite: 1082-1085]."
+    },
+    {
+      "soruid": 7,
+      "soru_metni": "Kullanıcıların sosyal medya platformlarına kayıt olurken onayladıkları, hizmetin kurallarını ve yasal dayanaklarını içeren belgeye ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Kullanım Kılavuzu",
+        "B": "Kullanım (Hizmet) Sözleşmesi",
+        "C": "Fatura",
+        "D": "Garanti Belgesi",
+        "E": "Referans Mektubu"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Servis sağlayıcılar, kullanıcıların hizmet alabilmesi için yasal dayanaklar ve kuralları içeren sözleşmeleri onaylamasını talep eder[cite: 1147]."
+    },
+    {
+      "soruid": 8,
+      "soru_metni": "Kullanıcıların internet deneyimini kolaylaştırmak için oturum bilgileri ve tercihler gibi verileri kaydeden, ancak veri ihlali riski de taşıyan dosyalara ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Virüs",
+        "B": "Spam",
+        "C": "Çerez (Cookie)",
+        "D": "Trojan",
+        "E": "Firewall"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Çerezler, web sayfalarında oluşturulan ve kullanıcı tercihlerini kaydeden dosyalardır; veri takibi için de kullanılırlar[cite: 1183]."
+    },
+    {
+      "soruid": 9,
+      "soru_metni": "Bir sosyal medya kullanıcısının, farklı bir uygulama (örn. fotoğraf filtresi) kullanmak için o uygulamaya sosyal medya hesabına erişim izni vermesi hangi tür ihlal riskini doğurur?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Servis sağlayıcı kaynaklı ihlal",
+        "B": "Kullanıcı kaynaklı ihlal",
+        "C": "Üçüncü parti yazılım/paydaş kaynaklı ihlal",
+        "D": "Donanım arızası",
+        "E": "İnternet kesintisi"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Üçüncü parti yazılımlara verilen izinler, verilerin hem kullanıcının hem de ana platformun kontrolünden çıkarak üçüncü taraflara geçmesine neden olur [cite: 1220-1230]."
+    },
+    {
+      "soruid": 10,
+      "soru_metni": "Ebeveynlerin, çocuklarının fotoğraflarını ve özel anlarını sosyal medyada aşırı ve bilinçsizce paylaşması olarak tanımlanan kavram hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Siber Zorbalık",
+        "B": "Sharenting",
+        "C": "Phubbing",
+        "D": "Stalking",
+        "E": "Trolling"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Sharenting, 'parenting' ve 'share' kelimelerinden türetilen, ebeveynlerin çocukları hakkında aşırı paylaşım yapması durumudur [cite: 1317-1318]."
+    },
+    {
+      "soruid": 11,
+      "soru_metni": "Saklanmaya, gizlenmeye veya sansürlenmeye çalışılan bir bilginin, bu çabalar sonucunda internette daha geniş kitlelere yayılması fenomenine ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Kelebek Etkisi",
+        "B": "Domino Etkisi",
+        "C": "Streisand Etkisi",
+        "D": "Mandela Etkisi",
+        "E": "Plasebo Etkisi"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Barbra Streisand'in evinin fotoğraflarını kaldırtmaya çalışırken daha çok yayılmasına neden olmasıyla adlandırılan bu duruma Streisand Etkisi denir [cite: 1580-1581]."
+    },
+    {
+      "soruid": 12,
+      "soru_metni": "Bilişim etiğini Gizlilik, Doğruluk, Fikri Mülkiyet ve Erişilebilirlik olmak üzere dört boyutta sınıflandıran araştırmacı kimdir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Mason (1986)",
+        "B": "Toffler",
+        "C": "Castells",
+        "D": "McLuhan",
+        "E": "Zuckerberg"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Mason (1986), bilişim etiği sorunlarını PAPA (Privacy, Accuracy, Property, Accessibility) kısaltmasıyla dört boyutta ele almıştır [cite: 1417-1425]."
+    },
+    {
+      "soruid": 13,
+      "soru_metni": "5651 sayılı Kanun, sosyal medyada hak ihlaline uğrayan kullanıcılara hangi temel imkanı sağlar?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Tazminat ödenmesini",
+        "B": "İhlale neden olan içeriğin yayından kaldırılmasını ve erişimin engellenmesini",
+        "C": "Şirketin kapatılmasını",
+        "D": "İnternetin tamamen kesilmesini",
+        "E": "Kullanıcının kimliğinin gizlenmesini"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "5651 sayılı kanun, hak ihlaline neden olan içeriklerin hızlıca yayından kaldırılması ve erişimin engellenmesi çözümünü sunar[cite: 1376]."
+    },
+    {
+      "soruid": 14,
+      "soru_metni": "Sosyal medya platformlarında bir başkasının hesabına izinsiz girmek (hacklemek), TCK'nın hangi maddesi kapsamında suçtur?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "TCK 125 - Hakaret",
+        "B": "TCK 243 - Bilişim Sistemine Girme",
+        "C": "TCK 106 - Tehdit",
+        "D": "TCK 267 - İftira",
+        "E": "TCK 134 - Özel Hayatın Gizliliği"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Bir bilişim sisteminin bütününe veya bir kısmına hukuka aykırı olarak girmek TCK 243. madde kapsamında suçtur [cite: 1275-1276]."
+    },
+    {
+      "soruid": 15,
+      "soru_metni": "Kişisel Verilerin Korunması Kanunu'na (KVKK) göre, kişinin verisini kendisinin herkesin görebileceği şekilde paylaşması (alenileştirmesi) durumunda ne olur?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Veri artık korunmaz.",
+        "B": "İlgili kişiden açık rıza alınmasına gerek duyulmaz (belirli sınırlar dahilinde).",
+        "C": "Veri kamu malı olur.",
+        "D": "Veri silinemez.",
+        "E": "Herkes veriyi ticari amaçla kullanabilir."
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "KVKK'ya göre kişinin kendisi tarafından alenileştirilen verilerin işlenmesi için (alenileştirme amacına uygun olarak) ayrıca açık rıza aranmaz[cite: 1256]."
+    },
+    {
+      "soruid": 16,
+      "soru_metni": "Aşağıdakilerden hangisi sosyal medya profil türlerinden biri **değildir**?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Kişisel Profiller",
+        "B": "Profesyonel Profiller",
+        "C": "Karma Profiller",
+        "D": "Yapay Zeka Profilleri",
+        "E": "Hiçbiri"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": "Metinde profil türleri Kişisel, Profesyonel ve Karma profiller olarak üç kategoride sınıflandırılmıştır [cite: 968-969]. 'Yapay Zeka Profilleri' metinde geçen bir sınıflandırma değildir."
+    },
+    {
+      "soruid": 17,
+      "soru_metni": "Fikir ve Sanat Eserleri Kanunu'na göre, bir eserin sosyal medyada izinsiz paylaşılması hangi hak ihlali kapsamına girer?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Kişilik Hakkı İhlali",
+        "B": "Fikri Mülkiyet İhlali",
+        "C": "Ticari Sır İhlali",
+        "D": "Haberleşme Gizliliği İhlali",
+        "E": "Veri İhlali"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Eserlerin izinsiz kullanımı ve paylaşımı, telif hakları kapsamında Fikri Mülkiyet İhlali olarak değerlendirilir [cite: 1244-1250]."
+    },
+    {
+      "soruid": 18,
+      "soru_metni": "Sosyal medya platformlarının, kullanıcıların beğeni ve tıklama verilerini analizerek onlara özelleştirilmiş reklamlar sunması hangi tür ihlal tartışmalarını doğurur?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Fikri Mülkiyet İhlalleri",
+        "B": "Dijital Pazarlamaya Yönelik İhlaller (Kişisel veri gizliliği)",
+        "C": "Çocuk Hakları İhlalleri",
+        "D": "Telif Hakkı İhlalleri",
+        "E": "Nefret Söylemi"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Kullanıcı verilerinin (beğeni, konum vb.) reklam hedeflemesi için kullanılması, dijital pazarlama ve kişisel veri gizliliği ihlalleri kapsamında tartışılmaktadır [cite: 1285-1293]."
+    },
+    {
+      "soruid": 19,
+      "soru_metni": "Sosyal medya hesabının güvenliğini sağlamak için önerilen en etkili yöntemlerden biri nedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Şifreyi kimseyle paylaşmamak ama değiştirmemek",
+        "B": "Doğum tarihini şifre yapmak",
+        "C": "Çok Faktörlü Kimlik Doğrulama (2FA) kullanmak",
+        "D": "Her sitede aynı şifreyi kullanmak",
+        "E": "Şifreyi bir kağıda yazmak"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Çok faktörlü kimlik doğrulamanın etkinleştirilmesi, şifre çalınsa bile hesabı koruyan en temel ve etkili önlemlerden biridir[cite: 1591]."
+    },
+    {
+      "soruid": 20,
+      "soru_metni": "Bilişim etiğinde 'Erişilebilirlik' boyutu neyi ifade eder?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Bilginin kime ait olduğunu",
+        "B": "Bilginin doğruluğunu",
+        "C": "Bireylerin hangi koşullarda hangi bilgiye ulaşma hakkı olduğunu",
+        "D": "Bilginin gizliliğini",
+        "E": "İnternet hızını"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Mason'un sınıflandırmasında Erişilebilirlik, bireylerin hangi bilgilere ne ölçüde ve hangi koşullarda erişim hakkı olduğunu tanımlar[cite: 1430]."
+    },
+    {
+      "soruid": 21,
+      "soru_metni": "TCK 135. maddeye göre 'Hukuka aykırı olarak kişisel verileri kaydetmek' suçunun cezası nedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Sadece para cezası",
+        "B": "6 aydan 3 yıla kadar hapis",
+        "C": "10 yıl hapis",
+        "D": "Ceza verilmez",
+        "E": "Kamu hizmeti"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "TCK 135'e göre hukuka aykırı kişisel veri kaydeden kimseye 6 aydan 3 yıla kadar hapis cezası verilir[cite: 1079]."
+    },
+    {
+      "soruid": 22,
+      "soru_metni": "Sosyal medya platformlarının 13 yaş altı çocuklar için kullanımı sınırlandırması hangi nedenle önemlidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Çocukların okuma yazma bilmemesi",
+        "B": "Çocukların yasal ehliyetinin olmaması ve veri güvenliği/istismar riskleri",
+        "C": "Çocukların bilgisayarı bozması",
+        "D": "İnternet kotasını bitirmeleri",
+        "E": "Reklamlara tıklamamaları"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "BTK tarafından belirlenen yaş sınırı ve platform kuralları, çocukların veri güvenliği, istismar riskleri ve yasal ehliyet durumları nedeniyle önemlidir[cite: 1210]."
+    },
+    {
+      "soruid": 23,
+      "soru_metni": "Etik kavramı en genel haliyle nasıl tanımlanır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Yazılı hukuk kuralları",
+        "B": "Bilgisayar kullanma becerisi",
+        "C": "Ahlaki sorun ve yargılarla ilgili felsefe dalı",
+        "D": "Dini kurallar bütünü",
+        "E": "Görgü kuralları"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Etik, ahlaka ilişkin sorun ve yargılarla ya da ahlaki (moral) sorunlarla ilgili felsefe dalı olarak tanımlanır[cite: 1386]."
+    },
+    {
+      "soruid": 24,
+      "soru_metni": "Bilişim etiğini 'İş Etiği'nden ayıran temel özellik nedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Sadece şirketleri ilgilendirmesi",
+        "B": "Sadece belirli bir meslek grubunu değil, teknolojiyi kullanan herkesi (tüm paydaşları) kapsaması",
+        "C": "Yazılı olmaması",
+        "D": "Daha az önemli olması",
+        "E": "Sadece donanımla ilgili olması"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "İş etiği sadece o mesleğin mensuplarını bağlarken, bilişim etiği teknolojiyi kullanan, geliştiren herkesi kapsayan çok boyutlu bir alandır [cite: 1400-1402]."
+    },
+    {
+      "soruid": 25,
+      "soru_metni": "Sosyal medyada bir içeriğin 'viral' olması ne demektir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "İçeriğin virüslü olması",
+        "B": "İçeriğin silinmesi",
+        "C": "İçeriğin kullanıcıdan kullanıcıya hızla yayılarak geniş kitlelere ulaşması",
+        "D": "İçeriğin sadece arkadaşlara görünmesi",
+        "E": "İçeriğin yasaklanması"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Viral olma, içeriğin ağızdan ağza yayılma gibi hızla ve geniş kitlelerce paylaşılması durumudur (Bu bilgi genel sosyal medya bilgisidir, metinde Streisand etkisi örneğinde yayılma hızına değinilmiştir)."
+    },
+    {
+      "soruid": 26,
+      "soru_metni": "TCK 244. madde hangi suçu düzenler?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Hakaret",
+        "B": "Sistemi Engelleme, Bozma, Verileri Yok Etme veya Değiştirme",
+        "C": "Hırsızlık",
+        "D": "Tehdit",
+        "E": "Özel Hayatın Gizliliği"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "TCK 244, bir bilişim sisteminin işleyişini engelleme, bozma veya verileri yok etme/değiştirme suçlarını düzenler[cite: 1040]."
+    },
+    {
+      "soruid": 27,
+      "soru_metni": "Aşağıdakilerden hangisi bir 'Siber Zorbalık' örneğidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Arkadaşının fotoğrafını beğenmek",
+        "B": "Bir gönderiye olumlu yorum yapmak",
+        "C": "Bir kişiyi sosyal medyada sürekli taciz etmek, aşağılamak veya tehdit etmek",
+        "D": "Kendi fotoğrafını paylaşmak",
+        "E": "Haber okumak"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Siber zorbalık, dijital araçlar kullanılarak bir kişiye kasıtlı ve tekrarlı olarak zarar verme, taciz etme davranışıdır[cite: 1157]."
+    },
+    {
+      "soruid": 28,
+      "soru_metni": "Sosyal medya platformlarının ücretsiz olmasının altındaki temel ekonomik model nedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Hayırseverlik",
+        "B": "Devlet desteği",
+        "C": "Kullanıcı verilerinin reklamverenler için işlenmesi (Veri madenciliği ve reklam geliri)",
+        "D": "Bağış toplama",
+        "E": "Ürün satışı"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Sosyal medya platformları, kullanıcı verilerini analiz ederek hedefli reklamlar sunar ve asıl gelirlerini buradan elde ederler [cite: 1288-1291]."
+    },
+    {
+      "soruid": 29,
+      "soru_metni": "Sosyal medyada 'kamuoyu'nun oluşumu ile ilgili hangisi doğrudur?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Gerçek dünyaya göre daha yavaştır.",
+        "B": "Sadece yerel konular konuşulur.",
+        "C": "Gerçek dünyaya göre çok daha hızlıdır ve küresel etkileşim mümkündür.",
+        "D": "Etkisi yoktur.",
+        "E": "Sadece devletler oluşturabilir."
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Sosyal medyada kamuoyu oluşumu gerçek dünyaya göre çok daha hızlıdır ve uluslararası boyutta etkileşime olanak tanır[cite: 1101]."
+    },
+    {
+      "soruid": 30,
+      "soru_metni": "Aşağıdakilerden hangisi Bilişim Etiği kapsamında 'Doğruluk' (Accuracy) boyutunun konusudur?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Bilginin kime ait olduğu",
+        "B": "Bilginin gizli kalması",
+        "C": "Bilginin hatasız, güvenilir olması ve yanlış bilginin sorumluluğu",
+        "D": "Bilgiye kimin erişebileceği",
+        "E": "Bilgisayarın fiyatı"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Doğruluk boyutu, bilginin doğruluğundan, güvenilirliğinden kimin sorumlu olduğunu ve yanlış bilginin sorumluluğunu ele alır[cite: 1428]."
+    },
+    {
+      "soruid": 31,
+      "soru_metni": "Web 2.0 üzerinde kullanıcıların içerik oluşturabildiği, paylaşabildiği ve yayınlayabildiği, aynı zamanda çift taraflı olarak iletişime geçebildiği ortamlara ne ad verilir? (Ünite Sorusu 1)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Medya içerikleri",
+        "B": "Geleneksel medya",
+        "C": "Sosyal medya",
+        "D": "Basılı medya",
+        "E": "Dijital medya"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Kullanıcıların içerik ürettiği ve çift taraflı etkileşime geçtiği Web 2.0 tabanlı ortamlar 'Sosyal Medya'dır."
+    },
+    {
+      "soruid": 32,
+      "soru_metni": "----, sosyal medya kullanıcılarının profillerinin ve paylaşımlarının diğer kullanıcılar tarafından sevilme, kabul görme ve takdir edilme durumlarının sanal bir dünyada ifade ediliş şeklidir. Yukarıdaki boşluğu aşağıdakilerden hangisi doğru şekilde tamamlar? (Ünite Sorusu 2)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Paylaşım",
+        "B": "Beğeni",
+        "C": "Gizlilik",
+        "D": "Güvenlik",
+        "E": "Uzmanlık"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Bu tanım 'Beğeni' kavramına aittir."
+    },
+    {
+      "soruid": 33,
+      "soru_metni": "----, temel olarak kullanıcılarının profil bilgilerini diğer kullanıcılardan gizleme veya gösterme davranışlarıyla ilgilidir. Yukarıdaki boşluğu aşağıdakilerden hangisi doğru şekilde tamamlar? (Ünite Sorusu 3)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Paylaşım",
+        "B": "Beğeni",
+        "C": "Gizlilik",
+        "D": "Güvenlik",
+        "E": "Uzmanlık"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Profil bilgilerinin görünürlüğünü kontrol etme davranışı 'Gizlilik' ile ilgilidir."
+    },
+    {
+      "soruid": 34,
+      "soru_metni": "Aşağıdakilerden hangisi Türk Ceza Kanunu'nun sosyal medyayı ilgilendiren maddeleri arasında yer almaz? (Ünite Sorusu 4)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Haberleşmenin Engellenmesi",
+        "B": "Kişisel Verilerin Kaydedilmesi",
+        "C": "Bilişim Sistemleri Aracılığıyla Dolandırıcılık",
+        "D": "Özel Hayatın Gizliliğini İhlal",
+        "E": "İştirak Hâlinde İşlenen Suçlarda Gönüllü Vazgeçme"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": "İştirak halinde işlenen suçlarda gönüllü vazgeçme, genel bir ceza hukuku kurumudur; doğrudan sosyal medyaya özgü bir suç tipi olarak sayılmamıştır."
+    },
+    {
+      "soruid": 35,
+      "soru_metni": "Özellikle Facebook ve Twitter gibi sosyal medya platformlarında yaşanan ve TCK Madde 125'te tanımlanan suç aşağıdakilerden hangisidir? (Ünite Sorusu 5)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Hakaret suçu",
+        "B": "İftira suçu",
+        "C": "Tehdit suçu",
+        "D": "İfade özgürlüğünün engellenmesi",
+        "E": "Özel hayatın gizliliğini ihlal"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "TCK Madde 125 'Hakaret' suçunu düzenler."
+    },
+    {
+      "soruid": 36,
+      "soru_metni": "Yukarıdakilerden hangileri sosyal medya ortamlarında yaşanabilecek hak ihlallerindendir? (I. Servis sağlayıcısı, II. Kullanıcı, III. 3. Parti, IV. Fikri Mülkiyet, V. Dijital Pazarlama, VI. Çocuk Hakları) (Ünite Sorusu 6)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "I, II ve III",
+        "B": "IV, V, VI",
+        "C": "I, II, III ve IV",
+        "D": "III, IV, V ve VI",
+        "E": "I, II, III, IV, V ve VI"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": "Metinde bu ihlallerin hepsi (servis sağlayıcı, kullanıcı, 3. parti, fikri mülkiyet, pazarlama, çocuk hakları) sayılmıştır."
+    },
+    {
+      "soruid": 37,
+      "soru_metni": "Bir Instagram kullanıcısının fotoğraf filtresi kullanmak için ek bir yazılım kullanarak tüm kullanıcı verilerinin kullanılmasına ilişkin izinleri yazılım şirketine vermesi durumunda yaşanabilecek ihlal durumu aşağıdakilerden hangisidir? (Ünite Sorusu 7)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Servis sağlayıcısından kaynaklı ihlaller",
+        "B": "Kullanıcılardan kaynaklı ihlaller",
+        "C": "Üçüncü parti kişi veya paydaşlardan kaynaklı ihlaller",
+        "D": "Fikri mülkiyet ihlalleri",
+        "E": "Dijital pazarlamaya yönelik ihlaller"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Ana platform dışındaki ek yazılımlar (filtre uygulamaları vb.) 'Üçüncü Parti' olarak adlandırılır ve bu ihlal onların kapsamındadır."
+    },
+    {
+      "soruid": 38,
+      "soru_metni": "YouTube'da bir çanta reklamına yanlışlıkla tıklayan kullanıcının başka sosyal medya platformlarında ve farklı alışveriş sitelerinde çanta reklamları ile karşılaşması, hangi ihlal durumunu gündeme getirmesine yol açabilir? (Ünite Sorusu 8)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Servis sağlayıcısından kaynaklı ihlaller",
+        "B": "Dijital pazarlamaya yönelik ihlaller",
+        "C": "Üçüncü parti kişi veya paydaşlardan kaynaklı ihlaller",
+        "D": "Fikri mülkiyet ihlalleri",
+        "E": "Kullanıcılardan kaynaklı ihlaller"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Kullanıcı davranışlarının izlenerek hedeflenmiş reklam gösterilmesi 'Dijital Pazarlama' ihlalleri (gizlilik) kapsamındadır."
+    },
+    {
+      "soruid": 39,
+      "soru_metni": "Sosyal medya kullanıcıları güvenlik önlemleri almak için aşağıdakilerden hangisini yapmaya özen göstermelidir? (Ünite Sorusu 9)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Tahmin edilebilen kolay şifreleri kullanmak",
+        "B": "Doğum tarihini içeren şifreleri kullanmak",
+        "C": "Tek faktörlü kimlik doğrulama sistemi kullanmak",
+        "D": "Şifreyi düzenli aralıklarla değiştirmek",
+        "E": "Aynı şifreyi birden fazla sisteme girmek için kullanmak"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": "Güvenlik için şifrelerin güçlü olması, benzersiz olması ve 'düzenli aralıklarla değiştirilmesi' önerilir. (C şıkkı yanlıştır, 'çok faktörlü' olmalıydı)."
+    },
+    {
+      "soruid": 40,
+      "soru_metni": "Aşağıdakilerden hangisi bilişim etiğinin boyutlarından biri değildir? (Ünite Sorusu 10)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Doğruluk",
+        "B": "Gizlilik",
+        "C": "Kesinlik",
+        "D": "Erişilebilirlik",
+        "E": "Fikri mülkiyet"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Mason'un bilişim etiği boyutları: Gizlilik, Doğruluk, Fikri Mülkiyet ve Erişilebilirlik'tir. 'Kesinlik' bu boyutlardan biri değildir."
+    }
+      ]
+    }
+  ]
+}
