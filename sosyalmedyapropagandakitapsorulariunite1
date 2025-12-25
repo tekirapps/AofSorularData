@@ -1,0 +1,783 @@
+{
+  "ders_kodu": "SMY201U",
+  "ders_adi": "SOSYAL MEDYA VE PROPAGANDA",
+  "sinavlar": [
+    {
+      "baslik": "2025 Ünite 1 Yapay Zeka Destekli Çıkabilecek Sorular",
+      "tur": "CIKMIS",
+      "yil": 2024,
+      "sorular": [
+    {
+      "soruid": 1,
+      "soru_metni": "Sosyal medyayı geleneksel medyadan (gazete, radyo, TV) ayıran en temel iki özellik aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Hız ve Görsellik",
+        "B": "Kullanıcı Katılımı ve Etkileşim",
+        "C": "Maliyet ve Erişim",
+        "D": "Dijitalleşme ve Taşınabilirlik",
+        "E": "Kurumsallık ve Güvenilirlik"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Metinde, sosyal medyanın belirleyici özelliklerinin 'etkileşimli bilgi paylaşımı' ve 'kullanıcı katılımı' olduğu, geleneksel medyanın ise tek yönlü yayın yaptığı vurgulanmıştır."
+    },
+    {
+      "soruid": 2,
+      "soru_metni": "İnternet tabanının kullanıcı etkileşimine izin vermeyen yapısından, etkileşimli ve dinamik bir tecrübe sunan yapısına geçişi ifade eden kavram aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Web 1.0",
+        "B": "Web 2.0",
+        "C": "HTML 5",
+        "D": "Siber Uzay",
+        "E": "Dijital Devrim"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Metne göre, Web 2.0; birinci nesil web'in aksine kullanıcılara kod bilgisine ihtiyaç duymadan içerik üretme ve etkileşim kurma imkanı tanıyan teknolojik dönüşümdür."
+    },
+    {
+      "soruid": 3,
+      "soru_metni": "Propagandanın, propagandacının niyetlerini gerçekleştirmek için algıları şekillendirmeye ve davranışı yönlendirmeye yönelik 'amaçlı ve sistematik' bir girişim olduğunu belirten tanım kime aittir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Garth Jowett ve Victoria O'Donnell",
+        "B": "Noam Chomsky",
+        "C": "Walter Lippmann",
+        "D": "Jacques Ellul",
+        "E": "Harold Lasswell"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Metinde geçen 'amaçlı ve sistematik girişim' vurgulu kapsamlı tanım, Jowett ve O'Donnell'a atıfla verilmiştir."
+    },
+    {
+      "soruid": 4,
+      "soru_metni": "Kaynağının açıkça belli olduğu, güven yaratmak için büyük ölçüde gerçeklere dayandırılmaya çalışılan propaganda türü aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Kara Propaganda",
+        "B": "Gri Propaganda",
+        "C": "Beyaz Propaganda",
+        "D": "Yatay Propaganda",
+        "E": "Sosyolojik Propaganda"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Beyaz propaganda, kaynağın kim olduğunun belli olduğu ve doğruluğa dayalı izlenimi veren türdür. Genellikle hükümetlerin kamu politikalarını anlatması buna örnektir."
+    },
+    {
+      "soruid": 5,
+      "soru_metni": "İkinci Dünya Savaşı sırasında Nazilerin, sanki İngiltere'den yayın yapıyormuş izlenimi veren radyo istasyonları kurarak İngiliz halkının moralini bozmaya çalışması hangi propaganda türüne örnektir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Beyaz Propaganda",
+        "B": "Dikey Propaganda",
+        "C": "Bütünleşme Propagandası",
+        "D": "Kara Propaganda",
+        "E": "Sosyolojik Propaganda"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": "Kara propagandada kaynak, olduğundan farklı (genellikle düşman taraf) gösterilir. Nazilerin İngiliz radyosu taklidi yapması tipik bir kara propaganda örneğidir."
+    },
+    {
+      "soruid": 6,
+      "soru_metni": "Aşağıdakilerden hangisi 'Mikro Ağ Güncesi' (Microblog) kategorisine giren sosyal medya platformudur?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Facebook",
+        "B": "WordPress",
+        "C": "YouTube",
+        "D": "Twitter",
+        "E": "Wikipedia"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": "Metinde Twitter, karakter sınırlaması (eskiden 140, sonra 280) nedeniyle 'mikro ağ güncesi' olarak tanımlanmıştır."
+    },
+    {
+      "soruid": 7,
+      "soru_metni": "Bir grup içinde sanki üyeler arasında eşitlik varmış izlenimi yaratan ve grup içi bilgiyi seçici yayarak liderin istediği davranışları geliştirmeyi amaçlayan propaganda düzlemi hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Dikey Propaganda",
+        "B": "Yatay Propaganda",
+        "C": "Karşı Propaganda",
+        "D": "Beyaz Propaganda",
+        "E": "Ajitasyon Propagandası"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Yatay propaganda, hiyerarşik bir otoriteden değil, grup içinden (eş düzeyde) geliyormuş gibi yapılan ve daha kalıcı etki bırakan propaganda türüdür."
+    },
+    {
+      "soruid": 8,
+      "soru_metni": "Propagandacının, hedef kitleyi etkilemek için 'özgürlük, inanç, vatan' gibi soyut ve duygu yüklü kavramları kullanarak mesajını meşrulaştırması hangi unsura örnektir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "İstatistik Çarpıtma",
+        "B": "Simgeler (Semboller)",
+        "C": "Sosyal Botlar",
+        "D": "Ewom",
+        "E": "Yatay İletişim"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Metinde simgelerin, bireylerin bilinçdışı bağlı olduğu inançları harekete geçirerek duygusal tepki oluşturduğu belirtilmiştir."
+    },
+    {
+      "soruid": 9,
+      "soru_metni": "Sosyal medyada tartışmaları sabote etmek, konuyu saptırmak veya huzursuzluk çıkarmak amacıyla kışkırtıcı içerik paylaşan kullanıcılara ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Fenomen",
+        "B": "Blogger",
+        "C": "Troll",
+        "D": "Takipçi (Follower)",
+        "E": "Youtuber"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Metinde 'Troll' kavramı, internet ortamında duygusal dengesizlik yaratarak verimsiz tartışma çıkaran kişiler veya ekipler (örneğin Rus Troll Fabrikası) olarak tanımlanmıştır."
+    },
+    {
+      "soruid": 10,
+      "soru_metni": "Bir siyasetçinin veya propagandacının, toplum tarafından sevilen ve saygı duyulan bir sanatçı veya sporcuyu kampanyasına dahil ederek onun itibarını kendine mal etmesi hangi propaganda tekniğidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Tanıklık",
+        "B": "İsim Takma",
+        "C": "Korku Çekiciliği",
+        "D": "Düşman Yaratma",
+        "E": "Yalan Haber"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Tanıklık tekniği, güvenilir veya sevilen bir kişinin desteğini (referansını) kullanarak mesajın kabul edilebilirliğini artırmayı ifade eder."
+    },
+    {
+      "soruid": 11,
+      "soru_metni": "Facebook skandalı ile bilinen 'Cambridge Analytica' olayı, sosyal medyanın propaganda açısından hangi riskini ortaya koymuştur?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "İnternet hızının yavaşlatılması",
+        "B": "Kişisel verilerin izinsiz kullanılarak mikro hedefleme yapılması",
+        "C": "Televizyon reklamlarının yasaklanması",
+        "D": "Gazete tirajlarının düşmesi",
+        "E": "Blog yazarlığının meslek haline gelmesi"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Metinde, Cambridge Analytica şirketinin milyonlarca Facebook kullanıcısının verisini izinsiz alıp 2016 ABD seçimlerinde propaganda amaçlı kullandığı anlatılmaktadır."
+    },
+    {
+      "soruid": 12,
+      "soru_metni": "Aşağıdakilerden hangisi 'Dikey Propaganda'nın özelliklerinden biridir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Grup içi etkileşime dayanması",
+        "B": "Sosyal ağlarda kendiliğinden yayılması",
+        "C": "Tek bir merkezden (otoriteden) halka empoze edilmesi",
+        "D": "Kaynağının belirsiz olması",
+        "E": "Uzun süreli ve kalıcı olması"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Dikey propaganda, siyasal veya toplumsal otoritelerin yukarıdan aşağıya doğru kitle iletişim araçlarını kullanarak mesaj iletmesidir."
+    },
+    {
+      "soruid": 13,
+      "soru_metni": "Hitler'in propaganda bakanı Joseph Goebbels'in propaganda başarısında en çok vurguladığı teknik unsur hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Mizah",
+        "B": "Tekrar",
+        "C": "Sessizlik",
+        "D": "Doğruluk",
+        "E": "Çeşitlilik"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Metinde Goebbels'in tekrarın gücüne inandığı, yalanların bile sürekli tekrarlandığında zihinlerde gerçek gibi algılandığı belirtilmiştir."
+    },
+    {
+      "soruid": 14,
+      "soru_metni": "Kullanıcıların ürün veya hizmetlerle ilgili deneyimlerini sosyal medya üzerinden paylaşması anlamına gelen 'eWOM' (elektronik ağızdan ağıza pazarlama), propaganda bağlamında nasıl manipüle edilmektedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Kullanıcıların internet erişimi kesilerek",
+        "B": "Sahte kullanıcı yorumları ile yapay bir kamuoyu oluşturularak",
+        "C": "Sadece e-posta yoluyla iletişim kurularak",
+        "D": "Ürün fiyatları artırılarak",
+        "E": "Web siteleri kapatılarak"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Metinde, şirketlerin veya grupların sahte yorumlar (fake reviews) satın alarak 'yatay görünümlü dikey propaganda' yaptıkları belirtilmiştir."
+    },
+    {
+      "soruid": 15,
+      "soru_metni": "Aşağıdakilerden hangisi sosyal medyanın Arap Baharı gibi toplumsal hareketlerde oynadığı rollerden biri değildir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Eylemlerin yerini ve zamanını koordine etmek",
+        "B": "Protestoları dış dünyaya duyurmak",
+        "C": "Hareketin tek bir lider tarafından hiyerarşik yönetilmesini sağlamak",
+        "D": "Geleneksel medyanın sansürünü aşmak",
+        "E": "Hızlı bir şekilde kitleleri mobilize etmek"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Metinde sosyal medya destekli hareketlerin (Arap Baharı, Occupy Wall Street) 'merkezi olmayan', lidersiz ve yatay örgütlenen yapılar olduğu vurgulanmıştır."
+    },
+    {
+      "soruid": 16,
+      "soru_metni": "Bir kişinin veya grubun itibarını yok etmek için, konuyla ilgisi olmayan olumsuz sıfatların (yalancı, hain, terörist vb.) kullanılması hangi propaganda tekniğidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "İsim Takma (Name Calling)",
+        "B": "Transfer",
+        "C": "Bütünleşme",
+        "D": "Akılcılaştırma",
+        "E": "Gündem Saptırma"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "İsim takma tekniği, kişileri belirli kategorilere hapsederek (etiketleyerek) fikirlerinin tartışılmasını engellemeyi ve itibarsızlaştırmayı hedefler."
+    },
+    {
+      "soruid": 17,
+      "soru_metni": "Sosyal medya platformlarında, insan davranışı taklidi yapan ve otomatik mesajlar üreterek belirli bir konuyu popüler (Trend Topic) göstermeye çalışan yazılımlara ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Influencer",
+        "B": "Sosyal Bot",
+        "C": "Moderatör",
+        "D": "Hacker",
+        "E": "Editör"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Metinde sosyal botların, otomatik hesaplar olarak içerik ürettiği ve 2016 ABD seçimlerinde tartışmaların önemli bir kısmını oluşturduğu belirtilmiştir."
+    },
+    {
+      "soruid": 18,
+      "soru_metni": "Dini veya seküler grupların kendi yaşam tarzlarını veya ideolojilerini, grup dışındaki geniş kitlelere yaymak için yaptıkları (örneğin misyonerlik) propaganda türü hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Ekonomik Propaganda",
+        "B": "Siyasal Propaganda",
+        "C": "Askeri Propaganda",
+        "D": "Sosyolojik Propaganda",
+        "E": "Diplomatik Propaganda"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": "Metinde sosyolojik propaganda; bir hayat tarzının benimsetilmesi faaliyeti olarak tanımlanmış, misyonerlik ve Hollywood kültürü buna örnek verilmiştir."
+    },
+    {
+      "soruid": 19,
+      "soru_metni": "Aşağıdakilerden hangisi 'Gri Propaganda'nın tanımlayıcı özelliğidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Kaynağının belirsiz olması veya farklı yerden çıkıyor gibi gösterilmesi",
+        "B": "Sadece gerçek bilgilere dayanması",
+        "C": "Hükümetler tarafından resmi kanallarla yapılması",
+        "D": "Savaş zamanı düşman radyosundan yapılması",
+        "E": "Ürün tanıtımı amacıyla yapılması"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Gri propaganda ne tam olarak beyaz (açık kaynak) ne de tam olarak kara (sahte kaynak) propagandadır; kaynağı belirsizdir ve genellikle söylenti/dedikodu üzerine kuruludur."
+    },
+    {
+      "soruid": 20,
+      "soru_metni": "Kare (#) işareti ile oluşturulan ve sosyal medyada bir konuyu gündeme taşımak veya kamuoyu oluşturmak için kullanılan etiketleme sistemine ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Spam",
+        "B": "Retweet",
+        "C": "Hashtag",
+        "D": "Mention",
+        "E": "Phishing"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Metinde 'Hashtag'in bir fikri veya konuyu öne çıkarmak için kare işaretinden sonra yazılan bildirim olduğu açıklanmıştır."
+    },
+    {
+      "soruid": 21,
+      "soru_metni": "Propaganda kelimesinin kökeni Latince 'propagare'den gelmektedir. Bu kelimenin orijinal anlamı aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Savaşmak",
+        "B": "Yalan söylemek",
+        "C": "Tohum ekmek / Filizlendirmek",
+        "D": "Yönetmek",
+        "E": "İnşa etmek"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Metinde kelimenin kökünün Latince 'propagare' olduğu ve bunun 'tohum ekmek/filizlendirmek' anlamına geldiği belirtilmiştir[cite: 161]."
+    },
+    {
+      "soruid": 22,
+      "soru_metni": "Propaganda teriminin tarihte ilk kez kurumsal ve olumsuz anlamda kullanımı hangi olayla ilişkilendirilmektedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Fransız Devrimi",
+        "B": "1622'de Katolik Kilisesi'nin 'İnancın Yayılması İçin Kutsal Meclis'i kurması",
+        "C": "I. Dünya Savaşı Propaganda Bürosu'nun açılması",
+        "D": "Bolşevik Devrimi",
+        "E": "Nazi Almanyası Propaganda Bakanlığı'nın kuruluşu"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Propaganda kelimesinin olumsuz kullanımına ilk örnek olarak 1622'de Katolik Kilisesi'ne bağlı Sacra Congregatio Christiano Nomini Propagando'nun kurulması gösterilir[cite: 163]."
+    },
+    {
+      "soruid": 23,
+      "soru_metni": "Kitle iletişim araçlarının gelişimi düşünüldüğünde, II. Dünya Savaşı sırasında propagandacıların en gözde iletişim araçları hangileri olmuştur?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Gazete ve Dergi",
+        "B": "Sosyal Medya ve Bloglar",
+        "C": "Sinema ve Tiyatro",
+        "D": "Radyo ve Televizyon",
+        "E": "Telgraf ve Mektup"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": "I. Dünya Savaşı'nda gazete ve afişler ön plandayken, metne göre II. Dünya Savaşı ile birlikte radyo ve televizyon propagandacıların gözdesi olmuştur [cite: 25-26]."
+    },
+    {
+      "soruid": 24,
+      "soru_metni": "Siyasal iktidara karşı halk arasında hoşnutsuzluğu yükseltmek amacıyla yapılan ve genellikle iktidar karşıtları tarafından kullanılan propaganda türü hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Bütünleşme Propagandası",
+        "B": "Karışıklık (Ajitasyon) Propagandası",
+        "C": "Beyaz Propaganda",
+        "D": "Sosyolojik Propaganda",
+        "E": "Diplomatik Propaganda"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Metinde 'Karışıklık propagandası'nın genellikle siyasal iktidara karşı halk arasında hoşnutsuzluğu yükseltmek için kullanıldığı belirtilmiştir[cite: 234]."
+    },
+    {
+      "soruid": 25,
+      "soru_metni": "Soğuk Savaş döneminde KGB tarafından üretilen ve Batı'da uzun süre gerçek sanılan 'CIA'de Kim Kimdir?' kitabı, hangi manipülasyon yöntemine örnektir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Saptırma",
+        "B": "Transfer",
+        "C": "Dezenformasyon",
+        "D": "İsim Takma",
+        "E": "Tanıklık"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "KGB'nin dinleyicileri yanlış yönlendirmek için bilinçli yanlış bilgi üretmesi (örneğin sahte kitap) 'Dezenformasyon' olarak tanımlanmıştır [cite: 303-304]."
+    },
+    {
+      "soruid": 26,
+      "soru_metni": "Terörist grupların şiddet eylemlerini 'barış', 'kardeşlik' veya 'demokrasi' gibi olumlu çağrışım yapan kelimelerle sunması hangi propaganda tekniğidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Genelleme / Parlatılmış Sözler",
+        "B": "Düşman Yaratma",
+        "C": "İstatistik Çarpıtma",
+        "D": "Yatay Propaganda",
+        "E": "Siyah Propaganda"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Metinde propagandanın içeriğinin olumlu çağrışımlar uyandıran kelimelerle (özgürlük savaşçısı, barış vb.) sunulmasının sık rastlanan bir yöntem olduğu belirtilmiştir [cite: 318-320]."
+    },
+    {
+      "soruid": 27,
+      "soru_metni": "Bir siyasal liderin, avantajına olmayan bir konuyu unutturmak için gündemi kasıtlı olarak değiştirmesi hangi propaganda tekniği ile adlandırılır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Saptırma (Kırmızı Ringa Balığı)",
+        "B": "Tekrar",
+        "C": "Transfer",
+        "D": "Aşılama",
+        "E": "Ötekileştirme"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Siyasal liderlerin avantajlarına olmayan konuları değiştirmek için 'saptırma' yöntemini sıklıkla kullandığı ifade edilmiştir [cite: 331-332]."
+    },
+    {
+      "soruid": 28,
+      "soru_metni": "İstatistiki verilerin bağlamından koparılarak, eksik söylenerek veya sebep-sonuç ilişkisi çarpıtılarak kullanılmasına ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Kart İstifleme (Veri Seçmece)",
+        "B": "İsim Takma",
+        "C": "Sosyal Bot",
+        "D": "Trolleme",
+        "E": "Hashtag"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Metinde istatistiki bilgilerin seçici ve yanıltıcı şekilde kullanılmasının (verilerin bağlamdan koparılması) yaygın bir teknik olduğu belirtilmiştir [cite: 327-328]."
+    },
+    {
+      "soruid": 29,
+      "soru_metni": "'Blog' kelimesi hangi iki kelimenin birleşmesinden türemiştir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Big - Log",
+        "B": "Web - Log",
+        "C": "Best - Login",
+        "D": "Binary - Logic",
+        "E": "Basic - Language"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Blog kelimesi 'Web' ve 'Log' (kayıt/kütük) kelimelerinin birleşmesinin kısaltılmış halidir[cite: 110]."
+    },
+    {
+      "soruid": 30,
+      "soru_metni": "İnternette 'Spam' olarak adlandırılan kavram neyi ifade eder?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Yüksek güvenlikli e-postalar",
+        "B": "Devlet destekli mesajlar",
+        "C": "İstenmeyen ticari veya kötü niyetli e-postalar",
+        "D": "Arkadaşlık istekleri",
+        "E": "Çevrimiçi oyun davetleri"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "'Spam' adı verilen istenmeyen e-postaların ayırt edilmesi ve filtrelenmesi gerektiği metinde geçmektedir[cite: 101]."
+    },
+    {
+      "soruid": 31,
+      "soru_metni": "Kullanıcıların belirli bir konu hakkında (örneğin bebek bakımı) başlık açarak diğerlerinden bilgi ve tecrübe talep ettiği sosyal medya platformu hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Mesajlaşma Panoları (Forumlar)",
+        "B": "Arkadaşlık Siteleri",
+        "C": "Oyun Platformları",
+        "D": "E-posta Sunucuları",
+        "E": "Video Siteleri"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Metinde kullanıcıların iyi tanımlanmış konularda mesaj yazarak bilgi talep ettiği yerler 'Mesajlaşma panoları' olarak tanımlanmıştır [cite: 137-138]."
+    },
+    {
+      "soruid": 32,
+      "soru_metni": "Çevrimiçi oyun ve eğlence platformlarının sosyal medya bağlamında yarattığı en büyük risklerden biri olarak metinde ne vurgulanmıştır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Göz bozukluğu",
+        "B": "İnternet kotasının dolması",
+        "C": "Çocuk istismarı problemleri",
+        "D": "Ders başarısının düşmesi",
+        "E": "Bilgisayar virüsleri"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Oyun platformlarında çocukların tanımadıkları kişilerle etkileşime girmesinin 'çocuk istismarı problemlerini' gündeme getirdiği belirtilmiştir[cite: 148]."
+    },
+    {
+      "soruid": 33,
+      "soru_metni": "Gabriel Weimann'ın araştırmasına göre, internet üzerinden yapılan terörist faaliyetlerin yaklaşık yüzde kaçı sosyal medya hesapları üzerinden yürütülmektedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "%10",
+        "B": "%30",
+        "C": "%50",
+        "D": "%75",
+        "E": "%90"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": "Metinde Gabriel Weimann'ın araştırmasına atıfla terörist faaliyetlerin %90'ının sosyal medya vasıtasıyla yürütüldüğü bilgisi yer almaktadır[cite: 456]."
+    },
+    {
+      "soruid": 34,
+      "soru_metni": "Terör örgütlerinin propaganda için geleneksel medya yerine sosyal medyayı tercih etmelerinin temel nedeni nedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Geleneksel medyanın çok pahalı olması",
+        "B": "Editör gibi kontrol mekanizmalarının (eşik bekçilerinin) olmaması",
+        "C": "İnternetin her yerde çekmemesi",
+        "D": "Televizyonun görüntü kalitesinin düşük olması",
+        "E": "Radyonun sadece ses iletmesi"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Metinde, sosyal medyanın geleneksel medyadaki 'yazı işleri müdürü veya editör gibi kontrol mekanizmalarını içermemesi' sayesinde teröristlerin doğrudan kitleye ulaştığı belirtilir [cite: 460-461]."
+    },
+    {
+      "soruid": 35,
+      "soru_metni": "Sosyal medya şirketlerinin (Facebook vb.) propaganda faaliyetlerini tespit etmek için verilerini yetkililerle paylaşmakta isteksiz davranmalarının temel ticari sebebi nedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Personel eksikliği",
+        "B": "Teknik yetersizlik",
+        "C": "Reklam gelirlerine dayalı iş modellerinin kullanıcı verisi gizliliğine dayanması",
+        "D": "Devletlerden korkmaları",
+        "E": "İnternet hızının düşmesi"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Şirketlerin temel gelir kaynağı reklamlar olduğu için, kullanıcı verilerini kendilerine saklamaları 'en önemli sermayeleri' olarak tanımlanmıştır, paylaşım bu modeli baltalayabilir [cite: 435-439]."
+    },
+    {
+      "soruid": 36,
+      "soru_metni": "Sosyal medya şirketlerinin bilgi paylaşım taleplerine verdikleri yanıtlarda ABD ile diğer ülkeler arasında nasıl bir orantısızlık vardır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Her ülkeye eşit davranırlar",
+        "B": "ABD talepleri %80 olumlu karşılanırken diğer ülkeler %13 seviyesindedir",
+        "C": "Avrupa ülkelerine ABD'den daha çok bilgi verirler",
+        "D": "Hiçbir devletle bilgi paylaşmazlar",
+        "E": "Sadece Çin ve Rusya ile bilgi paylaşırlar"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Metinde ABD istihbaratının taleplerinin %80 oranında, diğer ülkelerin ise sadece %13 seviyesinde olumlu karşılandığı belirtilmiştir[cite: 454]."
+    },
+    {
+      "soruid": 37,
+      "soru_metni": "Tekrar tekniği ile 'Aşılama' (Inoculation) arasındaki ilişki aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Tekrar aşılama etkisini yok eder",
+        "B": "Aşılama sadece tek bir mesajla olur",
+        "C": "Toplumun eğilim gösterdiği bir önyargı tekrarlandığında aşılama oluşur ve etki artar",
+        "D": "Aşılama yapmak için yalan söylemek zorunludur",
+        "E": "Tekrar sadece eğitimde kullanılır"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Metinde, bir toplumun eğilim gösterdiği önyargı tekrarlandığında aşılama olgusunun ortaya çıktığı ve mesajın daha kolay etkilediği belirtilmiştir[cite: 309]."
+    },
+    {
+      "soruid": 38,
+      "soru_metni": "2016 ABD Başkanlık seçimlerinde tartışmaların yaklaşık %19'unun hangi kaynaklardan geldiği tahmin edilmektedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Televizyon kanalları",
+        "B": "Gazete köşe yazarları",
+        "C": "Sosyal Botlar (Otomatik hesaplar)",
+        "D": "Sivil Toplum Kuruluşları",
+        "E": "Üniversiteler"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Metinde, 2016 seçimlerindeki tartışmaların %19'unun 'sosyal bot' denen otomatik hesaplardan geldiği tahmini yer almaktadır[cite: 395]."
+    },
+    {
+      "soruid": 39,
+      "soru_metni": "Antik Yunan'daki demokrasi pratiğinde farklı sınıfların politikalarını savunmalarına imkan tanıyan kamusal faaliyetler, propagandanın erken örnekleri sayılabilir. Aşağıdakilerden hangisi bunlardan biri değildir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Tiyatro oyunları",
+        "B": "Meclis konuşmaları",
+        "C": "Spor oyunları",
+        "D": "Dini festivaller",
+        "E": "Televizyon açık oturumları"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": "Antik Yunan'da tiyatro, spor, meclis ve festivaller sayılmıştır[cite: 166], ancak televizyon modern bir icattır."
+    },
+    {
+      "soruid": 40,
+      "soru_metni": "2011'de New York'ta başlayan ve sosyal medya üzerinden küresel eşitsizliğe karşı örgütlenen hareketin adı nedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Arap Baharı",
+        "B": "Brexit",
+        "C": "İşgal Et (Occupy Wall Street)",
+        "D": "Sarı Yelekliler",
+        "E": "Akağaç Baharı"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Metinde 2011'de New York'ta başlayan ve 'occupywallst.org' ile Twitter üzerinden yayılan hareketin 'İşgal Et Hareketi' olduğu belirtilmiştir [cite: 414-416]."
+    },
+    {
+      "soruid": 41,
+      "soru_metni": "Yapay zekanın sosyal medyadaki propagandayı tespit etmekte zorlanmasının temel nedeni olarak metinde ne gösterilmiştir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "İnternet hızının yetersiz olması",
+        "B": "İçeriklerin kültürel ve tarihsel bağlamını kavrayamaması",
+        "C": "Yapay zekanın çok pahalı olması",
+        "D": "Kodlama hataları",
+        "E": "Elektrik kesintileri"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Metne göre yapay zeka, içeriklerin kültürel ve tarihsel bağlamını kavrayamadığı için mesajın propaganda olup olmadığını etkin anlayamamaktadır[cite: 432]."
+    },
+    {
+      "soruid": 42,
+      "soru_metni": "Sosyal medya platformlarının terörist içerikleri küresel ağda tamamen silmek yerine, sadece belirli ülkelerde görüntülenmesini engellemesi (coğrafi engelleme) neye bir örnektir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Şirketlerin yasal sorumluluktan kaçınma çabası",
+        "B": "Teknik yetersizlik",
+        "C": "Kullanıcıları ödüllendirme",
+        "D": "Veri analizi",
+        "E": "Reklam stratejisi"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Twitter örneğinde olduğu gibi bazı içeriklerin sadece belirli ülkelerde engellenmesi, şirketlerin kendilerini yasal düzenlemelerden koruma çabası olarak açıklanmıştır [cite: 470-471]."
+    },
+    {
+      "soruid": 43,
+      "soru_metni": "Arap Baharı'nda protestocuların eylemlerini koordine etmek için en çok kullandığı iki platform hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Instagram ve TikTok",
+        "B": "Facebook ve Twitter",
+        "C": "LinkedIn ve Pinterest",
+        "D": "Snapchat ve WeChat",
+        "E": "MySpace ve MSN"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Protestocuların özellikle Facebook ve Twitter üzerinden eylemlerin tarihini ve yerini belirleyerek koordine oldukları belirtilmiştir[cite: 410]."
+    },
+    {
+      "soruid": 44,
+      "soru_metni": "Sosyal ağ sitelerindeki etkileşimlerin genellikle gerçek hayatta karşılaşılan kişiler ve benzer fikirlerle sınırlı kalması durumu, sosyal medyanın hangi potansiyelini sınırlar?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Hızlı haberleşme",
+        "B": "Farklı görüşlere açılma ve toplumsal diyalog",
+        "C": "Oyun oynama",
+        "D": "Fotoğraf paylaşma",
+        "E": "Müzik dinleme"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Araştırmaların, etkileşimlerin genellikle genel kabul görmüş fikirlerle sınırlı kaldığını önermesi[cite: 107], yankı odası etkisine işaret eder."
+    },
+    {
+      "soruid": 45,
+      "soru_metni": "Twitter'da bir mesajın kaç kişi tarafından paylaşıldığını gösteren ve mesajın etkisi (impact) hakkında önemli bir veri kabul edilen özellik nedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Login",
+        "B": "Sign up",
+        "C": "Retweet",
+        "D": "Block",
+        "E": "Report"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "'Retweet', atılan bir tweetin yeniden paylaşılmasıdır ve mesajın etkisi için önemli bir veri kabul edilir [cite: 122-123]."
+    },
+    {
+      "soruid": 46,
+      "soru_metni": "Aşağıdakilerden hangisi gri propaganda çeşidine açık bir örnektir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "İftira atmak",
+        "B": "Karşı tarafın ağzından haber yapmak",
+        "C": "Siyasal liderlerin kendilerini geçmişteki büyük isimlerle özdeşleştirmeleri",
+        "D": "Hayali düşmanlar yaratmak",
+        "E": "İstatistiki verileri çarpıtmak"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Gri propaganda, kaynağın belirsiz olduğu ve doğruluğu şüpheli bilgilerin yayıldığı türdür. İftira, dedikodu ve söylentiler gri propagandanın en temel araçlarıdır."
+    },
+    {
+      "soruid": 47,
+      "soru_metni": "Aşağıdakilerden hangisi kara propaganda çeşidine açık bir örnektir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Kültürel simgelere baş vurmak",
+        "B": "Yalan haber tekrarı yapmak",
+        "C": "Popüler şahsiyetlerin desteğini almak",
+        "D": "Karşı grubun ağzından yalan haber yapmak",
+        "E": "Çevrim içi bilgileri sansürlemek"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": "Kara propaganda, kaynağın dost değil düşman gibi gösterildiği (kaynak saptırması yapılan) türdür. Karşı grubun ağzından yalan haber yapmak bunun en net örneğidir."
+    },
+    {
+      "soruid": 48,
+      "soru_metni": "Bir dinin tarihi hakkında asılsız bir kitap yazılması ne türden bir manipülasyon yöntemidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Veri analizi",
+        "B": "Trollemek",
+        "C": "Sosyal bot",
+        "D": "Ajitasyon",
+        "E": "Dezenformasyon"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": "Dezenformasyon, kitleleri yanlış yönlendirmek amacıyla kasıtlı olarak yanlış bilgi/belge üretilmesidir. KGB'nin sahte kitap örneklerinde olduğu gibi, asılsız bir tarih kitabı dezenformasyondur."
+    },
+    {
+      "soruid": 49,
+      "soru_metni": "Aşağıdakilerden hangisi bir sosyal medya platformu değildir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Sosyal ağlar",
+        "B": "İnternet üzerinden yayın yapan televizyon kanalı",
+        "C": "Ağ günceleri",
+        "D": "E-posta",
+        "E": "Mesaj panoları"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Sosyal medyanın temel şartı 'etkileşim'dir. İnternet üzerinden yayın yapan bir TV kanalı, izleyici ile karşılıklı içerik üretimi ve etkileşim sağlamıyorsa (tek yönlü yayınsa) geleneksel medya formatındadır."
+    },
+    {
+      "soruid": 50,
+      "soru_metni": "Aşağıdakilerden hangisi sosyal medyayı geleneksel medyadan ayırt eden bir özelliklerden biri değildir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Karşılıklı etkileşimi sağlamak",
+        "B": "Kullanıcı iş birliğini mümkün kılmak",
+        "C": "Kitlesel etki yapabilmek",
+        "D": "Tek bir merkezden kontrol edilememek",
+        "E": "Giriş maliyetlerinin düşük olması"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Geleneksel medya (TV, Gazete) da kitlesel etki yapabilme gücüne sahiptir. Bu, sosyal medyayı ayıran bir fark değil, iki türün ortak özelliğidir."
+    },
+    {
+      "soruid": 51,
+      "soru_metni": "Aşağıdakilerden hangisi sosyal medyada propagandayı engellemeyi zorlaştıran sebeplerden biri değildir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "İfade özgürlüğüne ilişkin kaygılar",
+        "B": "Kaynakların belirsizliği",
+        "C": "İnternetin adem-i merkezi yapısı",
+        "D": "Cezaların yetersizliği",
+        "E": "Sosyal medya şirketlerinin güvenlik birimleri ile iş birliği yapmaması"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": "Soruda metne dayalı olarak; şirketlerin iş birliği yapmaması, merkeziyetsizlik ve anonimlik (kaynak belirsizliği) temel zorluklar olarak sayılmıştır. 'Cezaların yetersizliği' metinde birincil yapısal sorun olarak vurgulanmamıştır."
+    },
+    {
+      "soruid": 52,
+      "soru_metni": "Aşağıdakilerden hangisi propagandada kullanılan bilişsel taktiklerden biri değildir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Fikirler yerine kişiliklere saldırmak",
+        "B": "Karşı tarafa olumsuz isimler takmak",
+        "C": "Seçici bir tarihsel anlatı yapmak",
+        "D": "Olumlu simgeleri propaganda yapana transfer etmek",
+        "E": "Sosyal medya analizi yapmak"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": "A, B, C ve D seçenekleri birer manipülasyon ve propaganda tekniğidir. Ancak 'Sosyal medya analizi yapmak' bir araştırma ve veri toplama yöntemidir, bir propaganda hilesi değildir."
+    },
+    {
+      "soruid": 53,
+      "soru_metni": "Aşağıdakilerden hangisi sosyal medya şirketlerinin bilgi paylaşmaktan kaçınmalarının sebeplerinden biri değildir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Toplumsal olaylara karşı ilgisiz olmaları",
+        "B": "Kişisel verileri paylaşmanın şirket kârlılığını düşürmesi",
+        "C": "Kullanıcılarını kaybetmek istememeleri",
+        "D": "Yeterli uluslararası ceza mekanizması olmaması",
+        "E": "İfade özgürlüğüne ilişkin problemlerin varlığı"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Şirketler toplumsal olaylara ilgisiz oldukları için değil; ticari modellerini korumak (reklam geliri), kullanıcı güvenini sarsmamak ve sansürcü konumuna düşmemek için bilgi paylaşmaktan kaçınırlar."
+    },
+    {
+      "soruid": 54,
+      "soru_metni": "Propagandacılar neden toplumsal simge ve değerlere sıklıkla gönderme yaparlar?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Akıldan ziyade duygulara hitap edebilmek için",
+        "B": "Toplumsal değerleri savundukları için",
+        "C": "Kitleler yönlendirilmeye ihtiyaç duydukları için",
+        "D": "Ortak çıkarlar ancak simgeler aracılığıyla ifade edilebildiği için",
+        "E": "Doğru bilgi kaynaklarına ulaşamadıkları için"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Simgeler (bayrak, din, tarih vb.) bireylerin bilinçdışında güçlü duygusal tepkiler yaratır. Propagandacı, mantıksal sorgulamayı bypass edip duyguları harekete geçirmek için simgeleri kullanır."
+    },
+    {
+      "soruid": 55,
+      "soru_metni": "Aşağıdakilerden hangisi sosyal medyanın geleneksel medyadan daha etkin bir propaganda aracı olmasının sebeplerinden biri değildir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Kimliklerin belirsizliği",
+        "B": "Veri kaynaklarının takibinin zor olması",
+        "C": "İçeriklerin çok daha hızlı yayılması",
+        "D": "Sosyal medya kullanıcılarının gönüllü iş birliği yapmaları",
+        "E": "İnternetin tek bir merkezden kontrol edilebiliyor olması"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": "İnternet ve sosyal medya 'tek bir merkezden kontrol edilemeyen' (adem-i merkezi) bir yapıya sahiptir. Bu yüzden E şıkkındaki ifade sosyal medyanın bir özelliği değildir, tam tersidir."
+    }
+      ]
+    }
+  ]
+}
