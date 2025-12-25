@@ -1,0 +1,583 @@
+{
+  "ders_kodu": "SMY201U",
+  "ders_adi": "SOSYAL MEDYA VE PROPAGANDA",
+  "sinavlar": [
+    {
+      "baslik": "2025 Ünite 4 Yapay Zeka Destekli Çıkabilecek Sorular",
+      "tur": "AI",
+      "yil": 2025,
+     "sorular": [
+    {
+      "soruid": 1,
+      "soru_metni": "Politik veya sosyal bir öğreti oluşturan; bir partinin, grubun veya kişinin davranışlarına yön veren düşünceler bütününe ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Mit",
+        "B": "İdeoloji",
+        "C": "Hegemonya",
+        "D": "Propaganda",
+        "E": "Söylem"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "TDK ve metindeki tanıma göre ideoloji; politik/sosyal öğreti oluşturan, davranışlara yön veren siyasi, hukuki ve felsefi düşünceler setidir."
+    },
+    {
+      "soruid": 2,
+      "soru_metni": "Marksist yaklaşıma göre ideoloji genellikle nasıl tanımlanır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Toplumsal uzlaşı aracı",
+        "B": "Bilimsel bir gerçeklik",
+        "C": "Kitleleri uyutan bir yanılsama (yanlış bilinç)",
+        "D": "Devletin meşruiyet kaynağı",
+        "E": "Bireysel özgürlük alanı"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Çoğu Marksist'e göre ideoloji, kitleleri uyutmak ve aldatmak için kullanılan bir 'yanılsama' (false consciousness) veya 'yanlış bilinç'tir."
+    },
+    {
+      "soruid": 3,
+      "soru_metni": "Louis Althusser'e göre devletin kendi varlığını sürdürmek için kullandığı eğitim, aile, din ve medya gibi araçlara ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Devletin Baskı Aygıtları",
+        "B": "Sivil Toplum Örgütleri",
+        "C": "Devletin İdeolojik Aygıtları",
+        "D": "Hegemonik Blok",
+        "E": "Bürokratik Mekanizma"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Althusser, polisi ve askeri 'baskı aygıtları' olarak tanımlarken; eğitim, aile, din gibi kurumları 'Devletin İdeolojik Aygıtları' olarak nitelendirir."
+    },
+    {
+      "soruid": 4,
+      "soru_metni": "Daniel Bell, 1960 yılında yayınlanan eserinde hangi kavramın sonunun geldiğini iddia etmiştir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Tarihin",
+        "B": "Liberalizmin",
+        "C": "Ulus Devletin",
+        "D": "İdeolojilerin",
+        "E": "Sınıf Çatışmasının"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": "Daniel Bell, 'The End of Ideology' (İdeolojilerin Sonu) adlı eserinde liberal demokrasi ile sosyalizm arasındaki çatışmanın anlamını yitirdiğini öne sürmüştür."
+    },
+    {
+      "soruid": 5,
+      "soru_metni": "Chilton ve Schaffner'e göre aşağıdakilerden hangisi ideolojik propagandanın dört temel stratejisinden biri değildir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "İkna etme",
+        "B": "Direnç oluşturma",
+        "C": "Meşrulaştırma",
+        "D": "Sansürleme",
+        "E": "Temsil / Yanlış Temsil"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": "Metne göre dört strateji: İkna, Direnç (Protesto), Meşrulaştırma/Gayrimeşrulaştırma ve Temsil/Yanlış Temsil'dir. Sansürleme bu sınıflandırmada doğrudan bir başlık değildir, yanlış temsilin içinde geçebilir ama ana başlık değildir."
+    },
+    {
+      "soruid": 6,
+      "soru_metni": "Joseph Schull, ideolojiyi hangi iki ana eksen üzerinde tanımlamıştır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "İnanç sistemi ve Söylem biçimi",
+        "B": "Sağ ve Sol",
+        "C": "Teori ve Pratik",
+        "D": "Doğu ve Batı",
+        "E": "Devlet ve Birey"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Schull'a göre ideoloji iki boyutta incelenir: Biri katı kuralları olan bir 'İnanç Sistemi', diğeri ise daha esnek olan 'Söylem Biçimi'dir."
+    },
+    {
+      "soruid": 7,
+      "soru_metni": "Aristo'nun Rhetoric adlı eserinde bahsettiği ikna bileşenlerinden 'Logos' neyi ifade eder?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Konuşmacının otoritesini",
+        "B": "Dinleyicinin duygusal durumunu",
+        "C": "Konuşmacının ses tonunu",
+        "D": "Argümanın mantıklı biçimde kanıtlanabilmesini",
+        "E": "Mekânın uygunluğunu"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": "Aristo'ya göre Logos, söylenen sözün argümantasyon mantığını ve kanıtlama becerisini ifade eder."
+    },
+    {
+      "soruid": 8,
+      "soru_metni": "Sosyal medya fikir önderlerinin bir propagandanın parçası oldukları bilindiğinde, izleyiciler üzerindeki etkileri nasıl değişmektedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Etkileri artar",
+        "B": "Etkileri azalır",
+        "C": "Etkileri değişmez",
+        "D": "Daha fanatik hale gelirler",
+        "E": "İzleyiciler propagandayı daha çok paylaşır"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Metinde geçen Huang ve ark. (2018) çalışmasına göre, kullanıcılar bir paylaşımın propaganda olduğunu fark ettiklerinde ondan daha az etkilenmektedirler."
+    },
+    {
+      "soruid": 9,
+      "soru_metni": "Beppe Grillo'nun İtalya'da başlattığı ve sosyal medya üzerinden örgütlenerek büyük başarı kazanan siyasi hareketin adı nedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Kuzey Ligi",
+        "B": "Beş Yıldız Hareketi",
+        "C": "Forza Italia",
+        "D": "Demokrat Parti",
+        "E": "Zeytin Dalı Koalisyonu"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Beppe Grillo, blogu ve sosyal medya üzerinden 'Beş Yıldız Hareketi'ni (Five Star Movement) başlatmış ve 2013 seçimlerinde büyük başarı elde etmiştir."
+    },
+    {
+      "soruid": 10,
+      "soru_metni": "İdeolojik propagandada 'meşruiyetini yok etme' (gayrimeşrulaştırma) stratejisi neyi amaçlar?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Kendi liderini övmek",
+        "B": "Rakip düşünceyi veya kişiyi düşmanlaştırarak karalamak",
+        "C": "Seçmenle yüz yüze iletişim kurmak",
+        "D": "Medya organlarını satın almak",
+        "E": "Eğitim müfredatını değiştirmek"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Gayrimeşrulaştırma, bir düşman belirleyip ona negatif özellikler yükleyerek onun kıymet görmesini engellemeyi amaçlar."
+    },
+    {
+      "soruid": 11,
+      "soru_metni": "ABD Başkanı Eisenhower, Soğuk Savaş döneminde Amerikan ideolojisini yaymak için hangi kurumu kurmuştur?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "CIA",
+        "B": "FBI",
+        "C": "NASA",
+        "D": "Birleşik Devletler Enformasyon Ajansı (USIA)",
+        "E": "NATO"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": "Eisenhower, liberal fikirleri ve serbest piyasayı yaymak amacıyla radyo kanalları başta olmak üzere iletişim araçlarını kullanan Birleşik Devletler Enformasyon Ajansı'nı kurmuştur."
+    },
+    {
+      "soruid": 12,
+      "soru_metni": "Roland Barthes'a göre, toplum içinde oluşturulan ve bir statükonun sürmesi için 'illüzyonel bir gerçeklik' ortaya koyan kavram nedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Mit",
+        "B": "Logo",
+        "C": "Slogan",
+        "D": "Ütopya",
+        "E": "Ritüel"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Barthes, mitlerin ideolojik mesajlar taşıdığını ve egemen grubun doğrularını 'doğalmış' gibi göstererek bir illüzyon yarattığını belirtir."
+    },
+    {
+      "soruid": 13,
+      "soru_metni": "Sosyal medyanın yaygınlaşmasıyla birlikte ideolojilerin kitlelere ulaşma biçimindeki en temel değişim nedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Daha pahalı hale gelmesi",
+        "B": "Sadece elitlere hitap etmesi",
+        "C": "Doğrudan ve aracısız biçimde ulaşabilmesi",
+        "D": "Sadece yazılı metinlere dayanması",
+        "E": "Devlet kontrolünün tamamen artması"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Metinde, sosyal medyanın gelişmesiyle ideolojilerin artık 'doğrudan ve aracısız' biçimde kitlelere ulaşabildiği vurgulanmaktadır."
+    },
+    {
+      "soruid": 14,
+      "soru_metni": "Stephan Dahl'a göre, MacBook kullanıcılarının kendilerini diğerlerinden ayrıştırarak oluşturdukları tüketim alışkanlığı ne tür bir yapıya örnektir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Sınıf bilinci",
+        "B": "Kabile tipi tüketim (Tribalism)",
+        "C": "Küresel vatandaşlık",
+        "D": "Bireysel anarşizm",
+        "E": "Devletçilik"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Dahl, sosyal medya kullanıcılarının önemli bir bölümünün 'kabile tipi' (tribal) bir tüketim ve kimlik inşası içinde olduğunu belirtir (Apple/MacBook örneği)."
+    },
+    {
+      "soruid": 15,
+      "soru_metni": "Barack Obama'nın başkanlık seçimlerinde rakibi John McCain'e karşı en büyük avantajı ne olmuştur?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Televizyon reklamlarına daha çok bütçe ayırması",
+        "B": "Sosyal medyayı etkin kullanarak genç seçmene ulaşması",
+        "C": "Daha yaşlı bir aday olması",
+        "D": "Gazete tirajlarının yüksek olması",
+        "E": "Radyo konuşmalarına ağırlık vermesi"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Obama, sosyal medyayı (Twitter, Facebook, YouTube) rakibinden 4 kat daha fazla kullanmış ve ilk kez oy kullanan gençlerin %71'inin oyunu almıştır."
+    },
+    {
+      "soruid": 16,
+      "soru_metni": "Bir ideolojik propagandada, 'yuvayı dişi kuş yapar' gibi atasözlerinin kullanılması ne tür bir propagandaya örnektir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Açık propaganda",
+        "B": "Örtülü propaganda",
+        "C": "Kara propaganda",
+        "D": "Karşı propaganda",
+        "E": "Resmi propaganda"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Bu tür ifadeler, ilk bakışta masum görünse de arka planda cinsiyet rolleri gibi ideolojik kabulleri barındırdığı için 'örtülü propaganda' olarak tanımlanır."
+    },
+    {
+      "soruid": 17,
+      "soru_metni": "John Rawls, 'Siyasi Liberalizm' adlı eserinde devletin ideolojiler karşısındaki tutumunun nasıl olması gerektiğini savunur?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Tek bir resmi ideolojiyi dayatmalıdır.",
+        "B": "İdeolojileri tamamen yasaklamalıdır.",
+        "C": "Makul bir çoğulculuğu sağlamalıdır.",
+        "D": "Sadece dini ideolojileri desteklemelidir.",
+        "E": "Ekonomik ideolojilere karışmamalıdır."
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Rawls, devletin bir ideolojiyi dikte etmek yerine, farklı görüşlerin kendini ifade edebileceği 'makul bir çoğulculuğu' sağlaması gerektiğini savunur."
+    },
+    {
+      "soruid": 18,
+      "soru_metni": "Aşağıdakilerden hangisi ideolojik propagandanın 'yanlış temsil' (misrepresentation) stratejisine bir örnektir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Liderin başarılarını abartarak anlatmak",
+        "B": "Kendi ideolojisine zarar verebilecek bilgiyi sansürlemek veya gizlemek",
+        "C": "Rakip partinin logosunu kullanmak",
+        "D": "Miting düzenlemek",
+        "E": "Parti tüzüğünü yayınlamak"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Yanlış temsil stratejisi, ideolojik duruşa zarar verme ihtimali olan malumatı sansürleme, eksik aktarma veya gizleme şeklinde ortaya çıkar."
+    },
+    {
+      "soruid": 19,
+      "soru_metni": "Gökçe ve arkadaşlarının (2014) çalışmasında 'hayalet kanaat oluşturucuları' olarak tanımlanan grup kimlerdir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Ana akım medya patronları",
+        "B": "Emekli siyasetçiler",
+        "C": "Gerçek kimliği belirsiz ama gündemi etkileyen sosyal medya hesapları",
+        "D": "Yurt dışında yaşayan akademisyenler",
+        "E": "Televizyon sunucuları"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Hayalet kanaat oluşturucuları, gerçek isimleriyle var olup olmadıkları bilinmeyen ancak kehanetler veya duyumlarla gündem belirleyen sosyal medya hesaplarıdır."
+    },
+    {
+      "soruid": 20,
+      "soru_metni": "İdeolojinin sosyal medyadaki yansımasında 'zaman ve mekân' bağlamı neden önemlidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Çünkü sosyal medya sadece geceleri kullanılır.",
+        "B": "Çünkü her ideoloji her zaman ve her yerde aynı etkiyi yaratmaz, konjonktüre göre anlam kazanır.",
+        "C": "Çünkü mekân, internet hızını etkiler.",
+        "D": "Çünkü zaman, karakter sınırını belirler.",
+        "E": "Önemsizdir, ideoloji her yerde aynıdır."
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Metinde, bir dönem veya mekânda muteber olan bir söylemin başka bir konjonktürde (örn. savaş zamanı veya farklı bir ülkede) aynı etkiyi yaratmayacağı belirtilir."
+    },
+    {
+      "soruid": 21,
+      "soru_metni": "Aşağıdakilerden hangisi bir 'jargon' örneği olarak ideolojik aidiyet belirtebilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Günaydın demek",
+        "B": "Nasılsın diye sormak",
+        "C": "'Karbon ayak izi', 'Yoldaş', 'Tefekkür' gibi kelimeleri sıkça kullanmak",
+        "D": "Resmi bayramları kutlamak",
+        "E": "Spor müsabakası izlemek"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Metinde; 'karbon ayak izi'nin ekolojik, 'yoldaş' veya 'eşitlik' vurgusunun sosyalist, 'tefekkür'ün İslamcı bir jargona işaret edebileceği belirtilmiştir."
+    },
+    {
+      "soruid": 22,
+      "soru_metni": "Norveç'teki Anders Behring Breivik saldırısı, sosyal medyanın hangi olumsuz yönüne bir örnektir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Bilgi kirliliği yaratması",
+        "B": "Telif haklarını ihlal etmesi",
+        "C": "Radikalleşme ve şiddet eylemlerini besleyen yankı odaları oluşturması",
+        "D": "Seçim sonuçlarını değiştirmesi",
+        "E": "Ekonomik dolandırıcılık yapılması"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Breivik'in saldırı öncesinde İslamofobik ve faşist propaganda yapan sosyal medya mecralarında aktif olduğu ve burada radikalleştiği vurgulanmıştır."
+    },
+    {
+      "soruid": 23,
+      "soru_metni": "İnsan Hakları Evrensel Beyannamesi'ne göre ifade özgürlüğü neleri kapsar?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Sadece düşünmeyi",
+        "B": "Düşünceyi, ülke sınırları gözetmeksizin her yoldan arama, elde etme ve yayma hakkını",
+        "C": "Sadece devletin izin verdiği bilgileri yaymayı",
+        "D": "Başkalarına hakaret etme hakkını",
+        "E": "Şiddete teşvik etme hakkını"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "İfade özgürlüğü, sadece düşünmeyi değil, aynı zamanda bilgi ve düşünceleri sınırlar olmaksızın her türlü araçla (sosyal medya dahil) yaymayı kapsar."
+    },
+    {
+      "soruid": 24,
+      "soru_metni": "Sosyal medyada ideolojik propagandanın 'negatif propaganda' şeklinde yapılması ne anlama gelir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Hiç propaganda yapmamak",
+        "B": "Kendi partisinin eksiklerini anlatmak",
+        "C": "Rakip aday veya partiyi kötüleyerek, yıpratarak avantaj sağlamak",
+        "D": "Sadece siyah beyaz görseller kullanmak",
+        "E": "Gece saatlerinde paylaşım yapmak"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Negatif propaganda, rakip düşünce, parti veya kişileri kötüleme, suçlama ve yıpratma üzerine kuruludur."
+    },
+    {
+      "soruid": 25,
+      "soru_metni": "Duverger'in belirttiği gibi, 19. yüzyılda Frankfurt Parlamentosu'ndaki siyasi gruplar (Gazino, Otel vb.) neye göre isimlendirilmiştir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Liderlerinin soyadlarına göre",
+        "B": "Bir araya geldikleri mekânlara göre",
+        "C": "Giyim tarzlarına göre",
+        "D": "Yaş gruplarına göre",
+        "E": "Eğitim seviyelerine göre"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Partilerin oluşum aşamasında ideolojik gruplar, toplandıkları yerlere göre (örn. Gazino grubu, Wurtemberg Oteli grubu) adlandırılmışlardır."
+    },
+    {
+      "soruid": 26,
+      "soru_metni": "Kanada'daki Yeni Demokrat Parti lideri Singh'in sürekli türban kullanması, ideolojik propagandada neyin kullanımına örnektir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Mekân",
+        "B": "Sembol ve İşaretler (Sözsüz İletişim)",
+        "C": "Yazılı metin",
+        "D": "Ses efekti",
+        "E": "İstatistiki veri"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Singh'in türbanı, göçmenleri ve farklı kimlikleri temsil eden bir 'sembolik söylem' aracı olarak kullanılmıştır."
+    },
+    {
+      "soruid": 27,
+      "soru_metni": "Sosyal medyada yapılan ideolojik propagandalara karşı farkındalık geliştirmek için önerilen maddelerden biri aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Görülen her haberi hemen paylaşmak",
+        "B": "Sadece kendi görüşüne yakın hesapları takip etmek",
+        "C": "Hangi bakış açılarının olumsuzlandığını ya da göz ardı edildiğini anlamaya çalışmak",
+        "D": "Yorumları okumadan cevap yazmak",
+        "E": "Kaynağı belirsiz bilgilere güvenmek"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Eleştirel medya okuryazarlığı için, metnin neyi dahil ettiğinin yanı sıra neyi dışladığını (olumsuzladığını/göz ardı ettiğini) sorgulamak gerekir."
+    },
+    {
+      "soruid": 28,
+      "soru_metni": "Akil N. Awan'ın (2007) çalışmasına göre, Batı'daki Müslüman diasporasının terör örgütü propagandalarına karşı savunmasız kalmasının temel nedenlerinden biri nedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "İnternet erişiminin olmaması",
+        "B": "Batı medyasının yanlı haber akışına duyulan güvensizlik ve alternatif arayışı",
+        "C": "Sosyal medyanın yasaklanması",
+        "D": "Dil bariyeri",
+        "E": "Eğitim seviyesinin yüksekliği"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Awan, ana akım medyanın yanlı tutumunun, diasporayı alternatif (ve bazen radikal) kaynaklara yönelttiğini belirtmiştir."
+    },
+    {
+      "soruid": 29,
+      "soru_metni": "Aşağıdakilerden hangisi siyasi partilerin sosyal medyayı tercih etme nedenlerinden biri değildir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Düşük maliyetli olması",
+        "B": "Genç seçmene ulaşma imkanı",
+        "C": "Anlık geri bildirim alabilme",
+        "D": "Sansürün geleneksel medyaya göre daha az olması (görece)",
+        "E": "Sadece yaşlı nüfusa hitap etmesi"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": "Sosyal medya özellikle genç seçmenlere ulaşmak için etkilidir, sadece yaşlı nüfusa hitap etmesi yanlış bir bilgidir."
+    },
+    {
+      "soruid": 30,
+      "soru_metni": "Converse'in (1964) çalışmasına göre, ideolojiler toplumun geneli (sıradan vatandaşlar) üzerinde nasıl bir etkiye sahiptir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Herkes ideolojileri tutarlı ve bütüncül şekilde benimser.",
+        "B": "Toplumun geneli ideolojik bir bakış açısının bütünüyle etkisi altında değildir; ideolojiler daha çok elitler için önemlidir.",
+        "C": "Sıradan vatandaşlar ideologlardan daha tutarlıdır.",
+        "D": "İdeolojiler sadece seçim döneminde hatırlanır.",
+        "E": "Hiçbir etkisi yoktur."
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Converse, ideolojilerin elitler için önemli olduğunu ancak kitlelerin (sıradan vatandaşın) siyaseti yorumlayışının çoğunlukla tutarlı bir ideolojik çerçeveye oturmadığını savunur."
+    },
+       Harika bir nokta. AÖF sınavlarında genellikle ünite sonu sorularından (Neler Öğrendik?) birebir veya çok benzer sorular gelir. Bu yüzden bu sorular çok değerlidir.
+
+Önceki 30 soruluk listenin devamı olarak, ünitenin sonunda yer alan orijinal 10 soruyu, cevap anahtarına ve kitaptaki açıklamalara göre hazırladım. Sıralamayı 31'den başlatarak 40'a kadar devam ettirdim.
+
+İşte ünitenin kendi değerlendirme soruları:
+
+JSON
+
+{
+  "sorular": [
+    {
+      "soruid": 31,
+      "soru_metni": "En basit tanımı ile politik veya sosyal bir öğreti oluşturan, bir partinin, hükümetin, bir grubun ya da kişinin davranışlarına yön veren siyasi, hukuki, bilimsel, felsefi, ahlaki, dinî ve estetik düşünceler setine ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Mit",
+        "B": "Fantezi",
+        "C": "İdeoloji",
+        "D": "Ütopya",
+        "E": "Algı"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "TDK Sözlüğü ve ders kitabındaki tanıma göre; politik/sosyal öğreti oluşturan ve davranışlara yön veren düşünceler setine ideoloji denir[cite: 575, 578]."
+    },
+    {
+      "soruid": 32,
+      "soru_metni": "İdeolojilerin sonunun geldiğini öne süren düşünür aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Daniel Bell",
+        "B": "Karl Marx",
+        "C": "Lipset",
+        "D": "Lijphart",
+        "E": "Plato"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "1960 yılında yayınlanan 'The End of Ideology' eserinde Daniel Bell, liberal demokrasi ile sosyalizm arasındaki ideolojik çatışmanın anlamını yitirdiğini ve ideolojilerin sonunun geldiğini öne sürmüştür[cite: 522, 582]."
+    },
+    {
+      "soruid": 33,
+      "soru_metni": "Devletin şiddet aygıtlarının yanında bir de ideolojik aygıtlarının olduğundan bahseden düşünür kimdir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Plato",
+        "B": "Louis Althusser",
+        "C": "Locke",
+        "D": "Weber",
+        "E": "Mcclay"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Louis Althusser, devletin sadece polis/asker gibi baskı aygıtları olmadığını, aynı zamanda eğitim, aile, din gibi 'Devletin İdeolojik Aygıtları'nı kullanarak varlığını sürdürdüğünü belirtir[cite: 520, 591]."
+    },
+    {
+      "soruid": 34,
+      "soru_metni": "İdeolojiyi geniş çaplı ve bütüncül görüşler olarak gören ve devletin bir ideolojiyi dikte etmek yerine makul bir çoğulculuğu sağlaması gerektiğini savunan düşünür kimdir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "John Rawls",
+        "B": "Gramsci",
+        "C": "Derrida",
+        "D": "Foucault",
+        "E": "Deleuze"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "John Rawls, 'Siyasi Liberalizm' adlı eserinde devletin tek bir ideolojiyi dayatmak yerine, farklı görüşlerin barınabileceği makul bir çoğulculuğu (reasonable pluralism) sağlaması gerektiğini savunur[cite: 523, 593]."
+    },
+    {
+      "soruid": 35,
+      "soru_metni": "Aşağıdakilerden hangisi sosyal medyada yapılan ideolojik propaganda için kullanılabilecek dört temel strateji arasında yer almaz?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "İkna",
+        "B": "Meşrulaştırma",
+        "C": "Temsil",
+        "D": "Tartışma",
+        "E": "Gayrimeşrulaştırma"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": "Chilton ve Schaffner'e göre dört strateji: İkna, Direnç, Meşrulaştırma/Gayrimeşrulaştırma ve Temsil/Yanlış Temsil'dir. 'Tartışma' bu stratejik sınıflandırma içinde yer almaz[cite: 529, 601]."
+    },
+    {
+      "soruid": 36,
+      "soru_metni": "Soğuk Savaş döneminde Birleşik Devletler Enformasyon Ajansını (USIA) kurarak, radyo kanalları başta olmak üzere iletişim araçları üzerinden neredeyse tüm dünyaya hitap eden bir ideolojik propaganda süreci yürüten ABD başkanı kimdir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Obama",
+        "B": "Eisenhower",
+        "C": "G. Bush",
+        "D": "Hoover",
+        "E": "Trump"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Liberal fikirleri yaymak amacıyla USIA'yı kuran ve küresel bir propaganda süreci başlatan ABD Başkanı Eisenhower'dır[cite: 203, 605]."
+    },
+    {
+      "soruid": 37,
+      "soru_metni": "Sosyal medyada oluşan ideolojik propagandanın anlam kazanmasında aşağıdakilerden hangisi diğerlerine göre daha az etkilidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Zaman",
+        "B": "Mekân",
+        "C": "Dil",
+        "D": "Renk",
+        "E": "Hiçbiri"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": "Ünite başlığında ve içeriğinde ideolojik propagandanın bağlamını belirleyen ana unsurlar 'Zaman, Mekân ve Dil' olarak sıralanmıştır. Renk, metinde ana belirleyici bağlam olarak vurgulanmamıştır[cite: 551, 616]."
+    },
+    {
+      "soruid": 38,
+      "soru_metni": "Sosyal medyanın öncelikle alan açtığı özgürlük ve hak alanı aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Yerleşme ve Seyahat Özgürlüğü",
+        "B": "Sağlık Hakkı",
+        "C": "İfade Özgürlüğü",
+        "D": "İbadet Hakkı",
+        "E": "Vatandaşlık Hakkı"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Sosyal medya, bireylerin düşüncelerini yayma ve bilgiye ulaşma potansiyeli nedeniyle doğrudan İnsan Hakları Evrensel Beyannamesi'ndeki 'İfade Özgürlüğü' ile ilişkilendirilir[cite: 566, 621]."
+    },
+    {
+      "soruid": 39,
+      "soru_metni": "Sosyal medya kullanıcılarının önemli bir bölümünün kabile tipi bir tüketim alışkanlığı üzerinden kendi kimliklerini ortaya koyduklarını ifade eden araştırmacı kimdir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Stephan Dahl",
+        "B": "George Orwell",
+        "C": "Clay Shirky",
+        "D": "Richard Stallman",
+        "E": "Van den Berghe"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Stephan Dahl, 'Sosyal Medya ve Pazarlama' kitabında kullanıcıların (örneğin Apple kullanıcıları) kabile tipi tüketim (tribal consumption) sergilediğini belirtmiştir[cite: 471, 624]."
+    },
+    {
+      "soruid": 40,
+      "soru_metni": "Roland Barthes'a göre ideolojik, ekonomik ve siyasi mesajlar taşıyan, toplum içinde oluşturulan ve bir statükonun sürmesi için illüzyonel bir gerçeklik ortaya koyan kavram aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Fantezi",
+        "B": "Nostalji",
+        "C": "Propaganda",
+        "D": "Mit",
+        "E": "Efsun"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": "Barthes, gerçeğin yerine geçerek ideolojiyi doğallaştıran ve statükoyu sürdüren bu illüzyonel kavramı 'Mit' olarak tanımlar[cite: 479, 632]."
+    }
+      ]
+    }
+  ]
+}
