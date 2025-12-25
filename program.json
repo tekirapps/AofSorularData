@@ -15,6 +15,16 @@
             "ders_adi": "DİJİTAL YAYINCILIK",
             "kod": "SMY203U",
             "dosya_adi": "dijitalyayincilik_kitapsorulariunite1.json, dijitalyayincilik_kitapsorulariunite2.json, dijitalyayincilik_kitapsorulariunite3.json, dijitalyayincilik_kitapsorulariunite4.json, dijitalyayincilik_kitapsorulariunite5.json, dijitalyayincilik_kitapsorulariunite6.json, dijitalyayincilik_kitapsorulariunite7.json, dijitalyayincilik_kitapsorulariunite8.json"
+          },
+          {
+            "ders_adi": "DİJİTAL TASARIM",
+            "kod": "SMY207U",
+            "dosya_adi": "dtasarim_kitapsorulariunite1.json, dtasarim_kitapsorulariunite2.json, dtasarim_kitapsorulariunite3.json, dtasarim_kitapsorulariunite4.json, dtasarim_kitapsorulariunite5.json, dtasarim_kitapsorulariunite6.json, dtasarim_kitapsorulariunite7.json, dtasarim_kitapsorulariunite8.json"
+          },
+          {
+            "ders_adi": "SOSYAL MEDYA ARAÇLARI",
+            "kod": "SMY209U",
+           "dosya_adi": "smaraclari_kitapsorulariunite1.json, smaraclari_kitapsorulariunite2.json, smaraclari_kitapsorulariunite3.json, smaraclari_kitapsorulariunite4.json, smaraclari_kitapsorulariunite5.json, smaraclari_kitapsorulariunite6.json, smaraclari_kitapsorulariunite7.json, smaraclari_kitapsorulariunite8.json"
           }
         ]
       }
