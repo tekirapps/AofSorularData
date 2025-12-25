@@ -1,0 +1,573 @@
+{
+  "ders_kodu": "SMY203U",
+  "ders_adi": "DİJİTAL YAYINCILIK",
+  "sinavlar": [
+    {
+      "baslik": "2025 Ünite 5 Yapay Zeka Destekli Çıkabilecek Sorular",
+      "tur": "AI",
+      "yil": 2025,
+      "sorular": [
+    {
+      "soruid": 1,
+      "soru_metni": "Lev Manovich'e göre, fotoğrafik gerçekliğin yerini alan, bilgisayar aracılığıyla değiştirilebilir ve yeniden inşa edilebilir gerçeklik türüne ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Sanal Gerçeklik",
+        "B": "Elastik Gerçeklik",
+        "C": "Artırılmış Gerçeklik",
+        "D": "Somut Gerçeklik",
+        "E": "Objektif Gerçeklik"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Metinde Lev Manovich'in dijital sinemadaki bu yeni durumu 'elastik gerçeklik' (elastic reality) olarak tanımladığı belirtilmektedir[cite: 3075]."
+    },
+    {
+      "soruid": 2,
+      "soru_metni": "Aşağıdakilerden hangisi Kristen Whissel'in aksiyon filmlerinde saptadığı 'dijital efekt amblemleri'nden biri değildir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Yeni Dikeylik (New Verticality)",
+        "B": "Dijital Kalabalık (Digital Multitude)",
+        "C": "Dijital Yaratık (Digital Creature)",
+        "D": "Dijital Şekillendirme (Digital Morph)",
+        "E": "Dijital Renklendirme (Digital Coloring)"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": "Whissel'in sınıflandırmasında Yeni Dikeylik, Dijital Kalabalık, Dijital Yaratık ve Dijital Şekillendirme yer alır; Dijital Renklendirme bu amblemlerden biri değildir[cite: 3110, 3112, 3114, 3115, 3119]."
+    },
+    {
+      "soruid": 3,
+      "soru_metni": "Daly'nin (2010) ortaya attığı 'Sinema 3.0' kavramının en temel özelliği nedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Siyah beyaz olması",
+        "B": "Sessiz olması",
+        "C": "İzleyicinin pasif konumdan çıkıp etkileşimli (interaktif) hale gelmesi",
+        "D": "Sadece belgesel türünde olması",
+        "E": "Analog kameralarla çekilmesi"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Daly'e göre Sinema 3.0, kullanıcının/seyircinin sinemasına dönüşen ve etkileşimi (interaktiviteyi) temel alan bir yapıdır[cite: 3125, 3130]."
+    },
+    {
+      "soruid": 4,
+      "soru_metni": "Analog sinemada kullanılan 35mm film formatının dijital sinemadaki çözünürlük karşılığı yaklaşık olarak kaçtır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "1K",
+        "B": "2K",
+        "C": "4K",
+        "D": "6K",
+        "E": "18K"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": "Metinde 35mm pelikülün çözünürlüğünün yaklaşık 6K (5760*3840) olduğu belirtilmiştir[cite: 3154]."
+    },
+    {
+      "soruid": 5,
+      "soru_metni": "Sinemada ses ve görüntünün senkronizasyonu açısından dünya genelinde kabul gören standart çekim ve gösterim hızı saniyede kaç karedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "12 kare",
+        "B": "15 kare",
+        "C": "24 kare",
+        "D": "30 kare",
+        "E": "60 kare"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Sinemada ses için yer ayrılması ve hareketin doğal algılanması amacıyla 1927'de standart hız saniyede 24 kare olarak belirlenmiştir[cite: 3142, 3175]."
+    },
+    {
+      "soruid": 6,
+      "soru_metni": "Kameranın bulunduğu yerde, yatay eksen üzerinde sağa veya sola dönerek yaptığı harekete ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Tilt",
+        "B": "Pan (Panoramik)",
+        "C": "Dolly",
+        "D": "Zoom",
+        "E": "Pedestal"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Pan hareketinde kamera yatay eksen üzerinde sağa ve sola dönmektedir[cite: 3249]."
+    },
+    {
+      "soruid": 7,
+      "soru_metni": "Bir oyuncunun veya nesnenin ihtişamını, otoritesini vurgulamak ve onu yüceltmek için kullanılan çekim açısı hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Üst Açı",
+        "B": "Göz Hizası",
+        "C": "Alt Açı",
+        "D": "Eğik Açı",
+        "E": "Tepe Açısı"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Alt açı, nesneye ihtişam ve otorite verirken yüceltme amacı taşır[cite: 3207]."
+    },
+    {
+      "soruid": 8,
+      "soru_metni": "Greenbox (Yeşil Perde) teknolojisinde neden özellikle yeşil veya mavi renk tercih edilmektedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Daha ucuz oldukları için",
+        "B": "İnsan teninde bulunmayan renkler oldukları için",
+        "C": "Kameralar bu renkleri daha iyi algıladığı için",
+        "D": "Gözü yormadıkları için",
+        "E": "Doğada en çok bulunan renkler oldukları için"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Yeşil ve mavi renklerin kullanılmasının temel nedeni, bu iki rengin insan teninde bulunmaması ve böylece arka planla ayrıştırmanın kolay olmasıdır[cite: 3307, 3308]."
+    },
+    {
+      "soruid": 9,
+      "soru_metni": "Sinema tarihinde ilk sesli film olarak kabul edilen 1927 yapımı film hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Bir Trenin Gara Gelişi",
+        "B": "Aya Seyahat",
+        "C": "The Jazz Singer (Caz Şarkıcısı)",
+        "D": "Modern Zamanlar",
+        "E": "Yurttaş Kane"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Yönetmenliğini Alan Crosland'ın yaptığı 1927 tarihli The Jazz Singer (Caz Şarkıcısı) ilk sesli filmdir[cite: 3370]."
+    },
+    {
+      "soruid": 10,
+      "soru_metni": "Aşağıdakilerden hangisi sinemada kullanılan temel ses türlerinden biri değildir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Diyalog (Konuşmalar)",
+        "B": "Ortam Sesi",
+        "C": "Efektler",
+        "D": "Müzik",
+        "E": "Frekans Sesi"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": "Sinemadaki dört temel ses türü: konuşmalar/diyalog, ortam sesi, efektler ve müziktir. Frekans sesi bir tür değildir[cite: 3373]."
+    },
+    {
+      "soruid": 11,
+      "soru_metni": "Kurgu kuramcılarından Eisenstein'ın geliştirdiği ve izleyiciyi anlam inşa sürecine katan kurgu anlayışı hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Paralel Kurgu",
+        "B": "Çatışmalı / Çarpıcı Kurgu",
+        "C": "Devamlılıklı Kurgu",
+        "D": "Görünmez Kurgu",
+        "E": "Lineer Kurgu"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Eisenstein, çatışmalı kurguyu ve izleyiciyi sürece katan çarpıcı/dinamik kurgu yaklaşımını savunmuştur[cite: 3449, 3450]."
+    },
+    {
+      "soruid": 12,
+      "soru_metni": "Oyuncuların üzerine yerleştirilen sensörler aracılığıyla hareketlerinin dijital ortama aktarılıp animasyon karakterlerine giydirilmesi tekniğine ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Stop-Motion",
+        "B": "Rotoskop",
+        "C": "Motion Capture (Hareket Yakalama)",
+        "D": "Greenbox",
+        "E": "CGI"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Motion capture (Hareket Yakalama) tekniğinde oyuncu üzerindeki sensörlerle hareketler bilgisayar ortamına aktarılır[cite: 3347, 3348]."
+    },
+    {
+      "soruid": 13,
+      "soru_metni": "Kuklalar, hamur veya nesnelerin kare kare fotoğraflanıp birleştirilmesiyle hareket kazandırılan animasyon türü hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "3D Animasyon",
+        "B": "Motion Graphics",
+        "C": "Stop-Motion",
+        "D": "Cel Animasyon",
+        "E": "Vektör Animasyon"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Stop-motion animasyon, gerçek malzemelerin (kil, kukla vb.) her anının fotoğraflanıp birleştirilmesiyle yapılır[cite: 3507, 3508]."
+    },
+    {
+      "soruid": 14,
+      "soru_metni": "180 derece kuralının sinemadaki temel amacı nedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Oyuncuların yüzünü daha iyi göstermek",
+        "B": "Işık kullanımını kolaylaştırmak",
+        "C": "Seyircinin yön algısını bozmadan mekan bütünlüğünü korumak",
+        "D": "Kamera maliyetini düşürmek",
+        "E": "Ses kaydını netleştirmek"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "180 derece kuralı, aksiyon ekseninin bir tarafında kalarak yönlerde karışıklık olmasını engellemek ve seyircinin odağını korumak içindir[cite: 3279, 3280]."
+    },
+    {
+      "soruid": 15,
+      "soru_metni": "Sinemanın 'sinema salonu' ve 'beyaz perde' egemenliğinden çıkıp bireysel ekranlara taşınmasına neden olan en önemli gelişme nedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Renkli filmlerin icadı",
+        "B": "Sesin sinemaya gelişi",
+        "C": "Dijital platformların (Netflix, BluTV vb.) yaygınlaşması",
+        "D": "3D gözlüklerin çıkması",
+        "E": "Yönetmenlerin tercihi"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "İnternet ve dijital platformların yaygınlaşması sinemayı salonlardan ve beyaz perdeden çıkarıp ekrana taşımaktadır[cite: 3581, 3584, 3649]."
+    },
+    {
+      "soruid": 16,
+      "soru_metni": "Dijital kurgunun (Non-Lineer Editing) analog kurguya göre sağladığı en büyük avantajlardan biri nedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Filmin daha ucuza basılması",
+        "B": "Görüntü kalitesinden kayıp vermeden aynı görüntünün defalarca kullanılabilmesi ve işlem yapılabilmesi",
+        "C": "Oyuncuların daha iyi oynaması",
+        "D": "Sadece tek bir programla yapılması",
+        "E": "Karanlık odada yapılması"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Dijital kurgu, görüntü kalitesinden kaybetmeden aynı görüntüyü defalarca kullanma ve üzerinde oynama imkanı tanır[cite: 3477, 3478]."
+    },
+    {
+      "soruid": 17,
+      "soru_metni": "Hangi film 'Yeni Dikeylik' (New Verticality) efekt ambleminin en belirgin örneklerinden biri olarak gösterilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Forrest Gump",
+        "B": "Matrix Üçlemesi",
+        "C": "Titanic",
+        "D": "Toy Story",
+        "E": "The Jazz Singer"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Matrix Üçlemesi, karakterlerin dikey eksendeki hareketlerine dayanan 'yeni dikeylik' efektinin örneklerindendir[cite: 3113]."
+    },
+    {
+      "soruid": 18,
+      "soru_metni": "Sinemanın tarihsel gelişiminde dijital devrim kaçıncı dönem olarak kabul edilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Birinci",
+        "B": "İkinci",
+        "C": "Üçüncü",
+        "D": "Dördüncü",
+        "E": "Beşinci"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": "Buscombe'a göre sinemanın dördüncü dönemi dijital devrimi oluşturmaktadır[cite: 3054]."
+    },
+    {
+      "soruid": 19,
+      "soru_metni": "İnsan gözünün bir görüntüyü kaybolduktan sonra kısa bir süre daha ağ tabakasında tutması olayına ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Odaklanma",
+        "B": "Diyafram etkisi",
+        "C": "Fi (Phi) etkisi / Ağ tabaka izlenimi",
+        "D": "Zoom etkisi",
+        "E": "Pan etkisi"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Gözün görüntüyü kısa süre tutması ve hareket yanılsaması oluşturması 'fi etkisi' veya 'ağ tabaka izlenimi' olarak adlandırılır[cite: 3174]."
+    },
+    {
+      "soruid": 20,
+      "soru_metni": "Kameranın bir taşıyıcı (şaryo, dolly vb.) üzerine monte edilerek yer değiştirdiği hareketlere ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Optik hareketler",
+        "B": "Gövde hareketleri",
+        "C": "Yer değiştirerek yapılan hareketler",
+        "D": "Panoramik hareketler",
+        "E": "Zoom hareketleri"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Şaryo, dolly, Jimmy jip gibi araçlarla yapılan hareketler 'yer değiştirerek yapılan hareketler' başlığı altında toplanır[cite: 3255]."
+    },
+    {
+      "soruid": 21,
+      "soru_metni": "Avatar filmindeki Gollum karakteri Whissel'in efekt sınıflandırmasında hangisine örnektir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Dijital Kalabalık",
+        "B": "Yeni Dikeylik",
+        "C": "Dijital Yaratık (Digital Creature)",
+        "D": "Dijital Şekillendirme",
+        "E": "Dijital Makyaj"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Yüzüklerin Efendisi'ndeki Gollum karakteri 'dijital yaratık' (digital creature) ambleminin örneğidir[cite: 3115, 3119]."
+    },
+    {
+      "soruid": 22,
+      "soru_metni": "Sinemada en son dijitalleşen aşama hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Kurgu",
+        "B": "Yapım",
+        "C": "Çekim",
+        "D": "Gösterim",
+        "E": "Ses Kaydı"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": "Sinemanın en son dijitalleşen aşaması gösterimdir; 2010'lara kadar pelikül egemenliğinde kalmıştır[cite: 3464, 3465]."
+    },
+    {
+      "soruid": 23,
+      "soru_metni": "Aşağıdakilerden hangisi dijital sinemanın avantajlarından biri **değildir**?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Film yapım maliyetlerinin düşmesi",
+        "B": "Görüntü üzerinde sınırsız oynama imkanı",
+        "C": "Dağıtım ve kopyalama kolaylığı",
+        "D": "Görüntülerin fiziksel kalıcılığının (arşivleme) analog filme göre daha garantili olması",
+        "E": "Düşük bütçeli filmlere imkan tanıması"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": "Analog filmlerin (pelikül) tek olumlu yanı kalıcılığıdır; dijital verilerin saklanması ve format değişimleri risk taşıyabilir, analog madde olduğu için daha kalıcı görülür[cite: 3058, 3059]."
+    },
+    {
+      "soruid": 24,
+      "soru_metni": "Aşağıdaki kamera hareketlerinden hangisi optik bir harekettir ve objektif üzerinden gerçekleştirilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Pan",
+        "B": "Tilt",
+        "C": "Dolly",
+        "D": "Zoom (In/Out)",
+        "E": "Şaryo"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": "Zoom in ve Zoom out hareketleri objektife bağlı optik hareketlerdir[cite: 3247, 3248]."
+    },
+    {
+      "soruid": 25,
+      "soru_metni": "Duyguların ve mimiklerin aktarımında en etkili olan, genellikle omuzdan yukarısını veya sadece yüzü gösteren çekim ölçeği hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Genel Çekim",
+        "B": "Boy Çekim",
+        "C": "Baş Çekim (Yakın Plan / Close Up)",
+        "D": "Diz Çekim",
+        "E": "Bel Çekim"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Duyguların ve mimiklerin aktarımında en etkili olan çekim türü Baş Çekim (Close up) dır[cite: 3227, 3228]."
+    },
+    {
+      "soruid": 26,
+      "soru_metni": "Walter Benjamin'in 'Tekniğin Olanaklarıyla Yeniden Üretilebildiği Çağda Sanat Yapıtı' eserinde vurguladığı ve dijital çağda kaybolduğu düşünülen kavram nedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Kurgu",
+        "B": "Aura (Biriciklik)",
+        "C": "Senaryo",
+        "D": "Perspektif",
+        "E": "Ritim"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Benjamin, sanat eserinin yeniden üretilebilirliği (kopyalanabilirliği) ile 'aura'sının (biricikliğinin) kaybolduğunu vurgular[cite: 3597, 3599]."
+    },
+    {
+      "soruid": 27,
+      "soru_metni": "Bir filmin olaylarının geçtiği yeri tanıtmak için genellikle filmin başında kullanılan geniş açılı çekim türü hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Detay Çekim",
+        "B": "Omuz Çekim",
+        "C": "Genel Çekim / Uzak Çekim",
+        "D": "Amors Çekim",
+        "E": "Baş Çekim"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Filmler, olayların geçtiği yeri tanıtmak için çoğunlukla genel çekimle başlar[cite: 3232]."
+    },
+    {
+      "soruid": 28,
+      "soru_metni": "Kamera ve nesne arasına iktidar ilişkisi koymayan, izleyici ile oyuncuyu eşitleyen çekim açısı hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Alt Açı",
+        "B": "Üst Açı",
+        "C": "Göz Hizası",
+        "D": "Eğik Açı",
+        "E": "Tepe Açısı"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Göz hizasına yerleştirilen kamera, izleyici ile nesne arasına iktidar ilişkisi sokmaz[cite: 3210]."
+    },
+    {
+      "soruid": 29,
+      "soru_metni": "Aşağıdakilerden hangisi dijital sinemada kurgu (editing) için kullanılan popüler yazılımlardan biridir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Microsoft Word",
+        "B": "Adobe Premiere",
+        "C": "Excel",
+        "D": "PowerPoint",
+        "E": "Paint"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Dijital kurgu için en çok kullanılan programlar arasında Adobe Premiere, Final Cut, Edius vb. sayılmıştır[cite: 3483]."
+    },
+    {
+      "soruid": 30,
+      "soru_metni": "Pudovkin'in 'bağlantısal kurgu' anlayışına göre kurgunun temel amacı nedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Filmi kısaltmak",
+        "B": "Anlatıyı değiştirmek",
+        "C": "Anlatıyı desteklemek ve izleyiciyi etkilemek",
+        "D": "Oyuncuları öne çıkarmak",
+        "E": "Maliyeti düşürmek"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Pudovkin, kurgunun amacının anlatıyı değiştirmekten öte onu desteklemek olduğunu ve seyircinin psikolojik rehberi olduğunu savunur[cite: 3447, 3448]."
+    },
+    {
+      "soruid": 31,
+      "soru_metni": "Aşağıdakilerden hangisi Lev Manovich'in dijital sinema formülünde yer almaz? (Ünite Sorusu 1)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Canlı aksiyon materyali",
+        "B": "2 boyutlu bilgisayar animasyonu",
+        "C": "3 boyutlu bilgisayar animasyonu",
+        "D": "Sine-fırça",
+        "E": "Görüntü işleme"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": "Manovich'in formülü: Canlı aksiyon + resim + görüntü işleme + birleştirme + 2D/3D animasyon şeklindedir. 'Sine-fırça' (Kino-brush) onun bir benzetmesidir, formülün bileşeni değildir[cite: 3074, 3654, 3727]."
+    },
+    {
+      "soruid": 32,
+      "soru_metni": "Aşağıdakilerden hangisi kameranın yer değiştirerek yaptığı hareketlerde kullanılan yardımcı ekipmanlardan biridir? (Ünite Sorusu 2)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Steadicam",
+        "B": "Zoom in",
+        "C": "Pan",
+        "D": "Tilt",
+        "E": "Zoom out"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Pan ve Tilt gövde hareketidir, Zoom optik harekettir. Steadicam ise kameranın yer değiştirerek yaptığı hareketlerde (takip vb.) kullanılan bir ekipmandır[cite: 3265, 3661, 3730]."
+    },
+    {
+      "soruid": 33,
+      "soru_metni": "Son dönemde çokça kullanılan ve film üreticilerine büyük kolaylık sağlayan bir tekniktir. Kilit renk olarak yeşilin seçildiği perdelerden oluşan bir stüdyoda yapılan çekimi ifade etmektedir. Yukarıdaki ifadeler aşağıdaki tekniklerden hangisini açıklamaktadır? (Ünite Sorusu 3)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Motion Capture",
+        "B": "Bluebox",
+        "C": "Greenbox",
+        "D": "Rotoskop",
+        "E": "Netflix"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Yeşil perde kullanılarak yapılan ve arka planın değiştirildiği teknik Greenbox tekniğidir[cite: 3302, 3306, 3671, 3733]."
+    },
+    {
+      "soruid": 34,
+      "soru_metni": "Üzerinde sensörler bulunan kıyafet giyen oyuncu kamera karşısında hareket etmektedir. Sensörler aracılığıyla oyuncunun hareketlerinin yakalandığı bu teknikte daha sonra bilgisayarda karakter üzerinde oynanmakta ve animasyon karakterine yansıtılmaktadır. Yukarıda tarif edilen teknik aşağıdakilerden hangisidir? (Ünite Sorusu 4)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Greenbox",
+        "B": "Motion capture",
+        "C": "Stop-motion",
+        "D": "Drone",
+        "E": "Rotoskop"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Oyuncunun hareketlerinin sensörlü kıyafetlerle dijitale aktarılması Motion Capture (Hareket Yakalama) tekniğidir[cite: 3348, 3354, 3678, 3740]."
+    },
+    {
+      "soruid": 35,
+      "soru_metni": "Aşağıdakilerden hangisi animasyon çeşitlerinden biri değildir? (Ünite Sorusu 5)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Cel animasyon",
+        "B": "3 boyutlu animasyon",
+        "C": "Stop-motion",
+        "D": "Drone",
+        "E": "Rotoskop"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": "Cel, 3D, Stop-motion ve Rotoskop animasyon teknikleridir. Drone ise bir çekim aracıdır[cite: 3511, 3686, 3743]."
+    },
+    {
+      "soruid": 36,
+      "soru_metni": "Dijital olarak çekilip kurgulanıp gösterilen ilk film aşağıdakilerden hangisidir? (Ünite Sorusu 6)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "The Last Broadcast / Son Yayın",
+        "B": "Avatar",
+        "C": "Matrix",
+        "D": "Cinema Paradiso",
+        "E": "2001: Uzay Macerası"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Metinde, dijital olarak çekilip, kurgulanıp gösterilen ilk filmin 1998 tarihli 'The Last Broadcast' olduğu belirtilmiştir[cite: 3545, 3690, 3729]."
+    },
+    {
+      "soruid": 37,
+      "soru_metni": "Sinemada dijitalleşme en son hangi aşamada gerçekleşmiştir? (Ünite Sorusu 7)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Kurgu",
+        "B": "Çekim",
+        "C": "Gösterim",
+        "D": "Yapım",
+        "E": "Tanıtım"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Sinemanın en son dijitalleşen aşaması gösterimdir (projeksiyon cihazları vb.)[cite: 3464, 3698, 3732]."
+    },
+    {
+      "soruid": 38,
+      "soru_metni": "Tamamen bilgisayarda üretilen ilk animasyon film aşağıdakilerden hangisidir? (Ünite Sorusu 8)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Toy Story (Oyuncak Hikayesi)",
+        "B": "Kayıp Balık Nemo",
+        "C": "Kung Fu Panda",
+        "D": "Tenten'in maceraları",
+        "E": "Wall-E"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Tamamen bilgisayarda yapılan ilk uzun metrajlı film 1995 tarihli Toy Story'dir[cite: 3469, 3703, 3735]."
+    },
+    {
+      "soruid": 39,
+      "soru_metni": "Aşağıdakilerden hangisi kameranın gövdesiyle yaptığı hareketlerden biridir? (Ünite Sorusu 9)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Şaryo",
+        "B": "Jimmy jip",
+        "C": "Pedestal",
+        "D": "Slider",
+        "E": "Tilt"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": "Kameranın gövdesiyle (bulunduğu yerde) yaptığı hareketler Pan ve Tilt'tir. Diğerleri yer değiştirerek yapılan hareketlerdir[cite: 3249, 3251, 3713, 3741]."
+    },
+    {
+      "soruid": 40,
+      "soru_metni": "Aşağıdakilerden hangisi dijitalleşmenin sinemaya etkilerinden biri değildir? (Ünite Sorusu 10)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Film yapım maliyetleri ucuzlamıştır.",
+        "B": "Ses kalitesi yükselmiştir.",
+        "C": "Gerçeklik etkisi artmıştır.",
+        "D": "Seyirciye ve filme ulaşım mecraları artmış ve kolaylaşmıştır.",
+        "E": "Bilet fiyatları ucuzlamıştır."
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": "Dijitalleşme maliyeti düşürmüş, kaliteyi artırmış ve ulaşımı kolaylaştırmıştır ancak metinde 'bilet fiyatlarının ucuzladığına' dair bir bilgi veya etki yer almamaktadır[cite: 3714, 3721, 3745]."
+    }
+      ]
+    }
+  ]
+}
