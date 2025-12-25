@@ -1,0 +1,573 @@
+{
+  "ders_kodu": "SMY209U",
+  "ders_adi": "SOSYAL MEDYA ARAÇLARI",
+  "sinavlar": [
+    {
+      "baslik": "2025 Ünite 4 Yapay Zeka Destekli Çıkabilecek Sorular",
+      "tur": "AI",
+      "yil": 2025,
+      "sorular": [
+   {
+      "soruid": 1,
+      "soru_metni": "İnternet teknolojilerinin gelişim sürecinde, kullanıcıların sadece bilgi alıcısı olduğu ve etkileşimin bulunmadığı dönem hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Web 2.0",
+        "B": "Web 1.0",
+        "C": "Web 3.0",
+        "D": "Web 4.0",
+        "E": "Semantik Web"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Web 1.0 teknolojisi tek yönlü bilgi edinme esasına dayanır; kullanıcılar bilginin pasif alıcısıdır [cite: 66-70]."
+    },
+    {
+      "soruid": 2,
+      "soru_metni": "Web 2.0 kavramı ilk olarak hangi yıl ve hangi medya şirketi tarafından kullanılmıştır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "2000 - Google",
+        "B": "2004 - O'Reilly Media",
+        "C": "2005 - Facebook",
+        "D": "1999 - Microsoft",
+        "E": "2010 - Twitter"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Web 2.0 kavramı ilk defa 2004 yılında O'Reilly Media tarafından kullanılmıştır[cite: 137]."
+    },
+    {
+      "soruid": 3,
+      "soru_metni": "Kodlama bilgisine ihtiyaç duymadan, sürükle-bırak yöntemiyle web sitesi ve blog oluşturmaya yarayan bulut tabanlı araç hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Wix",
+        "B": "Prezi",
+        "C": "Wordle",
+        "D": "Cacoo",
+        "E": "Pixlr"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Wix, kullanıcı dostu arayüzü ile kodlama bilgisi gerektirmeden web sitesi oluşturmaya imkan veren bir Web 2.0 aracıdır [cite: 254-258]."
+    },
+    {
+      "soruid": 4,
+      "soru_metni": "Herhangi bir kurulum gerektirmeyen, web tabanlı olarak 'kavram haritası' oluşturmaya yarayan araç hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Bubbl.us",
+        "B": "WeVideo",
+        "C": "Powtoon",
+        "D": "Dustbin",
+        "E": "Second Life"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Bubbl.us, kavram haritası hizmeti sunan ve kurulum gerektirmeyen bir araçtır [cite: 287-290]."
+    },
+    {
+      "soruid": 5,
+      "soru_metni": "Çevrimiçi üretkenlik ve işbirliği aracı olan, kullanıcılarına 'diyagram' tasarlama imkânı veren uygulama hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Canva",
+        "B": "Cacoo",
+        "C": "Wix",
+        "D": "Wordle",
+        "E": "Aurasma"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Cacoo, kullanıcılarına diyagram tasarlama imkânı veren ve bulut tabanlı uygulamalara entegre edilebilen bir araçtır [cite: 295-297]."
+    },
+    {
+      "soruid": 6,
+      "soru_metni": "Tamamen Türkçe arayüze sahip olan ve infografik, afiş, sunum gibi görsel içerikler hazırlamaya yarayan popüler platform hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Photoshop",
+        "B": "Canva",
+        "C": "Paint",
+        "D": "Bubbl.us",
+        "E": "Prezi"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Canva, tamamen Türkçe arayüze sahip olup infografik dahil pek çok görsel içerik hazırlanmasına imkân verir [cite: 302-303]."
+    },
+    {
+      "soruid": 7,
+      "soru_metni": "Bir metindeki kelimelerin kullanım sıklığına (frekansına) göre görselleştirilmesini sağlayan 'Kelime Bulutu' aracı hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Wordle",
+        "B": "Pixlr",
+        "C": "Cacoo",
+        "D": "Wix",
+        "E": "Edmodo"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Wordle, mevcut metinden kelime bulutu oluşturmada kullanılan ve veriyi frekans temelinde görselleştiren bir araçtır [cite: 331-333]."
+    },
+    {
+      "soruid": 8,
+      "soru_metni": "Uzmanlık düzeyinde teknik bilgi gerektirmeden fotoğraf düzenleme, efekt ekleme ve boyutlandırma işlemleri yapabilen araç hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "WeVideo",
+        "B": "Pixlr",
+        "C": "Powtoon",
+        "D": "Second Life",
+        "E": "Movenote"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Pixlr, zenginleştirilmiş görseller hazırlamada teknik bilgi gereksinimi olmaksızın kullanışlı bir fotoğraf düzenleme aracıdır [cite: 357-359]."
+    },
+    {
+      "soruid": 9,
+      "soru_metni": "Özellikle 'Ters Yüz Edilmiş Sınıf' (Flipped Classroom) yöntemi için elverişli olan, sürükle-bırak mantığıyla çalışan video düzenleme aracı hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "WeVideo",
+        "B": "Pixlr",
+        "C": "Wordle",
+        "D": "Cacoo",
+        "E": "Bubbl.us"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "WeVideo, yaratıcı videolar oluşturmayı sağlayan ve özellikle ters yüz edilmiş sınıf yöntemi için eşsiz kullanım sunan bir araçtır [cite: 365-368]."
+    },
+    {
+      "soruid": 10,
+      "soru_metni": "Kullanıcıların hazır şablonlar, karakterler ve konuşma balonları kullanarak kolayca animasyon oluşturabildiği platform hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Powtoon",
+        "B": "Prezi",
+        "C": "Movenote",
+        "D": "Google Drive",
+        "E": "Edmodo"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Powtoon, animasyon oluşturma özelliği ile bilinen, hazır şablon ve karakterlerle etkileyici sunumlar hazırlatan bir platformdur [cite: 374-376]."
+    },
+    {
+      "soruid": 11,
+      "soru_metni": "Classtools.net içerisinde yer alan ve kategorilendirme mantığına dayalı, 'çöp kovası' metaforunu kullanan eğitsel oyun aracı hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Dustbin",
+        "B": "Funbrain",
+        "C": "Second Life",
+        "D": "Aurasma",
+        "E": "Kahoot"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Dustbin, fikirlerin kategoriler halinde düzenlenmesine yardımcı olan bir oyun aracıdır [cite: 386-387]."
+    },
+    {
+      "soruid": 12,
+      "soru_metni": "Gerçek hayata sanal nesne (video, 3D model vb.) ekleyerek 'Artırılmış Gerçeklik' (AR) deneyimi sunan uygulama hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Aurasma",
+        "B": "Second Life",
+        "C": "Pixlr",
+        "D": "Wix",
+        "E": "Cacoo"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Aurasma, görüntü tabanlı bir artırılmış gerçeklik aracı olup etkileşimli materyaller hazırlamak için kullanılır[cite: 423]."
+    },
+    {
+      "soruid": 13,
+      "soru_metni": "Kullanıcıların sanal kimlik (avatar) oluşturup sosyalleşebildiği, 'Metaverse' kavramının temeli sayılan 3 boyutlu sanal dünya platformu hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Second Life",
+        "B": "Facebook",
+        "C": "Twitter",
+        "D": "YouTube",
+        "E": "Instagram"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Second Life, üç boyutlu sanal bir internet ortamı olup kullanıcılara sanal kimlik oluşturma imkanı verir ve Metaverse'in temeli sayılır [cite: 428-442]."
+    },
+    {
+      "soruid": 14,
+      "soru_metni": "Google tarafından sunulan, öğrenme sürecini modüler yapılandırmaya ve sınıf yönetimine imkan veren dijital platform hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Google Classroom",
+        "B": "Google Drive",
+        "C": "Google Docs",
+        "D": "Google Meet",
+        "E": "Google Maps"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Google Classroom, öğrenme yönetim ve içerik sistemi olarak kullanılan, sınıflar oluşturulup ödev verilebilen bir platformdur [cite: 506-508]."
+    },
+    {
+      "soruid": 15,
+      "soru_metni": "Google Drive üzerindeki dokümanlarda öğrenci projelerini yönetmek, organize etmek ve geri bildirim vermek için kullanılan eklenti (add-on) hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Doctopus",
+        "B": "Canvas",
+        "C": "Moodle",
+        "D": "Kahoot",
+        "E": "Zoom"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Doctopus, 'dokümanlar için bir ahtapot' olarak tanımlanan ve Google Drive üzerinde proje yönetimi sağlayan bir eklentidir [cite: 541-542]."
+    },
+    {
+      "soruid": 16,
+      "soru_metni": "Video şeklinde sunum hazırlamaya yarayan ve hazırlanan videoları bulut teknolojisiyle paylaşan araç hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Movenote",
+        "B": "Prezi",
+        "C": "PowerPoint",
+        "D": "Word",
+        "E": "Excel"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Movenote, video şeklinde çıktı üreten bir sunum hazırlama aracıdır ve bulut teknolojisi kullanır [cite: 566-568]."
+    },
+    {
+      "soruid": 17,
+      "soru_metni": "Klasik slayt mantığı yerine, sonsuz bir tuval üzerinde yakınlaştırma (zoom) ve uzaklaştırma hareketleriyle dinamik sunumlar hazırlayan araç hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Prezi",
+        "B": "PowerPoint",
+        "C": "Keynote",
+        "D": "Paint",
+        "E": "Notepad"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Prezi, çevrimiçi bir sunum programıdır ve görsellik/hareket açısından ilgi çekici, yakınlaşıp uzaklaşan sunumlar hazırlamayı sağlar [cite: 574-577]."
+    },
+    {
+      "soruid": 18,
+      "soru_metni": "Grup çalışmalarında, üyelerin görevlerini yerine getirmemesi veya işi başkasına yıkması davranışına literatürde ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Sosyal Kaytarma (Social Loafing)",
+        "B": "İşbirliği",
+        "C": "Liderlik",
+        "D": "Motivasyon",
+        "E": "Sinerji"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Sosyal kaytarma (aylaklık), grup içindeki bireylerin üzerine düşen görevi yapmayıp sorumluluğu diğerlerine bırakması durumudur[cite: 657]."
+    },
+    {
+      "soruid": 19,
+      "soru_metni": "Öğretim sürecinde bilgi aktarımının sınıf dışına taşındığı (video vb. ile), sınıf içinde ise aktif öğrenme etkinliklerinin yapıldığı model hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Ters Yüz Edilmiş Sınıf (Flipped Classroom)",
+        "B": "Geleneksel Sınıf",
+        "C": "Uzaktan Eğitim",
+        "D": "Bireysel Öğrenme",
+        "E": "Doğrudan Anlatım"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Ters yüz edilmiş sınıf, ders anlatımının evde dijital araçlarla yapıldığı, sınıfın ise sosyal ve aktif öğrenmeye ayrıldığı modeldir[cite: 369]."
+    },
+    {
+      "soruid": 20,
+      "soru_metni": "'Tes Teach with Blendspace' (TES) uygulaması özellikle hangi öğretim modeli için etkili bir araç olarak önerilmektedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Ters Yüz Edilmiş Sınıf",
+        "B": "Sunuş Yoluyla Öğretim",
+        "C": "Ezberci Eğitim",
+        "D": "Tek Yönlü Öğretim",
+        "E": "Sınav Odaklı Eğitim"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "TES, içeriklerin tek bir yerde toplanması ve etkileşimli dersler oluşturulmasıyla ters yüz edilmiş sınıf uygulamalarında sıkça kullanılır [cite: 524-526]."
+    },
+    {
+      "soruid": 21,
+      "soru_metni": "İnternet ve bilgisayar teknolojilerinin gelişimi, 2020-2030 yılları arasında hangi web dönemi ile tanımlanmaktadır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Web 4.0",
+        "B": "Web 1.0",
+        "C": "Web 2.0",
+        "D": "Web 3.0",
+        "E": "Web 0.0"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Şekil 3.1'deki zaman çizelgesine göre 2020-2030 yılları arası Web 4.0 (Akıllı Web) dönemi olarak gösterilmektedir[cite: 79]."
+    },
+    {
+      "soruid": 22,
+      "soru_metni": "Web 2.0 teknolojileri hangi temel prensip üzerine kuruludur?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Etkileşim ve Paylaşım",
+        "B": "Tek Yönlü İletim",
+        "C": "Sadece Okuma",
+        "D": "Statik Sayfalar",
+        "E": "Merkezi Yönetim"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Web 2.0 teknolojilerinin kullanıcılara etkileşim imkânı veren yapısı 'iletişim' ve 'paylaşım' temelindedir[cite: 51]."
+    },
+    {
+      "soruid": 23,
+      "soru_metni": "Kullanıcıların içerik üretebildiği Web 2.0 teknolojilerinde bilginin güvenilirliği ile ilgili temel sorun nedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Kontrolün az olması ve sıradan insanların da bilgi üretebilmesi",
+        "B": "Bilginin çok pahalı olması",
+        "C": "Bilgiye erişimin zor olması",
+        "D": "İnternet hızının yavaş olması",
+        "E": "Bilginin devlet tarafından sansürlenmesi"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Web 2.0'da kontrol çok azdır ve sıradan insanlar da bilgi ürettiği için tutarlılık ve güvenirlik sorgulanmalıdır [cite: 158-159]."
+    },
+    {
+      "soruid": 24,
+      "soru_metni": "Edmodo uygulamasının Facebook gibi sosyal ağlardan en temel farkı nedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Eğitim ve öğrenme odaklı olması (reklamsız olması)",
+        "B": "Daha eğlenceli olması",
+        "C": "Ücretli olması",
+        "D": "Sadece video paylaşılması",
+        "E": "Mobil uygulamasının olmaması"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Edmodo, öğrenme ve öğretmeyi temel alan yaklaşımı (reklamsız olması vb.) ile diğer sosyal ağlardan ayrılır[cite: 146]."
+    },
+    {
+      "soruid": 25,
+      "soru_metni": "Sosyal medya araçlarının öğretim sürecine entegrasyonu, öğreneni hangi konumdan hangi konuma taşır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Pasif alıcı konumundan aktif ve üretken konuma",
+        "B": "Aktif konumdan pasif konuma",
+        "C": "Öğretmen konumuna",
+        "D": "Yönetici konumuna",
+        "E": "Gözlemci konumuna"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Sosyal medya entegrasyonu, öğreneni bilginin pasif alıcısı olmaktan çıkarıp aktif, destekleyici ve katkı sunan bir role taşır [cite: 761-762]."
+    },
+    {
+      "soruid": 26,
+      "soru_metni": "Öğrenme amaçlı kullanılan 'Funbrain' uygulaması hangi yaş grubu için uygundur?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Okul öncesinden ilköğretim üçüncü kademeye kadar (K-8)",
+        "B": "Sadece üniversite öğrencileri",
+        "C": "Sadece yetişkinler",
+        "D": "Sadece lise öğrencileri",
+        "E": "Sadece öğretmenler"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Funbrain, okul öncesi dönemden ilköğretim sekizinci sınıfa (metinde üçüncü kademe denmiş, genellikle K-8'dir) kadar kullanılabilecek bir ortamdır[cite: 392]."
+    },
+    {
+      "soruid": 27,
+      "soru_metni": "Bir sosyal medya ortamında öğrenen olmanın getirdiği sorumluluklardan biri nedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Özdenetim becerisine sahip olmak ve sosyal kaytarmadan kaçınmak",
+        "B": "Sadece izleyici olmak",
+        "C": "Görevleri başkasına yıkmak",
+        "D": "Sürekli oyun oynamak",
+        "E": "Hiçbir şeye karışmamak"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Sosyal medya ortamlarında öğrenenin özdenetim becerisinin yüksek olması ve sosyal aylaklık yapmaması beklenir [cite: 640-641]."
+    },
+    {
+      "soruid": 28,
+      "soru_metni": "Hamutoğlu (2018) çalışmasına göre, Bulut Bilişim Teknolojileri (BBT) ile desteklenmiş işbirlikli öğrenme etkinlikleri öğrencilerin hangi özelliğini artırmıştır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Teknoloji kabul düzeyini ve öğrenme performanslarını",
+        "B": "Okul devamsızlığını",
+        "C": "Sınav kaygısını",
+        "D": "Sosyal kaytarma oranını",
+        "E": "Ders çalışma süresini"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Çalışma sonucunda BBT destekli işbirlikli öğrenmenin öğrencilerin teknoloji kabulünü ve öğrenme performanslarını artırdığı bulunmuştur [cite: 557-562]."
+    },
+    {
+      "soruid": 29,
+      "soru_metni": "Kullanımlar ve Doyumlar yaklaşımı, kitle iletişim araçları ve sosyal medya kullanıcılarını nasıl tanımlar?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Pasif ve kontrol edilen kitle",
+        "B": "Aktif, bilinçli ve ihtiyaçları doğrultusunda tercih yapan bireyler",
+        "C": "Sadece eğlence arayanlar",
+        "D": "Teknoloji bağımlıları",
+        "E": "Manipüle edilebilir kitle"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Yaklaşım, izleyicilerin pasif değil aktif olduğunu ve kendi gereksinimleri doğrultusunda bilinçli tercihler yaptığını savunur [cite: 489-490]."
+    },
+    {
+      "soruid": 30,
+      "soru_metni": "Aşağıdakilerden hangisi dijital çağın öğrenenlerinin özelliklerinden biridir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Yazılı metinleri sıkıcı bulmaları ve çoklu ortam materyallerini (video, resim) tercih etmeleri",
+        "B": "Sadece kütüphaneden araştırma yapmaları",
+        "C": "Geleneksel yöntemleri daha çok sevmeleri",
+        "D": "Teknolojiden uzak durmaları",
+        "E": "Bilgiyi paylaşmayı sevmemeleri"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Dijital çağın öğrenenleri yazılı metinleri sıkıcı bulmakta, bilgi edinmek için resim, ses ve video gibi çoklu ortamları tercih etmektedir[cite: 649]."
+    },
+    {
+      "soruid": 31,
+      "soru_metni": "Aşağıdakilerden hangisi sosyal medya ortamlarının bileşenlerinden biri değildir? (Ünite Sorusu 1)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Kimlik",
+        "B": "Uygulama",
+        "C": "Sohbet",
+        "D": "Paylaşım",
+        "E": "İtibar"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Sosyal medya ortamlarının yapı taşları (Honeycomb modeli): Kimlik, Sohbet, Paylaşım, Konum, İlişkiler, İtibar ve Grup'tur. 'Uygulama' bu bileşenlerden biri değildir[cite: 706]."
+    },
+    {
+      "soruid": 32,
+      "soru_metni": "Aşağıdakilerden hangisi Web 2.0 teknolojilerini Web 1.0 teknolojilerinden ayıran en önemli özelliktir? (Ünite Sorusu 2)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Kullanıcı etkileşimi",
+        "B": "Kullanıcıların içerik üretimi",
+        "C": "Bilgilerin depo edilmesi",
+        "D": "Veri katmanı",
+        "E": "Görüntüleme bileşeni"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Web 2.0'ın en temel ayrımı, kullanıcılara etkileşim (iletişim ve paylaşım) imkanı vermesidir[cite: 705]. (Not: B şıkkı da doğrudur ancak A şıkkı daha kapsayıcıdır ve cevap anahtarı A'dır)."
+    },
+    {
+      "soruid": 33,
+      "soru_metni": "Web 1.0 ve Web 2.0 teknolojileri ile ilgili aşağıda verilenlerden hangisi doğrudur? (Ünite Sorusu 3)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Web 2.0 teknolojilerindeki gelişim internet tarihinin başlamasına dayanmaktadır",
+        "B": "Web 1.0 teknolojileri kullanıcıların içerik üretmesine imkân tanır",
+        "C": "Web 1.0 teknolojilerinde kullanıcılar bilginin pasif alıcısı konumundadır",
+        "D": "Web 1.0 teknolojilerinin gelişimi 2000-2010 yıllarına dayanmaktadır",
+        "E": "Web 2.0 teknolojilerindeki gelişim devrim niteliği taşımamaktadır"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Web 1.0 teknolojisi tek yönlü bilgi edinme esasına dayanır ve kullanıcılar pasif alıcıdır [cite: 66-70]."
+    },
+    {
+      "soruid": 34,
+      "soru_metni": "I. Web'in doğuşu ABD Savunma Bakanlığı personellerinin kendi aralarındaki iletişim akışını sürdürebilmesi esasına dayanmaktadır. II. Web ile internet aynı anlama gelmektedir. III. Web teknolojileri Tim Berners-Lee tarafından icat edilmiştir. IV. Sosyal medya Web 2.0 teknolojilerine örnektir. Yukarıda verilen ifadelerden hangisi/hangileri doğrudur? (Ünite Sorusu 4)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Yalnız II",
+        "B": "I ve III",
+        "C": "III ve IV",
+        "D": "I, II ve III",
+        "E": "I, III ve IV"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": "I (ARPANET kökeni), III (Tim Berners-Lee) ve IV (Sosyal medya Web 2.0'dır) doğrudur. II yanlıştır, web ve internet farklı kavramlardır (web internet üzerinde çalışan bir protokoldür) [cite: 55-60]."
+    },
+    {
+      "soruid": 35,
+      "soru_metni": "Aşağıdakilerden hangisi Web 2.0 teknolojilerinin iletişim ve paylaşım temelinde geliştirilen araçları arasında yer almaz? (Ünite Sorusu 5)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Blog",
+        "B": "EXML",
+        "C": "Wiki",
+        "D": "Forum",
+        "E": "RSS"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Blog, Wiki, Forum ve RSS Web 2.0 araçlarıdır. EXML diye yaygın bir Web 2.0 aracı metinde geçmemektedir (XML bir veri formatıdır)[cite: 140]."
+    },
+    {
+      "soruid": 36,
+      "soru_metni": "Aşağıdakilerden hangisi sosyal medyanın öğrenene sunduğu fırsatlar arasında değerlendirilebilir? (Ünite Sorusu 6)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Sosyal etkiden uzak kalma",
+        "B": "Öğrencilerin velileri ile etkileşim",
+        "C": "Mobil uygulama çeşitliliği",
+        "D": "Aktif öğrenme sürecine destek",
+        "E": "Öğrenen bağımlılığı"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": "Sosyal medya, öğrencilerin aktif öğrenme ve araştırma süreçlerine destek sağlar[cite: 191]."
+    },
+    {
+      "soruid": 37,
+      "soru_metni": "Aşağıdakilerden hangisi sosyal medyanın sahip olduğu başlıca özellikler arasında sayılamaz? (Ünite Sorusu 7)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Kalıtsallık",
+        "B": "Katılım",
+        "C": "Açıklık",
+        "D": "Bağlantısallık",
+        "E": "Yenilik"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Sosyal medyanın özellikleri: Katılım, açıklık, bağlantısallık, yenilik, kalıcılıktır. 'Kalıtsallık' bu özelliklerden biri değildir[cite: 237]."
+    },
+    {
+      "soruid": 38,
+      "soru_metni": "Aşağıda farklı uygulamalar açısından yer verilen sosyal medya araç ve uygulama alanları ile ilgili eşleştirmelerden hangisi yanlıştır? (Ünite Sorusu 8)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Dustbin - Oyunlaştırma",
+        "B": "Wix - Web sitesi oluşturma",
+        "C": "Aurasma - Artırılmış gerçeklik",
+        "D": "Wordle - Kelime bulutu oluşturma",
+        "E": "Ruby - Blog oluşturma"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": "Dustbin (Oyun), Wix (Web), Aurasma (AR), Wordle (Kelime Bulutu) doğrudur. Ruby bir programlama dilidir, blog oluşturma aracı (Wix veya Blogger gibi) olarak geçmez[cite: 745]."
+    },
+    {
+      "soruid": 39,
+      "soru_metni": "Öğretimsel açıdan sosyal medya araç ve uygulamaları ile ilgili aşağıda verilenlerden hangisi yanlıştır? (Ünite Sorusu 9)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Prezi sunum aracı olarak kullanılabilir",
+        "B": "EdModo ters yüz edilmiş sınıf oluşturmada etkili bir ortamdır",
+        "C": "Google Drive sadece depolama amacıyla öğretimsel olarak kullanılabilir",
+        "D": "Google Classroom öğrenme yönetim ve içerik sistemleri arasında ele alınabilir",
+        "E": "Doctopus işbirlikli öğrenme etkinliklerinin organize edilmesinde elverişli bir eklentidir"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Google Drive sadece depolama değil, aynı zamanda işbirliği, paylaşım ve senkronizasyon (Docs, Slides vb.) için de kullanılır; sadece depolama ifadesi yanlıştır[cite: 538]."
+    },
+    {
+      "soruid": 40,
+      "soru_metni": "Aşağıdakilerden hangisi işbirlikli öğrenen grupları arasında sosyal kaytarma davranışını tanımlamaz? (Ünite Sorusu 10)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Görevlerin grup üyeleri tarafından yerine getirilmemesi",
+        "B": "Grup içerisinde görevlerin paylaşılmaması",
+        "C": "Görevlerin tek bir grup üyesi tarafından yerine getirilmesi",
+        "D": "Motivasyon eksikliği",
+        "E": "Görevlerin tüm grup üyeleri tarafından ihmal edilmesi"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": "Sosyal kaytarma, görevin yapılmaması eylemidir. Motivasyon eksikliği bunun bir nedeni olabilir ancak tanımı değildir (tanım eylemin kendisine odaklanır)[cite: 657]."
+    }
+      ]
+    }
+  ]
+}
