@@ -1,0 +1,573 @@
+{
+  "ders_kodu": "SMY203U",
+  "ders_adi": "DİJİTAL TASARIM",
+  "sinavlar": [
+    {
+      "baslik": "2025 Ünite 1 Yapay Zeka Destekli Çıkabilecek Sorular",
+      "tur": "AI",
+      "yil": 2025,
+      "sorular": [
+   {
+      "soruid": 1,
+      "soru_metni": "İletişim sözcüğünün kökeni olan Latince 'communis' kelimesi ne anlama gelmektedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Konuşmak",
+        "B": "Paylaşmak, birleştirmek veya görüşmek",
+        "C": "Duymak",
+        "D": "Yazmak",
+        "E": "Anlamak"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Metinde iletişim sözcüğünün Latince 'communis' kelimesinden türediği ve paylaşmak, birleştirmek veya görüşmek gibi anlamlara geldiği belirtilmiştir[cite: 1535]."
+    },
+    {
+      "soruid": 2,
+      "soru_metni": "İletişim sürecinin başlatıcısı olan ve mesajı ileten kişi ya da topluluğa ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Alıcı",
+        "B": "Kanal",
+        "C": "Kaynak (Gönderici)",
+        "D": "Mesaj",
+        "E": "Kod"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "İletişim sürecinin birinci aşaması olan kaynak, bilgiyi ya da mesajı ileten kişi ya da topluluktur[cite: 1577]."
+    },
+    {
+      "soruid": 3,
+      "soru_metni": "Sanayi devrimi ile iletişim alanında yaşanan ilk ve en önemli gelişme olarak kabul edilen icat hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Telgraf",
+        "B": "Telefon",
+        "C": "Radyo",
+        "D": "Matbaa",
+        "E": "Televizyon"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": "Sanayi devrimi ile iletişim alanında yaşanan ilk ve en önemli gelişme matbaanın icadı ve yaygınlaşması ile başlamıştır[cite: 1667]."
+    },
+    {
+      "soruid": 4,
+      "soru_metni": "İletişim ve ulaşım arasındaki zaman/mekan sorununu çözen ilk elektronik aygıt hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Telefon",
+        "B": "Telgraf",
+        "C": "Bilgisayar",
+        "D": "Radyo",
+        "E": "Televizyon"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Telgraf, insanoğlunun iletişim ve ulaşım arasındaki sorunu çözdüğü ve mekânsızlaşmayı başlattığı ilk aygıttır[cite: 1691]."
+    },
+    {
+      "soruid": 5,
+      "soru_metni": "Telefonun icadından sonra halkın bu yeni teknolojiye olan güvenini artırmak için Graham Bell öncelikle hangi meslek grubunu hedeflemiştir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Öğretmenler",
+        "B": "Askerler",
+        "C": "Doktorlar",
+        "D": "Mühendisler",
+        "E": "Avukatlar"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Bell, telefonun acil durumlarda hastalarla iletişim için zorunlu olduğunu vurgulayarak özellikle doktorları hedeflemiş ve güven kazanmaya çalışmıştır[cite: 1722]."
+    },
+    {
+      "soruid": 6,
+      "soru_metni": "Radyoyu ticari bir kitle iletişim aracına dönüştüren ve kablosuz iletişimi mümkün kılan mucit kimdir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Samuel Morse",
+        "B": "Graham Bell",
+        "C": "Guglielmo Marconi",
+        "D": "Thomas Edison",
+        "E": "Heinrich Hertz"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Bilim adamlarının çalışmaları doğrultusunda radyoyu ticari bir kitle iletişim aracına dönüştüren isim Guglielmo Marconi'dir[cite: 1736]."
+    },
+    {
+      "soruid": 7,
+      "soru_metni": "İnternetin temellerini oluşturan ve 1960'larda ABD Savunma Bakanlığı tarafından geliştirilen projenin adı nedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "WWW",
+        "B": "ARPANET",
+        "C": "ETHERNET",
+        "D": "INTRANET",
+        "E": "EXTRANET"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "ABD Savunma Bakanlığı'nın başlattığı ARPA projesi kapsamında geliştirilen ağ sistemi ARPANET adını almıştır ve internetin atasıdır[cite: 1858]."
+    },
+    {
+      "soruid": 8,
+      "soru_metni": "1991 yılında 'World Wide Web' (WWW) sistemini icat ederek internetin ticarileşmesini ve yaygınlaşmasını sağlayan kişi kimdir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Bill Gates",
+        "B": "Steve Jobs",
+        "C": "Tim Berners Lee",
+        "D": "Mark Zuckerberg",
+        "E": "Jeff Bezos"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Ağ sistemi 1991'de Tim Berners Lee tarafından bugünkü internet adını (www sistemini kurarak) almıştır[cite: 1862]."
+    },
+    {
+      "soruid": 9,
+      "soru_metni": "Kullanıcıların sadece bilgiye erişebildiği ancak içerik üretemediği veya etkileşime giremediği internet dönemine ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Web 2.0",
+        "B": "Sosyal Medya",
+        "C": "Web 1.0",
+        "D": "Mobil Ağ",
+        "E": "Yeni Medya"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Kullanıcıların sadece aramalar sonucu bilgiye ulaşıp sayfayı kapattığı tek yönlü etkileşim sunan sisteme Web 1.0 denmiştir[cite: 1878]."
+    },
+    {
+      "soruid": 10,
+      "soru_metni": "Modern anlamda bilinen ilk sosyal ağ sitesi hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Facebook",
+        "B": "Twitter",
+        "C": "Sixdegrees.com",
+        "D": "Myspace",
+        "E": "LinkedIn"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Modern anlamda bilinen ilk sosyal ağ sitesi sixdegress.com 1997 yılında yayınlanmıştır[cite: 1926]."
+    },
+    {
+      "soruid": 11,
+      "soru_metni": "İş dünyasındaki profesyonelleri bir araya getiren ve kariyer gelişimi odaklı olan sosyal medya platformu hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Instagram",
+        "B": "Pinterest",
+        "C": "LinkedIn",
+        "D": "Snapchat",
+        "E": "YouTube"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "LinkedIn, dünyanın en geniş iş ağlarından biridir ve kullanıcıların mesleki özellikleri ön plandadır[cite: 1968]."
+    },
+    {
+      "soruid": 12,
+      "soru_metni": "2004 yılında Mark Zuckerberg tarafından kurulan ve başlangıçta sadece üniversite öğrencilerine yönelik olan sosyal ağ hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Twitter",
+        "B": "Facebook",
+        "C": "YouTube",
+        "D": "WhatsApp",
+        "E": "Tumblr"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "2004 yılında Mark Zuckerberg ve arkadaşları tarafından kurulan bu sosyal ağ (Facebook), ilk önce bir üniversitenin öğrencileri ile sınırlandırılmıştır[cite: 1981]."
+    },
+    {
+      "soruid": 13,
+      "soru_metni": "Twitter'da anlık olarak en çok konuşulan konuların yer aldığı listeye ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Timeline",
+        "B": "Retweet",
+        "C": "Trend Topic (TT)",
+        "D": "Mention",
+        "E": "Direct Message"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Twitter'ın o saatler içerisinde en çok konuşulan konuyu çıkardığı listeye 'Trend Topic' (TT) denir[cite: 2024]."
+    },
+    {
+      "soruid": 14,
+      "soru_metni": "2005 yılında kurulan ve Google tarafından satın alınan, dünyanın en büyük video paylaşım platformu hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Vimeo",
+        "B": "Dailymotion",
+        "C": "YouTube",
+        "D": "Twitch",
+        "E": "Periscope"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Video veritabanına sahip olan YouTube 2005 yılında kurulmuştur ve Google'dan sonra en çok ziyaret edilen ikinci sitedir[cite: 2044]."
+    },
+    {
+      "soruid": 15,
+      "soru_metni": "Akıllı telefon devrimini başlatan ve 2007 yılında Apple tarafından üretilen cihaz hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Nokia 3310",
+        "B": "Blackberry",
+        "C": "iPhone",
+        "D": "Samsung Galaxy",
+        "E": "Motorola"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Apple firması 2007 yılında akıllı telefonların üretiminde bir ilke imza atarak 'iPhone'u üretmiştir[cite: 2065]."
+    },
+    {
+      "soruid": 16,
+      "soru_metni": "2009 yılında geliştirilen ve 2014 yılında Facebook tarafından satın alınan popüler anlık mesajlaşma uygulaması hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Viber",
+        "B": "Telegram",
+        "C": "WhatsApp",
+        "D": "Messenger",
+        "E": "Skype"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "2009 yılında geliştirilen WhatsApp, 2014'te Facebook tarafından satın alınmıştır[cite: 2092]."
+    },
+    {
+      "soruid": 17,
+      "soru_metni": "Instagram'ın 2012 yılında hangi şirket tarafından satın alındığı bilinmektedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Google",
+        "B": "Twitter",
+        "C": "Facebook",
+        "D": "Microsoft",
+        "E": "Yahoo"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Instagram uygulaması 2012 yılında Facebook tarafından 1 milyar dolara satın alınmıştır[cite: 2125]."
+    },
+    {
+      "soruid": 18,
+      "soru_metni": "Özellikle Z kuşağı tarafından kullanılan, gönderilerin belirli bir süre sonra kaybolduğu (geçicilik) ve 'Hikâye' özelliğini ilk çıkaran uygulama hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "TikTok",
+        "B": "Snapchat",
+        "C": "Instagram",
+        "D": "Facebook",
+        "E": "Pinterest"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Snapchat, kullanıcılarına sunduğu geçicilik (kaybolan mesajlar) ve hikaye özelliği ile bilinir ve Z kuşağı tarafından aktiftir[cite: 2153]."
+    },
+    {
+      "soruid": 19,
+      "soru_metni": "Geleneksel medyadaki 'Eşik Bekçisi' (Gatekeeper) kavramının dijital medyada etkisini yitirmesinin temel nedeni nedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Haberlerin azalması",
+        "B": "Gazetecilerin işi bırakması",
+        "C": "İnternet ortamında kullanıcıların kendi içeriklerini üretebilmesi",
+        "D": "Devlet sansürünün artması",
+        "E": "Maliyetlerin artması"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Eşik bekçilerinin etkili olamamasının sebebi, internet ortamında medya içeriğini kendi yaratan kullanıcıların var olmasıdır[cite: 2218]."
+    },
+    {
+      "soruid": 20,
+      "soru_metni": "Dijital medyanın geleneksel medyadan ayrılan ve kullanıcıların içeriğe katkıda bulunmasını sağlayan en önemli özelliği nedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Tek yönlülük",
+        "B": "Etkileşim (İnteraktivite)",
+        "C": "Merkeziyetçilik",
+        "D": "Pahalı olması",
+        "E": "Sınırlı erişim"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Dijital iletişim teknolojileri, gelenekselden farklı olarak çok yönlü ve 'etkileşimli' bir yapıdadır[cite: 2307]."
+    },
+    {
+      "soruid": 21,
+      "soru_metni": "Aşağıdakilerden hangisi dijital iletişimin geleneksel iletişime göre sağladığı avantajlardan biri değildir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Zaman ve mekandan bağımsızlık (Asenkron özellik)",
+        "B": "Veri depolama ve arşivleme kolaylığı",
+        "C": "Tek yönlü bilgi akışı sağlaması",
+        "D": "Hızlı geri bildirim imkanı",
+        "E": "Kullanıcının içerik üreticisi olabilmesi"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Tek yönlü bilgi akışı geleneksel medyanın özelliğidir; dijital medya çift yönlü ve etkileşimlidir[cite: 2306]."
+    },
+    {
+      "soruid": 22,
+      "soru_metni": "Hiyerogliflerin sırrını çözen ve görsel iletişimin tarihsel gelişiminde önemli bir yere sahip olan taşın adı nedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Rosetta Taşı",
+        "B": "Orhun Yazıtları",
+        "C": "Hammurabi Kanunları",
+        "D": "Sümer Tabletleri",
+        "E": "Dikilitaş"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Rosetta (Reşid) Taşı, hiyeroglifin şifresini çözmeye yarayan ve dünyanın bilinen en eski çok dilli yazıtıdır[cite: 1646]."
+    },
+    {
+      "soruid": 23,
+      "soru_metni": "Twitter kullanıcılarının paylaşımlarını konu başlıkları altında toplamak için kullandıkları sembolik işarete ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Mention (@)",
+        "B": "Hashtag (#)",
+        "C": "Like (♥)",
+        "D": "Retweet (RT)",
+        "E": "DM"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Konuyu etiketlemek yani hashtag yapmak, paylaşımların o içerik altında toplanmasını sağlar[cite: 2026]."
+    },
+    {
+      "soruid": 24,
+      "soru_metni": "Forum sitelerinin tanışma sitelerinden ayrılan en temel özelliği nedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Sadece fotoğraf paylaşılması",
+        "B": "Bilgi ve fikir alışverişine dayalı olması",
+        "C": "Ücretli olması",
+        "D": "Sadece mobil cihazlarda çalışması",
+        "E": "Sadece yöneticilerin yazabilmesi"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Forumlar tanışma sitelerinden farklı olarak bir deneyim, anı veya olayın paylaşıldığı ve üzerine konuşulduğu 'bilgi alışverişi' ortamlarıdır[cite: 1930]."
+    },
+    {
+      "soruid": 25,
+      "soru_metni": "Kullanıcıların kendi profillerini oluşturup arkadaş listeleri kurabildiği ilk sosyal ağ denemesi sayılan ve 1997'de kurulan site hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Friendster",
+        "B": "Sixdegrees.com",
+        "C": "Myspace",
+        "D": "Hi5",
+        "E": "Yonja"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Modern anlamda bilinen ilk sosyal ağ sitesi sixdegress.com 1997 yılında yayınlanmıştır[cite: 1926]."
+    },
+    {
+      "soruid": 26,
+      "soru_metni": "Sosyal medya platformlarında ünlü ve tanınmış kişilerin hesaplarının gerçek olduğunu doğrulayan işarete ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Gri Rozet",
+        "B": "Sarı Yıldız",
+        "C": "Mavi Tik",
+        "D": "Kırmızı Nokta",
+        "E": "Yeşil Onay"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Ünlü ve tanınmış kişilerin hesaplarını resmileştiren bu doğrulama işaretine 'mavi tik' denir[cite: 2022]."
+    },
+    {
+      "soruid": 27,
+      "soru_metni": "Hangi sosyal medya platformu, kullanıcılarına video yükleme, kanal oluşturma ve izlenme oranına göre gelir elde etme imkanı sunar?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "WhatsApp",
+        "B": "Pinterest",
+        "C": "YouTube",
+        "D": "LinkedIn",
+        "E": "Twitter"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "YouTube, içerik üreten kullanıcılarına izlenme karşılığında ödeme yapan ve kanal sahibi olunan bir platformdur[cite: 2047]."
+    },
+    {
+      "soruid": 28,
+      "soru_metni": "Aşağıdakilerden hangisi dijital medyanın 'modülerlik' özelliğini en iyi açıklar?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Medyanın sadece metinden oluşması",
+        "B": "Parçaların bir bütün oluşturması ancak bağımsızlıklarını koruması (örneğin bir web sayfasındaki resim ve metinler)",
+        "C": "Medyanın tek bir merkezden yönetilmesi",
+        "D": "İçeriğin değiştirilememesi",
+        "E": "Medyanın sadece sayısal kodlardan ibaret olması"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Modülerlik, farklı materyallerin (ses, görüntü vb.) birleştirilerek yeni nesnelerin oluşturulması işlemidir ancak bu parçalar kendi kimliklerini korurlar (Ünite 7'de detaylandırılmıştır, burada 'modülerlik' kelimesi ünite sonunda şıklarda geçmektedir ve yeni medyanın 5 özelliğinden biridir)."
+    },
+    {
+      "soruid": 29,
+      "soru_metni": "Matbaanın icadından sonra ortaya çıkan ve 'ilk kitle iletişim aracı' olarak kabul edilen yayın türü hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Kitap",
+        "B": "Gazete",
+        "C": "Dergi",
+        "D": "Broşür",
+        "E": "Ansiklopedi"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Matbaa, aynı zamanda ilk kitle iletişim aracı olan gazetenin ortaya çıkmasına neden olmuştur[cite: 1671]."
+    },
+    {
+      "soruid": 30,
+      "soru_metni": "2. Dünya Savaşı sırasında 'kara propaganda' amacıyla en etkin kullanılan kitle iletişim aracı hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Televizyon",
+        "B": "Radyo",
+        "C": "İnternet",
+        "D": "Telgraf",
+        "E": "Telefon"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Savaş zamanlarında radyo yayıncılığı çok önemli bir hâle gelmiş ve politik çatışmalar/propaganda için sıkça kullanılmıştır[cite: 1766]."
+    },
+    {
+      "soruid": 31,
+      "soru_metni": "Dijital iletişimin teknolojilerinin ortaya çıkması ve günümüzde gelişerek devam etmesinde hangi düşünce belirleyici olmuştur? (Ünite Sorusu 1)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Politika ve siyaset rejimleri",
+        "B": "Ekonomi ve üretim",
+        "C": "Askeri teknolojiler",
+        "D": "Endüstriyel gelişme ve sanayi",
+        "E": "Sosyo Kültürel ihtiyaçlar"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": "Cevap anahtarına göre E şıkkıdır. (Not: Metinde İnternetin askeri amaçla çıktığı yazsa da, iletişimin evriminde 'bireysel ve toplumsal ihtiyaçlar' [cite: 1506] ve 'insanın kendini ifade etme ihtiyacı' vurgulanmıştır)."
+    },
+    {
+      "soruid": 32,
+      "soru_metni": "İnternetin sosyal etkileşim olanaklarının kullanıldığı yazılım sistemi aşağıdakilerden hangisidir? (Ünite Sorusu 2)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Bilgisayar",
+        "B": "Web 2.0",
+        "C": "Facebook",
+        "D": "Web 1.0",
+        "E": "Twitter"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Web 2.0, kullanıcılara katkı, yorum ve paylaşım yapmasını sağlayan, çift taraflı etkileşimi mümkün kılan sistemdir[cite: 1880]."
+    },
+    {
+      "soruid": 33,
+      "soru_metni": "Aşağıdaki iletişim araçlarının hangisi iletişim kurabilmek için özel bir alfabeye ihtiyaç duymaktadır? (Ünite Sorusu 3)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Televizyon",
+        "B": "Telgraf",
+        "C": "Telefon",
+        "D": "Bilgisayar",
+        "E": "Radyo"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Telgraf, Morse alfabesi adı verilen özel bir kodlama sistemi kullanır[cite: 1693]."
+    },
+    {
+      "soruid": 34,
+      "soru_metni": "Ülkemizde ilk internet bağlantısı ne zaman ve nerede gerçekleştirilmiştir? (Ünite Sorusu 4)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "İstanbul Teknik Üniversitesi, 1993",
+        "B": "Boğaziçi Üniversitesi, 1998",
+        "C": "Boğaziçi Üniversitesi, 1993",
+        "D": "Orta Doğu Teknik Üniversitesi, 1990",
+        "E": "Orta Doğu Teknik Üniversitesi, 1993"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": "Ülkemizde ilk İnternet bağlantısı 1993'te Ortadoğu Teknik Üniversitesi tarafından gerçekleştirilmiştir[cite: 1868]."
+    },
+    {
+      "soruid": 35,
+      "soru_metni": "Aşağıdakilerin hangisinde iletişim sürecinin aşamaları sırasıyla ve doğru olarak verilmiştir? (Ünite Sorusu 5)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Kaynak, oluk, alıcı, ileti",
+        "B": "Kaynak, alıcı, ileti, oluk",
+        "C": "Alıcı, ileti, kaynak, oluk",
+        "D": "Kaynak, ileti, oluk, alıcı",
+        "E": "İleti, kaynak, oluk, alıcı"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": "İletişim süreci Kaynak (gönderici) ile başlar, Mesaj (ileti), Kanal (oluk) ve Alıcı şeklinde devam eder[cite: 1576]."
+    },
+    {
+      "soruid": 36,
+      "soru_metni": "Aşağıdakilerden hangisi modern anlamda 1997 yılında kurulan ilk sosyal ağ sitesidir? (Ünite Sorusu 6)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "sixdegress.com",
+        "B": "facebook.com",
+        "C": "mynet.com",
+        "D": "google.com",
+        "E": "linkedin.com"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Modern anlamda bilinen ilk sosyal ağ sitesi sixdegress.com 1997 yılında yayınlanmıştır[cite: 1926]."
+    },
+    {
+      "soruid": 37,
+      "soru_metni": "Aşağıdakilerden hangisi sosyal ağ sitesi habercilik anlayışında köklü değişimlere neden olarak eşik bekçilerinin etkilerini azaltmıştır? (Ünite Sorusu 7)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Google",
+        "B": "Facebook",
+        "C": "Twitter",
+        "D": "Instagram",
+        "E": "Linkedin"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Twitter, anlık haber iletişim ağı olarak görülmekte ve kendi gündemini yaratarak eşik bekçilerinin etkisini kırmıştır[cite: 2019]."
+    },
+    {
+      "soruid": 38,
+      "soru_metni": "Sosyal paylaşım sitelerinde görülen 'mavi tik' sisteminin anlamı nedir? (Ünite Sorusu 8)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Ünlü ve tanınmış kişiler için onaylanmış ya da doğrulanmış resmi hesap",
+        "B": "Sakıncalı ve engellenmiş kişi",
+        "C": "Ticari amaçlarla bulunan firma ya da marka",
+        "D": "En çok beğeni almış kişi ya kurum",
+        "E": "Yönetici"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Mavi tik, ünlü ve tanınmış kişilerin gerçek kişi olduklarını doğrulayan bir sistemdir[cite: 2021]."
+    },
+    {
+      "soruid": 39,
+      "soru_metni": "Günümüzdeki kurum ya da kuruluşlar şikâyet, öneri ve memnuniyet gibi geri dönüşler almak için resmi olarak aşağıdaki iletişim araçlarından hangisini tercih etmektedir? (Ünite Sorusu 9)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Radyo",
+        "B": "Mektup",
+        "C": "Kargo",
+        "D": "Havale/EFT",
+        "E": "Elektronik Posta"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": "Kurumlar olası şikâyet ve öneriler için elektronik postaları kullanmaktadır[cite: 2211]."
+    },
+    {
+      "soruid": 40,
+      "soru_metni": "Aşağıdakilerden hangisinde geleneksel medyanın dijital medyadan farkları tam ve doğru olarak verilmiştir? (Ünite Sorusu 10)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Çok yönlü, merkeziyetçi olmayan, küresel",
+        "B": "Çok yönlü, merkeziyetçi, küresel",
+        "C": "Merkeziyetçi, küresel, tek yönlü",
+        "D": "Merkeziyetçi, bölgesel, çok yönlü",
+        "E": "Merkeziyetçi olmayan, küresel, tek yönlü"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Bu sorunun cevabı anahtarda 'A' olarak verilmiş olsa da, soru kökü 'Geleneksel medyanın farkları'nı sormaktadır ancak şıklar 'Dijital medyanın özelliklerini' (Çok yönlü, merkeziyetçi olmayan, küresel) tarif etmektedir. Metinde dijital iletişim teknolojilerinin 'çok yönlü, küresel ve merkeziyetçi olmayan' bir yapıda olduğu belirtilmiştir[cite: 2307]. Geleneksel medya ise 'tek yönlü, bölgesel, sınırlı ve kontrollü'dür. Soru muhtemelen 'Dijital medyanın farkları'nı sormayı amaçlamıştır. Cevap anahtarına sadık kalarak A şıkkını işaretliyoruz."
+    }
+      ]
+    }
+  ]
+}
