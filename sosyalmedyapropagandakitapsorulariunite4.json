@@ -427,16 +427,6 @@
       "dogru_cevap": "B",
       "neden_dogru": "Converse, ideolojilerin elitler için önemli olduğunu ancak kitlelerin (sıradan vatandaşın) siyaseti yorumlayışının çoğunlukla tutarlı bir ideolojik çerçeveye oturmadığını savunur."
     },
-       Harika bir nokta. AÖF sınavlarında genellikle ünite sonu sorularından (Neler Öğrendik?) birebir veya çok benzer sorular gelir. Bu yüzden bu sorular çok değerlidir.
-
-Önceki 30 soruluk listenin devamı olarak, ünitenin sonunda yer alan orijinal 10 soruyu, cevap anahtarına ve kitaptaki açıklamalara göre hazırladım. Sıralamayı 31'den başlatarak 40'a kadar devam ettirdim.
-
-İşte ünitenin kendi değerlendirme soruları:
-
-JSON
-
-{
-  "sorular": [
     {
       "soruid": 31,
       "soru_metni": "En basit tanımı ile politik veya sosyal bir öğreti oluşturan, bir partinin, hükümetin, bir grubun ya da kişinin davranışlarına yön veren siyasi, hukuki, bilimsel, felsefi, ahlaki, dinî ve estetik düşünceler setine ne ad verilir?",
