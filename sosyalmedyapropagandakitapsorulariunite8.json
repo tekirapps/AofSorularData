@@ -1,0 +1,573 @@
+{
+  "ders_kodu": "SMY201U",
+  "ders_adi": "SOSYAL MEDYA VE PROPAGANDA",
+  "sinavlar": [
+    {
+      "baslik": "2025 Ünite 8 Yapay Zeka Destekli Çıkabilecek Sorular",
+      "tur": "AI",
+      "yil": 2025,
+      "sorular": [
+   {
+      "soruid": 1,
+      "soru_metni": "Gus Martin tarafından ortaya atılan ve terör eylemlerinin medyanın ilgisini çekecek şekilde düzenlenmesini ifade eden kavram aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Siber Terörizm",
+        "B": "Medya Merkezli Terörizm",
+        "C": "Psikolojik Savaş",
+        "D": "Dördüncü Nesil Savaş",
+        "E": "Yalnız Kurt Eylemi"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Metne göre Gus Martin, terör eylemlerinin medyanın ilgisini çekecek şekilde ve medya aracılığıyla düzenlenmesini 'medya merkezli terörizm' olarak tanımlamaktadır."
+    },
+    {
+      "soruid": 2,
+      "soru_metni": "NATO'nun tanımına göre propaganda nedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Sadece yalan haber yaymaktır.",
+        "B": "Her türlü bilgi, fikir ve doktrinin belirli bir grubun fikir, his, davranış ve tavırlarını etkileme gayesi güderek kullanılmasıdır.",
+        "C": "Düşman askerlerini öldürme sanatıdır.",
+        "D": "Siber saldırı düzenleme tekniğidir.",
+        "E": "Medya organlarını satın alma sürecidir."
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Metinde NATO'nun propagandayı 'her türlü bilgi, fikir ve doktrinin belirli bir grubun fikir, his, davranış ve tavırlarını etkileme gayesi güderek dolaylı ve dolaysız şekilde kullanımı' olarak tanımladığı belirtilmiştir."
+    },
+    {
+      "soruid": 3,
+      "soru_metni": "Terör örgütlerinin sosyal medyayı tercih etmelerindeki en temel avantajlardan biri aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Devlet kontrolünün ve denetiminin klasik medyaya göre çok daha zor olması",
+        "B": "Maliyetinin çok yüksek olması",
+        "C": "Sadece yerel halka hitap etmesi",
+        "D": "Yüz yüze iletişimi zorunlu kılması",
+        "E": "Yavaş iletişim sağlaması"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Metne göre sosyal medya üzerinde yazılı ve görsel medya gibi bir otorite kurulması zor olduğu için terör örgütleri faaliyetlerini daha rahat yürütebilmektedir."
+    },
+    {
+      "soruid": 4,
+      "soru_metni": "Birol Kartal'a göre aşağıdakilerden hangisi terör örgütlerinin sosyal medya ve interneti kullanma nedenlerinden biri değildir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Psikolojik savaş",
+        "B": "Örgüte eleman temini",
+        "C": "Barış anlaşmaları imzalamak",
+        "D": "Yardım ve bağış toplama",
+        "E": "Eylemlerin planlanması ve koordinasyonu"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Terör örgütlerinin sosyal medyayı kullanma nedenleri arasında psikolojik savaş, propaganda, eleman temini, finansman vb. sayılmış ancak 'barış anlaşmaları imzalamak' bu nedenler arasında yer almamıştır."
+    },
+    {
+      "soruid": 5,
+      "soru_metni": "Politikacıları belirli bir konuda karar almaya zorlayan medya gücünü ifade eden 'CNN Etkisi'nin yerini günümüzde hangi kavram almıştır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Gazete Etkisi",
+        "B": "Radyo Etkisi",
+        "C": "Sosyal Medya Etkisi",
+        "D": "Televizyon Etkisi",
+        "E": "Propaganda Etkisi"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Metinde, politikacıları etkileyen 'CNN Effect'in yerini artık çok daha güçlü ve yaygın olan 'sosyal medya etkisi'nin aldığı belirtilmektedir."
+    },
+    {
+      "soruid": 6,
+      "soru_metni": "Vatandaşı oldukları Batı ülkelerinde yaşayan ve internet/sosyal medya üzerinden radikalleşerek terör eylemi yapma potansiyeline ulaşan bireylere ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Paralı Asker",
+        "B": "Milis Gücü",
+        "C": "Homegrown (Kendi Muhitinde Yetişen) Terörist",
+        "D": "Siber Korsan",
+        "E": "Gerilla"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "'Homegrown' kavramı, vatandaşı oldukları ülkelerde kendi başlarına radikalleşen bireyler için kullanılmaktadır."
+    },
+    {
+      "soruid": 7,
+      "soru_metni": "Herhangi bir terör örgütüyle hiyerarşik bağı olmadan, kendi kendine radikalleşerek eylem yapan bireylere verilen isim nedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Uyuyan Hücre",
+        "B": "Yalnız Kurt",
+        "C": "Canlı Bomba",
+        "D": "Siber Ajan",
+        "E": "Lojistik Destekçi"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Yalnız kurt, kendi kendine radikalleşen, bir örgütten doğrudan emir almadan kendi imkanlarıyla eylem yapan kişidir."
+    },
+    {
+      "soruid": 8,
+      "soru_metni": "Savaş ve barış, asker ve sivil, güvenli ve güvensiz bölge gibi ayrımların belirsizleştiği, terörün bireyselleştiği savaş türüne ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Birinci Nesil Savaş",
+        "B": "Soğuk Savaş",
+        "C": "Nükleer Savaş",
+        "D": "Dördüncü Nesil Savaş (4GW)",
+        "E": "Konvansiyonel Savaş"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": "Dördüncü nesil savaş (4GW), cephe savaşının ötesinde, sivil-asker ayrımının kalktığı ve terörün bireyselleştiği yeni savaş konseptidir."
+    },
+    {
+      "soruid": 9,
+      "soru_metni": "DAEŞ terör örgütünün sosyal medya, internet, radyo ve neşriyat gibi işlerden sorumlu olarak kurduğu sözde bakanlığın adı nedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Savaş Bakanlığı",
+        "B": "Medya Divanı",
+        "C": "Propaganda Ofisi",
+        "D": "İletişim Başkanlığı",
+        "E": "Halkla İlişkiler Birimi"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "DAEŞ, fiili sözde devlet yapılanması içinde 'Medya Divanı' adı altında sosyal medya ve yayıncılık işlerinden sorumlu bir birim oluşturmuştur."
+    },
+    {
+      "soruid": 10,
+      "soru_metni": "DAEŞ'in siber saldırılardan sorumlu olan ve çeşitli devlet kurumlarına saldırılar düzenleyen hacker grubunun adı nedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Anonymous",
+        "B": "RedHack",
+        "C": "Siber Halifelik",
+        "D": "WikiLeaks",
+        "E": "Cyber Storm"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "DAEŞ'in siber saldırı timinin adı 'Siber Halifelik' (Cyber Caliphate) olarak geçmektedir."
+    },
+    {
+      "soruid": 11,
+      "soru_metni": "Alman General Erich Ludendorff'un 'Artık savaşlar silahla değil sözcüklerle yapılıyor' sözü neyin önemini vurgulamaktadır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Ekonominin",
+        "B": "Diplomasinin",
+        "C": "Propagandanın",
+        "D": "Nükleer silahların",
+        "E": "Eğitimin"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Bu söz, propagandanın ve algı yönetiminin modern savaşlardaki belirleyici gücünü vurgulamak için kullanılmıştır."
+    },
+    {
+      "soruid": 12,
+      "soru_metni": "Boaz Ganor'a göre terör örgütleri için bir eylemin başarısı neye bağlıdır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Öldürülen kişi sayısının çokluğuna",
+        "B": "Kullanılan silahın maliyetine",
+        "C": "Eylemin ne ölçüde duyulup duyulmadığına (reklamına)",
+        "D": "Eylemin süresine",
+        "E": "Eylemin gece yapılmasına"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Ganor'a göre terör, eylem duyulmadığı takdirde anlamsızdır; asıl amaç eylemin geniş kitlelere duyurulmasıdır."
+    },
+    {
+      "soruid": 13,
+      "soru_metni": "Terör örgütlerinin popüler video oyunlarından ve filmlerden sahneler kopyalayarak kendi propagandalarında kullanmasına ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Telif hakkı ihlali",
+        "B": "Şiddetin estetize edilmesi",
+        "C": "Oyunlaştırma",
+        "D": "Sanal gerçeklik",
+        "E": "Kültür emperyalizmi"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Metinde, terör örgütlerinin şiddet içerikli görüntüleri oyun ve film sahneleriyle birleştirerek sunması 'şiddetin estetize edilmesi' olarak tanımlanmıştır."
+    },
+    {
+      "soruid": 14,
+      "soru_metni": "Sosyal medya şirketlerinin fundamentalist örgütlere (DAEŞ, El Kaide) karşı sert önlemler alırken, bazı etnik/ayrılıkçı örgütlere (PKK/YPG) müsamaha göstermesi ne ile açıklanır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Teknik yetersizlik",
+        "B": "Çifte standart",
+        "C": "Algoritma hatası",
+        "D": "Dil bariyeri",
+        "E": "Personel eksikliği"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Metinde bu durum, sosyal medya kuruluşlarının terör örgütlerine yönelik 'çifte standart' uygulaması olarak nitelendirilmiştir."
+    },
+    {
+      "soruid": 15,
+      "soru_metni": "2016 yılında ABD'de bir gece kulübüne saldırı düzenleyen ve sosyal medya üzerinden radikalleştiği tespit edilen saldırgan kimdir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Usame bin Ladin",
+        "B": "Ebubekir el Bağdadi",
+        "C": "Ömer Metin (Omar Mateen)",
+        "D": "Anders Breivik",
+        "E": "Brenton Tarrant"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Metinde, 2016 Florida (Orlando) saldırısını gerçekleştiren ve sosyal medya üzerinden radikalleşen kişinin Ömer Metin olduğu belirtilmemekle birlikte 'ABD'de Florida'da bir eğlence merkezine silahlı saldırı düzenleyen' ifadesi geçmektedir. (Genel bilgi: Fail Ömer Metin'dir). Soru metne göre: 2016 Florida saldırısı örneği verilmiştir."
+    },
+    {
+      "soruid": 16,
+      "soru_metni": "Abdel Bari Atwan, DAEŞ'in sanal dünyadaki yapılanması için hangi kavramı kullanmıştır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Sanal Krallık",
+        "B": "Dijital Halifelik",
+        "C": "Siber Cumhuriyet",
+        "D": "E-Devlet",
+        "E": "Online Örgüt"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Atwan, DAEŞ'in internet üzerindeki yapılanmasını ve stratejisini 'Dijital Halifelik' kavramıyla açıklamıştır."
+    },
+    {
+      "soruid": 17,
+      "soru_metni": "Tamamen internet ve mobil teknolojilerle büyüyen ve yeni nesil terör örgütlerinin ana hedef kitlesini oluşturan kuşak hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "X Kuşağı",
+        "B": "Y Kuşağı",
+        "C": "Z Kuşağı",
+        "D": "Baby Boomers",
+        "E": "Sessiz Kuşak"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Metne göre Z kuşağı tamamen internet ve mobil teknolojilerle büyüyen nesildir ve örgütler bu kuşağı etkilemek için sosyal medyayı kullanır."
+    },
+    {
+      "soruid": 18,
+      "soru_metni": "Türkiye'de Emniyet Genel Müdürlüğü verilerine göre (2018), terörle irtibatlı olduğu tespit edilen yaklaşık kaç sosyal medya kullanıcısı bulunmaktadır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "10 bin",
+        "B": "50 bin",
+        "C": "126 bin",
+        "D": "500 bin",
+        "E": "1 milyon"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Metinde 2018 verilerine göre 126 bin örgüt mensubu veya sempatizanı kullanıcının tespit edildiği belirtilmiştir."
+    },
+    {
+      "soruid": 19,
+      "soru_metni": "Sol tandanslı ve etnik bölücü terör örgütleri (PKK, DHKP-C vb.) sosyal medyada genellikle hangi tür propaganda yöntemini tercih etmektedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Vahşet ve korku yayma",
+        "B": "Mağduriyet algısı ve kara propaganda",
+        "C": "Dini referanslar kullanma",
+        "D": "Sadece siber saldırı",
+        "E": "Sessiz kalma"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Metinde bu örgütlerin daha çok mağduriyet algısına oynadığı, kendilerini aciz ve ezilmiş göstererek sempati toplamaya çalıştıkları (kara propaganda) belirtilmiştir."
+    },
+    {
+      "soruid": 20,
+      "soru_metni": "DAEŞ'in takipçilerine sunduğu, şeriat rejiminin ve hilafet sisteminin hüküm sürdüğü idealize edilmiş sanal gerçekliğe ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Vahiysel Ütopyacılık",
+        "B": "Demokratik Modernite",
+        "C": "Sosyalist Cennet",
+        "D": "Siber Anarşi",
+        "E": "Global Köy"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Metinde DAEŞ'in sunduğu bu sanal ve idealize edilmiş yapıya 'vahiysel ütopyacılık' adı verildiği belirtilmiştir."
+    },
+    {
+      "soruid": 21,
+      "soru_metni": "Terör örgütlerinin propaganda yaparken hedef kitlelerini kültürel, dilsel ve coğrafi aidiyetler üzerinden etkilemek için kullandıkları kodlar hangi uzmanlık alanıyla ilişkilidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Ekonomi",
+        "B": "Antropoloji",
+        "C": "Hukuk",
+        "D": "Mühendislik",
+        "E": "Tıp"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Metinde, terör örgütlerinin propaganda videolarında kültürel ve simgesel verileri işlemeleri 'antropolojik veriler' ve uzmanlık olarak tanımlanmıştır."
+    },
+    {
+      "soruid": 22,
+      "soru_metni": "Yaşadıkları ülkelerden ayrılarak sıcak çatışma bölgelerine gidip terör örgütlerine katılan kişilere ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Mülteci",
+        "B": "Sığınmacı",
+        "C": "Yabancı Terörist Savaşçı (YTS)",
+        "D": "Diplomat",
+        "E": "Barış Gücü"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Farklı ülkelerden gelip çatışma bölgelerindeki örgütlere katılanlar 'Yabancı Terörist Savaşçı' olarak tanımlanır."
+    },
+    {
+      "soruid": 23,
+      "soru_metni": "1990'ların sonunda El Kaide'nin stratejisi olan 'Uzak Düşman' (ABD ve Batı'yı hedef alma) kavramı hangi strateji türüne girer?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Defansif Strateji",
+        "B": "Ofansif Strateji",
+        "C": "Pasif Strateji",
+        "D": "Yerel Strateji",
+        "E": "Diplomatik Strateji"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "El Kaide'nin ABD ve Batı'yı hedef alan bu stratejisi, uzmanlarca 'ofansif' (saldırgan) strateji olarak nitelenmiştir."
+    },
+    {
+      "soruid": 24,
+      "soru_metni": "2008 yılında İngiltere'nin Exeter kentindeki bombalama girişiminin faili, radikalleşme sürecini hangi platform üzerinden yaşamıştır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Televizyon",
+        "B": "Gazete",
+        "C": "YouTube",
+        "D": "Radyo",
+        "E": "Cami"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Metinde 22 yaşındaki failin YouTube aracılığıyla bir terör hücresi tarafından beyninin yıkandığı belirtilmiştir."
+    },
+    {
+      "soruid": 25,
+      "soru_metni": "DAEŞ'in 2014-2017 yılları arasında propaganda amacıyla internet üzerinden yayınladığı materyal türü hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Basılı gazete",
+        "B": "Dijital dergi",
+        "C": "Radyo kasedi",
+        "D": "Sinema filmi",
+        "E": "Ansiklopedi"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "DAEŞ'in bu dönemde internet üzerinden çok dilli 'dijital dergi'ler yayınladığı metinde ifade edilmiştir."
+    },
+    {
+      "soruid": 26,
+      "soru_metni": "Terör örgütleri ile devlet yetkililerinin (örneğin ABD Başkanı Trump ve YPG elebaşı) sosyal medyada aynı düzlemde iletişim kurabilmesi neyin göstergesidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Terörün bittiğinin",
+        "B": "Devletlerin güçlendiğinin",
+        "C": "Hiyerarşik ilişki biçiminin aşınarak aktörlerin eşitmiş algısıyla buluştuğunun",
+        "D": "Medyanın etkisizleştiğinin",
+        "E": "Diplomasinin başarısının"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Sosyal medya, hiyerarşik olarak yan yana gelemeyecek aktörleri (devlet başkanı ve terörist) eşitmiş algısı yaratan bir ortamda buluşturmuştur."
+    },
+    {
+      "soruid": 27,
+      "soru_metni": "Fundamentalist terör örgütlerinin (DAEŞ vb.) sosyal medyada kullandığı 'korku ve dehşet' stratejisinin temel amacı nedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Eğlence sağlamak",
+        "B": "Takipçi sayısını artırmak",
+        "C": "Korku atmosferi yaratarak ideolojik hedeflerine ulaşmak ve güç gösterisi yapmak",
+        "D": "Reklam geliri elde etmek",
+        "E": "Sanatsal yeteneklerini sergilemek"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Bu örgütler, vahşet görüntüleri (infazlar vb.) ile korku atmosferi yaratarak hem düşmanı caydırmayı hem de güçlerini kanıtlamayı amaçlar."
+    },
+    {
+      "soruid": 28,
+      "soru_metni": "Birleşmiş Milletler verilerine göre 1998'de 12 olan El Kaide bağlantılı web sitesi sayısı 2006'da kaça yükselmiştir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "50",
+        "B": "100",
+        "C": "500",
+        "D": "1.000",
+        "E": "2.600"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": "Metinde bu sayının 2006 yılında 2.600'e çıktığı bilgisi yer almaktadır."
+    },
+    {
+      "soruid": 29,
+      "soru_metni": "Sosyal medyanın terör örgütleri tarafından kullanımı hangi tür güvenliği tehdit eden bir problem olarak değerlendirilmektedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Gıda güvenliği",
+        "B": "Ulusal ve uluslararası güvenlik",
+        "C": "İş güvenliği",
+        "D": "Çevre güvenliği",
+        "E": "Trafik güvenliği"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Sosyal medyanın terör amaçlı kullanımı, ulus devletleri ve küresel sistemi tehdit eden bir ulusal/uluslararası güvenlik sorunudur."
+    },
+    {
+      "soruid": 30,
+      "soru_metni": "Aşağıdakilerden hangisi 'Endoktrinasyon' kavramının tanımıdır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Siber saldırı düzenlemek",
+        "B": "Belirli bir öğretiyi bir kitleye/kişiye empoze etmek, telkin etmek (beyin yıkama)",
+        "C": "Silahlı eğitim vermek",
+        "D": "Para yardımı yapmak",
+        "E": "Casusluk faaliyeti yürütmek"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Endoktrinasyon; bir öğretiyi aşılama, telkin etme ve beyin yıkama süreci olarak tanımlanmıştır."
+    },
+    {
+      "soruid": 31,
+      "soru_metni": "Aşağıdakilerden hangisi sosyal medyanın terör örgütleri için kullanışlı olma gerekçelerinden biri değildir? (Ünite Sorusu 1)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "İnsan kaynağına hızlı ve kolay biçimde ulaşabilme",
+        "B": "Haber alma ve haberleşmek için tek kaynak olması",
+        "C": "Mali ve finansal kaynaklara ulaşabilme",
+        "D": "Siber saldırılar ve operasyonlar gerçekleştirebilme",
+        "E": "Eylemleri hızlı ve kolay biçimde yönlendirebilme"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Sosyal medya önemli bir kaynaktır ancak haberleşmek için 'tek kaynak' değildir, alternatif iletişim yolları da mevcuttur."
+    },
+    {
+      "soruid": 32,
+      "soru_metni": "Aşağıdaki kavramlardan hangisi sosyal medya ve terörün ortak noktalarından biri olarak gösterilebilir? (Ünite Sorusu 2)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Propaganda",
+        "B": "Twitter",
+        "C": "Silahlı saldırı",
+        "D": "İsyan ve ayaklanmalar",
+        "E": "Vahşet"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Hem terörün hem de sosyal medyanın en temel ortak işlevi ve kesişim noktası 'propaganda'dır."
+    },
+    {
+      "soruid": 33,
+      "soru_metni": "Aşağıdakilerden hangisi sosyal medyayı terör örgütleri için klasik medya organlarından ayıran temel farktır? (Ünite Sorusu 3)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Daha hızlı olması",
+        "B": "Daha çok kişiyle haberleşilmesi",
+        "C": "Devlet/otorite kontrolünün sosyal medyada daha sınırlı kalması",
+        "D": "Eylemleri hızlı ve etkin biçimde yönlendirebilme",
+        "E": "Kitlelere dinamik biçimde sesini duyurabilme"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Sosyal medyanın en belirgin farkı, devlet otoritesinin denetim ve kontrolünün klasik medyaya göre çok daha zor ve sınırlı olmasıdır."
+    },
+    {
+      "soruid": 34,
+      "soru_metni": "Aşağıdakilerden hangisi politikacıları ve karar alıcıları belirli bir konu hakkında karar almaya sevk eden, etkileyen veya zorlayan yayıncılık anlamında kullanılmaktadır? (Ünite Sorusu 4)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Sosyal medya etkisi",
+        "B": "Yalnız kurt eylemi",
+        "C": "Siber hilafet",
+        "D": "CNN etkisi",
+        "E": "Twitter devrimleri"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": "Geleneksel olarak medyanın politik kararlar üzerindeki bu gücü 'CNN Etkisi' olarak tanımlanır."
+    },
+    {
+      "soruid": 35,
+      "soru_metni": "Sosyal medyanın terör örgütü ve devlet/otorite arasındaki ilişkiye ne yönde bir etkisi olmuştur? (Ünite Sorusu 5)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Terör örgütüne meşruiyet kazandırmıştır.",
+        "B": "Terör örgütüne mesajını iletebilme imkânı vermiştir.",
+        "C": "Terör örgütü ve devlet otoritesini barış müzakeresine ikna etmiştir.",
+        "D": "Devlet ve terör ayrımı belirsizleşmiştir.",
+        "E": "Devlet ve örgüt temsilcilerini eşitmiş algısıyla aynı düzlemde buluşturmaktadır."
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": "Sosyal medya, hiyerarşik farkı ortadan kaldırarak devlet ve terör temsilcilerini aynı platformda eşitmiş gibi karşı karşıya getirebilmektedir."
+    },
+    {
+      "soruid": 36,
+      "soru_metni": "'Batı ülkelerinde yaşayan bir kişi sosyal medya ve internet üzerinden temas kurduğu örgütlü kişiler vasıtasıyla veya kendi kendilerine ulaştıkları materyal veya görsellerle süreç içinde radikalleşebilmektedirler.' Yukarıdaki tanım aşağıdakilerden hangisine aittir? (Ünite Sorusu 6)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Yalnız kurt",
+        "B": "Fundamentalist",
+        "C": "Küresel terörizm",
+        "D": "İdeolojik terörizm",
+        "E": "Fundamentalist terörizm"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Tanım, bir örgütten bağımsız olarak kendi kendine radikalleşen 'yalnız kurt' kavramını açıklamaktadır."
+    },
+    {
+      "soruid": 37,
+      "soru_metni": "Terörizmin sosyal medyadan yararlanması sonucunda aşağıdaki kavramlardan hangisinin gelişimini etkilediği söylenemez? (Ünite Sorusu 7)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Yabancı terörist savaşçı",
+        "B": "Yalnız kurt eylemi",
+        "C": "Kendi muhitinde yetişen terörist",
+        "D": "Konvansiyonel savaş",
+        "E": "Dördüncü nesil savaş"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": "Konvansiyonel savaş (düzenli ordular arası klasik savaş), sosyal medya terörizminden bağımsız ve daha eski bir kavramdır. Diğerleri sosyal medya ile gelişmiştir."
+    },
+    {
+      "soruid": 38,
+      "soru_metni": "Aşağıdaki olaylardan hangisine literatürde Twitter Devrimi adı da verilmektedir? (Ünite Sorusu 8)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Turuncu Devrimler",
+        "B": "Arap Baharı",
+        "C": "İran'daki yeşil devrim hareketi",
+        "D": "Sarı yelekliler eylemi",
+        "E": "Wall Street İşgali eylemi"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Arap Baharı sürecinde sosyal medyanın (özellikle Twitter'ın) yoğun kullanımı nedeniyle bu olaylara 'Twitter Devrimi' de denilmiştir."
+    },
+    {
+      "soruid": 39,
+      "soru_metni": "Aşağıdakilerden hangisi Dördüncü Nesil Savaş (4GW) kavramının genel özelliklerinden biri değildir? (Ünite Sorusu 9)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Bireysel terörizmin gelişmesine neden olması.",
+        "B": "Güvenli ve güvensiz bölge arasındaki ayrımı kaldırması.",
+        "C": "Sosyal medya, Dördüncü Nesil Savaşın gelişmesine büyük etkide bulunması.",
+        "D": "Lidersizlik anlayışını ön plana çıkarması.",
+        "E": "Nizami harbi esas alması."
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": "Dördüncü nesil savaş nizami (düzenli) harbi değil, tam tersine gayrinizami ve asimetrik savaş yöntemlerini esas alır."
+    },
+    {
+      "soruid": 40,
+      "soru_metni": "'Siber Halifelik' adında siber saldırı timine sahip olan terör örgütü aşağıdakilerden hangisidir? (Ünite Sorusu 10)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "El Kaide",
+        "B": "PKK",
+        "C": "DAEŞ",
+        "D": "Nusra Cephesi",
+        "E": "Yemen el Kaidesi"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Siber Halifelik (Cyber Caliphate), DAEŞ terör örgütünün siber saldırı birimidir."
+    }
+      ]
+    }
+  ]
+}
