@@ -1,0 +1,573 @@
+{
+  "ders_kodu": "SMY209U",
+  "ders_adi": "SOSYAL MEDYA ARAÇLARI",
+  "sinavlar": [
+    {
+      "baslik": "2025 Ünite 7 Yapay Zeka Destekli Çıkabilecek Sorular",
+      "tur": "AI",
+      "yil": 2025,
+      "sorular": [
+ {
+      "soruid": 1,
+      "soru_metni": "Veri, enformasyon, bilgi ve bilgelik hiyerarşisine göre; ham ve tek başına anlamsız olan parçaların bir kişiyle ilişkilendirilerek organize edilmiş haline ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Bilgelik",
+        "B": "Veri",
+        "C": "Enformasyon",
+        "D": "Kalıp",
+        "E": "İlke"
+      },
+      "dogru_cevap": "C",
+      [cite_start]"neden_dogru": "Metinde, ham verinin bir kişiye ait olması durumunda organize edilerek 'enformasyona' dönüştüğü belirtilmiştir[cite: 983, 1002]."
+    },
+    {
+      "soruid": 2,
+      "soru_metni": "Aşağıdakilerden hangisi kişiyi diğerlerinden ayırt etmeye yarayan 'davranışsal' biyometrik verilere bir örnektir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Parmak izi",
+        "B": "Göz retinası",
+        "C": "DNA dizilimi",
+        "D": "Yürüyüş ve klavyeye basış biçimi",
+        "E": "Yüz şekli"
+      },
+      "dogru_cevap": "D",
+      [cite_start]"neden_dogru": "Davranışsal veriler sonradan edinilen ve değişme potansiyeli olan verilerdir; yürüyüş biçimi, klavyeye basış biçimi buna örnektir [cite: 1018-1019]."
+    },
+    {
+      "soruid": 3,
+      "soru_metni": "Kişisel Verilerin Korunması Kanunu'na (KVKK) göre, kişisel verilerin işleme amaçlarını belirleyen ve veri kayıt sisteminin kurulmasından sorumlu olan gerçek veya tüzel kişiye ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Veri İşleyen",
+        "B": "Veri Sorumlusu",
+        "C": "İrtibat Kişisi",
+        "D": "Veri Sahibi",
+        "E": "Siber Güvenlik Uzmanı"
+      },
+      "dogru_cevap": "B",
+      [cite_start]"neden_dogru": "KVKK Madde 3'e göre veri sorumlusu, kişisel verilerin işleme amaçlarını ve vasıtalarını belirleyen, veri kayıt sisteminden sorumlu olan kişidir [cite: 1157-1158]."
+    },
+    {
+      "soruid": 4,
+      "soru_metni": "Aşağıdakilerden hangisi KVKK Madde 6'da belirtilen 'özel nitelikli' kişisel verilerden biri değildir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Dernek, vakıf ya da sendika üyeliği",
+        "B": "Cep telefonu numarası",
+        "C": "Sağlık bilgileri",
+        "D": "Ceza mahkûmiyeti verileri",
+        "E": "Biyometrik veriler"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Cep telefonu numarası genel nitelikli bir veridir. [cite_start]Diğer seçenekler (üyelik, sağlık, ceza, biyometrik) kanunda özel nitelikli veri olarak sayılmıştır [cite: 1084-1090]."
+    },
+    {
+      "soruid": 5,
+      "soru_metni": "Kişisel verilerin işlenmesinde 'Açık Rıza' kavramının üç temel unsuru aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Yazılı olması - Noter onayı - Şahit huzurunda olması",
+        "B": "Belirli bir konuya ilişkin olması - Bilgilendirmeye dayanması - Özgür iradeyle açıklanması",
+        "C": "Süresiz olması - Genel olması - Kayıtsız şartsız olması",
+        "D": "Dijital ortamda olması - Şifreli olması - Anonim olması",
+        "E": "Devlet tarafından onaylanması - Ücretli olması - Süreli olması"
+      },
+      "dogru_cevap": "B",
+      [cite_start]"neden_dogru": "Metinde açık rızanın üç unsuru: Belirli bir konuya ilişkin olması, bilgilendirmeye dayanması ve özgür iradeyle açıklanması olarak belirtilmiştir [cite: 1218-1219]."
+    },
+    {
+      "soruid": 6,
+      "soru_metni": "Bir spor salonuna girişte parmak izi veya avuç içi taraması istenmesinin KVKK ilkelerine aykırı bulunmasının temel nedeni, aşağıdaki ilkelerden hangisiyle çelişmesidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Verilerin doğru ve güncel olması",
+        "B": "İşlendikleri amaçla bağlantılı, sınırlı ve ölçülü olma",
+        "C": "Verilerin yurtdışına aktarılması",
+        "D": "Verilerin anonim hale getirilmesi",
+        "E": "Veri sorumlusunun aydınlatma yükümlülüğü"
+      },
+      "dogru_cevap": "B",
+      [cite_start]"neden_dogru": "Alternatif giriş yöntemleri varken biyometrik veri istenmesi, 'işlendikleri amaçla bağlantılı, sınırlı ve ölçülü olma' ilkesiyle bağdaşmadığı için aykırı bulunmuştur[cite: 1246]."
+    },
+    {
+      "soruid": 7,
+      "soru_metni": "Covid-19 pandemisi sırasında HES kodu uygulamasıyla sağlık verilerinin işlenmesi, KVKK'daki hangi istisnai duruma örnektir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Bir sözleşmenin kurulması",
+        "B": "Alenileştirilmiş veri olması",
+        "C": "Kamu sağlığının ve güvenliğinin korunması amacıyla yetkili kurumlarca işlenme",
+        "D": "Veri sorumlusunun meşru menfaati",
+        "E": "Bir hakkın tesisi"
+      },
+      "dogru_cevap": "C",
+      [cite_start]"neden_dogru": "Sağlık verileri özel nitelikli olsa da, kamu sağlığının korunması amacıyla kanunlarda öngörülen hallerde açık rıza aranmaksızın işlenebilir [cite: 1104-1111]."
+    },
+    {
+      "soruid": 8,
+      "soru_metni": "İnternet tabanlı bilişim hizmetlerinin genel adı olan ve kullanıcılara düşük donanım maliyeti, sınırsız depolama gibi avantajlar sunan teknoloji hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Blok Zincir",
+        "B": "Nesnelerin İnterneti",
+        "C": "Bulut Bilişim (Cloud Computing)",
+        "D": "Yapay Zeka",
+        "E": "Sanal Gerçeklik"
+      },
+      "dogru_cevap": "C",
+      [cite_start]"neden_dogru": "Kullanıcılar arasında paylaşılan bilgisayar kaynakları sağlayan ve internet tabanlı olan bu hizmet 'Bulut Bilişim'dir[cite: 1395]."
+    },
+    {
+      "soruid": 9,
+      "soru_metni": "Aşağıdakilerden hangisi bulut bilişim teknolojilerinin kullanımının önündeki en önemli teknik engellerden/sınırlılıklardan biridir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Yüksek donanım maliyeti",
+        "B": "İnternet bağlantı hızı gereksinimi",
+        "C": "Depolama alanının yetersizliği",
+        "D": "Yazılım uyumsuzluğu",
+        "E": "Kurulum zorluğu"
+      },
+      "dogru_cevap": "B",
+      [cite_start]"neden_dogru": "Bulut bilişim geniş bant internet üzerine temellendiği için, hızlı internet bağlantısı gerektirmesi önemli bir sınırlılıktır[cite: 1472, 1483]."
+    },
+    {
+      "soruid": 10,
+      "soru_metni": "Kamusal alanlardaki (kafe, AVM vb.) ortak Wi-Fi ağlarını kullanırken karşılaşılabilecek 'Man-in-the-middle' (Araya girme) saldırısı neyi ifade eder?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "İnternet hızının düşmesi",
+        "B": "İletişimin arasına giren kötü niyetli kişilerin verileri izlemesi ve ele geçirmesi",
+        "C": "Bilgisayarın donması",
+        "D": "Yanlış web sitesine yönlendirme",
+        "E": "Reklamların engellenmesi"
+      },
+      "dogru_cevap": "B",
+      [cite_start]"neden_dogru": "Ortak ağlarda kötü niyetli kişilerin veri trafiğini izleyerek araya girmesi ve verileri ele geçirmesi riskidir [cite: 1491-1499]."
+    },
+    {
+      "soruid": 11,
+      "soru_metni": "Mobil cihazlarda kullanılan ve parolaları/hesap bilgilerini saklayarak yöneten Apple güvenlik sistemi aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Face ID",
+        "B": "Touch ID",
+        "C": "Anahtar Zinciri (Keychain)",
+        "D": "Blockchain",
+        "E": "Firewall"
+      },
+      "dogru_cevap": "C",
+      [cite_start]"neden_dogru": "Apple tarafından geliştirilen ve parolaları saklayıp yöneten sistem 'Anahtar Zinciri' (Keychain) olarak adlandırılır[cite: 1605]."
+    },
+    {
+      "soruid": 12,
+      "soru_metni": "Bir hesabın şifresi bilinse dahi, telefon numarasına gelen ek bir kod olmadan erişimi engelleyen güvenlik yöntemi hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Uçtan uca şifreleme",
+        "B": "İki Faktörlü Kimlik Doğrulama (2FA)",
+        "C": "Biyometrik tarama",
+        "D": "Anonimleştirme",
+        "E": "Veri maskeleme"
+      },
+      "dogru_cevap": "B",
+      [cite_start]"neden_dogru": "İki faktörlü doğrulama, şifreye ek olarak telefon veya e-posta onayı gerektirerek ekstra güvenlik katmanı sağlar [cite: 1607-1615]."
+    },
+    {
+      "soruid": 13,
+      "soru_metni": "WhatsApp gibi mesajlaşma uygulamalarında kullanılan ve mesajların sadece gönderici ve alıcı tarafından okunabilmesini sağlayan teknoloji nedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Bulut Depolama",
+        "B": "Açık Kaynak Kod",
+        "C": "Uçtan Uca Şifreleme (End-to-end Encryption)",
+        "D": "VPN",
+        "E": "GPS Takibi"
+      },
+      "dogru_cevap": "C",
+      [cite_start]"neden_dogru": "Uçtan uca şifreleme, mesajları bir kilitle güvence altına alır ve anahtar sadece alıcı ve göndericide bulunur [cite: 1653-1655]."
+    },
+    {
+      "soruid": 14,
+      "soru_metni": "Kişisel verilerin başka verilerle eşleştirilerek dahi hiçbir surette kimliği belirli bir kişiyle ilişkilendirilemeyecek hale getirilmesine ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Veri Silme",
+        "B": "Veri Yok Etme",
+        "C": "Anonim Hale Getirme",
+        "D": "Veri Aktarma",
+        "E": "Veri Yedekleme"
+      },
+      "dogru_cevap": "C",
+      [cite_start]"neden_dogru": "Anonim hale getirme, verinin kimlikle bağının tamamen koparılarak kişiyi belirlenemez kılmasıdır[cite: 1053]."
+    },
+    {
+      "soruid": 15,
+      "soru_metni": "Verilerin merkezi bir sunucuda tutulmak yerine şifrelenerek ağdaki cihazlara dağıtıldığı ve yüksek güvenlik sağlayan teknoloji hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Blok Zincir (Blockchain)",
+        "B": "Veri Tabanı",
+        "C": "Modem",
+        "D": "Router",
+        "E": "Fiber Optik"
+      },
+      "dogru_cevap": "A",
+      [cite_start]"neden_dogru": "Blok zincir teknolojisi, verileri dağıtık ve şifreli bir yapıda tutarak değiştirilemez bir güvenlik sağlar [cite: 1666-1668]."
+    },
+    {
+      "soruid": 16,
+      "soru_metni": "Kişisel Verilerin Korunması Kanunu'na göre, veri sorumlusu verileri işlerken aşağıdakilerden hangisini yapmakla yükümlü **değildir**?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Veri sahibini aydınlatmak",
+        "B": "Veri güvenliğini sağlamak için teknik tedbirleri almak",
+        "C": "Verileri süresiz olarak saklamak",
+        "D": "Veri ihlali durumunda Kurul'a bildirmek",
+        "E": "Verileri hukuka uygun işlemek"
+      },
+      "dogru_cevap": "C",
+      [cite_start]"neden_dogru": "Veriler süresiz değil, işlendikleri amaç için gerekli olan süre kadar muhafaza edilmelidir; süre bitince imha edilmelidir[cite: 1168, 1260]."
+    },
+    {
+      "soruid": 17,
+      "soru_metni": "Türkiye Cumhuriyeti Anayasası'nın 20. maddesine göre herkesin sahip olduğu hak aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "İnternete sınırsız erişim hakkı",
+        "B": "Kendisiyle ilgili kişisel verilerin korunmasını isteme hakkı",
+        "C": "Ücretsiz cihaz talep etme hakkı",
+        "D": "Anonim kalma hakkı",
+        "E": "Vergi ödememe hakkı"
+      },
+      "dogru_cevap": "B",
+      [cite_start]"neden_dogru": "Anayasa'nın 20. maddesi, herkesin kendisiyle ilgili kişisel verilerin korunmasını isteme hakkına sahip olduğunu belirtir[cite: 1550]."
+    },
+    {
+      "soruid": 18,
+      "soru_metni": "Veri sorumlusunun 'Aydınlatma Yükümlülüğü' kapsamında veri sahibine bildirmesi gerekenler arasında aşağıdakilerden hangisi yer almaz?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Veri sorumlusunun kimliği",
+        "B": "Verilerin hangi amaçla işleneceği",
+        "C": "Şirketin yıllık ciro bilgisi",
+        "D": "Verilerin kimlere aktarılabileceği",
+        "E": "Veri toplamanın yöntemi ve hukuki sebebi"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Aydınlatma yükümlülüğünde veri sorumlusu kimliği, amaç, aktarım, yöntem ve haklar bildirilir; [cite_start]şirketin cirosu bu kapsamda değildir [cite: 1277-1282]."
+    },
+    {
+      "soruid": 19,
+      "soru_metni": "Kişisel verilerin yurt dışına aktarılabilmesi için temel şart nedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Verinin genel nitelikli olması",
+        "B": "İlgili kişinin açık rızasının olması",
+        "C": "Aktarımın ücretsiz olması",
+        "D": "Verinin şifresiz olması",
+        "E": "Verinin eski olması"
+      },
+      "dogru_cevap": "B",
+      [cite_start]"neden_dogru": "KVKK Madde 9'a göre kişisel veriler, ilgili kişinin açık rızası olmaksızın yurt dışına aktarılamaz[cite: 1350]."
+    },
+    {
+      "soruid": 20,
+      "soru_metni": "Avrupa Birliği'nin kişisel verilerin korunmasıyla ilgili genel düzenlemesinin kısaltması nedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "NATO",
+        "B": "UNESCO",
+        "C": "GVKT (GDPR)",
+        "D": "UNICEF",
+        "E": "OECD"
+      },
+      "dogru_cevap": "C",
+      [cite_start]"neden_dogru": "Avrupa Birliği Genel Veri Koruma Tüzüğü'nün kısaltması GVKT (İngilizce: GDPR) dir[cite: 1006]."
+    },
+    {
+      "soruid": 21,
+      "soru_metni": "Bulut bilişimde 'veri yedekleme'nin (backup) kullanıcı açısından en önemli faydası nedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "İnternet kotasını harcaması",
+        "B": "Olası siber saldırı veya veri kaybı durumunda verilerin kurtarılabilmesi",
+        "C": "Cihazın daha yavaş çalışması",
+        "D": "Şifrelerin sıfırlanması",
+        "E": "Daha fazla reklam görülmesi"
+      },
+      "dogru_cevap": "B",
+      [cite_start]"neden_dogru": "Yedekleme, verilerin alternatif konumlarda tutulmasını sağlayarak kayıp ve saldırılara karşı koruma sağlar[cite: 1465]."
+    },
+    {
+      "soruid": 22,
+      "soru_metni": "Yüz tanıma sistemlerinde güvenlik açığını önlemek için (örneğin uyurken telefonun açılması) genellikle hangi şart aranır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Karanlık ortam",
+        "B": "Gözlerin açık olması",
+        "C": "Gülümsemek",
+        "D": "Konuşmak",
+        "E": "Hareketsiz durmak"
+      },
+      "dogru_cevap": "B",
+      [cite_start]"neden_dogru": "Yetkisiz kullanımı (uyurken vb.) engellemek için yüz tanıma sistemlerinde gözlerin açık olması şartı aranır[cite: 1631]."
+    },
+    {
+      "soruid": 23,
+      "soru_metni": "Aşağıdaki veri gruplarından hangisi birleştiğinde kişiyi 'tanımlı' hale getirerek kişisel veriye dönüşme ihtimali en yüksektir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Sadece Ad",
+        "B": "Sadece Şehir",
+        "C": "Ad + Soyad + Yaş + Doğum Yeri + Baba Adı",
+        "D": "Sadece Yaş",
+        "E": "Sadece Cinsiyet"
+      },
+      "dogru_cevap": "C",
+      [cite_start]"neden_dogru": "Veri miktarı ve detayı arttıkça (ad, soyad, doğum yeri vb. birleşince) kişinin ayırt edilebilirliği ve tanımlanabilirliği artar [cite: 1067-1068]."
+    },
+    {
+      "soruid": 24,
+      "soru_metni": "Bir veri sorumlusu, görevinden ayrıldıktan sonra öğrendiği kişisel verilerle ilgili yükümlülüğü nedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "İstediği gibi kullanabilir.",
+        "B": "Sorumluluğu sona erer.",
+        "C": "Sır saklama yükümlülüğü devam eder, başkasına açıklayamaz.",
+        "D": "Sadece ailesine anlatabilir.",
+        "E": "Verileri satabilir."
+      },
+      "dogru_cevap": "C",
+      [cite_start]"neden_dogru": "Veri sorumlularının sır saklama yükümlülüğü görevden ayrılmalarından sonra da devam eder[cite: 1576]."
+    },
+    {
+      "soruid": 25,
+      "soru_metni": "Kişisel verilerin 'belirli, açık ve meşru amaçlar için işlenmesi' ilkesi neyi ifade eder?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Verilerin rastgele toplanabileceğini",
+        "B": "Verilerin her türlü amaç için kullanılabileceğini",
+        "C": "Veri toplama amacının net olması ve yasalara uygun olması gerektiğini",
+        "D": "Verilerin süresiz saklanabileceğini",
+        "E": "Amacın gizli tutulması gerektiğini"
+      },
+      "dogru_cevap": "C",
+      [cite_start]"neden_dogru": "Bu ilke, veri işlemenin şeffaf, amacı belli ve hukuka uygun bir zeminde yapılmasını zorunlu kılar[cite: 1166, 1172]."
+    },
+    {
+      "soruid": 26,
+      "soru_metni": "Aşağıdakilerden hangisi bir 'davranışsal veri' örneğidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Parmak izi",
+        "B": "Araba sürüş biçimi",
+        "C": "DNA",
+        "D": "Göz retinası",
+        "E": "Kan grubu"
+      },
+      "dogru_cevap": "B",
+      [cite_start]"neden_dogru": "Metinde araba sürüş biçimi, yürüyüş, klavye kullanımı gibi veriler 'davranışsal veri' olarak sınıflandırılmıştır[cite: 1018]."
+    },
+    {
+      "soruid": 27,
+      "soru_metni": "Verilerin işlendikleri amaç için gerekli olan süre kadar muhafaza edilmesi ilkesi gereği, süre dolduğunda ne yapılmalıdır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Veriler arşivlenip saklanmaya devam edilmelidir.",
+        "B": "Veriler derhal silinmeli, yok edilmeli veya anonim hale getirilmelidir.",
+        "C": "Veriler başka bir şirkete satılmalıdır.",
+        "D": "Veriler internette yayınlanmalıdır.",
+        "E": "Veriler şifrelenip tutulmalıdır."
+      },
+      "dogru_cevap": "B",
+      [cite_start]"neden_dogru": "Gereklilik ortadan kalktıktan sonra veriler gecikmeksizin imha edilmelidir (silme, yok etme, anonimleştirme)[cite: 1260]."
+    },
+    {
+      "soruid": 28,
+      "soru_metni": "Bulut bilişimde verilerin nerede (hangi ülkede) saklandığının belirsiz olması hangi riski doğurur?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Daha hızlı erişim sağlar.",
+        "B": "Maliyeti düşürür.",
+        "C": "Veri güvenliği ve yasal mevzuata (yurtdışına aktarım) uyum konusunda belirsizlik ve risk yaratır.",
+        "D": "Verilerin kalitesini artırır.",
+        "E": "Daha fazla depolama alanı sunar."
+      },
+      "dogru_cevap": "C",
+      [cite_start]"neden_dogru": "Lokasyon belirsizliği, verilerin hangi yasalara tabi olduğu ve güvenliği konusunda risk oluşturur ve KVKK ilkeleriyle çelişebilir [cite: 1518-1519]."
+    },
+    {
+      "soruid": 29,
+      "soru_metni": "Kalabalık bir ortamda ekranı görülebilecek şekilde cihaz kullanmak, 'alenileştirme' (herkese açma) sayılır mı?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Evet, herkes gördüğü için alenileşmiş sayılır.",
+        "B": "Hayır, bu durum rıza dahilinde alenileştirme değil, özensiz kullanımdır.",
+        "C": "Sadece dışarıda ise sayılır.",
+        "D": "Sadece gündüz ise sayılır.",
+        "E": "Cihazın markasına göre değişir."
+      },
+      "dogru_cevap": "B",
+      [cite_start]"neden_dogru": "Metne göre bu durum kişinin rızasıyla veriyi halka açması (alenileştirme) değil, güvenlik zafiyeti/özensizliktir[cite: 1205]."
+    },
+    {
+      "soruid": 30,
+      "soru_metni": "Kişisel Verileri Koruma Kurulu (Kurul), veri ihlali bildirimini aldığında gerekirse bunu nasıl duyurur?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Sadece veri sorumlusuna e-posta atar.",
+        "B": "Gizli tutar.",
+        "C": "Kendi internet sitesinde ya da uygun göreceği başka bir yöntemle ilan edebilir.",
+        "D": "Gazete ilanı verir.",
+        "E": "Televizyona çıkar."
+      },
+      "dogru_cevap": "C",
+      [cite_start]"neden_dogru": "Kurul, gerekmesi halinde veri ihlalini kendi sitesinde veya uygun bir yöntemle ilan edebilir[cite: 1578]."
+    },
+    {
+      "soruid": 31,
+      "soru_metni": "Aşağıdakilerden hangisi için kişisel verilerin korunması kanunu işletilemez? (Ünite Sorusu 1)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Üniversite öğrencisi",
+        "B": "Ev hanımı",
+        "C": "Öğretmen",
+        "D": "Veri sorumlusu",
+        "E": "Sanal hesap"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": "Kişisel veri 'gerçek bir kişiyle' ilgili olmalıdır. [cite_start]Hayali/sanal bir karakter veya hesap için kanun işletilemez[cite: 956]."
+    },
+    {
+      "soruid": 32,
+      "soru_metni": "Aşağıdakilerden hangisi veri hiyerarşisi içinde yer almaz? (Ünite Sorusu 2)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Veri",
+        "B": "Enformasyon",
+        "C": "Hiyerarşi",
+        "D": "Bilgi",
+        "E": "Bilgelik"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Veri, Enformasyon, Bilgi ve Bilgelik hiyerarşik yapıyı oluşturur; [cite_start]'Hiyerarşi' kavramın kendisidir, basamak değildir[cite: 989]."
+    },
+    {
+      "soruid": 33,
+      "soru_metni": "Bir kişinin kalıtım yoluyla alınan veya kazanılan özelliklerine ilişkin kişisel veriler hangi kapsamda sınıflandırılır? (Ünite Sorusu 3)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Genel veri",
+        "B": "Alenileşmiş veri",
+        "C": "Biyometrik veri",
+        "D": "Sağlık verisi",
+        "E": "Genetik veri"
+      },
+      "dogru_cevap": "E",
+      [cite_start]"neden_dogru": "Kalıtım yoluyla geçen (DNA, saç vb.) özellikler 'Genetik Veri' olarak tanımlanır[cite: 1007]."
+    },
+    {
+      "soruid": 34,
+      "soru_metni": "Aşağıdakilerden hangisi biyometrik veri kapsamında yer alır? (Ünite Sorusu 4)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Kimlik numarası",
+        "B": "Saç teli",
+        "C": "Deri döküntüsü",
+        "D": "Parmak izi",
+        "E": "Baba adı"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": "Parmak izi, kişiyi özgün şekilde teşhis eden biyometrik bir veridir. (Saç teli genetik veri kapsamına daha yakındır) [cite_start][cite: 997]."
+    },
+    {
+      "soruid": 35,
+      "soru_metni": "Kişisel Verilerin Korunması Kanunu Madde 6/1'e göre aşağıdakilerden hangisi özel nitelikli veri kapsamında yer almaz? (Ünite Sorusu 5)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Irk",
+        "B": "Etnik köken",
+        "C": "Siyasi düşünce",
+        "D": "Cinsel hayat",
+        "E": "Eğitim bilgileri"
+      },
+      "dogru_cevap": "E",
+      [cite_start]"neden_dogru": "Irk, etnik köken, siyasi düşünce, cinsel hayat özel niteliklidir; ancak eğitim bilgileri genel nitelikli veridir [cite: 1085-1090]."
+    },
+    {
+      "soruid": 36,
+      "soru_metni": "Kişisel Verilerin Korunması Kanunu Madde 4'e göre aşağıdakilerden hangisi kişisel verilerin işlenmesinde uyulması gereken ilkeler kapsamında değildir? (Ünite Sorusu 6)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Hukuka ve dürüstlük kurallarına uygun olma",
+        "B": "Doğru ve gerektiğinde güncel olma",
+        "C": "Belirli, açık ve meşru amaçlar için işlenme",
+        "D": "İşlendikleri amaçla bağlantılı, sınırlı ve ölçülü olma",
+        "E": "Gerektiğinde yedeklenebilme"
+      },
+      "dogru_cevap": "E",
+      [cite_start]"neden_dogru": "Yedeklenebilme teknik bir işlemdir, Kanun'un 4. maddesinde sayılan temel ilkelerden (hukuka uygunluk, doğruluk vb.) biri değildir [cite: 1164-1168]."
+    },
+    {
+      "soruid": 37,
+      "soru_metni": "\"Kişisel veriler ilgili kişinin açık rızası olmaksızın işlenemez\" hükmü Kişisel Verilerin Korunması Kanunu'nun hangi maddesi kapsamında yer alır? (Ünite Sorusu 7)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Madde 3",
+        "B": "Madde 4",
+        "C": "Madde 5",
+        "D": "Madde 6",
+        "E": "Madde 7"
+      },
+      "dogru_cevap": "C",
+      [cite_start]"neden_dogru": "Bu hüküm KVKK Madde 5'in birinci fıkrasında yer almaktadır[cite: 1178]."
+    },
+    {
+      "soruid": 38,
+      "soru_metni": "Bir üniversite kampüsüne girişte avuç izinin okutulmasının zorunlu kılınması Kişisel Verilerin Korunması Kanunu'nun hangi ilkesiyle ters düşer? (Ünite Sorusu 8)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Temel hak ve özgürlüklerin özüne dokunmaması",
+        "B": "Biyometrik veri işleme yönteminin ulaşılmak istenen amaç bakımından gerekli olması",
+        "C": "Veri işlemeyle ulaşılmak istenilen amaç ve aracın arasında orantı bulunması",
+        "D": "Başvurulan yöntemin işleme amacına ulaşılabilmesi bakımından elverişli olması, veri işleme faaliyetinin ulaşılmak istenen amaç için uygun olması",
+        "E": "Açık rızanın gerekmesi halinde ilgili kişilerin açık rızalarının kanuna uygun şekilde alınmış olması"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": "Metindeki örnekte (spor salonu/kampüs), alternatif yollar varken biyometrik veri istenmesi, amaçla bağlantılı/ölçülü olma ilkesine aykırı bulunmuştur (Cevap anahtarı D)."
+    },
+    {
+      "soruid": 39,
+      "soru_metni": "Aşağıdakilerden hangisi bulut bilişimin kullanıcılara sağladığı faydalar arasında yer almaz? (Ünite Sorusu 9)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Düşük donanım maliyeti",
+        "B": "Gelişmiş performans",
+        "C": "Düşük yazılım maliyeti",
+        "D": "Risklerin azaltılması",
+        "E": "Hızlı internet gereksinimi"
+      },
+      "dogru_cevap": "E",
+      [cite_start]"neden_dogru": "Hızlı internet gereksinimi bir fayda değil, sistemin çalışması için gereken bir zorunluluk/sınırlılık veya maliyettir[cite: 1472]."
+    },
+    {
+      "soruid": 40,
+      "soru_metni": "Çevrimiçi mesajlaşma uygulamalarının veri güvenliği için kullandığı teknoloji hangisidir? (Ünite Sorusu 10)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Anahtar zinciri",
+        "B": "Blockchain",
+        "C": "İki faktörlü doğrulama",
+        "D": "Uçtan uca şifreleme",
+        "E": "Biyometrik sensör"
+      },
+      "dogru_cevap": "D",
+      [cite_start]"neden_dogru": "Mesajlaşma uygulamaları (WhatsApp vb.) mesajların güvenliği için 'uçtan uca şifreleme' (end-to-end encryption) kullanır[cite: 1653]."
+    }
+      ]
+    }
+  ]
+}
