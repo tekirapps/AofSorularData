@@ -1,0 +1,573 @@
+{
+  "ders_kodu": "SMY203U",
+  "ders_adi": "DİJİTAL YAYINCILIK",
+  "sinavlar": [
+    {
+      "baslik": "2025 Ünite 1 Yapay Zeka Destekli Çıkabilecek Sorular",
+      "tur": "AI",
+      "yil": 2025,
+      "sorular": [
+    {
+      "soruid": 1,
+      "soru_metni": "İnternet teknolojisinin temelleri ilk olarak hangi kurum tarafından atılmıştır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "NASA",
+        "B": "ABD Savunma Bakanlığı",
+        "C": "CERN",
+        "D": "MIT",
+        "E": "IBM"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Metinde internetin 1960'lı yıllarda fikir olarak ortaya çıktığı ve ABD Savunma Bakanlığı tarafından temellerinin atıldığı (ARPANET) belirtilmektedir."
+    },
+    {
+      "soruid": 2,
+      "soru_metni": "Türkiye'de ilk internet bağlantısı hangi yıl ve hangi üniversitede gerçekleştirilmiştir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "1990 - Boğaziçi Üniversitesi",
+        "B": "1992 - İstanbul Teknik Üniversitesi",
+        "C": "1993 - Orta Doğu Teknik Üniversitesi (ODTÜ)",
+        "D": "1995 - Bilkent Üniversitesi",
+        "E": "1996 - Ege Üniversitesi"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Türkiye'de internet bağlantısı ilk kez 1993 yılında ODTÜ'de gerçekleştirilmiştir."
+    },
+    {
+      "soruid": 3,
+      "soru_metni": "Kullanıcıların sadece bilgi aldığı, interaktif katılımın olmadığı ve 'statik sayfalar' olarak nitelendirilen web dönemi hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Web 1.0",
+        "B": "Web 1.5",
+        "C": "Web 2.0",
+        "D": "Web 3.0",
+        "E": "Web 4.0"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Web 1.0, kullanıcının içeriğe müdahale edemediği, sadece okuyucu konumunda olduğu statik sayfalar dönemidir."
+    },
+    {
+      "soruid": 4,
+      "soru_metni": "Web 2.0'ın en belirgin özelliği aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Sadece uzmanların içerik üretebilmesi",
+        "B": "İnternetin sadece askeri amaçla kullanılması",
+        "C": "Kullanıcının içeriğe dahil olması ve çift yönlü etkileşim",
+        "D": "Yapay zeka sistemlerinin hakim olması",
+        "E": "Statik HTML kodlarından oluşması"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Web 2.0 ile birlikte kullanıcılar pasif konumdan çıkıp içerik üreten, yorum yapan ve etkileşime giren aktif katılımcılara dönüşmüştür."
+    },
+    {
+      "soruid": 5,
+      "soru_metni": "Yapay zeka işletim sistemlerinin insan beyniyle etkileşime geçeceği ve fiziki disk kullanımının azalacağı öngörülen teknolojik dönem hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Web 1.0",
+        "B": "Web 2.0",
+        "C": "Web 3.0",
+        "D": "Web 4.0",
+        "E": "Web 5.0"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": "Web 4.0, yapay zeka, akıllı bağlantılar ve insan beyniyle etkileşim gibi devrim niteliğindeki teknolojilerle tanımlanır."
+    },
+    {
+      "soruid": 6,
+      "soru_metni": "Verilerini bir veri tabanından alan, kullanıcıyla etkileşime imkan tanıyan ve içeriği kolayca güncellenebilen web sitelerine ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Statik Web Sitesi",
+        "B": "Dinamik Web Sitesi",
+        "C": "Kurumsal Site",
+        "D": "HTML Sitesi",
+        "E": "Pasif Site"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Dinamik web siteleri, verileri veri tabanında tutan, programlama dilleriyle (PHP, ASP vb.) çalışan ve etkileşime açık sitelerdir."
+    },
+    {
+      "soruid": 7,
+      "soru_metni": "Aşağıdakilerden hangisi bir 'Mikro Blog' örneğidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "WordPress",
+        "B": "Blogger",
+        "C": "Twitter",
+        "D": "Wikipedia",
+        "E": "Linkedin"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Twitter, karakter sınırlaması (280 karakter) olan gönderilerin paylaşıldığı en popüler mikro blog platformudur."
+    },
+    {
+      "soruid": 8,
+      "soru_metni": "Harvard Üniversitesi öğrencileri için bir rehber oluşturma amacıyla kurulan sosyal ağ hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Twitter",
+        "B": "Instagram",
+        "C": "Facebook",
+        "D": "Linkedin",
+        "E": "Myspace"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Facebook, 2004 yılında Mark Zuckerberg tarafından başlangıçta Harvard öğrencileri için kurulmuştur."
+    },
+    {
+      "soruid": 9,
+      "soru_metni": "Profesyonel iş ağı oluşturmak ve CV hazırlamak amacıyla kullanılan sosyal medya platformu aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Facebook",
+        "B": "Linkedin",
+        "C": "Pinterest",
+        "D": "Snapchat",
+        "E": "TikTok"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Linkedin, kariyer ve iş odaklı, profesyonel kimliklerin ön planda olduğu bir sosyal ağdır."
+    },
+    {
+      "soruid": 10,
+      "soru_metni": "Bulunduğu yerde 'Check-in' (yer bildirimi) yaparak o mekandaki diğer kullanıcılarla etkileşime geçmeyi sağlayan uygulama hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Swarm",
+        "B": "Whatsapp",
+        "C": "Skype",
+        "D": "Telegram",
+        "E": "Bip"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Swarm, yer bildirimi (check-in) temelli, mekan odaklı bir sosyal ağ uygulamasıdır."
+    },
+    {
+      "soruid": 11,
+      "soru_metni": "Fotoğraf paylaşım uygulaması olarak kurulan ve filtre özellikleriyle dikkat çeken, 2010 çıkışlı popüler uygulama hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Flickr",
+        "B": "Instagram",
+        "C": "Pinterest",
+        "D": "Tumblr",
+        "E": "500px"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Instagram 2010'da kurulmuş, filtre özellikleri ve fotoğraf paylaşımıyla öne çıkmış popüler bir uygulamadır."
+    },
+    {
+      "soruid": 12,
+      "soru_metni": "Paylaşımların belirli bir süre sonra kaybolduğu, video ve fotoğraf odaklı eğlenceli mesajlaşma uygulaması hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Vine",
+        "B": "Snapchat",
+        "C": "Periscope",
+        "D": "Tango",
+        "E": "Viber"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Snapchat, paylaşımların belli bir zaman sınırı olduğu (kaybolan mesajlar) ve efektlerin yoğun kullanıldığı bir uygulamadır."
+    },
+    {
+      "soruid": 13,
+      "soru_metni": "Kullanıcılar tarafından oluşturulan konu başlıklarına kısa videolar çekilmesi esasına dayanan Türk girişimi video platformu hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "TikTok",
+        "B": "Scorp",
+        "C": "Vimeo",
+        "D": "Dailymotion",
+        "E": "Izlesene"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Scorp, 2014 yılında Sercan Işık ve İzzet Zakuto tarafından geliştirilen video temelli yerli bir projedir."
+    },
+    {
+      "soruid": 14,
+      "soru_metni": "İzni olan kullanıcılar tarafından ortaklaşa oluşturulan ve içeriği değiştirilebilen interaktif web sitelerine (örneğin internet ansiklopedilerine) ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Blog",
+        "B": "Portal",
+        "C": "Wiki",
+        "D": "Forum",
+        "E": "Sözlük"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Wiki, kullanıcıların işbirliğiyle içerik oluşturduğu ve düzenlediği (Wikipedia gibi) web sitesi türüdür."
+    },
+    {
+      "soruid": 15,
+      "soru_metni": "Mevcut iletişim teknolojilerinin (telefon, kamera, bilgisayar vb.) birçok farklı özelliği tek bir cihazda barındıracak şekilde birleşmesine ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Dijitalleşme",
+        "B": "Yakınsama (Yöndeşme)",
+        "C": "Etkileşim",
+        "D": "Sanallaşma",
+        "E": "Küreselleşme"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Yakınsama (yöndeşme), farklı iletişim teknolojilerinin ve hizmetlerinin (akıllı telefonlar gibi) bir araya gelmesini ifade eder."
+    },
+    {
+      "soruid": 16,
+      "soru_metni": "Aşağıdakilerden hangisi Geleneksel Medya ile Sosyal Medya arasındaki farklardan biri **değildir**?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Geleneksel medya tek yönlüdür, sosyal medya etkileşimlidir.",
+        "B": "Geleneksel medyada arşivlere ulaşım sınırlıyken sosyal medyada açıktır.",
+        "C": "Geleneksel medya bireysel yayıncılığa, sosyal medya toplu yayıncılığa dayanır.",
+        "D": "Geleneksel medya sabittir, sosyal medya sürekli güncellenebilir.",
+        "E": "Geleneksel medya sınırlıdır, sosyal medya sınırsız paylaşım sunar."
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Tam tersi doğrudur; geleneksel medya kurumsal/toplu yayıncılar (TV kanalları vb.) iken, sosyal medya bireysel yayıncılığa imkan tanır."
+    },
+    {
+      "soruid": 17,
+      "soru_metni": "İnternet ve dijitalleşmenin gazetecilik üzerindeki etkilerinden biri olarak, tıklanma sayısını artırmak amacıyla yapılan etik dışı davranışlardan biri aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Okuyucu yorumlarına yer vermek",
+        "B": "Anlık haber paylaşımı yapmak",
+        "C": "Tık tuzağı (Clickbait) ve manipüle edici başlıklar kullanmak",
+        "D": "Haber kaynağını belirtmek",
+        "E": "Multimedya içerik kullanmak"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Metinde reklam ve tıklanma uğruna manipüle edici içerik hazırlamanın ve tüketicilerin meta gibi satılmasının etik dışı boyutlarına değinilmiştir."
+    },
+    {
+      "soruid": 18,
+      "soru_metni": "Dijital sinemada, çekim sırasında yeşil perde kullanılarak yapım sonrasında bilgisayar ortamında arka planın değiştirilmesine olanak sağlayan teknik hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Stop Motion",
+        "B": "Green Box (Yeşil Perde)",
+        "C": "Dublaj",
+        "D": "Storyboard",
+        "E": "Montaj"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Green Box tekniği, oyuncuların yeşil bir perde önünde oynatılıp daha sonra dijital ortamda arka planın değiştirilmesi işlemidir."
+    },
+    {
+      "soruid": 19,
+      "soru_metni": "Senaryosu tamamen yapay zeka tarafından yazılan ilk kısa film aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Avatar",
+        "B": "Matrix",
+        "C": "Sunspring",
+        "D": "Toy Story",
+        "E": "Inception"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Metinde, yapay zeka tarafından senaryosu yazılan bilinen ilk örneğin 'Sunspring' adlı kısa film olduğu belirtilmektedir."
+    },
+    {
+      "soruid": 20,
+      "soru_metni": "Tamamen bilgisayarda yapılan ilk uzun metrajlı film hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Jurassic Park",
+        "B": "Toy Story (Oyuncak Hikayesi)",
+        "C": "Titanic",
+        "D": "Avatar",
+        "E": "Gladyatör"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Metinde 'Oyuncak Hikayesi'nin (1995) tamamen bilgisayarda yapılan ilk uzun metrajlı film olduğu bilgisi yer almaktadır."
+    },
+    {
+      "soruid": 21,
+      "soru_metni": "Mike Figgis'in 'Timecode' (2000) adlı filminin teknik açıdan en önemli özelliği nedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Siyah beyaz çekilmesi",
+        "B": "Sessiz olması",
+        "C": "Aynı anda dört kamera kullanılarak ekranın dörde bölünmesi ve gerçek zamanlı olması",
+        "D": "Sadece drone ile çekilmesi",
+        "E": "Hiçbir oyuncu kullanılmaması"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Metinde Mike Figgis'in bu filmde aynı anda dört kamera kullanıp ekranı dörde böldüğü belirtilmektedir."
+    },
+    {
+      "soruid": 22,
+      "soru_metni": "Dijital sinemanın dağıtım ve gösterim açısından sağladığı avantajlardan biri aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Film kopyalarının fiziksel olarak taşınma zorunluluğu",
+        "B": "Kopyaların zamanla yıpranması",
+        "C": "Film baskı ve kopya maliyetlerinden kurtulma",
+        "D": "Sadece belirli ülkelerde gösterim yapılabilmesi",
+        "E": "Daha fazla teknisyen gerektirmesi"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Dijital sinema, film bobinlerinin fiziksel dağıtımı yerine uydu veya internet üzerinden dağıtım sağlayarak baskı ve nakliye maliyetlerini ortadan kaldırır."
+    },
+    {
+      "soruid": 23,
+      "soru_metni": "Dünya sisteminde teknoloji, finans ve medya gibi alanlarda tekel konumunda olan 'merkez ülkeler' grubu aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Türkiye, İran, Brezilya",
+        "B": "Amerika, Avrupa Birliği, Japonya",
+        "C": "Çin, Rusya, Hindistan",
+        "D": "Meksika, Arjantin, Şili",
+        "E": "Güney Afrika, Mısır, Nijerya"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Metinde dünya sisteminin merkezinde Amerika, Avrupa Birliği ve Japonya'nın yer aldığı belirtilmektedir."
+    },
+    {
+      "soruid": 24,
+      "soru_metni": "İnternet kullanıcılarının birer 'meta' gibi algılanmasına neden olan yeni reklamcılık modeli nedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Televizyon reklamları",
+        "B": "Billboard reklamları",
+        "C": "Tıklanma başına ücret (Pay per click)",
+        "D": "Gazete ilanları",
+        "E": "Radyo spotları"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Metinde reklam şirketlerinin artık tıklanma başına ücret talep ettiği ve kullanıcıların birer meta gibi satıldığı ifade edilmektedir."
+    },
+    {
+      "soruid": 25,
+      "soru_metni": "Pandemi (Covid-19) sürecinde televizyon yayıncılığında öne çıkan ve stüdyo zorunluluğunu kısmen ortadan kaldıran yöntem hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Banttan yayın",
+        "B": "Uzaktan erişimle yayın",
+        "C": "Sessiz sinema",
+        "D": "Sadece belgesel yayınlama",
+        "E": "Radyo tiyatrosu"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Metinde, pandemi sürecinde konukların uzaktan erişimle (Skype, Zoom vb.) programlara katıldığı ve bunun yayıncılığı dönüştürdüğü anlatılmaktadır."
+    },
+    {
+      "soruid": 26,
+      "soru_metni": "Aşağıdakilerden hangisi dijital yayıncılık platformlarından (internet televizyonculuğu) biri **değildir**?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Netflix",
+        "B": "BluTV",
+        "C": "PuhuTV",
+        "D": "Yeşilçam TV (Klasik uydu kanalı)",
+        "E": "Amazon Prime Video"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": "Netflix, BluTV, PuhuTV ve Amazon Prime Video dijital platform örnekleriyken, şıklarda belirtilen klasik uydu kanalı geleneksel medyaya girer."
+    },
+    {
+      "soruid": 27,
+      "soru_metni": "Aşağıdakilerden hangisi Web 3.0'ın özelliklerinden biridir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Sadece okunabilir olması",
+        "B": "Şirket odaklı olması",
+        "C": "Semantik (anlamlı) web ve yapay zeka bağlantıları",
+        "D": "Statik sayfalar",
+        "E": "HTML kodlarının elle yazılması"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Tablo 1.1 ve metne göre Web 3.0, anlamlı web, yapay zeka ve akıllı bağlantılarla karakterize edilir."
+    },
+    {
+      "soruid": 28,
+      "soru_metni": "Instagram kelimesi hangi iki İngilizce kelimenin birleşiminden türetilmiştir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Instant - Camera",
+        "B": "Instant - Telegram",
+        "C": "Internet - Gram",
+        "D": "Insta - Graph",
+        "E": "Inside - Program"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Metinde Instagram'ın 'Instant' (anlık) ve 'Telegram' (telgraf) kelimelerinin birleşiminden oluştuğu belirtilmiştir."
+    },
+    {
+      "soruid": 29,
+      "soru_metni": "Aşağıdakilerden hangisi dijital çağın getirdiği etik dışı davranışlardan biri **değildir**?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Kişisel bilgileri izinsiz kopyalamak",
+        "B": "Telif haklarını göz ardı etmek",
+        "C": "Sahte içerik hazırlamak",
+        "D": "Kaynak göstererek içerik üretmek",
+        "E": "Ticari sırları ifşa etmek"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": "Kaynak göstererek içerik üretmek etik ve doğru bir davranıştır; diğer şıklar Ying (2012) tarafından sıralanan etik dışı davranışlardır."
+    },
+    {
+      "soruid": 30,
+      "soru_metni": "Web 2.0 kavramı, hangi medya şirketinin kurucusu tarafından popüler hale getirilmiştir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Tim O'Reilly (O'Reilly Media)",
+        "B": "Mark Zuckerberg (Facebook)",
+        "C": "Bill Gates (Microsoft)",
+        "D": "Steve Jobs (Apple)",
+        "E": "Larry Page (Google)"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Metinde Web 2.0 adının 2004'te O'Reilly Media'nın kurucusu Tim O'Reilly'den alındığı belirtilmektedir."
+    },
+    {
+      "soruid": 31,
+      "soru_metni": "İnternetin ilk ortaya çıktığı ülke ve çıkış amacı aşağıdakilerin hangisinde doğru olarak verilmiştir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "İngiltere-Eğlence",
+        "B": "İngiltere-Savunma",
+        "C": "Amerika-Eğlence",
+        "D": "Amerika-Savunma",
+        "E": "Fransa-Eğlence"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": "İnternet, 1969 yılında Amerika Birleşik Devletleri'nde savunma amaçlı (ARPANET) geliştirilmiştir."
+    },
+    {
+      "soruid": 32,
+      "soru_metni": "Aşağıdakilerden hangisi web konseptlerinden biri değildir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Web 1.0",
+        "B": "Web 2.0",
+        "C": "Web 3.0",
+        "D": "Web 4.0",
+        "E": "Web 5.0"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": "Metinde Web 1.0, 2.0, 3.0 ve 4.0'dan bahsedilmektedir ancak Web 5.0 henüz tanımlanmış bir konsept olarak geçmemektedir."
+    },
+    {
+      "soruid": 33,
+      "soru_metni": "Aşağıdakilerden hangisi, web sitesi çeşitlerinden biri değildir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "E-ticaret siteleri",
+        "B": "Kişisel siteler",
+        "C": "Haber siteleri",
+        "D": "Portal siteler",
+        "E": "Statik Web Sitesi"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": "Statik web sitesi bir yapısal türdür, içeriksel bir çeşit (e-ticaret, haber vb. gibi) değildir. Kitapta web sitesi çeşitleri başlığı altında E şıkkı dışındakiler sayılmıştır."
+    },
+    {
+      "soruid": 34,
+      "soru_metni": "Üyelik ile gerçekleştirilen ve bu üyelerin paylaştıkları içeriklerle oluşan blog türü aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Kişisel bloglar",
+        "B": "Temasal bloglar",
+        "C": "Topluluk blogları",
+        "D": "Kurumsal bloglar",
+        "E": "Medya blogları"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Topluluk blogları (komite), üyelik sistemiyle çalışan ve üyelerin içerik ürettiği bloglardır."
+    },
+    {
+      "soruid": 35,
+      "soru_metni": "Günümüzde en yaygın olarak kullanılan mikro blog aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Instagram",
+        "B": "Facebook",
+        "C": "Linkedin",
+        "D": "Twitter",
+        "E": "Swarm"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": "Twitter, karakter kısıtlaması olan ve en yaygın kullanılan mikro blog platformudur."
+    },
+    {
+      "soruid": 36,
+      "soru_metni": "Diğer sosyal ağlara göre daha resmi bir tasarımı ve görünümü olan sosyal ağ aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Linkedin",
+        "B": "Facebook",
+        "C": "Swarm",
+        "D": "Google +",
+        "E": "Whatsapp"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Linkedin, profesyonel iş ağı olması nedeniyle daha resmi bir tasarıma sahiptir."
+    },
+    {
+      "soruid": 37,
+      "soru_metni": "Scorp'un kurucuları aşağıdakilerin hangisinde doğru olarak verilmiştir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Mark Zuckenberg - İzzet Zakuto",
+        "B": "Sercan Işık - Mark Zuckenberg",
+        "C": "Sercan Işık ve İzzet Zakuto",
+        "D": "Dennis Crowley - İzzet Zakuto",
+        "E": "Dennis Crowley - Sercan Işık"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Scorp, Sercan Işık ve İzzet Zakuto tarafından geliştirilen bir Türk girişimidir."
+    },
+    {
+      "soruid": 38,
+      "soru_metni": "Aşağıdakilerden hangisi geleneksel medyanın özelliklerinden biri değildir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Arşivlere ulaşım açıktır",
+        "B": "Kontrol edilebilir",
+        "C": "Sabittir, değiştirilemez",
+        "D": "Paylaşım olanağı yoktur",
+        "E": "Sınırlıdır"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Geleneksel medyada arşivlere ulaşım sınırlıdır; 'Arşivlere ulaşım açıktır' özelliği sosyal medyaya aittir."
+    },
+    {
+      "soruid": 39,
+      "soru_metni": "Aşağıdakilerden hangisi sinema sanatının ilk örneği olarak kabul edilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Jazz Singer",
+        "B": "The Birth of A Nation",
+        "C": "The Cabinet of Dr. Caligari",
+        "D": "Bir Trenin Gara Gelişi",
+        "E": "Aya Seyahat"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": "Lumiere Kardeşler'in 'Bir Trenin Gara Gelişi' filmi sinemanın başlangıcı olarak kabul edilir."
+    },
+    {
+      "soruid": 40,
+      "soru_metni": "Aşağıdakilerden hangisi dijital yayıncılık teknolojilerinin ortaya çıkardığı seyir platformlarından biri değildir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Netflix",
+        "B": "Amazon Prime Video",
+        "C": "BluTV",
+        "D": "Digiturk Play",
+        "E": "RGB Play"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": "Metinde Netflix, Amazon Prime, BluTV, Digiturk Play gibi platformlar sayılmış ancak RGB Play diye bir platformdan bahsedilmemiştir."
+    }
+      ]
+    }
+  ]
+}
