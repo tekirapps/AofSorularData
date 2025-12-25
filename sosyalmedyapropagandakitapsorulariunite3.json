@@ -1,0 +1,714 @@
+{
+  "ders_kodu": "SMY201U",
+  "ders_adi": "SOSYAL MEDYA VE PROPAGANDA",
+  "sinavlar": [
+    {
+      "baslik": "2025 Ünite 3 Yapay Zeka Destekli Çıkabilecek Sorular",
+      "tur": "AI",
+      "yil": 2025,
+      "sorular": [
+    {
+      "soruid": 1,
+      "soru_metni": "Enformasyon biliminde kullanılan DIKW hiyerarşisine göre, en alt basamakta yer alan ve 'işlenmemiş ham gerçeklikler' olarak tanımlanan kavram hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Enformasyon (Information)",
+        "B": "Bilgi (Knowledge)",
+        "C": "Bilgelik (Wisdom)",
+        "D": "Veri (Data)",
+        "E": "Algı (Perception)"
+      },
+      "dogru_cevap": "D",
+      [cite_start]"neden_dogru": "Metinde DIKW hiyerarşisi (Veri, Enformasyon, Bilgi, Bilgelik) anlatılırken, en alt basamakta yer alan ve henüz işlenmemiş, ham gerçeklik parçalarına 'Veri' (Data) denildiği belirtilmiştir[cite: 46]."
+    },
+    {
+      "soruid": 2,
+      "soru_metni": "Claire Wardle ve Hossein Derakhshan'ın sınıflandırmasına göre, bilginin yanlış olduğu ancak 'karşı tarafa zarar verme kastı güdülmeden' paylaşılması durumuna ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Dezenformasyon (Disinformation)",
+        "B": "Zararlı Bilgi (Malinformation)",
+        "C": "Yanlış Bilgi (Misinformation)",
+        "D": "Manipülasyon",
+        "E": "Propaganda"
+      },
+      "dogru_cevap": "C",
+      [cite_start]"neden_dogru": "Metinde 'Yanlış Bilgi' (Misinformation); bilginin yanlış olduğu fakat bu bilginin üretilmesi ve yayılmasında zarar verme kastının olmadığı durumlar olarak tanımlanmıştır[cite: 48]."
+    },
+    {
+      "soruid": 3,
+      "soru_metni": "Doğru olan bir bilginin (örneğin bir kişinin cinsel yönelimi veya sağlık durumu gibi) o kişiye veya kuruma 'zarar vermek amacıyla' kasıtlı olarak ifşa edilmesi hangi bilgi kirliliği türüdür?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Zararlı Bilgi (Malinformation)",
+        "B": "Yanlış Bilgi (Misinformation)",
+        "C": "Uydurma İçerik",
+        "D": "Parodi",
+        "E": "Taklit İçerik"
+      },
+      "dogru_cevap": "A",
+      [cite_start]"neden_dogru": "Metinde 'Zararlı Bilgi' (Malinformation); bilginin doğru olduğu ancak kişilere, kurumlara veya ülkelere zarar vermek amacıyla paylaşıldığı tür olarak tanımlanmıştır (örneğin mahrem görüntülerin sızdırılması)[cite: 49]."
+    },
+    {
+      "soruid": 4,
+      "soru_metni": "Bir haber başlığının, görselinin veya manşetinin; içerikte sunulan asıl bilgiyle uyuşmaması (genellikle tık tuzağı/clickbait olarak bilinir) Wardle'ın sınıflandırmasında hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Uydurma İçerik",
+        "B": "Hatalı İlişkilendirme (False Connection)",
+        "C": "Bağlamdan Koparma",
+        "D": "Manipüle Edilmiş İçerik",
+        "E": "Taklit İçerik"
+      },
+      "dogru_cevap": "B",
+      [cite_start]"neden_dogru": "Hatalı ilişkilendirme, başlıkların, görsellerin veya resim altı yazılarının içerikle uyuşmadığı durumlar için kullanılır ve genellikle ticari amaçlı 'tık tuzağı' olarak yapılır[cite: 50]."
+    },
+    {
+      "soruid": 5,
+      "soru_metni": "Gerçek bir bilginin veya görüntünün, olayın oluştuğu asıl bağlamdan (yer, zaman, mekan) koparılarak farklı bir anlatı içinde sunulmasına ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Parodi",
+        "B": "Hatalı İlişkilendirme",
+        "C": "Bağlamdan Koparma (False Context)",
+        "D": "Uydurma İçerik",
+        "E": "Taklit İçerik"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Bağlamdan koparma, doğru bir içeriğin yanlış bir bağlamla (context) birlikte sunulmasıdır. [cite_start]Örneğin eski bir fotoğrafın güncel bir olaymış gibi paylaşılması buna örnektir[cite: 50]."
+    },
+    {
+      "soruid": 6,
+      "soru_metni": "Yapay zeka ve derin öğrenme teknolojileri kullanılarak, bir kişinin yüzünün veya sesinin başka bir görüntüye son derece gerçekçi şekilde monte edilmesine ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Photoshop",
+        "B": "Deepfake (Derin Kurgu)",
+        "C": "Astroturfing",
+        "D": "Filtre Balonu",
+        "E": "Yankı Odası"
+      },
+      "dogru_cevap": "B",
+      [cite_start]"neden_dogru": "Metinde 'Deepfake'; yapay zeka algoritmaları kullanılarak üretilen, gerçeğinden ayırt edilmesi zor sahte video ve ses kayıtları olarak tanımlanmıştır[cite: 55]."
+    },
+    {
+      "soruid": 7,
+      "soru_metni": "Eli Pariser tarafından ortaya atılan, internet algoritmalarının kullanıcıların geçmiş davranışlarını analiz ederek sadece onların hoşuna gidecek içerikleri sunması sonucu oluşan entelektüel izolasyona ne denir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Yankı Odası",
+        "B": "Suskunluk Sarmalı",
+        "C": "Filtre Balonu (Filter Bubble)",
+        "D": "Dijital Uçurum",
+        "E": "Ağ Toplumu"
+      },
+      "dogru_cevap": "C",
+      [cite_start]"neden_dogru": "Eli Pariser'in 'Filtre Balonu' kavramı, algoritmaların kişiselleştirilmiş içerik sunarak kullanıcıyı farklı görüşlerden izole etmesi ve kendi dünyasına hapsetmesi olarak tanımlanmıştır[cite: 56]."
+    },
+    {
+      "soruid": 8,
+      "soru_metni": "Cass Sunstein tarafından kavramsallaştırılan, bireylerin sadece kendi görüşlerini destekleyen kişilerle iletişim kurarak kendi fikirlerinin doğruluğuna olan inançlarının aşırı artması durumuna ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Filtre Balonu",
+        "B": "Yankı Odası (Echo Chamber)",
+        "C": "Suskunluk Sarmalı",
+        "D": "Hakikat Sonrası",
+        "E": "Algı Yönetimi"
+      },
+      "dogru_cevap": "B",
+      [cite_start]"neden_dogru": "Yankı odası, benzer düşünen insanların birbirleriyle etkileşime girerek kendi seslerinin yankısını duydukları ve karşıt görüşlere kapalı oldukları ortamdır [cite: 56-57]."
+    },
+    {
+      "soruid": 9,
+      "soru_metni": "Bireylerin, toplumda hâkim olan görüşe ters düşmemek ve dışlanmamak için kendi gerçek düşüncelerini saklama veya sessiz kalma eğilimine ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Suskunluk Sarmalı",
+        "B": "Üçüncü Kişi Etkisi",
+        "C": "Doğrulama Yanlılığı",
+        "D": "Gündem Belirleme",
+        "E": "Eşik Bekçiliği"
+      },
+      "dogru_cevap": "A",
+      [cite_start]"neden_dogru": "Elisabeth Noelle-Neumann'ın 'Suskunluk Sarmalı' kuramı, bireylerin azınlıkta olduklarını hissettiklerinde dışlanma korkusuyla sessiz kaldıklarını ifade eder[cite: 57]."
+    },
+    {
+      "soruid": 10,
+      "soru_metni": "'Algı Yönetimi' kavramı ilk kez resmi olarak hangi kurum tarafından 'ABD'nin hedeflerine ulaşması için yabancı kitlelerin duygularını ve mantığını etkilemek' amacıyla tanımlanmıştır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "NASA",
+        "B": "Birleşmiş Milletler",
+        "C": "ABD Savunma Bakanlığı (Pentagon)",
+        "D": "Facebook",
+        "E": "Avrupa Birliği"
+      },
+      "dogru_cevap": "C",
+      [cite_start]"neden_dogru": "Algı yönetimi kavramı ilk kez ABD Savunma Bakanlığı tarafından askeri bir terim olarak tanımlanmış ve yabancı kitlelerin davranışlarını etkilemek amacı güdülmüştür[cite: 59]."
+    },
+    {
+      "soruid": 11,
+      "soru_metni": "Aslında arkasında kurumsal veya siyasi bir desteğin olduğu bir hareketin, sanki kendiliğinden gelişen bir 'halk hareketi' (taban hareketi) gibi gösterilmesi stratejisine ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Trolleme",
+        "B": "Astroturfing",
+        "C": "Phishing",
+        "D": "Doxing",
+        "E": "Framing"
+      },
+      "dogru_cevap": "B",
+      [cite_start]"neden_dogru": "Metinde 'Astroturfing'; bir ürün, hizmet veya siyasi görüş için, arkasındaki sponsorları gizleyerek sahte bir taban hareketi (grassroots) izlenimi yaratmak olarak tanımlanmıştır[cite: 61]."
+    },
+    {
+      "soruid": 12,
+      "soru_metni": "Bireylerin sadece kendi inançlarını ve hipotezlerini destekleyen bilgileri arama, bunları kabul etme ve çelişen bilgileri reddetme eğilimine psikolojide ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Bilişsel Çelişki",
+        "B": "Doğrulama Yanlılığı (Confirmation Bias)",
+        "C": "Algısal Seçicilik",
+        "D": "Grup Düşüncesi",
+        "E": "Yansıtma"
+      },
+      "dogru_cevap": "B",
+      [cite_start]"neden_dogru": "Bireylerin var olan inançlarıyla uyumlu bilgileri tüketme ve aksi bilgileri görmezden gelme eğilimi 'Doğrulama Yanlılığı' (Confirmation Bias) olarak açıklanmıştır[cite: 58]."
+    },
+    {
+      "soruid": 13,
+      "soru_metni": "Bilgi kirliliği ile mücadele eden, siyasetçilerin söylemlerini ve internetteki şüpheli içerikleri denetleyen bağımsız organizasyonlara ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Haber Ajansı",
+        "B": "Doğrulama (Fact-checking) Platformları",
+        "C": "Troll Orduları",
+        "D": "Siber Timler",
+        "E": "Bot Hesaplar"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Metinde 'Fact-checking' (Doğrulama) kavramı, medya içeriğinin doğruluğunun ve tutarlılığının denetlenmesi süreci olarak anlatılmış; [cite_start]Türkiye'den Teyit.org ve Doğruluk Payı örnek verilmiştir[cite: 62]."
+    },
+    {
+      "soruid": 14,
+      "soru_metni": "Dünya genelindeki doğrulama platformlarını bir araya getiren ve belirli ilkeler (tarafsızlık, şeffaflık vb.) belirleyen uluslararası ağın kısaltması nedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "NATO",
+        "B": "WHO",
+        "C": "IFCN (International Fact-Checking Network)",
+        "D": "UNICEF",
+        "E": "UNESCO"
+      },
+      "dogru_cevap": "C",
+      [cite_start]"neden_dogru": "Poynter Enstitüsü bünyesinde kurulan ve doğrulama organizasyonları için etik kodlar belirleyen ağın adı IFCN'dir[cite: 63]."
+    },
+    {
+      "soruid": 15,
+      "soru_metni": "2016 yılında Oxford Sözlüğü tarafından 'yılın kelimesi' seçilen ve kamuoyunun nesnel gerçeklerden ziyade duygular ve kişisel inançlarla şekillendiği dönemi ifade eden kavram hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Fake News",
+        "B": "Post-truth (Hakikat Sonrası)",
+        "C": "Viral",
+        "D": "Hashtag",
+        "E": "Selfie"
+      },
+      "dogru_cevap": "B",
+      [cite_start]"neden_dogru": "Metinde 'Post-truth' (Hakikat Sonrası) kavramının 2016'da yılın kelimesi seçildiği ve gerçeklerin önemini yitirip duyguların ön plana çıktığı dönemi anlattığı belirtilmiştir[cite: 53]."
+    },
+    {
+      "soruid": 16,
+      "soru_metni": "Gerçek kaynakların logolarının veya isimlerinin taklit edilerek, sanki güvenilir bir kaynaktan geliyormuş gibi sunulan sahte içeriklere ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Taklit İçerik (Imposter Content)",
+        "B": "Parodi",
+        "C": "Hatalı İlişkilendirme",
+        "D": "Manipüle Edilmiş İçerik",
+        "E": "Bağlamdan Koparma"
+      },
+      "dogru_cevap": "A",
+      [cite_start]"neden_dogru": "Taklit içerik, güvenilir haber kaynaklarının (BBC, CNN vb.) logolarının veya arayüzlerinin taklit edilerek sahte bilgi yayılmasıdır[cite: 50]."
+    },
+    {
+      "soruid": 17,
+      "soru_metni": "Manipüle edilmiş içerik (Doctoring) nedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Tamamen uydurma haberler yazmak",
+        "B": "Gerçek bir görselin veya belgenin üzerinde oynama yaparak (photoshop vb.) kandırma amacı güdülmesi",
+        "C": "Mizah amaçlı yapılan paylaşımlar",
+        "D": "Haber başlığının içerikle uyuşmaması",
+        "E": "Eski bir haberin yeni gibi sunulması"
+      },
+      "dogru_cevap": "B",
+      [cite_start]"neden_dogru": "Manipüle edilmiş içerik, gerçek bir bilgi veya görselin kandırma amacıyla üzerinde oynanarak (örneğin photoshop ile ekleme/çıkarma yapılarak) değiştirilmesidir[cite: 51]."
+    },
+    {
+      "soruid": 18,
+      "soru_metni": "Siber ortamda, kullanıcıları kışkırtmak, tartışma çıkarmak veya konuyu saptırmak amacıyla kasıtlı olarak provokatif içerik paylaşan kimliklere ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Hacker",
+        "B": "Whistleblower",
+        "C": "Troll",
+        "D": "Influencer",
+        "E": "Moderatör"
+      },
+      "dogru_cevap": "C",
+      [cite_start]"neden_dogru": "Metinde 'Trolleme'; internet ortamında insanları sinirlendirmek, münakaşa başlatmak veya konuyu dağıtmak için yapılan eylemler, bunu yapanlar da 'Troll' olarak tanımlanmıştır[cite: 61]."
+    },
+    {
+      "soruid": 19,
+      "soru_metni": "Aşağıdakilerden hangisi dezenformasyonun yayılmasını kolaylaştıran teknolojik veya psikolojik unsurlardan biri değildir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Yankı Odaları",
+        "B": "Filtre Balonları",
+        "C": "Doğrulama Yanlılığı",
+        "D": "Medya Okuryazarlığı",
+        "E": "Algoritmalar"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": "Yankı odaları, filtre balonları ve doğrulama yanlılığı dezenformasyonun yayılmasını ve kabulünü kolaylaştırır. [cite_start]Ancak 'Medya Okuryazarlığı', bireylerin bu tür içerikleri ayırt etmesini sağlayan ve dezenformasyonla mücadele eden bir yetkinliktir[cite: 63]."
+    },
+    {
+      "soruid": 20,
+      "soru_metni": "Bilgi kirliliği türleri arasında 'niyet' (intent) açısından bakıldığında, 'zarar verme kastı' taşıyan iki tür hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Yanlış Bilgi ve Parodi",
+        "B": "Dezenformasyon ve Zararlı Bilgi (Malinformation)",
+        "C": "Yanlış Bilgi ve Dezenformasyon",
+        "D": "Satir ve Hatalı İlişkilendirme",
+        "E": "Bağlamdan Koparma ve Yanlış Bilgi"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Metindeki şemaya göre; Yanlış Bilgi (Misinformation) kasıtsızdır. [cite_start]Ancak Dezenformasyon (Disinformation) ve Zararlı Bilgi (Malinformation) kasıtlı olarak zarar verme amacı güder [cite: 48-49]."
+    },
+        {
+      "soruid": 21,
+      "soru_metni": "Claire Wardle'ın 7 türden oluşan bilgi kirliliği sınıflandırmasında, aslında 'zarar verme kastı olmayan' ancak yine de insanları kandırma potansiyeli taşıyan, genellikle mizah ve eğlence amaçlı üretilen tür hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Uydurma İçerik",
+        "B": "Parodi / Hiciv (Satire)",
+        "C": "Hatalı İlişkilendirme",
+        "D": "Manipüle Edilmiş İçerik",
+        "E": "Taklit İçerik"
+      },
+      "dogru_cevap": "B",
+      [cite_start]"neden_dogru": "Parodi veya hiciv, aslında güldürme veya eleştiri amaçlıdır, zarar verme kastı yoktur. Ancak bağlamı anlamayan kişiler tarafından gerçek sanılarak paylaşılabilir [cite: 50-51]."
+    },
+    {
+      "soruid": 22,
+      "soru_metni": "Tamamı uydurma olan, gerçekte hiç yaşanmamış bir olayı yaşanmış gibi sunan ve bilgi kirliliğinin en tehlikeli türlerinden biri kabul edilen içerik türü nedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Bağlamdan Koparma",
+        "B": "Uydurma İçerik (Fabricated Content)",
+        "C": "Yanıltıcı İçerik",
+        "D": "Hatalı İlişkilendirme",
+        "E": "Parodi"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Uydurma içerik, %100 yanlış olan, kandırma ve zarar verme amacıyla sıfırdan üretilmiş (fabrikasyon) içeriktir."
+    },
+    {
+      "soruid": 23,
+      "soru_metni": "Bir bilginin, bir kişiyi veya durumu karalamak için (çerçeveleme yapılarak) kurgulanması veya verilerin seçilerek (cımbızlanarak) sunulması hangi türe girer?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Yanıltıcı İçerik (Misleading Content)",
+        "B": "Uydurma İçerik",
+        "C": "Taklit İçerik",
+        "D": "Parodi",
+        "E": "Deepfake"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Yanıltıcı içerik, bir konuyu çarpıtmak veya birini suçlamak için bilginin kurgulanarak (framing) veya bağlamın seçici kullanılarak sunulmasıdır."
+    },
+    {
+      "soruid": 24,
+      "soru_metni": "DIKW (Veri-Enformasyon-Bilgi-Bilgelik) hiyerarşisine göre, verilerin işlenerek, sınıflandırılarak ve bir bağlama oturtularak 'ne, kim, nerede, ne zaman' sorularına cevap verir hale gelmesine ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Veri",
+        "B": "Enformasyon (Information)",
+        "C": "Bilgi (Knowledge)",
+        "D": "Bilgelik",
+        "E": "Algı"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Verinin işlenmiş ve anlamlandırılmış hali enformasyondur. [cite_start]Enformasyon, veriye anlam katarak belirsizliği azaltır [cite: 36-38]."
+    },
+    {
+      "soruid": 25,
+      "soru_metni": "DIKW hiyerarşisinin en tepesinde yer alan, bilginin içselleştirilmesi, muhakeme edilmesi ve geleceğe yönelik kararlarda doğruyu yanlıştan ayırma yetisi olarak tanımlanan kavram hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Veri",
+        "B": "Enformasyon",
+        "C": "Bilgi",
+        "D": "Bilgelik (Wisdom)",
+        "E": "Zeka"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": "Bilgelik, bilginin ne zaman ve nasıl kullanılacağını bilme, muhakeme etme ve etik değerlerle birleştirme seviyesidir."
+    },
+    {
+      "soruid": 26,
+      "soru_metni": "Dış dünyadan gelen duyusal verilerin (ses, görüntü vb.) zihinde seçilmesi, organize edilmesi ve yorumlanması sürecine ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Propaganda",
+        "B": "Algı (Perception)",
+        "C": "Manipülasyon",
+        "D": "İkna",
+        "E": "Tututum"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Algı, duyusal bilginin anlamlandırılması sürecidir. Algı yönetimi de bu sürece müdahale etmeyi hedefler."
+    },
+    {
+      "soruid": 27,
+      "soru_metni": "Algı yönetiminin temel felsefesine göre, hedef kitlenin davranışlarını değiştirmek için asıl önemli olan şey nedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Nesnel gerçekler",
+        "B": "Bilimsel veriler",
+        "C": "Hedefin neyin gerçek olduğunu 'düşündüğü' (Algılanan gerçeklik)",
+        "D": "Tarihsel kanıtlar",
+        "E": "Ekonomik göstergeler"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Algı yönetiminde önemli olan gerçeğin kendisi değil, hedef kitlenin neyi gerçek olarak algıladığıdır. Çünkü insanlar algılarına göre hareket ederler."
+    },
+    {
+      "soruid": 28,
+      "soru_metni": "Almanya'da 2018 yılında yürürlüğe giren ve sosyal medya platformlarına nefret söylemi ve yalan haberleri 24 saat içinde kaldırma zorunluluğu getiren yasa hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "GDPR",
+        "B": "NetzDG (Sosyal Ağların Düzenlenmesi Yasası)",
+        "C": "Patriot Act",
+        "D": "Dijital Hizmetler Yasası (DSA)",
+        "E": "Siber Suçlar Sözleşmesi"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Almanya'nın NetzDG yasası, sosyal medya platformlarına yasa dışı içerikleri hızlıca kaldırma, aksi takdirde yüksek para cezaları ödeme yükümlülüğü getirmiştir."
+    },
+    {
+      "soruid": 29,
+      "soru_metni": "Geleneksel medyada haberin yayınlanıp yayınlanmayacağına karar veren editörlerin (Eşik Bekçileri/Gatekeepers) sosyal medyada etkisini yitirmesi, dezenformasyon açısından nasıl bir sonuç doğurmuştur?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Haberlerin doğruluğu artmıştır.",
+        "B": "Doğruluk kontrolü yapılmamış bilgilerin filtresiz şekilde hızla yayılmasına neden olmuştur.",
+        "C": "Sansür artmıştır.",
+        "D": "Haber maliyetleri artmıştır.",
+        "E": "Gazetecilik mesleği yok olmuştur."
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Editöryal kontrolün (eşik bekçiliği) kalkması, sosyal medyada teyit edilmemiş bilgilerin doğrudan kitlelere ulaşmasına ve dezenformasyonun yayılmasına yol açmıştır."
+    },
+    {
+      "soruid": 30,
+      "soru_metni": "Sosyal medyada şüpheli bir görselin doğruluğunu teyit etmek için kullanılan, görselin daha önce internette nerede ve ne zaman yayınlandığını tarayan yönteme ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Tersine Görsel Arama (Reverse Image Search)",
+        "B": "Photoshop",
+        "C": "Ekran Görüntüsü Alma",
+        "D": "Filtreleme",
+        "E": "Etiketleme"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Tersine görsel arama (Google Images, TinEye vb. araçlarla), bir fotoğrafın kaynağını ve bağlamını bulmak için kullanılan temel doğrulama yöntemidir."
+    },
+    {
+      "soruid": 31,
+      "soru_metni": "Algı yönetiminde kullanılan 'Çerçeveleme' (Framing) tekniği neyi ifade eder?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Resimlere çerçeve eklemeyi",
+        "B": "Bir olayın veya konunun sunum şeklini değiştirerek, insanların onu algılama ve yorumlama biçimini yönlendirmeyi",
+        "C": "Yalan söylemeyi",
+        "D": "Verileri silmeyi",
+        "E": "Sessiz kalmayı"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Çerçeveleme, medyanın bir konuyu sunarken bazı yönlerini öne çıkarıp bazılarını gizleyerek izleyicinin o konuyu nasıl düşüneceğini (nasıl çerçeveleyeceğini) belirlemesidir."
+    },
+    {
+      "soruid": 32,
+      "soru_metni": "Dezenformasyonun yayılmasında önemli rol oynayan, insan gibi davranan ancak yazılımlar tarafından yönetilen sahte sosyal medya hesaplarına ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Influencer",
+        "B": "Sosyal Bot",
+        "C": "Moderatör",
+        "D": "Admin",
+        "E": "Fenomen"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Sosyal botlar, algoritmalar tarafından yönetilen, otomatik içerik üreten ve etkileşime giren, genellikle belirli bir gündemi (hashtag) yükseltmek için kullanılan hesaplardır."
+    },
+    {
+      "soruid": 33,
+      "soru_metni": "İnsanların kendi inançlarına ters düşen kanıtlarla karşılaştıklarında, inançlarını değiştirmek yerine onlara daha sıkı sarılmaları durumuna psikolojide ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Geri Tepme Etkisi (Backfire Effect)",
+        "B": "Plasebo Etkisi",
+        "C": "Kelebek Etkisi",
+        "D": "Suskunluk Sarmalı",
+        "E": "Üçüncü Kişi Etkisi"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Geri tepme etkisi, bir yanlış inancı düzeltmeye çalışmanın bazen o kişinin yanlış inancına daha güçlü bağlanmasına neden olması paradoksudur."
+    },
+    {
+      "soruid": 34,
+      "soru_metni": "UNESCO ve diğer uluslararası kuruluşların dezenformasyonla mücadele için en etkili uzun vadeli çözüm olarak önerdikleri yetkinlik nedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "İnterneti kapatmak",
+        "B": "Daha çok polis istihdam etmek",
+        "C": "Medya ve Bilgi Okuryazarlığı Eğitimi",
+        "D": "Yapay zekayı yasaklamak",
+        "E": "Sadece devlet kanallarını izlemek"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Yasaklamaların yetersiz kaldığı noktada, bireylerin eleştirel düşünme ve bilgiyi sorgulama becerilerini geliştiren 'Medya Okuryazarlığı' en temel çözüm olarak görülmektedir."
+    },
+    {
+      "soruid": 35,
+      "soru_metni": "Bir içeriğin sosyal medyada çok kısa sürede, virüs gibi yayılarak milyonlarca kişiye ulaşmasını ifade eden kavram hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Viral",
+        "B": "Spam",
+        "C": "Phishing",
+        "D": "Cookie",
+        "E": "Cache"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Viral olmak, içeriğin kullanıcıdan kullanıcıya hızla ve katlanarak yayılması durumudur."
+    },
+    {
+      "soruid": 36,
+      "soru_metni": "Aşağıdakilerden hangisi bir 'Enformasyon' (Information) örneğidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "38 (Tek başına bir sayı)",
+        "B": "Bugün hava sıcaklığı 38 derecedir (Bağlamı olan veri)",
+        "C": "Hava çok sıcak olduğu için dışarı çıkmamalıyım (Karar/Bilgelik)",
+        "D": "Kırmızı",
+        "E": "Ses dalgası"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Tek başına '38' veridir. 'Hava sıcaklığı 38 derece' demek veriyi bir bağlama oturtarak onu enformasyona dönüştürmektir."
+    },
+    {
+      "soruid": 37,
+      "soru_metni": "Derin sahtecilik (Deepfake) teknolojisinin en büyük tehlikelerinden biri olarak gösterilen ve kadınların rızası olmadan yüzlerinin pornografik videolara monte edilmesi durumu, hangi bilgi kirliliği/zararlı içerik kategorisine girer?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Parodi",
+        "B": "Zararlı Bilgi (Malinformation) ve Manipüle Edilmiş İçerik",
+        "C": "Sadece Yanlış Bilgi",
+        "D": "Hatalı İlişkilendirme",
+        "E": "Hiciv"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Bu eylem hem teknolojiyi kullanarak içeriği manipüle etmeyi (Manipüle içerik) hem de kişiye kasıtlı zarar vermeyi (Malinformation/Disinformation) içerir."
+    },
+    {
+      "soruid": 38,
+      "soru_metni": "Algı yönetiminde, hedef kitlenin zihninde belirli bir konuyu veya kavramı önceden aktif hale getirerek, sonraki bilgileri bu kavram ışığında yorumlamasını sağlayan teknik nedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Hazırlama (Priming)",
+        "B": "Unutturma",
+        "C": "Sansür",
+        "D": "Engelleme",
+        "E": "Yalanlama"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Priming (hazırlama), medyanın belirli konuları öne çıkararak izleyicinin zihnini o konulara odaklanmaya ve sonraki olayları bu perspektifle değerlendirmeye hazırlamasıdır."
+    },
+    {
+      "soruid": 39,
+      "soru_metni": "Sosyal medya platformlarının, kullanıcıların sitede daha fazla vakit geçirmesini sağlamak için geliştirdikleri algoritmaların, dezenformasyon açısından yarattığı temel risk nedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "İnternet hızını yavaşlatması",
+        "B": "Kullanıcıları sadece sevdikleri ve onayladıkları içeriklere maruz bırakarak (Filtre balonu) kutuplaşmayı artırması",
+        "C": "Daha az reklam göstermesi",
+        "D": "Kullanıcı sayısını azaltması",
+        "E": "Yabancı dil öğrenimini zorlaştırması"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Algoritmalar etkileşimi artırmak için kullanıcıya duymak istediğini sunduğundan, kullanıcıyı farklı görüşlerden izole eder (filtre balonu) ve yanlış bilginin yayılmasını kolaylaştırır."
+    },
+    {
+      "soruid": 40,
+      "soru_metni": "Fransa'da seçim dönemlerinde yanlış bilgilerin yayılmasını önlemek amacıyla çıkarılan yasada, yargıçlara hangi yetki verilmiştir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "İnterneti tamamen kapatma",
+        "B": "Seçimden önceki 3 ay boyunca, yanlış olduğu kanıtlanan ve yapay/kitlesel yayılan içerikleri derhal durdurma/kaldırma",
+        "C": "Tüm sosyal medya hesaplarını devletin yönetmesi",
+        "D": "Gazetecileri tutuklama",
+        "E": "Seçimi iptal etme"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Fransa'daki yasa, seçim dönemlerinde yargıçlara manipülatif ve yalan haberlerin yayılmasını ivedilikle durdurma yetkisi vermiştir."
+    },
+        {
+      "soruid": 41,
+      "soru_metni": "Bilgi ve enformasyon arasındaki kavramsal fark göz önüne alındığında aşağıdaki ifadelerden hangisi yanlıştır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Enformasyon ham bir veri, bilgi ise insan odaklı bilişsel süreçlerden geçirilerek elde edilen fikirdir",
+        "B": "Enformasyon insanoğlunun dışında gelişen veri akışında var olan soyut kavramlar bütünü iken, bilgi insanın fiziksel, biyolojik, psikolojik ve kültürel özelliklerinden süzülerek gelen bir durumdur",
+        "C": "Bilgi sadece herhangi bir şey bilmenin ötesinde bir kavrayış hali ve belirli bir yoruma ulaşmayı da gerektirmektedir",
+        "D": "Enformasyon, insan aklının erebileceği olgu, gerçek ve ilkelerin bütünü olup öğrenme, araştırma veya gözlem yolu ile elde edilen gerçekleri kapsar",
+        "E": "Bilgi kirliliği adı altında asıl kastedilen kavramın enformasyon kirliliğidir"
+      },
+      "dogru_cevap": "D",
+      [cite_start]"neden_dogru": "Metinde 'insan aklının erebileceği olgu, gerçek ve ilkelerin bütünü' tanımı Enformasyon için değil, Bilgi (Knowledge) için yapılmıştır[cite: 1406]. Enformasyon ham veridir. Bu nedenle D şıkkındaki tanım yanlıştır (kavramlar yer değiştirmiştir)."
+    },
+    {
+      "soruid": 42,
+      "soru_metni": "Aşağıdakilerden hangisi sosyal medya ile oluşan çağdaş bilgi ortamının özellikleri arasında yer almaz?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Geniş çapta erişim sağlanan, ucuz ve teknoloji temelli bilgi üretme",
+        "B": "Bilginin etik kurallar çerçevesinde yayılmasına olanak sağlaması",
+        "C": "Bilginin hızlı tüketildiği, özel olanın çabucak kamusal hâle gelebildiği platformlar yaratabilme",
+        "D": "Bilginin yayılma hızının giderek arttığı, hızlandırılmış haber döngüsü içeren internete bağlı cihazlara sahip olma",
+        "E": "Bilginin gerçek zamanlı olarak güvenilir kişiler arasında aktarılması"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Metinde çağdaş bilgi ortamının 4 özelliği sayılmıştır (ucuz üretim, hızlı tüketim, hızlı yayılma, güvenilir kişiler arası aktarım). [cite_start]Ancak sosyal medyanın 'etik kurallar çerçevesinde' yayılma sağladığı bir özellik olarak değil, tam tersine etik sorunların olduğu bir alan olarak belirtilmiştir [cite: 1398-1402]."
+    },
+    {
+      "soruid": 43,
+      "soru_metni": "Aşağıdakilerden hangisi bilgi kirliliği türleri arasındaki farkları belirleyen unsurlar arasında yer almaz?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Objektif gerçeklik",
+        "B": "Algılanan gerçeklik",
+        "C": "İşlevsellik",
+        "D": "Geçerlilik",
+        "E": "Aldatıcılık"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Metinde Karlova ve Fisher'a atıfla farkı belirleyen 5 unsur sayılmıştır: Objektif gerçeklik, algılanan gerçeklik, bütünlük, geçerlilik ve aldatıcılık. [cite_start]'İşlevsellik' bu listede yer almaz[cite: 1511]."
+    },
+    {
+      "soruid": 44,
+      "soru_metni": "Bir kişi, grup, kurum ya da ülkeye kasıtlı olarak zarar vermek maksadıyla gerçekle ilgisi olmayan yalan bilginin üretilerek yayılmasına ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Enformasyon",
+        "B": "Yanlış Bilgi",
+        "C": "Zararlı Bilgi",
+        "D": "Manipülasyon",
+        "E": "Dezenformasyon"
+      },
+      "dogru_cevap": "E",
+      [cite_start]"neden_dogru": "Dezenformasyonun tanımı; kasıtlı olarak zarar vermek amacıyla, gerçekle ilgisi olmayan yalan bilginin üretilmesidir[cite: 1496]."
+    },
+    {
+      "soruid": 45,
+      "soru_metni": "Dezenformasyonun üretilmesi ve yayılmasının analizinde aşağıdakilerden hangisi haberin üretenine yönelik bir analiz unsuru değildir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Süre",
+        "B": "Örgütlenme Seviyesi",
+        "C": "Motivasyon Türü",
+        "D": "Otomasyon Kaynağı",
+        "E": "Hedef kitle"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Metindeki tabloya göre 'Süre', haberi üretenin değil, 'Mesaj'ın bir özelliğidir. [cite_start]Üretenin özellikleri: Kaynak tipi, Örgütlenme, Motivasyon ve Otomasyon kaynağıdır[cite: 1566]."
+    },
+    {
+      "soruid": 46,
+      "soru_metni": "Aşağıdakilerden hangisi dezenformasyon yoluyla algı yönetiminin kullanıldığı alanlardan biri olabilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Bireylerin siyasal davranışlarının etkilenmesi",
+        "B": "Uluslararası hukuk kurallarının oluşturulması",
+        "C": "Bilimsel bilginin üretilmesi",
+        "D": "Ulusal kanunların oluşturulması",
+        "E": "Yeniliğe dayalı teknolojinin geliştirilmesi"
+      },
+      "dogru_cevap": "A",
+      [cite_start]"neden_dogru": "Metinde dezenformasyon yoluyla algı yönetiminin en sık kullanıldığı alanların başında 'siyasi davranışın etkilenmesi' (örneğin oy verme davranışı) geldiği belirtilmiştir[cite: 1698]."
+    },
+    {
+      "soruid": 47,
+      "soru_metni": "Sosyal medyada emoji kullanımının desteklenmesinin algı yönetimi operasyonları açısından ortaya çıkardığı avantajlar nelerdir?\nI. İletişimi daha kısa ve sembolik hale getirmek\nII. Kullanıcının rasyonel değil duygusal tepki vermesini sağlamak\nIII. Kullanıcı geri bildirimine göre haber içeriklerini yeniden dizayn etmek",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Yalnız I",
+        "B": "Yalnız II",
+        "C": "Yalnız III",
+        "D": "II ve III",
+        "E": "I, II ve III"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": "Algı yönetimi bağlamında metin, emojilerin kullanıcıyı mantıksal değil duygusal tepkiye şartladığını (II) ve bu duygusal verilerin ölçülerek haberin yeniden tasarlanmasını sağladığını (III) vurgulamıştır. [cite_start]İletişimi kısaltması (I) bir özellik olsa da, algı yönetimi 'avantajı' olarak diğerleri öne çıkarılmıştır [cite: 1727-1730]."
+    },
+    {
+      "soruid": 48,
+      "soru_metni": "Aşağıdakilerden hangisi sosyal medya üzerinden kullanılan dezenformasyon yoluyla algı yönetimi tekniklerinden biri değildir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Kişilerarası anlık iletişim kanalları oluşturma",
+        "B": "Emoji kullanımının teşvik edilmesi",
+        "C": "Çelişkili paylaşım içerikleri oluşturma",
+        "D": "Oyun uygulamaları",
+        "E": "Gelecek projeksiyonu oluşturma"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Metinde sayılan teknikler: Gelecek projeksiyonu, Oyun uygulamaları, Çoğunluk üretmek, Emoji kullanımı, Sürekli tekrar, Meşruiyet oluşturma, Çelişkili paylaşım ve Mizahlaştırmadır. [cite_start]A şıkkı bu teknikler arasında sayılmamıştır [cite: 1708-1761]."
+    },
+    {
+      "soruid": 49,
+      "soru_metni": "Dünyada demokratik ülkelerin kendi seçim süreçleriyle ilgili yurt dışı bağlantılı yürütülen dezenformasyon kampanyaları konusundaki farkındalık düzeyi aşağıdaki olayların hangisi ya da hangileri ile artmıştır?\nI. 2013 tarihli Ukrayna'daki yönetim krizi\nII. 2016 tarihli ABD başkanlık seçimleri\nIII. 2017 tarihli Fransa başkanlık seçimleri",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Yalnız I",
+        "B": "Yalnız II",
+        "C": "Yalnız III",
+        "D": "I ve II",
+        "E": "I, II ve III"
+      },
+      "dogru_cevap": "E",
+      [cite_start]"neden_dogru": "Metinde her üç olay da (Ukrayna krizi, ABD seçimlerindeki Rus müdahalesi iddiası, Fransa seçimlerindeki Macron sızıntıları) dezenformasyon farkındalığını artıran temel kilometre taşları olarak anlatılmıştır[cite: 1617, 1803, 1780]."
+    },
+    {
+      "soruid": 50,
+      "soru_metni": "Dünyada bilgi kirliliğiyle mücadele kapsamında aşağıdakilerden hangisi demokratik ülkeler tarafından alınan tedbirler arasında yer almaz?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Dezenformasyon faaliyetinde bulunan kişilerin vatandaşlıktan çıkarılması",
+        "B": "Dezenformasyon yapanlara karşı para cezası uygulanması",
+        "C": "Dezenformasyon yapanlara karşı hapis cezası uygulaması",
+        "D": "Okullarda medya okuryazarlığı dersinin zorunlu hâle getirilmesi",
+        "E": "Dezenformasyon yapıldığı tespit edilen hesap ve web sitelerine erişimin durdurulması"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Metinde para cezası (Almanya), hapis cezası (Rusya), medya okuryazarlığı eğitimi (ABD/Kaliforniya) ve erişim engelleme (Fransa) gibi tedbirler sayılmıştır. Ancak 'vatandaşlıktan çıkarma' demokratik ülkelerin uyguladığı bir tedbir olarak metinde geçmemektedir."
+    }
+      ]
+    }
+  ]
+}
+
