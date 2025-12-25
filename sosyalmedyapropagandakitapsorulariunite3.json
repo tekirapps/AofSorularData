@@ -19,7 +19,7 @@
         "E": "Algı (Perception)"
       },
       "dogru_cevap": "D",
-      [cite_start]"neden_dogru": "Metinde DIKW hiyerarşisi (Veri, Enformasyon, Bilgi, Bilgelik) anlatılırken, en alt basamakta yer alan ve henüz işlenmemiş, ham gerçeklik parçalarına 'Veri' (Data) denildiği belirtilmiştir[cite: 46]."
+      "neden_dogru": "Metinde DIKW hiyerarşisi (Veri, Enformasyon, Bilgi, Bilgelik) anlatılırken, en alt basamakta yer alan ve henüz işlenmemiş, ham gerçeklik parçalarına 'Veri' (Data) denildiği belirtilmiştir[cite: 46]."
     },
     {
       "soruid": 2,
@@ -33,7 +33,7 @@
         "E": "Propaganda"
       },
       "dogru_cevap": "C",
-      [cite_start]"neden_dogru": "Metinde 'Yanlış Bilgi' (Misinformation); bilginin yanlış olduğu fakat bu bilginin üretilmesi ve yayılmasında zarar verme kastının olmadığı durumlar olarak tanımlanmıştır[cite: 48]."
+      "neden_dogru": "Metinde 'Yanlış Bilgi' (Misinformation); bilginin yanlış olduğu fakat bu bilginin üretilmesi ve yayılmasında zarar verme kastının olmadığı durumlar olarak tanımlanmıştır[cite: 48]."
     },
     {
       "soruid": 3,
@@ -47,7 +47,7 @@
         "E": "Taklit İçerik"
       },
       "dogru_cevap": "A",
-      [cite_start]"neden_dogru": "Metinde 'Zararlı Bilgi' (Malinformation); bilginin doğru olduğu ancak kişilere, kurumlara veya ülkelere zarar vermek amacıyla paylaşıldığı tür olarak tanımlanmıştır (örneğin mahrem görüntülerin sızdırılması)[cite: 49]."
+      "neden_dogru": "Metinde 'Zararlı Bilgi' (Malinformation); bilginin doğru olduğu ancak kişilere, kurumlara veya ülkelere zarar vermek amacıyla paylaşıldığı tür olarak tanımlanmıştır (örneğin mahrem görüntülerin sızdırılması)[cite: 49]."
     },
     {
       "soruid": 4,
@@ -61,7 +61,7 @@
         "E": "Taklit İçerik"
       },
       "dogru_cevap": "B",
-      [cite_start]"neden_dogru": "Hatalı ilişkilendirme, başlıkların, görsellerin veya resim altı yazılarının içerikle uyuşmadığı durumlar için kullanılır ve genellikle ticari amaçlı 'tık tuzağı' olarak yapılır[cite: 50]."
+      "neden_dogru": "Hatalı ilişkilendirme, başlıkların, görsellerin veya resim altı yazılarının içerikle uyuşmadığı durumlar için kullanılır ve genellikle ticari amaçlı 'tık tuzağı' olarak yapılır[cite: 50]."
     },
     {
       "soruid": 5,
@@ -75,7 +75,7 @@
         "E": "Taklit İçerik"
       },
       "dogru_cevap": "C",
-      "neden_dogru": "Bağlamdan koparma, doğru bir içeriğin yanlış bir bağlamla (context) birlikte sunulmasıdır. [cite_start]Örneğin eski bir fotoğrafın güncel bir olaymış gibi paylaşılması buna örnektir[cite: 50]."
+      "neden_dogru": "Bağlamdan koparma, doğru bir içeriğin yanlış bir bağlamla (context) birlikte sunulmasıdır. Örneğin eski bir fotoğrafın güncel bir olaymış gibi paylaşılması buna örnektir[cite: 50]."
     },
     {
       "soruid": 6,
@@ -89,7 +89,7 @@
         "E": "Yankı Odası"
       },
       "dogru_cevap": "B",
-      [cite_start]"neden_dogru": "Metinde 'Deepfake'; yapay zeka algoritmaları kullanılarak üretilen, gerçeğinden ayırt edilmesi zor sahte video ve ses kayıtları olarak tanımlanmıştır[cite: 55]."
+      "neden_dogru": "Metinde 'Deepfake'; yapay zeka algoritmaları kullanılarak üretilen, gerçeğinden ayırt edilmesi zor sahte video ve ses kayıtları olarak tanımlanmıştır[cite: 55]."
     },
     {
       "soruid": 7,
@@ -103,7 +103,7 @@
         "E": "Ağ Toplumu"
       },
       "dogru_cevap": "C",
-      [cite_start]"neden_dogru": "Eli Pariser'in 'Filtre Balonu' kavramı, algoritmaların kişiselleştirilmiş içerik sunarak kullanıcıyı farklı görüşlerden izole etmesi ve kendi dünyasına hapsetmesi olarak tanımlanmıştır[cite: 56]."
+      "neden_dogru": "Eli Pariser'in 'Filtre Balonu' kavramı, algoritmaların kişiselleştirilmiş içerik sunarak kullanıcıyı farklı görüşlerden izole etmesi ve kendi dünyasına hapsetmesi olarak tanımlanmıştır[cite: 56]."
     },
     {
       "soruid": 8,
@@ -117,7 +117,7 @@
         "E": "Algı Yönetimi"
       },
       "dogru_cevap": "B",
-      [cite_start]"neden_dogru": "Yankı odası, benzer düşünen insanların birbirleriyle etkileşime girerek kendi seslerinin yankısını duydukları ve karşıt görüşlere kapalı oldukları ortamdır [cite: 56-57]."
+      "neden_dogru": "Yankı odası, benzer düşünen insanların birbirleriyle etkileşime girerek kendi seslerinin yankısını duydukları ve karşıt görüşlere kapalı oldukları ortamdır [cite: 56-57]."
     },
     {
       "soruid": 9,
@@ -131,7 +131,7 @@
         "E": "Eşik Bekçiliği"
       },
       "dogru_cevap": "A",
-      [cite_start]"neden_dogru": "Elisabeth Noelle-Neumann'ın 'Suskunluk Sarmalı' kuramı, bireylerin azınlıkta olduklarını hissettiklerinde dışlanma korkusuyla sessiz kaldıklarını ifade eder[cite: 57]."
+      "neden_dogru": "Elisabeth Noelle-Neumann'ın 'Suskunluk Sarmalı' kuramı, bireylerin azınlıkta olduklarını hissettiklerinde dışlanma korkusuyla sessiz kaldıklarını ifade eder[cite: 57]."
     },
     {
       "soruid": 10,
@@ -145,7 +145,7 @@
         "E": "Avrupa Birliği"
       },
       "dogru_cevap": "C",
-      [cite_start]"neden_dogru": "Algı yönetimi kavramı ilk kez ABD Savunma Bakanlığı tarafından askeri bir terim olarak tanımlanmış ve yabancı kitlelerin davranışlarını etkilemek amacı güdülmüştür[cite: 59]."
+      "neden_dogru": "Algı yönetimi kavramı ilk kez ABD Savunma Bakanlığı tarafından askeri bir terim olarak tanımlanmış ve yabancı kitlelerin davranışlarını etkilemek amacı güdülmüştür[cite: 59]."
     },
     {
       "soruid": 11,
@@ -159,7 +159,7 @@
         "E": "Framing"
       },
       "dogru_cevap": "B",
-      [cite_start]"neden_dogru": "Metinde 'Astroturfing'; bir ürün, hizmet veya siyasi görüş için, arkasındaki sponsorları gizleyerek sahte bir taban hareketi (grassroots) izlenimi yaratmak olarak tanımlanmıştır[cite: 61]."
+      "neden_dogru": "Metinde 'Astroturfing'; bir ürün, hizmet veya siyasi görüş için, arkasındaki sponsorları gizleyerek sahte bir taban hareketi (grassroots) izlenimi yaratmak olarak tanımlanmıştır[cite: 61]."
     },
     {
       "soruid": 12,
@@ -173,7 +173,7 @@
         "E": "Yansıtma"
       },
       "dogru_cevap": "B",
-      [cite_start]"neden_dogru": "Bireylerin var olan inançlarıyla uyumlu bilgileri tüketme ve aksi bilgileri görmezden gelme eğilimi 'Doğrulama Yanlılığı' (Confirmation Bias) olarak açıklanmıştır[cite: 58]."
+      "neden_dogru": "Bireylerin var olan inançlarıyla uyumlu bilgileri tüketme ve aksi bilgileri görmezden gelme eğilimi 'Doğrulama Yanlılığı' (Confirmation Bias) olarak açıklanmıştır[cite: 58]."
     },
     {
       "soruid": 13,
@@ -187,7 +187,7 @@
         "E": "Bot Hesaplar"
       },
       "dogru_cevap": "B",
-      "neden_dogru": "Metinde 'Fact-checking' (Doğrulama) kavramı, medya içeriğinin doğruluğunun ve tutarlılığının denetlenmesi süreci olarak anlatılmış; [cite_start]Türkiye'den Teyit.org ve Doğruluk Payı örnek verilmiştir[cite: 62]."
+      "neden_dogru": "Metinde 'Fact-checking' (Doğrulama) kavramı, medya içeriğinin doğruluğunun ve tutarlılığının denetlenmesi süreci olarak anlatılmış; Türkiye'den Teyit.org ve Doğruluk Payı örnek verilmiştir[cite: 62]."
     },
     {
       "soruid": 14,
@@ -201,7 +201,7 @@
         "E": "UNESCO"
       },
       "dogru_cevap": "C",
-      [cite_start]"neden_dogru": "Poynter Enstitüsü bünyesinde kurulan ve doğrulama organizasyonları için etik kodlar belirleyen ağın adı IFCN'dir[cite: 63]."
+      "neden_dogru": "Poynter Enstitüsü bünyesinde kurulan ve doğrulama organizasyonları için etik kodlar belirleyen ağın adı IFCN'dir[cite: 63]."
     },
     {
       "soruid": 15,
@@ -215,7 +215,7 @@
         "E": "Selfie"
       },
       "dogru_cevap": "B",
-      [cite_start]"neden_dogru": "Metinde 'Post-truth' (Hakikat Sonrası) kavramının 2016'da yılın kelimesi seçildiği ve gerçeklerin önemini yitirip duyguların ön plana çıktığı dönemi anlattığı belirtilmiştir[cite: 53]."
+      "neden_dogru": "Metinde 'Post-truth' (Hakikat Sonrası) kavramının 2016'da yılın kelimesi seçildiği ve gerçeklerin önemini yitirip duyguların ön plana çıktığı dönemi anlattığı belirtilmiştir[cite: 53]."
     },
     {
       "soruid": 16,
@@ -229,7 +229,7 @@
         "E": "Bağlamdan Koparma"
       },
       "dogru_cevap": "A",
-      [cite_start]"neden_dogru": "Taklit içerik, güvenilir haber kaynaklarının (BBC, CNN vb.) logolarının veya arayüzlerinin taklit edilerek sahte bilgi yayılmasıdır[cite: 50]."
+      "neden_dogru": "Taklit içerik, güvenilir haber kaynaklarının (BBC, CNN vb.) logolarının veya arayüzlerinin taklit edilerek sahte bilgi yayılmasıdır[cite: 50]."
     },
     {
       "soruid": 17,
@@ -243,7 +243,7 @@
         "E": "Eski bir haberin yeni gibi sunulması"
       },
       "dogru_cevap": "B",
-      [cite_start]"neden_dogru": "Manipüle edilmiş içerik, gerçek bir bilgi veya görselin kandırma amacıyla üzerinde oynanarak (örneğin photoshop ile ekleme/çıkarma yapılarak) değiştirilmesidir[cite: 51]."
+      "neden_dogru": "Manipüle edilmiş içerik, gerçek bir bilgi veya görselin kandırma amacıyla üzerinde oynanarak (örneğin photoshop ile ekleme/çıkarma yapılarak) değiştirilmesidir[cite: 51]."
     },
     {
       "soruid": 18,
@@ -257,7 +257,7 @@
         "E": "Moderatör"
       },
       "dogru_cevap": "C",
-      [cite_start]"neden_dogru": "Metinde 'Trolleme'; internet ortamında insanları sinirlendirmek, münakaşa başlatmak veya konuyu dağıtmak için yapılan eylemler, bunu yapanlar da 'Troll' olarak tanımlanmıştır[cite: 61]."
+      "neden_dogru": "Metinde 'Trolleme'; internet ortamında insanları sinirlendirmek, münakaşa başlatmak veya konuyu dağıtmak için yapılan eylemler, bunu yapanlar da 'Troll' olarak tanımlanmıştır[cite: 61]."
     },
     {
       "soruid": 19,
@@ -271,7 +271,7 @@
         "E": "Algoritmalar"
       },
       "dogru_cevap": "D",
-      "neden_dogru": "Yankı odaları, filtre balonları ve doğrulama yanlılığı dezenformasyonun yayılmasını ve kabulünü kolaylaştırır. [cite_start]Ancak 'Medya Okuryazarlığı', bireylerin bu tür içerikleri ayırt etmesini sağlayan ve dezenformasyonla mücadele eden bir yetkinliktir[cite: 63]."
+      "neden_dogru": "Yankı odaları, filtre balonları ve doğrulama yanlılığı dezenformasyonun yayılmasını ve kabulünü kolaylaştırır. Ancak 'Medya Okuryazarlığı', bireylerin bu tür içerikleri ayırt etmesini sağlayan ve dezenformasyonla mücadele eden bir yetkinliktir[cite: 63]."
     },
     {
       "soruid": 20,
@@ -285,7 +285,7 @@
         "E": "Bağlamdan Koparma ve Yanlış Bilgi"
       },
       "dogru_cevap": "B",
-      "neden_dogru": "Metindeki şemaya göre; Yanlış Bilgi (Misinformation) kasıtsızdır. [cite_start]Ancak Dezenformasyon (Disinformation) ve Zararlı Bilgi (Malinformation) kasıtlı olarak zarar verme amacı güder [cite: 48-49]."
+      "neden_dogru": "Metindeki şemaya göre; Yanlış Bilgi (Misinformation) kasıtsızdır. Ancak Dezenformasyon (Disinformation) ve Zararlı Bilgi (Malinformation) kasıtlı olarak zarar verme amacı güder [cite: 48-49]."
     },
         {
       "soruid": 21,
@@ -299,7 +299,7 @@
         "E": "Taklit İçerik"
       },
       "dogru_cevap": "B",
-      [cite_start]"neden_dogru": "Parodi veya hiciv, aslında güldürme veya eleştiri amaçlıdır, zarar verme kastı yoktur. Ancak bağlamı anlamayan kişiler tarafından gerçek sanılarak paylaşılabilir [cite: 50-51]."
+      "neden_dogru": "Parodi veya hiciv, aslında güldürme veya eleştiri amaçlıdır, zarar verme kastı yoktur. Ancak bağlamı anlamayan kişiler tarafından gerçek sanılarak paylaşılabilir [cite: 50-51]."
     },
     {
       "soruid": 22,
@@ -341,7 +341,7 @@
         "E": "Algı"
       },
       "dogru_cevap": "B",
-      "neden_dogru": "Verinin işlenmiş ve anlamlandırılmış hali enformasyondur. [cite_start]Enformasyon, veriye anlam katarak belirsizliği azaltır [cite: 36-38]."
+      "neden_dogru": "Verinin işlenmiş ve anlamlandırılmış hali enformasyondur. Enformasyon, veriye anlam katarak belirsizliği azaltır [cite: 36-38]."
     },
     {
       "soruid": 25,
@@ -579,7 +579,7 @@
         "E": "Bilgi kirliliği adı altında asıl kastedilen kavramın enformasyon kirliliğidir"
       },
       "dogru_cevap": "D",
-      [cite_start]"neden_dogru": "Metinde 'insan aklının erebileceği olgu, gerçek ve ilkelerin bütünü' tanımı Enformasyon için değil, Bilgi (Knowledge) için yapılmıştır[cite: 1406]. Enformasyon ham veridir. Bu nedenle D şıkkındaki tanım yanlıştır (kavramlar yer değiştirmiştir)."
+      "neden_dogru": "Metinde 'insan aklının erebileceği olgu, gerçek ve ilkelerin bütünü' tanımı Enformasyon için değil, Bilgi (Knowledge) için yapılmıştır[cite: 1406]. Enformasyon ham veridir. Bu nedenle D şıkkındaki tanım yanlıştır (kavramlar yer değiştirmiştir)."
     },
     {
       "soruid": 42,
@@ -593,7 +593,7 @@
         "E": "Bilginin gerçek zamanlı olarak güvenilir kişiler arasında aktarılması"
       },
       "dogru_cevap": "B",
-      "neden_dogru": "Metinde çağdaş bilgi ortamının 4 özelliği sayılmıştır (ucuz üretim, hızlı tüketim, hızlı yayılma, güvenilir kişiler arası aktarım). [cite_start]Ancak sosyal medyanın 'etik kurallar çerçevesinde' yayılma sağladığı bir özellik olarak değil, tam tersine etik sorunların olduğu bir alan olarak belirtilmiştir [cite: 1398-1402]."
+      "neden_dogru": "Metinde çağdaş bilgi ortamının 4 özelliği sayılmıştır (ucuz üretim, hızlı tüketim, hızlı yayılma, güvenilir kişiler arası aktarım). Ancak sosyal medyanın 'etik kurallar çerçevesinde' yayılma sağladığı bir özellik olarak değil, tam tersine etik sorunların olduğu bir alan olarak belirtilmiştir [cite: 1398-1402]."
     },
     {
       "soruid": 43,
@@ -607,7 +607,7 @@
         "E": "Aldatıcılık"
       },
       "dogru_cevap": "C",
-      "neden_dogru": "Metinde Karlova ve Fisher'a atıfla farkı belirleyen 5 unsur sayılmıştır: Objektif gerçeklik, algılanan gerçeklik, bütünlük, geçerlilik ve aldatıcılık. [cite_start]'İşlevsellik' bu listede yer almaz[cite: 1511]."
+      "neden_dogru": "Metinde Karlova ve Fisher'a atıfla farkı belirleyen 5 unsur sayılmıştır: Objektif gerçeklik, algılanan gerçeklik, bütünlük, geçerlilik ve aldatıcılık. 'İşlevsellik' bu listede yer almaz[cite: 1511]."
     },
     {
       "soruid": 44,
@@ -621,7 +621,7 @@
         "E": "Dezenformasyon"
       },
       "dogru_cevap": "E",
-      [cite_start]"neden_dogru": "Dezenformasyonun tanımı; kasıtlı olarak zarar vermek amacıyla, gerçekle ilgisi olmayan yalan bilginin üretilmesidir[cite: 1496]."
+      "neden_dogru": "Dezenformasyonun tanımı; kasıtlı olarak zarar vermek amacıyla, gerçekle ilgisi olmayan yalan bilginin üretilmesidir[cite: 1496]."
     },
     {
       "soruid": 45,
@@ -635,7 +635,7 @@
         "E": "Hedef kitle"
       },
       "dogru_cevap": "A",
-      "neden_dogru": "Metindeki tabloya göre 'Süre', haberi üretenin değil, 'Mesaj'ın bir özelliğidir. [cite_start]Üretenin özellikleri: Kaynak tipi, Örgütlenme, Motivasyon ve Otomasyon kaynağıdır[cite: 1566]."
+      "neden_dogru": "Metindeki tabloya göre 'Süre', haberi üretenin değil, 'Mesaj'ın bir özelliğidir. Üretenin özellikleri: Kaynak tipi, Örgütlenme, Motivasyon ve Otomasyon kaynağıdır[cite: 1566]."
     },
     {
       "soruid": 46,
@@ -649,7 +649,7 @@
         "E": "Yeniliğe dayalı teknolojinin geliştirilmesi"
       },
       "dogru_cevap": "A",
-      [cite_start]"neden_dogru": "Metinde dezenformasyon yoluyla algı yönetiminin en sık kullanıldığı alanların başında 'siyasi davranışın etkilenmesi' (örneğin oy verme davranışı) geldiği belirtilmiştir[cite: 1698]."
+      "neden_dogru": "Metinde dezenformasyon yoluyla algı yönetiminin en sık kullanıldığı alanların başında 'siyasi davranışın etkilenmesi' (örneğin oy verme davranışı) geldiği belirtilmiştir[cite: 1698]."
     },
     {
       "soruid": 47,
@@ -663,7 +663,7 @@
         "E": "I, II ve III"
       },
       "dogru_cevap": "D",
-      "neden_dogru": "Algı yönetimi bağlamında metin, emojilerin kullanıcıyı mantıksal değil duygusal tepkiye şartladığını (II) ve bu duygusal verilerin ölçülerek haberin yeniden tasarlanmasını sağladığını (III) vurgulamıştır. [cite_start]İletişimi kısaltması (I) bir özellik olsa da, algı yönetimi 'avantajı' olarak diğerleri öne çıkarılmıştır [cite: 1727-1730]."
+      "neden_dogru": "Algı yönetimi bağlamında metin, emojilerin kullanıcıyı mantıksal değil duygusal tepkiye şartladığını (II) ve bu duygusal verilerin ölçülerek haberin yeniden tasarlanmasını sağladığını (III) vurgulamıştır. İletişimi kısaltması (I) bir özellik olsa da, algı yönetimi 'avantajı' olarak diğerleri öne çıkarılmıştır [cite: 1727-1730]."
     },
     {
       "soruid": 48,
@@ -677,7 +677,7 @@
         "E": "Gelecek projeksiyonu oluşturma"
       },
       "dogru_cevap": "A",
-      "neden_dogru": "Metinde sayılan teknikler: Gelecek projeksiyonu, Oyun uygulamaları, Çoğunluk üretmek, Emoji kullanımı, Sürekli tekrar, Meşruiyet oluşturma, Çelişkili paylaşım ve Mizahlaştırmadır. [cite_start]A şıkkı bu teknikler arasında sayılmamıştır [cite: 1708-1761]."
+      "neden_dogru": "Metinde sayılan teknikler: Gelecek projeksiyonu, Oyun uygulamaları, Çoğunluk üretmek, Emoji kullanımı, Sürekli tekrar, Meşruiyet oluşturma, Çelişkili paylaşım ve Mizahlaştırmadır. A şıkkı bu teknikler arasında sayılmamıştır [cite: 1708-1761]."
     },
     {
       "soruid": 49,
@@ -691,7 +691,7 @@
         "E": "I, II ve III"
       },
       "dogru_cevap": "E",
-      [cite_start]"neden_dogru": "Metinde her üç olay da (Ukrayna krizi, ABD seçimlerindeki Rus müdahalesi iddiası, Fransa seçimlerindeki Macron sızıntıları) dezenformasyon farkındalığını artıran temel kilometre taşları olarak anlatılmıştır[cite: 1617, 1803, 1780]."
+      "neden_dogru": "Metinde her üç olay da (Ukrayna krizi, ABD seçimlerindeki Rus müdahalesi iddiası, Fransa seçimlerindeki Macron sızıntıları) dezenformasyon farkındalığını artıran temel kilometre taşları olarak anlatılmıştır[cite: 1617, 1803, 1780]."
     },
     {
       "soruid": 50,
