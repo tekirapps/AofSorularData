@@ -19,7 +19,7 @@
         "E": "İlke"
       },
       "dogru_cevap": "C",
-      [cite_start]"neden_dogru": "Metinde, ham verinin bir kişiye ait olması durumunda organize edilerek 'enformasyona' dönüştüğü belirtilmiştir[cite: 983, 1002]."
+      "neden_dogru": "Metinde, ham verinin bir kişiye ait olması durumunda organize edilerek 'enformasyona' dönüştüğü belirtilmiştir[cite: 983, 1002]."
     },
     {
       "soruid": 2,
@@ -33,7 +33,7 @@
         "E": "Yüz şekli"
       },
       "dogru_cevap": "D",
-      [cite_start]"neden_dogru": "Davranışsal veriler sonradan edinilen ve değişme potansiyeli olan verilerdir; yürüyüş biçimi, klavyeye basış biçimi buna örnektir [cite: 1018-1019]."
+      "neden_dogru": "Davranışsal veriler sonradan edinilen ve değişme potansiyeli olan verilerdir; yürüyüş biçimi, klavyeye basış biçimi buna örnektir [cite: 1018-1019]."
     },
     {
       "soruid": 3,
@@ -47,7 +47,7 @@
         "E": "Siber Güvenlik Uzmanı"
       },
       "dogru_cevap": "B",
-      [cite_start]"neden_dogru": "KVKK Madde 3'e göre veri sorumlusu, kişisel verilerin işleme amaçlarını ve vasıtalarını belirleyen, veri kayıt sisteminden sorumlu olan kişidir [cite: 1157-1158]."
+      "neden_dogru": "KVKK Madde 3'e göre veri sorumlusu, kişisel verilerin işleme amaçlarını ve vasıtalarını belirleyen, veri kayıt sisteminden sorumlu olan kişidir [cite: 1157-1158]."
     },
     {
       "soruid": 4,
@@ -61,7 +61,7 @@
         "E": "Biyometrik veriler"
       },
       "dogru_cevap": "B",
-      "neden_dogru": "Cep telefonu numarası genel nitelikli bir veridir. [cite_start]Diğer seçenekler (üyelik, sağlık, ceza, biyometrik) kanunda özel nitelikli veri olarak sayılmıştır [cite: 1084-1090]."
+      "neden_dogru": "Cep telefonu numarası genel nitelikli bir veridir. Diğer seçenekler (üyelik, sağlık, ceza, biyometrik) kanunda özel nitelikli veri olarak sayılmıştır [cite: 1084-1090]."
     },
     {
       "soruid": 5,
@@ -75,7 +75,7 @@
         "E": "Devlet tarafından onaylanması - Ücretli olması - Süreli olması"
       },
       "dogru_cevap": "B",
-      [cite_start]"neden_dogru": "Metinde açık rızanın üç unsuru: Belirli bir konuya ilişkin olması, bilgilendirmeye dayanması ve özgür iradeyle açıklanması olarak belirtilmiştir [cite: 1218-1219]."
+      "neden_dogru": "Metinde açık rızanın üç unsuru: Belirli bir konuya ilişkin olması, bilgilendirmeye dayanması ve özgür iradeyle açıklanması olarak belirtilmiştir [cite: 1218-1219]."
     },
     {
       "soruid": 6,
@@ -89,7 +89,7 @@
         "E": "Veri sorumlusunun aydınlatma yükümlülüğü"
       },
       "dogru_cevap": "B",
-      [cite_start]"neden_dogru": "Alternatif giriş yöntemleri varken biyometrik veri istenmesi, 'işlendikleri amaçla bağlantılı, sınırlı ve ölçülü olma' ilkesiyle bağdaşmadığı için aykırı bulunmuştur[cite: 1246]."
+      "neden_dogru": "Alternatif giriş yöntemleri varken biyometrik veri istenmesi, 'işlendikleri amaçla bağlantılı, sınırlı ve ölçülü olma' ilkesiyle bağdaşmadığı için aykırı bulunmuştur[cite: 1246]."
     },
     {
       "soruid": 7,
@@ -103,7 +103,7 @@
         "E": "Bir hakkın tesisi"
       },
       "dogru_cevap": "C",
-      [cite_start]"neden_dogru": "Sağlık verileri özel nitelikli olsa da, kamu sağlığının korunması amacıyla kanunlarda öngörülen hallerde açık rıza aranmaksızın işlenebilir [cite: 1104-1111]."
+      "neden_dogru": "Sağlık verileri özel nitelikli olsa da, kamu sağlığının korunması amacıyla kanunlarda öngörülen hallerde açık rıza aranmaksızın işlenebilir [cite: 1104-1111]."
     },
     {
       "soruid": 8,
@@ -117,7 +117,7 @@
         "E": "Sanal Gerçeklik"
       },
       "dogru_cevap": "C",
-      [cite_start]"neden_dogru": "Kullanıcılar arasında paylaşılan bilgisayar kaynakları sağlayan ve internet tabanlı olan bu hizmet 'Bulut Bilişim'dir[cite: 1395]."
+      "neden_dogru": "Kullanıcılar arasında paylaşılan bilgisayar kaynakları sağlayan ve internet tabanlı olan bu hizmet 'Bulut Bilişim'dir[cite: 1395]."
     },
     {
       "soruid": 9,
@@ -131,7 +131,7 @@
         "E": "Kurulum zorluğu"
       },
       "dogru_cevap": "B",
-      [cite_start]"neden_dogru": "Bulut bilişim geniş bant internet üzerine temellendiği için, hızlı internet bağlantısı gerektirmesi önemli bir sınırlılıktır[cite: 1472, 1483]."
+      "neden_dogru": "Bulut bilişim geniş bant internet üzerine temellendiği için, hızlı internet bağlantısı gerektirmesi önemli bir sınırlılıktır[cite: 1472, 1483]."
     },
     {
       "soruid": 10,
@@ -145,7 +145,7 @@
         "E": "Reklamların engellenmesi"
       },
       "dogru_cevap": "B",
-      [cite_start]"neden_dogru": "Ortak ağlarda kötü niyetli kişilerin veri trafiğini izleyerek araya girmesi ve verileri ele geçirmesi riskidir [cite: 1491-1499]."
+      "neden_dogru": "Ortak ağlarda kötü niyetli kişilerin veri trafiğini izleyerek araya girmesi ve verileri ele geçirmesi riskidir [cite: 1491-1499]."
     },
     {
       "soruid": 11,
@@ -159,7 +159,7 @@
         "E": "Firewall"
       },
       "dogru_cevap": "C",
-      [cite_start]"neden_dogru": "Apple tarafından geliştirilen ve parolaları saklayıp yöneten sistem 'Anahtar Zinciri' (Keychain) olarak adlandırılır[cite: 1605]."
+      "neden_dogru": "Apple tarafından geliştirilen ve parolaları saklayıp yöneten sistem 'Anahtar Zinciri' (Keychain) olarak adlandırılır[cite: 1605]."
     },
     {
       "soruid": 12,
@@ -173,7 +173,7 @@
         "E": "Veri maskeleme"
       },
       "dogru_cevap": "B",
-      [cite_start]"neden_dogru": "İki faktörlü doğrulama, şifreye ek olarak telefon veya e-posta onayı gerektirerek ekstra güvenlik katmanı sağlar [cite: 1607-1615]."
+      "neden_dogru": "İki faktörlü doğrulama, şifreye ek olarak telefon veya e-posta onayı gerektirerek ekstra güvenlik katmanı sağlar [cite: 1607-1615]."
     },
     {
       "soruid": 13,
@@ -187,7 +187,7 @@
         "E": "GPS Takibi"
       },
       "dogru_cevap": "C",
-      [cite_start]"neden_dogru": "Uçtan uca şifreleme, mesajları bir kilitle güvence altına alır ve anahtar sadece alıcı ve göndericide bulunur [cite: 1653-1655]."
+      "neden_dogru": "Uçtan uca şifreleme, mesajları bir kilitle güvence altına alır ve anahtar sadece alıcı ve göndericide bulunur [cite: 1653-1655]."
     },
     {
       "soruid": 14,
@@ -201,7 +201,7 @@
         "E": "Veri Yedekleme"
       },
       "dogru_cevap": "C",
-      [cite_start]"neden_dogru": "Anonim hale getirme, verinin kimlikle bağının tamamen koparılarak kişiyi belirlenemez kılmasıdır[cite: 1053]."
+      "neden_dogru": "Anonim hale getirme, verinin kimlikle bağının tamamen koparılarak kişiyi belirlenemez kılmasıdır[cite: 1053]."
     },
     {
       "soruid": 15,
@@ -215,7 +215,7 @@
         "E": "Fiber Optik"
       },
       "dogru_cevap": "A",
-      [cite_start]"neden_dogru": "Blok zincir teknolojisi, verileri dağıtık ve şifreli bir yapıda tutarak değiştirilemez bir güvenlik sağlar [cite: 1666-1668]."
+      "neden_dogru": "Blok zincir teknolojisi, verileri dağıtık ve şifreli bir yapıda tutarak değiştirilemez bir güvenlik sağlar [cite: 1666-1668]."
     },
     {
       "soruid": 16,
@@ -229,7 +229,7 @@
         "E": "Verileri hukuka uygun işlemek"
       },
       "dogru_cevap": "C",
-      [cite_start]"neden_dogru": "Veriler süresiz değil, işlendikleri amaç için gerekli olan süre kadar muhafaza edilmelidir; süre bitince imha edilmelidir[cite: 1168, 1260]."
+      "neden_dogru": "Veriler süresiz değil, işlendikleri amaç için gerekli olan süre kadar muhafaza edilmelidir; süre bitince imha edilmelidir[cite: 1168, 1260]."
     },
     {
       "soruid": 17,
@@ -243,7 +243,7 @@
         "E": "Vergi ödememe hakkı"
       },
       "dogru_cevap": "B",
-      [cite_start]"neden_dogru": "Anayasa'nın 20. maddesi, herkesin kendisiyle ilgili kişisel verilerin korunmasını isteme hakkına sahip olduğunu belirtir[cite: 1550]."
+      "neden_dogru": "Anayasa'nın 20. maddesi, herkesin kendisiyle ilgili kişisel verilerin korunmasını isteme hakkına sahip olduğunu belirtir[cite: 1550]."
     },
     {
       "soruid": 18,
@@ -257,7 +257,7 @@
         "E": "Veri toplamanın yöntemi ve hukuki sebebi"
       },
       "dogru_cevap": "C",
-      "neden_dogru": "Aydınlatma yükümlülüğünde veri sorumlusu kimliği, amaç, aktarım, yöntem ve haklar bildirilir; [cite_start]şirketin cirosu bu kapsamda değildir [cite: 1277-1282]."
+      "neden_dogru": "Aydınlatma yükümlülüğünde veri sorumlusu kimliği, amaç, aktarım, yöntem ve haklar bildirilir; şirketin cirosu bu kapsamda değildir [cite: 1277-1282]."
     },
     {
       "soruid": 19,
@@ -271,7 +271,7 @@
         "E": "Verinin eski olması"
       },
       "dogru_cevap": "B",
-      [cite_start]"neden_dogru": "KVKK Madde 9'a göre kişisel veriler, ilgili kişinin açık rızası olmaksızın yurt dışına aktarılamaz[cite: 1350]."
+      "neden_dogru": "KVKK Madde 9'a göre kişisel veriler, ilgili kişinin açık rızası olmaksızın yurt dışına aktarılamaz[cite: 1350]."
     },
     {
       "soruid": 20,
@@ -285,7 +285,7 @@
         "E": "OECD"
       },
       "dogru_cevap": "C",
-      [cite_start]"neden_dogru": "Avrupa Birliği Genel Veri Koruma Tüzüğü'nün kısaltması GVKT (İngilizce: GDPR) dir[cite: 1006]."
+      "neden_dogru": "Avrupa Birliği Genel Veri Koruma Tüzüğü'nün kısaltması GVKT (İngilizce: GDPR) dir[cite: 1006]."
     },
     {
       "soruid": 21,
@@ -299,7 +299,7 @@
         "E": "Daha fazla reklam görülmesi"
       },
       "dogru_cevap": "B",
-      [cite_start]"neden_dogru": "Yedekleme, verilerin alternatif konumlarda tutulmasını sağlayarak kayıp ve saldırılara karşı koruma sağlar[cite: 1465]."
+      "neden_dogru": "Yedekleme, verilerin alternatif konumlarda tutulmasını sağlayarak kayıp ve saldırılara karşı koruma sağlar[cite: 1465]."
     },
     {
       "soruid": 22,
@@ -313,7 +313,7 @@
         "E": "Hareketsiz durmak"
       },
       "dogru_cevap": "B",
-      [cite_start]"neden_dogru": "Yetkisiz kullanımı (uyurken vb.) engellemek için yüz tanıma sistemlerinde gözlerin açık olması şartı aranır[cite: 1631]."
+      "neden_dogru": "Yetkisiz kullanımı (uyurken vb.) engellemek için yüz tanıma sistemlerinde gözlerin açık olması şartı aranır[cite: 1631]."
     },
     {
       "soruid": 23,
@@ -327,7 +327,7 @@
         "E": "Sadece Cinsiyet"
       },
       "dogru_cevap": "C",
-      [cite_start]"neden_dogru": "Veri miktarı ve detayı arttıkça (ad, soyad, doğum yeri vb. birleşince) kişinin ayırt edilebilirliği ve tanımlanabilirliği artar [cite: 1067-1068]."
+      "neden_dogru": "Veri miktarı ve detayı arttıkça (ad, soyad, doğum yeri vb. birleşince) kişinin ayırt edilebilirliği ve tanımlanabilirliği artar [cite: 1067-1068]."
     },
     {
       "soruid": 24,
@@ -341,7 +341,7 @@
         "E": "Verileri satabilir."
       },
       "dogru_cevap": "C",
-      [cite_start]"neden_dogru": "Veri sorumlularının sır saklama yükümlülüğü görevden ayrılmalarından sonra da devam eder[cite: 1576]."
+      "neden_dogru": "Veri sorumlularının sır saklama yükümlülüğü görevden ayrılmalarından sonra da devam eder[cite: 1576]."
     },
     {
       "soruid": 25,
@@ -355,7 +355,7 @@
         "E": "Amacın gizli tutulması gerektiğini"
       },
       "dogru_cevap": "C",
-      [cite_start]"neden_dogru": "Bu ilke, veri işlemenin şeffaf, amacı belli ve hukuka uygun bir zeminde yapılmasını zorunlu kılar[cite: 1166, 1172]."
+      "neden_dogru": "Bu ilke, veri işlemenin şeffaf, amacı belli ve hukuka uygun bir zeminde yapılmasını zorunlu kılar[cite: 1166, 1172]."
     },
     {
       "soruid": 26,
@@ -369,7 +369,7 @@
         "E": "Kan grubu"
       },
       "dogru_cevap": "B",
-      [cite_start]"neden_dogru": "Metinde araba sürüş biçimi, yürüyüş, klavye kullanımı gibi veriler 'davranışsal veri' olarak sınıflandırılmıştır[cite: 1018]."
+      "neden_dogru": "Metinde araba sürüş biçimi, yürüyüş, klavye kullanımı gibi veriler 'davranışsal veri' olarak sınıflandırılmıştır[cite: 1018]."
     },
     {
       "soruid": 27,
@@ -383,7 +383,7 @@
         "E": "Veriler şifrelenip tutulmalıdır."
       },
       "dogru_cevap": "B",
-      [cite_start]"neden_dogru": "Gereklilik ortadan kalktıktan sonra veriler gecikmeksizin imha edilmelidir (silme, yok etme, anonimleştirme)[cite: 1260]."
+      "neden_dogru": "Gereklilik ortadan kalktıktan sonra veriler gecikmeksizin imha edilmelidir (silme, yok etme, anonimleştirme)[cite: 1260]."
     },
     {
       "soruid": 28,
@@ -397,7 +397,7 @@
         "E": "Daha fazla depolama alanı sunar."
       },
       "dogru_cevap": "C",
-      [cite_start]"neden_dogru": "Lokasyon belirsizliği, verilerin hangi yasalara tabi olduğu ve güvenliği konusunda risk oluşturur ve KVKK ilkeleriyle çelişebilir [cite: 1518-1519]."
+      "neden_dogru": "Lokasyon belirsizliği, verilerin hangi yasalara tabi olduğu ve güvenliği konusunda risk oluşturur ve KVKK ilkeleriyle çelişebilir [cite: 1518-1519]."
     },
     {
       "soruid": 29,
@@ -411,7 +411,7 @@
         "E": "Cihazın markasına göre değişir."
       },
       "dogru_cevap": "B",
-      [cite_start]"neden_dogru": "Metne göre bu durum kişinin rızasıyla veriyi halka açması (alenileştirme) değil, güvenlik zafiyeti/özensizliktir[cite: 1205]."
+      "neden_dogru": "Metne göre bu durum kişinin rızasıyla veriyi halka açması (alenileştirme) değil, güvenlik zafiyeti/özensizliktir[cite: 1205]."
     },
     {
       "soruid": 30,
@@ -425,7 +425,7 @@
         "E": "Televizyona çıkar."
       },
       "dogru_cevap": "C",
-      [cite_start]"neden_dogru": "Kurul, gerekmesi halinde veri ihlalini kendi sitesinde veya uygun bir yöntemle ilan edebilir[cite: 1578]."
+      "neden_dogru": "Kurul, gerekmesi halinde veri ihlalini kendi sitesinde veya uygun bir yöntemle ilan edebilir[cite: 1578]."
     },
     {
       "soruid": 31,
@@ -439,7 +439,7 @@
         "E": "Sanal hesap"
       },
       "dogru_cevap": "E",
-      "neden_dogru": "Kişisel veri 'gerçek bir kişiyle' ilgili olmalıdır. [cite_start]Hayali/sanal bir karakter veya hesap için kanun işletilemez[cite: 956]."
+      "neden_dogru": "Kişisel veri 'gerçek bir kişiyle' ilgili olmalıdır. Hayali/sanal bir karakter veya hesap için kanun işletilemez[cite: 956]."
     },
     {
       "soruid": 32,
@@ -453,7 +453,7 @@
         "E": "Bilgelik"
       },
       "dogru_cevap": "C",
-      "neden_dogru": "Veri, Enformasyon, Bilgi ve Bilgelik hiyerarşik yapıyı oluşturur; [cite_start]'Hiyerarşi' kavramın kendisidir, basamak değildir[cite: 989]."
+      "neden_dogru": "Veri, Enformasyon, Bilgi ve Bilgelik hiyerarşik yapıyı oluşturur; 'Hiyerarşi' kavramın kendisidir, basamak değildir[cite: 989]."
     },
     {
       "soruid": 33,
@@ -467,7 +467,7 @@
         "E": "Genetik veri"
       },
       "dogru_cevap": "E",
-      [cite_start]"neden_dogru": "Kalıtım yoluyla geçen (DNA, saç vb.) özellikler 'Genetik Veri' olarak tanımlanır[cite: 1007]."
+      "neden_dogru": "Kalıtım yoluyla geçen (DNA, saç vb.) özellikler 'Genetik Veri' olarak tanımlanır[cite: 1007]."
     },
     {
       "soruid": 34,
@@ -481,7 +481,7 @@
         "E": "Baba adı"
       },
       "dogru_cevap": "D",
-      "neden_dogru": "Parmak izi, kişiyi özgün şekilde teşhis eden biyometrik bir veridir. (Saç teli genetik veri kapsamına daha yakındır) [cite_start][cite: 997]."
+      "neden_dogru": "Parmak izi, kişiyi özgün şekilde teşhis eden biyometrik bir veridir. (Saç teli genetik veri kapsamına daha yakındır) [cite: 997]."
     },
     {
       "soruid": 35,
@@ -495,7 +495,7 @@
         "E": "Eğitim bilgileri"
       },
       "dogru_cevap": "E",
-      [cite_start]"neden_dogru": "Irk, etnik köken, siyasi düşünce, cinsel hayat özel niteliklidir; ancak eğitim bilgileri genel nitelikli veridir [cite: 1085-1090]."
+      "neden_dogru": "Irk, etnik köken, siyasi düşünce, cinsel hayat özel niteliklidir; ancak eğitim bilgileri genel nitelikli veridir [cite: 1085-1090]."
     },
     {
       "soruid": 36,
@@ -509,7 +509,7 @@
         "E": "Gerektiğinde yedeklenebilme"
       },
       "dogru_cevap": "E",
-      [cite_start]"neden_dogru": "Yedeklenebilme teknik bir işlemdir, Kanun'un 4. maddesinde sayılan temel ilkelerden (hukuka uygunluk, doğruluk vb.) biri değildir [cite: 1164-1168]."
+      "neden_dogru": "Yedeklenebilme teknik bir işlemdir, Kanun'un 4. maddesinde sayılan temel ilkelerden (hukuka uygunluk, doğruluk vb.) biri değildir [cite: 1164-1168]."
     },
     {
       "soruid": 37,
@@ -523,7 +523,7 @@
         "E": "Madde 7"
       },
       "dogru_cevap": "C",
-      [cite_start]"neden_dogru": "Bu hüküm KVKK Madde 5'in birinci fıkrasında yer almaktadır[cite: 1178]."
+      "neden_dogru": "Bu hüküm KVKK Madde 5'in birinci fıkrasında yer almaktadır[cite: 1178]."
     },
     {
       "soruid": 38,
@@ -551,7 +551,7 @@
         "E": "Hızlı internet gereksinimi"
       },
       "dogru_cevap": "E",
-      [cite_start]"neden_dogru": "Hızlı internet gereksinimi bir fayda değil, sistemin çalışması için gereken bir zorunluluk/sınırlılık veya maliyettir[cite: 1472]."
+      "neden_dogru": "Hızlı internet gereksinimi bir fayda değil, sistemin çalışması için gereken bir zorunluluk/sınırlılık veya maliyettir[cite: 1472]."
     },
     {
       "soruid": 40,
@@ -565,7 +565,7 @@
         "E": "Biyometrik sensör"
       },
       "dogru_cevap": "D",
-      [cite_start]"neden_dogru": "Mesajlaşma uygulamaları (WhatsApp vb.) mesajların güvenliği için 'uçtan uca şifreleme' (end-to-end encryption) kullanır[cite: 1653]."
+      "neden_dogru": "Mesajlaşma uygulamaları (WhatsApp vb.) mesajların güvenliği için 'uçtan uca şifreleme' (end-to-end encryption) kullanır[cite: 1653]."
     }
       ]
     }
