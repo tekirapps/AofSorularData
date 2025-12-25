@@ -1,0 +1,573 @@
+{
+  "ders_kodu": "SMY209U",
+  "ders_adi": "SOSYAL MEDYA ARAÇLARI",
+  "sinavlar": [
+    {
+      "baslik": "2025 Ünite 2 Yapay Zeka Destekli Çıkabilecek Sorular",
+      "tur": "AI",
+      "yil": 2025,
+      "sorular": [
+    {
+      "soruid": 1,
+      "soru_metni": "Harfleri ve sembolleri okuyabilme ve yazabilme becerisinin ötesine geçerek, medya iletilerine erişme, çözümleme, değerlendirme ve iletme yeteneğini kapsayan kavram aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Bilgisayar Okuryazarlığı",
+        "B": "Geleneksel Okuryazarlık",
+        "C": "Medya Okuryazarlığı",
+        "D": "Görsel Okuryazarlık",
+        "E": "Teknoloji Okuryazarlığı"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Medya okuryazarlığı, yazılı ve basılı ortamların yanı sıra çeşitli türdeki medya mesajlarına erişebilme, bunları çözümleyebilme, değerlendirebilme ve iletebilme yeteneği olarak tanımlanır."
+    },
+    {
+      "soruid": 2,
+      "soru_metni": "Sosyal medya okuryazarlığı kavramı, genel medya okuryazarlığından hangi temel yönüyle ayrışır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Sadece okumaya dayalı olması",
+        "B": "Kullanıcının sadece tüketici değil, aynı zamanda içerik üreticisi olması",
+        "C": "Sadece televizyonu kapsaması",
+        "D": "Daha az teknik beceri gerektirmesi",
+        "E": "Devlet kontrolünde olması"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Sosyal medya okuryazarlığında kullanıcılar pasif alıcılar değil, içerik üreten, paylaşan ve yayan aktif katılımcılardır (üre-tüketici)."
+    },
+    {
+      "soruid": 3,
+      "soru_metni": "Sosyal medya okuryazarlığının yetkinliklerinden biri olan 'teknik beceri' neyi ifade eder?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Bilgisayarın parçalarını söküp takabilmeyi",
+        "B": "Kod yazmayı",
+        "C": "İnternet ve bilgisayar teknolojilerini temel düzeyde kullanarak sosyal medya platformlarına erişebilmeyi",
+        "D": "Sadece oyun oynamayı",
+        "E": "Sunucu kurulumu yapmayı"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Teknik beceri, bilgisayar, tablet veya mobil cihazları kullanarak internete bağlanma ve sosyal ağlara giriş yapabilme yetkinliğidir."
+    },
+    {
+      "soruid": 4,
+      "soru_metni": "Üçüncü Dalga (The Third Wave) adlı kitabında 'prosumer' (üre-tüketici) kavramını ilk kez kullanan fütürist yazar kimdir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Marshall McLuhan",
+        "B": "Alvin Toffler",
+        "C": "Tim Berners-Lee",
+        "D": "Mark Zuckerberg",
+        "E": "Bill Gates"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Alvin Toffler, 1980 yılında yayımlanan 'Üçüncü Dalga' kitabında üretim ve tüketim süreçlerinin iç içe geçeceğini öngörerek 'prosumer' kavramını ortaya atmıştır."
+    },
+    {
+      "soruid": 5,
+      "soru_metni": "Aşağıdakilerden hangisi 'Üre-tüketici' (Prosumer) kavramının en belirgin özelliğidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Sadece profesyonel üretim yapması",
+        "B": "Ürettiği ürünü sadece kendisinin tüketmesi",
+        "C": "Hem üreten hem de tüketen kişi olması",
+        "D": "Sadece tüketim yapması",
+        "E": "Üretimden tamamen çekilmesi"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Üre-tüketici, 'üretici' (producer) ve 'tüketici' (consumer) kelimelerinin birleşimidir; dijital ortamda hem içerik tüketen hem de üreten kişiyi tanımlar."
+    },
+    {
+      "soruid": 6,
+      "soru_metni": "İnternette karşılaşılan bir bilginin doğruluğunu teyit etmek için aşağıdakilerden hangisi **yanlış** bir yöntemdir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Haberin kaynağını kontrol etmek",
+        "B": "Haberin tarihine bakmak",
+        "C": "Sadece başlığı okuyup paylaşmak",
+        "D": "Farklı kaynaklardan çapraz okuma yapmak",
+        "E": "Doğrulama platformlarına (Teyit.org vb.) başvurmak"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Sadece başlığa bakmak yanıltıcı olabilir (tık tuzağı); içeriğin tamamı okunmalı ve diğer kaynaklarla doğrulanmalıdır."
+    },
+    {
+      "soruid": 7,
+      "soru_metni": "Aşağıdakilerden hangisi Türkiye'de faaliyet gösteren doğrulama platformlarından biri değildir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Teyit.org",
+        "B": "Doğruluk Payı",
+        "C": "Malumatfuruş",
+        "D": "Wikipedia",
+        "E": "Yalansavar"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": "Wikipedia açık kaynaklı bir ansiklopedidir, bir doğrulama (fact-checking) organizasyonu değildir. Diğerleri Türkiye'deki doğrulama girişimleridir."
+    },
+    {
+      "soruid": 8,
+      "soru_metni": "Ebeveynlerin, çocuklarının fotoğraflarını ve özel anlarını sosyal medyada aşırı ve bilinçsizce paylaşması durumuna ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Siber Zorbalık",
+        "B": "Sharenting",
+        "C": "Phubbing",
+        "D": "Stalking",
+        "E": "Trolling"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Sharenting, İngilizce 'share' (paylaşmak) ve 'parenting' (ebeveynlik) kelimelerinin birleşiminden oluşur ve ebeveynlerin çocuklarını sosyal medyada aşırı paylaşmasını ifade eder."
+    },
+    {
+      "soruid": 9,
+      "soru_metni": "Gelişmeleri kaçırma korkusu olarak bilinen, kişinin sosyal medyada diğerlerinin ne yaptığını sürekli takip etme isteği duyduğu kaygı bozukluğu hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "JOMO",
+        "B": "Nomofobi",
+        "C": "FoMO (Fear of Missing Out)",
+        "D": "Ego Sörfü",
+        "E": "Siberkondria"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "FoMO (Fear of Missing Out), gelişmeleri kaçırma korkusu olarak tanımlanan ve sürekli çevrimiçi kalma dürtüsü yaratan durumdur."
+    },
+    {
+      "soruid": 10,
+      "soru_metni": "Fiziksel ortamda yanındaki kişiyi ihmal ederek sürekli telefonla ilgilenme davranışına ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Phubbing",
+        "B": "Ghosting",
+        "C": "Trolling",
+        "D": "Spamming",
+        "E": "Fishing"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Phubbing (Phone + Snubbing), bir ortamda bulunulan kişileri yok sayarak telefonla ilgilenme hastalığıdır."
+    },
+    {
+      "soruid": 11,
+      "soru_metni": "Telefonsuz kalma korkusu veya cep telefonu bağlantısını kaybetme endişesine ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Agorafobi",
+        "B": "Nomofobi (No Mobile Phobia)",
+        "C": "Klostrofobi",
+        "D": "Sosyal Fobi",
+        "E": "Hidrofobi"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Nomofobi, kişinin cep telefonundan veya iletişimden kopmaktan aşırı korku duyması durumudur."
+    },
+    {
+      "soruid": 12,
+      "soru_metni": "İnternetsiz kalma korkusu olarak tanımlanan kavram aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Netlessphobia",
+        "B": "Cheesepodding",
+        "C": "Photolurking",
+        "D": "Ego surfing",
+        "E": "Blog streaking"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Netlessphobia, internet bağlantısının kesilmesi veya internete erişememe durumunda yaşanan yoğun kaygıdır."
+    },
+    {
+      "soruid": 13,
+      "soru_metni": "Kullanıcının sosyal medyada sadece kendi görüşüne yakın içeriklerle karşılaşması ve karşıt görüşlerden izole olması durumuna ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Bilgi Kirliliği",
+        "B": "Yankı Odası (Echo Chamber)",
+        "C": "Siber Zorbalık",
+        "D": "Dijital Uçurum",
+        "E": "Açık Erişim"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Yankı odası, kişinin sadece kendi fikirlerinin yankılandığı kapalı bir iletişim ortamında kalarak farklı sesleri duyamamasıdır."
+    },
+    {
+      "soruid": 14,
+      "soru_metni": "Algoritmaların kullanıcının geçmiş davranışlarına göre önüne sürekli benzer içerikleri çıkarması sonucu oluşan izole ortama ne denir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Filtre Balonu (Filter Bubble)",
+        "B": "Güvenlik Duvarı",
+        "C": "Veri Madenciliği",
+        "D": "Viral Etki",
+        "E": "Trend Topic"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Filtre balonu, algoritmaların kişiselleştirme yaparak kullanıcıyı farklı görüş ve içeriklerden habersiz bırakması durumudur."
+    },
+    {
+      "soruid": 15,
+      "soru_metni": "Bilgi teknolojileri araçları (telefon, tablet vb.) kullanılarak bir bireye veya gruba karşı kasıtlı ve tekrarlayan şekilde zarar verme davranışına ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Siber Savaş",
+        "B": "Siber Zorbalık",
+        "C": "Siber Güvenlik",
+        "D": "Siber Casusluk",
+        "E": "Siber Terör"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Siber zorbalık, dijital araçlar kullanılarak yapılan taciz, tehdit, aşağılama ve dışlama gibi saldırgan davranışlardır."
+    },
+    {
+      "soruid": 16,
+      "soru_metni": "Belirli bir süre boyunca dijital cihazlardan ve sosyal medyadan tamamen uzak durarak zihinsel ve fiziksel arınma sürecine ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Dijital Okuryazarlık",
+        "B": "Dijital Aktivizm",
+        "C": "Dijital Detoks",
+        "D": "Dijital Pazarlama",
+        "E": "Dijital Göçebelik"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Dijital detoks, teknoloji bağımlılığının etkilerini azaltmak için bilinçli olarak dijital araçlardan uzak durma eylemidir."
+    },
+    {
+      "soruid": 17,
+      "soru_metni": "Aşağıdakilerden hangisi siber zorbalıktan korunma yöntemlerinden biri **değildir**?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Zorbaya aynı sertlikte karşılık vermek",
+        "B": "Zorbayı engellemek ve şikayet etmek",
+        "C": "Kişisel bilgileri ve şifreleri paylaşmamak",
+        "D": "Kanıtları (ekran görüntüsü vb.) saklamak",
+        "E": "Güvenilir bir yetişkinden veya yetkiliden yardım istemek"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Zorbaya karşılık vermek tartışmayı alevlendirebilir; doğru yöntem iletişimi kesmek, engellemek ve rapor etmektir."
+    },
+    {
+      "soruid": 18,
+      "soru_metni": "Haberde kullanılan fotoğrafın veya videonun, olayın gerçekleştiği yer ve zamanla uyuşmaması, bağlamından koparılması hangi dezenformasyon türüne örnektir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Hatalı İlişkilendirme",
+        "B": "Uydurma İçerik",
+        "C": "Bağlamdan Koparma / Hatalı Bağlam",
+        "D": "Parodi",
+        "E": "Taklit"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Görselin veya bilginin ait olduğu olaydan farklı bir olayla ilişkilendirilerek sunulması 'hatalı bağlam' veya 'bağlamdan koparma'dır."
+    },
+    {
+      "soruid": 19,
+      "soru_metni": "İnternette sürekli olarak hastalık aramak ve basit belirtileri ciddi hastalıkmış gibi yorumlayarak kaygılanmak durumuna ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Siberkondria",
+        "B": "Nomofobi",
+        "C": "Photolurking",
+        "D": "Wikializm",
+        "E": "Ego sörfü"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Siberkondria, internetten sağlık bilgisi arayarak hastalık hastası olma durumudur."
+    },
+    {
+      "soruid": 20,
+      "soru_metni": "Sosyal medya okuryazarlığının 'Etik ve Sorumluluk' boyutu neyi ifade eder?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "En çok takipçiye sahip olmayı",
+        "B": "Başkalarının haklarına saygı göstermeyi, telif haklarını gözetmeyi ve nefret söyleminden kaçınmayı",
+        "C": "Her türlü içeriği sansürsüz paylaşmayı",
+        "D": "Sahte hesaplar açmayı",
+        "E": "Sadece kendi çıkarını düşünmeyi"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Etik ve sorumluluk boyutu, dijital ortamda dürüstlük, saygı, mahremiyet ve yasalara uygun davranmayı gerektirir."
+    },
+    {
+      "soruid": 21,
+      "soru_metni": "Sosyal medyadaki 'Tık Tuzağı' (Clickbait) ne demektir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Güvenli bir web sitesi",
+        "B": "Merak uyandırıcı ama içeriği zayıf veya yanıltıcı başlıklarla kullanıcıyı siteye çekme yöntemi",
+        "C": "Reklam engelleyici yazılım",
+        "D": "Virüs tarama programı",
+        "E": "Eğitici içerik"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Tık tuzağı, sansasyonel başlıklarla kullanıcıyı tıklamaya yönlendiren ancak vaat ettiği içeriği sunmayan bir manipülasyon yöntemidir."
+    },
+    {
+      "soruid": 22,
+      "soru_metni": "Aşağıdakilerden hangisi dijital ayak izini yönetmek için doğru bir davranıştır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Her siteye aynı şifreyle üye olmak",
+        "B": "Gizlilik ayarlarını 'herkese açık' yapmak",
+        "C": "Paylaşımların kalıcı olduğunu bilerek, gelecekte sorun yaratabilecek içeriklerden kaçınmak",
+        "D": "Tanımadığı herkesi arkadaş olarak eklemek",
+        "E": "Konum bilgisini sürekli açık tutmak"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "İnternette yapılan her paylaşım bir iz bırakır ve silinse bile arşivlenebilir; bu yüzden bilinçli paylaşım yapmak önemlidir."
+    },
+    {
+      "soruid": 23,
+      "soru_metni": "Sosyal medyada kişinin kendi ismini aratarak hakkında neler yazıldığını kontrol etmesi davranışına ne denir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Ego Sörfü (Ego Surfing)",
+        "B": "Ghosting",
+        "C": "Stalking",
+        "D": "Fishing",
+        "E": "Spamming"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Ego sörfü, kişinin internet arama motorlarında kendi adını aratarak hakkında çıkan sonuçları incelemesidir."
+    },
+    {
+      "soruid": 24,
+      "soru_metni": "Sosyal medya okuryazarlığı eğitimi neden önemlidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Daha hızlı oyun oynamak için",
+        "B": "Sadece teknoloji şirketlerine para kazandırmak için",
+        "C": "Bilgi kirliliğinden korunmak, haklarını bilmek ve bilinçli bir dijital vatandaş olmak için",
+        "D": "İnterneti yasaklamak için",
+        "E": "Herkesi ünlü yapmak için"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Medya okuryazarlığı, bireyleri manipülasyondan korur, doğru bilgiye ulaşmalarını sağlar ve demokratik katılıma teşvik eder."
+    },
+    {
+      "soruid": 25,
+      "soru_metni": "Aşağıdakilerden hangisi 'Sharenting'in çocuk üzerindeki olası risklerinden biridir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Çocuğun dijital okuryazarlığının artması",
+        "B": "Çocuğun mahremiyetinin ihlal edilmesi ve görsellerin kötü niyetli kişilerce kullanılması",
+        "C": "Çocuğun daha sosyal olması",
+        "D": "Çocuğun ders başarısının artması",
+        "E": "Ailenin gelir elde etmesi"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Ebeveynlerin paylaştığı çocuk fotoğrafları, çocuğun rızası dışında dijital kimlik oluşturur ve pedofili gibi risklere açık hale gelebilir."
+    },
+    {
+      "soruid": 26,
+      "soru_metni": "Sosyal medyada başkalarının paylaşımlarına bakıp kendi hayatını yetersiz veya mutsuz hissetme durumuna ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Sosyal Karşılaştırma ve Yetersizlik Hissi",
+        "B": "Narsizm",
+        "C": "Egoizm",
+        "D": "Optimizm",
+        "E": "Altruizm"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Sosyal medyadaki 'mükemmel' hayat kurguları, kullanıcıların kendilerini başkalarıyla kıyaslamasına ve mutsuz hissetmesine yol açabilir."
+    },
+    {
+      "soruid": 27,
+      "soru_metni": "Bir sosyal medya kullanıcısının, hesabının ele geçirilmemesi için alması gereken en temel güvenlik önlemi nedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Şifresini arkadaşlarıyla paylaşmak",
+        "B": "Basit şifreler (123456) kullanmak",
+        "C": "İki Faktörlü Kimlik Doğrulama (2FA) kullanmak ve güçlü şifre belirlemek",
+        "D": "Her linke tıklamak",
+        "E": "Antivirüs kullanmamak"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Güçlü şifre ve iki aşamalı doğrulama, hesap güvenliğini sağlayan en etkili yöntemlerdir."
+    },
+    {
+      "soruid": 28,
+      "soru_metni": "Aşağıdakilerden hangisi dijital yurttaşlık kavramının bileşenlerinden biri değildir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Dijital Erişim",
+        "B": "Dijital Ticaret",
+        "C": "Dijital Hukuk",
+        "D": "Dijital Korsanlık",
+        "E": "Dijital Sağlık"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": "Dijital korsanlık (telif ihlali) suçtur ve iyi bir dijital yurttaşın özelliği değildir; diğerleri Ribble'ın dijital vatandaşlık boyutlarıdır."
+    },
+    {
+      "soruid": 29,
+      "soru_metni": "İnternette bir bilginin doğruluğunu araştırırken URL (web adresi) uzantısına dikkat etmek neden önemlidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Önemi yoktur.",
+        "B": ".gov (devlet) veya .edu (eğitim) gibi uzantılar genellikle daha güvenilir resmi bilgi kaynaklarını gösterir.",
+        "C": "Sadece .com siteleri güvenlidir.",
+        "D": "Uzantı sadece site sahibini ilgilendirir.",
+        "E": "Uzantılar renkli görünür."
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Web sitesi uzantıları (gov, edu, org) kaynağın kurumsal kimliği ve güvenilirliği hakkında ipucu verir."
+    },
+    {
+      "soruid": 30,
+      "soru_metni": "Sosyal medya okuryazarlığı bağlamında 'Eleştirel Düşünme' neyi gerektirir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Her gördüğüne inanmayı",
+        "B": "Sadece başkalarını eleştirmeyi",
+        "C": "İletinin kim tarafından, hangi amaçla ve hangi tekniklerle oluşturulduğunu sorgulamayı",
+        "D": "Hiçbir şeye inanmamayı",
+        "E": "İnternet kullanmamayı"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Eleştirel düşünme, medya mesajlarının arkasındaki niyeti, kaynağı ve kurguyu sorgulama becerisidir."
+    },
+    {
+      "soruid": 31,
+      "soru_metni": "Aşağıdakilerden hangisi sosyal medya okuryazarlığının boyutlarından biri değildir? (Ünite Sorusu 1)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Erişim",
+        "B": "Değerlendirme",
+        "C": "Çözümleme",
+        "D": "Üretim",
+        "E": "Sansürleme"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": "Sosyal medya okuryazarlığı erişim, çözümleme, değerlendirme ve üretimi kapsar; sansürleme bu beceriler arasında yer almaz."
+    },
+    {
+      "soruid": 32,
+      "soru_metni": "Üre-tüketici (prosumer) kavramını ilk kez kim kullanmıştır? (Ünite Sorusu 2)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Alvin Toffler",
+        "B": "Marshall McLuhan",
+        "C": "Henry Jenkins",
+        "D": "Manuel Castells",
+        "E": "Tim O'Reilly"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Kavram Alvin Toffler tarafından 1980 yılında 'Üçüncü Dalga' kitabında kullanılmıştır."
+    },
+    {
+      "soruid": 33,
+      "soru_metni": "Aşağıdakilerden hangisi sosyal medyada doğru bilgiye ulaşmak için yapılması gerekenlerden biri değildir? (Ünite Sorusu 3)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Kaynağı kontrol etmek",
+        "B": "Tarihi kontrol etmek",
+        "C": "Yazarın kimliğine bakmak",
+        "D": "Sadece başlığı okumak",
+        "E": "Farklı kaynaklardan teyit etmek"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": "Sadece başlığı okumak, içeriğin doğruluğunu anlamak için yeterli değildir ve yanıltıcı olabilir."
+    },
+    {
+      "soruid": 34,
+      "soru_metni": "Gelişmeleri kaçırma korkusu olarak bilinen kavram hangisidir? (Ünite Sorusu 4)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "JOMO",
+        "B": "FoMO",
+        "C": "Nomofobi",
+        "D": "Phubbing",
+        "E": "Siberkondria"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "FoMO (Fear of Missing Out), gelişmeleri kaçırma korkusudur."
+    },
+    {
+      "soruid": 35,
+      "soru_metni": "Yanındakini görmezden gelip telefonla ilgilenme davranışına ne denir? (Ünite Sorusu 5)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Phubbing",
+        "B": "Stalking",
+        "C": "Ghosting",
+        "D": "Trolling",
+        "E": "Sharenting"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Phubbing, fiziksel ortamdaki kişileri ihmal ederek telefonla ilgilenmektir."
+    },
+    {
+      "soruid": 36,
+      "soru_metni": "Ebeveynlerin çocuklarını sosyal medyada aşırı paylaşmasına ne ad verilir? (Ünite Sorusu 6)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Parenting",
+        "B": "Sharenting",
+        "C": "Sharing",
+        "D": "Posting",
+        "E": "Tagging"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Sharenting, ebeveynlerin çocuklarıyla ilgili içerikleri sosyal medyada paylaşmasıdır."
+    },
+    {
+      "soruid": 37,
+      "soru_metni": "Kullanıcının sadece kendi görüşlerini destekleyen içeriklerle karşılaştığı kapalı sisteme ne denir? (Ünite Sorusu 7)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Açık Erişim",
+        "B": "Siber Alan",
+        "C": "Yankı Odası",
+        "D": "Dijital Pazar",
+        "E": "Sanal Gerçeklik"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Yankı odası, benzer fikirlerin tekrarlandığı ve karşıt görüşlerin dışlandığı ortamdır."
+    },
+    {
+      "soruid": 38,
+      "soru_metni": "Telefonsuz kalma korkusuna ne ad verilir? (Ünite Sorusu 8)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Nomofobi",
+        "B": "Agorafobi",
+        "C": "Sosyal Fobi",
+        "D": "Teknofobi",
+        "E": "Ksenofobi"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Nomofobi (No Mobile Phobia), cep telefonundan mahrum kalma korkusudur."
+    },
+    {
+      "soruid": 39,
+      "soru_metni": "İnternette hastalık arama hastalığına ne denir? (Ünite Sorusu 9)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Siberkondria",
+        "B": "Hipokondria",
+        "C": "Melankoli",
+        "D": "Anksiyete",
+        "E": "Depresyon"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Siberkondria, internetten sağlık bilgisi arayarak hastalık kaygısı yaşamaktır."
+    },
+    {
+      "soruid": 40,
+      "soru_metni": "Aşağıdakilerden hangisi dijital detoksun amaçlarından biridir? (Ünite Sorusu 10)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Daha fazla telefon kullanmak",
+        "B": "Teknoloji bağımlılığını azaltmak ve zihinsel dinginlik sağlamak",
+        "C": "Tüm sosyal medya hesaplarını silmek",
+        "D": "İnterneti tamamen hayatından çıkarmak",
+        "E": "Daha çok takipçi kazanmak"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Dijital detoks, teknoloji kullanımını dengeleyerek stres ve bağımlılığı azaltmayı hedefler."
+    }
+      ]
+    }
+  ]
+}
