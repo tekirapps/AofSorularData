@@ -12,6 +12,11 @@
             "dosya_adi": "sosyalmedyapropaganda_sorular.json" 
           },
           {
+            "ders_adi": "SOSYAL MEDYA VE PROPAGANDA",
+            "kod": "SMY201U",
+            "dosya_adi": "sosyalmedyapropagandakitapsorulariunite1.json" 
+          },
+          {
             "ders_adi": "İdare Hukuku",
             "kod": "HUK103U",
             "dosya_adi": "huk_103_sorular.json"
