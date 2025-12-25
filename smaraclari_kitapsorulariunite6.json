@@ -1,0 +1,573 @@
+{
+  "ders_kodu": "SMY209U",
+  "ders_adi": "SOSYAL MEDYA ARAÇLARI",
+  "sinavlar": [
+    {
+      "baslik": "2025 Ünite 6 Yapay Zeka Destekli Çıkabilecek Sorular",
+      "tur": "AI",
+      "yil": 2025,
+      "sorular": [
+    {
+      "soruid": 1,
+      "soru_metni": "Sosyal medyada kullanıcıların paylaşımları, beğenileri ve yorumları sonucunda bıraktıkları izlere ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Analog Veri",
+        "B": "Dijital Ayak İzi",
+        "C": "Çerez",
+        "D": "Meta Veri",
+        "E": "Ham Veri"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Kullanıcıların sosyal medya platformlarındaki etkileşimleri (beğeni, yorum, paylaşım vb.) onların 'dijital ayak izlerini' oluşturur[cite: 32]."
+    },
+    {
+      "soruid": 2,
+      "soru_metni": "Verinin anlamlı ve işlenebilir hale gelmiş şekline ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Enformasyon (Bilgi)",
+        "B": "Ham Veri",
+        "C": "Kod",
+        "D": "Algoritma",
+        "E": "Sinyal"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Veri, tek başına ham gerçeklerdir; bu verilerin işlenip anlamlandırılmasıyla 'enformasyon' (bilgi) ortaya çıkar [cite: 31-33]."
+    },
+    {
+      "soruid": 3,
+      "soru_metni": "Sosyal medya analitiğinde, verilerin toplanıp analiz edilerek anlamlı sonuçlara dönüştürülmesi süreci işletmeler için neden önemlidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Sadece takipçi sayısını artırmak için",
+        "B": "Veri depolama maliyetini düşürmek için",
+        "C": "Stratejik kararlar almak, hedef kitleyi anlamak ve performansı ölçmek için",
+        "D": "Personel sayısını azaltmak için",
+        "E": "Rakip firmaları kapatmak için"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Sosyal medya analitiği, markaların hedef kitlelerini tanımasına, pazarlama stratejilerini belirlemesine ve performanslarını ölçerek stratejik kararlar almasına yardımcı olur [cite: 34-36]."
+    },
+    {
+      "soruid": 4,
+      "soru_metni": "Aşağıdakilerden hangisi sosyal medya analitiğinin temel aşamalarından biri **değildir**?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Veri Toplama",
+        "B": "Veri Temizleme",
+        "C": "Veri Analizi",
+        "D": "Veri Görselleştirme",
+        "E": "Veri İmha Etme"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": "Analitik süreci veri toplama, temizleme, işleme, analiz ve raporlama/görselleştirme aşamalarını içerir; 'imha etme' bu sürecin bir analiz aşaması değildir [cite: 75-80]."
+    },
+    {
+      "soruid": 5,
+      "soru_metni": "Bir sosyal medya hesabının veya içeriğinin ne kadar çok kişiye ulaştığını gösteren metriğe ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Etkileşim",
+        "B": "Erişim (Reach)",
+        "C": "Dönüşüm",
+        "D": "Tıklama",
+        "E": "Hemen Çıkma Oranı"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Erişim (Reach), bir içeriğin tekil olarak kaç farklı kişi tarafından görüntülendiğini ifade eden metriktir[cite: 177]."
+    },
+    {
+      "soruid": 6,
+      "soru_metni": "Kullanıcıların bir içerikle (beğeni, yorum, paylaşım, tıklama vb.) girdiği iletişimin toplamına veya oranına ne denir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Erişim",
+        "B": "Gösterim",
+        "C": "Etkileşim (Engagement)",
+        "D": "Frekans",
+        "E": "Organik Trafik"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Etkileşim, kullanıcıların içerikle kurduğu aktif iletişimi (beğeni, yorum, paylaşım) ifade eder ve başarının önemli bir göstergesidir [cite: 178-180]."
+    },
+    {
+      "soruid": 7,
+      "soru_metni": "Metin madenciliği ve doğal dil işleme teknikleri kullanılarak, sosyal medyadaki kullanıcı yorumlarının 'olumlu', 'olumsuz' veya 'nötr' olarak sınıflandırılmasına ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Ağ Analizi",
+        "B": "Duygu Analizi (Sentiment Analysis)",
+        "C": "Konum Analizi",
+        "D": "Rakip Analizi",
+        "E": "Trend Analizi"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Duygu analizi, metinlerdeki duygusal tonu (pozitif, negatif, nötr) belirleyerek kamuoyunun veya tüketicinin hissiyatını ölçmeyi sağlar [cite: 98-100]."
+    },
+    {
+      "soruid": 8,
+      "soru_metni": "Twitter'ın sunduğu ve kullanıcıların kendi tweet performanslarını, takipçi demografisini ve etkileşimlerini ücretsiz analiz edebildiği yerleşik araç hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Twitter Deck",
+        "B": "Twitter Analytics",
+        "C": "Twitter Blue",
+        "D": "Twitter Ads",
+        "E": "Twitter Trends"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Twitter Analytics, platformun kendi içinde sunduğu ve hesap performansını detaylı ölçmeye yarayan ücretsiz bir araçtır[cite: 195]."
+    },
+    {
+      "soruid": 9,
+      "soru_metni": "Google Trends aracı temel olarak ne işe yarar?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Sadece video izletir.",
+        "B": "Belirli anahtar kelimelerin zaman içindeki ve bölgelere göre aranma sıklığını ve popülaritesini gösterir.",
+        "C": "Sosyal medya hesaplarını yönetir.",
+        "D": "Otomatik tweet atar.",
+        "E": "Web sitesi kurar."
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Google Trends, kullanıcıların Google'da yaptıkları aramaları analiz ederek anahtar kelimelerin popülaritesini ve trendleri gösterir [cite: 213-215]."
+    },
+    {
+      "soruid": 10,
+      "soru_metni": "Sosyal medya verilerinin toplanmasında kullanılan API (Application Programming Interface) ne işe yarar?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Bilgisayarı virüslerden korur.",
+        "B": "Yazılımların birbirleriyle iletişim kurmasını ve platformdan (örn. Twitter) verilerin çekilmesini sağlar.",
+        "C": "Grafik tasarımı yapar.",
+        "D": "İnternet hızını artırır.",
+        "E": "Sadece oyun oynatır."
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "API (Uygulama Programlama Arayüzü), sosyal medya platformlarının verilerine erişmek ve bu verileri çekmek için kullanılan yazılım arayüzüdür [cite: 230-232]."
+    },
+    {
+      "soruid": 11,
+      "soru_metni": "Sosyal Ağ Analizi (SNA) yönteminde, ağdaki bireyleri veya aktörleri temsil eden noktalara ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Bağ (Edge)",
+        "B": "Düğüm (Node)",
+        "C": "Köprü",
+        "D": "Küme",
+        "E": "Yol"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Sosyal Ağ Analizinde aktörler (kişiler, kurumlar) 'Düğüm' (Node) olarak, aralarındaki ilişkiler ise 'Bağ' (Edge) olarak adlandırılır [cite: 85-87]."
+    },
+    {
+      "soruid": 12,
+      "soru_metni": "Sosyal medyada bir içeriğin veya kampanyanın başarısını ölçmek için belirlenen temel performans göstergelerine ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "SEO",
+        "B": "KPI (Key Performance Indicator)",
+        "C": "SEM",
+        "D": "ROI",
+        "E": "CRM"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "KPI (Anahtar Performans Göstergesi), hedeflere ulaşılıp ulaşılmadığını ölçmek için belirlenen somut metriklerdir (örn. etkileşim oranı, erişim sayısı) [cite: 170-175]."
+    },
+    {
+      "soruid": 13,
+      "soru_metni": "'Sosyal Dinleme' (Social Listening) kavramı neyi ifade eder?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Sadece müzik dinlemeyi",
+        "B": "Sosyal medyada marka, ürün veya belirli konular hakkında konuşulanları takip edip analiz etmeyi",
+        "C": "Kullanıcıların sesini kaydetmeyi",
+        "D": "Radyo yayını yapmayı",
+        "E": "Sessiz kalmayı"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Sosyal dinleme, markaların kendileri veya sektörleri hakkında yapılan konuşmaları (mention, yorum vb.) izleyerek içgörü elde etmesi sürecidir [cite: 140-145]."
+    },
+    {
+      "soruid": 14,
+      "soru_metni": "Aşağıdakilerden hangisi sosyal medya analitiğinde kullanılan 'dış kaynaklı' (üçüncü parti) araçlardan biridir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Facebook Insights",
+        "B": "Twitter Analytics",
+        "C": "Hootsuite",
+        "D": "Instagram Insights",
+        "E": "YouTube Studio"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Facebook, Twitter, Instagram ve YouTube'un kendi içindeki araçları 'yerleşik' (platform içi) araçlardır; Hootsuite ise birden çok platformu yöneten üçüncü parti bir araçtır [cite: 245-250]."
+    },
+    {
+      "soruid": 15,
+      "soru_metni": "Bir web sitesine veya sosyal medya profiline gelen ziyaretçilerin, hiçbir etkileşimde bulunmadan (tek sayfada kalıp) hemen siteden ayrılma oranına ne denir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Dönüşüm Oranı",
+        "B": "Hemen Çıkma Oranı (Bounce Rate)",
+        "C": "Tıklama Oranı",
+        "D": "Etkileşim Oranı",
+        "E": "Erişim Oranı"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Bounce Rate (Hemen Çıkma Oranı), ziyaretçilerin siteye gelip başka sayfaya geçmeden veya işlem yapmadan çıkma yüzdesidir [cite: 185-188]."
+    },
+    {
+      "soruid": 16,
+      "soru_metni": "Sosyal medya analitiğinde 'Dönüşüm' (Conversion) ne anlama gelir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Dosya formatını değiştirmek",
+        "B": "Kullanıcının hedeflenen eylemi (satın alma, üye olma, indirme vb.) gerçekleştirmesi",
+        "C": "Takipçi sayısının artması",
+        "D": "Profil resmini değiştirmek",
+        "E": "Yorum yapmak"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Dönüşüm, pazarlama hedefi doğrultusunda kullanıcının istenen nihai eylemi (satış, kayıt vb.) tamamlamasıdır [cite: 182-184]."
+    },
+    {
+      "soruid": 17,
+      "soru_metni": "Aşağıdakilerden hangisi 'Konum Tabanlı Analiz'in (Location-based Analysis) kullanım alanlarından biridir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Metinlerin imla kontrolü",
+        "B": "Belirli bir coğrafi bölgedeki kullanıcı davranışlarını ve trendleri incelemek",
+        "C": "Video kurgusu yapmak",
+        "D": "Ses analizi yapmak",
+        "E": "Şifre güvenliği sağlamak"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Konum tabanlı analiz, coğrafi verileri (geo-tagging) kullanarak belirli bölgelerdeki kullanıcı eğilimlerini ve hareketliliği haritalandırır [cite: 105-108]."
+    },
+    {
+      "soruid": 18,
+      "soru_metni": "Sosyal medya verilerini analiz ederken 'Influencer' (Etkileyici) tespiti neden önemlidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Onları engellemek için",
+        "B": "Marka mesajını geniş kitlelere yayabilecek kanaat önderlerini belirleyip işbirliği yapmak için",
+        "C": "Takipçi sayılarını azaltmak için",
+        "D": "Hesaplarını kapatmak için",
+        "E": "Vergi almak için"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Ağ analizinde merkezi konumda olan ve kitleleri etkileme gücü yüksek kişiler (Influencer) tespit edilerek pazarlama stratejilerinde kullanılır [cite: 90-95]."
+    },
+    {
+      "soruid": 19,
+      "soru_metni": "Veri görselleştirme (Data Visualization) tekniklerinin analiz sürecindeki temel katkısı nedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Verileri daha karmaşık hale getirmek",
+        "B": "Karmaşık veri setlerini grafik, şema ve haritalarla anlaşılır ve yorumlanabilir hale getirmek",
+        "C": "Verileri silmek",
+        "D": "Verileri şifrelemek",
+        "E": "Daha fazla yer kaplamak"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Veri görselleştirme, büyük ve karmaşık verilerin örüntülerini, trendlerini insan gözünün kolayca algılayabileceği grafiklere döker [cite: 115-120]."
+    },
+    {
+      "soruid": 20,
+      "soru_metni": "Sosyal medya analitiğinde 'Rakip Analizi' (Competitor Analysis) ne sağlar?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Rakiplerin hesaplarını hacklemeyi",
+        "B": "Sektördeki diğer oyuncuların performansını, stratejilerini ve kitle tepkilerini inceleyerek kıyaslama (benchmarking) yapmayı",
+        "C": "Sadece kendi verilerine odaklanmayı",
+        "D": "Rakipleri taklit etmeyi",
+        "E": "Rekabeti bitirmeyi"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Rakip analizi, markanın pazardaki konumunu görmesini, rakiplerin güçlü/zayıf yönlerini anlamasını ve stratejisini buna göre geliştirmesini sağlar [cite: 150-155]."
+    },
+    {
+      "soruid": 21,
+      "soru_metni": "Bir gönderinin 'Gösterim' (Impression) sayısı ile 'Erişim' (Reach) sayısı arasındaki fark nedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Fark yoktur.",
+        "B": "Erişim toplam görüntülenme sayısıdır, gösterim tekil kişi sayısıdır.",
+        "C": "Gösterim, içeriğin ekranda kaç kez görüntülendiğidir (tekrar dahil); Erişim ise içeriği gören tekil kişi sayısıdır.",
+        "D": "Gösterim sadece videolarda olur.",
+        "E": "Erişim ücretlidir."
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Gösterim (Impression) aynı kişinin birden fazla görmesi dahil toplam görüntülenmedir; Erişim (Reach) ise kaç farklı (tekil) kişinin gördüğüdür [cite: 176-178]."
+    },
+    {
+      "soruid": 22,
+      "soru_metni": "Sosyal medya verilerinin analizinde 'Büyük Veri'nin (Big Data) 3V kuralı (Hacim, Hız, Çeşitlilik) neyi ifade eder?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Verinin rengini",
+        "B": "Verinin miktarını (Volume), üretim/akış hızını (Velocity) ve farklı formatlarını (Variety)",
+        "C": "Verinin fiyatını",
+        "D": "Verinin sahibini",
+        "E": "Verinin güvenliğini"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Big Data; yüksek Hacim (Volume), yüksek Hız (Velocity) ve Çeşitlilik (Variety) özellikleriyle tanımlanır [cite: 45-50]."
+    },
+    {
+      "soruid": 23,
+      "soru_metni": "Kriz yönetimi sırasında sosyal medya analitiği nasıl bir fayda sağlar?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Krizin büyümesini izlemekle yetinir.",
+        "B": "Olumsuz konuşmaların kaynağını, yayılma hızını ve duygusal tonunu anlık izleyerek hızlı müdahale imkanı verir.",
+        "C": "Krizi yok saymayı sağlar.",
+        "D": "İnterneti kapatmayı sağlar.",
+        "E": "Sadece olumlu yorumları gösterir."
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Kriz anında analitik, tepkilerin boyutunu ve yönünü ölçerek markanın doğru stratejiyle ve zamanında müdahale etmesini sağlar [cite: 160-165]."
+    },
+    {
+      "soruid": 24,
+      "soru_metni": "NodeXL, Gephi gibi yazılımlar sosyal medya analizinde özellikle hangi yöntem için kullanılır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Metin Madenciliği",
+        "B": "Sosyal Ağ Analizi (Ağ haritalama ve görselleştirme)",
+        "C": "Video Düzenleme",
+        "D": "Anket Hazırlama",
+        "E": "E-posta Pazarlama"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "NodeXL ve Gephi, düğüm ve bağlardan oluşan sosyal ağ yapılarını görselleştirmek ve analiz etmek için kullanılan popüler araçlardır [cite: 255-260]."
+    },
+    {
+      "soruid": 25,
+      "soru_metni": "Metin verilerinin (tweetler, yorumlar) analiz edilerek içindeki konu başlıklarının, anahtar kelimelerin ve örüntülerin çıkarılmasına ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Görüntü İşleme",
+        "B": "Metin Madenciliği (Text Mining)",
+        "C": "Veri Girişi",
+        "D": "Yedekleme",
+        "E": "Kodlama"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Metin madenciliği, yapılandırılmamış metin verilerinden anlamlı bilgi ve örüntü çıkarma işlemidir [cite: 96-98]."
+    },
+    {
+      "soruid": 26,
+      "soru_metni": "Sosyal medya analitiğinde 'ROI' (Return on Investment - Yatırım Getirisi) metriği neyi ölçer?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Takipçi sayısını",
+        "B": "Yapılan harcamanın (reklam, içerik vb.) kazanca dönüşme oranını (Kâr/Zarar)",
+        "C": "Beğeni sayısını",
+        "D": "Video izlenme süresini",
+        "E": "Çalışan sayısını"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "ROI, sosyal medya faaliyetleri için harcanan bütçenin karşılığında ne kadar finansal değer veya fayda elde edildiğini gösterir [cite: 190-192]."
+    },
+    {
+      "soruid": 27,
+      "soru_metni": "Facebook'un reklam verenlere ve sayfa yöneticilerine sunduğu, detaylı kitle analizi ve performans raporları sağlayan yerleşik aracı hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Facebook Messenger",
+        "B": "Facebook Insights (İstatistikler)",
+        "C": "Facebook Marketplace",
+        "D": "Facebook Watch",
+        "E": "Facebook Groups"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Facebook Insights, sayfa yöneticilerine gönderi erişimi, etkileşim, takipçi demografisi gibi detaylı veriler sunan analiz aracıdır [cite: 200-205]."
+    },
+    {
+      "soruid": 28,
+      "soru_metni": "Sosyal medya verilerinin analizinde 'demografik veriler' neleri kapsar?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Kullanıcının ruh halini",
+        "B": "Kullanıcının yaş, cinsiyet, konum, dil, eğitim durumu gibi özelliklerini",
+        "C": "Kullanıcının şifresini",
+        "D": "Kullanıcının kredi kartı numarasını",
+        "E": "Bilgisayarın markasını"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Demografik veriler, hedef kitlenin kim olduğunu anlamaya yarayan yaş, cinsiyet, lokasyon gibi yapısal özelliklerdir [cite: 130-135]."
+    },
+    {
+      "soruid": 29,
+      "soru_metni": "Bir sosyal medya kampanyasında 'A/B Testi' yapmak ne anlama gelir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "İki farklı içeriği (başlık, görsel vb.) karşılaştırarak hangisinin daha iyi performans gösterdiğini ölçmek",
+        "B": "Alfabeyi saymak",
+        "C": "Hesabı kapatıp açmak",
+        "D": "Sadece A planını uygulamak",
+        "E": "Rakipleri kopyalamak"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "A/B testi, değişkenlerin (görsel, metin, saat vb.) etkisini ölçmek için iki farklı versiyonun kitle üzerinde test edilmesidir [cite: 265-270]."
+    },
+    {
+      "soruid": 30,
+      "soru_metni": "Sosyal medya analizinde verilerin 'anonimleştirilmesi' neden önemlidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Verileri silmek için",
+        "B": "Kullanıcı mahremiyetini korumak ve etik/yasal (KVKK/GDPR) kurallara uymak için",
+        "C": "Analizi zorlaştırmak için",
+        "D": "Daha az veri toplamak için",
+        "E": "Maliyeti artırmak için"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Kişisel verilerin korunması kanunları gereği ve etik açıdan, analizlerde bireylerin kimliklerini ifşa edecek veriler gizlenmeli veya anonim hale getirilmelidir [cite: 280-285]."
+    },
+    {
+      "soruid": 31,
+      "soru_metni": "Sosyal medya analitiği sürecinin ilk adımı aşağıdakilerden hangisidir? (Ünite Sorusu 1)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Veri Görselleştirme",
+        "B": "Veri Toplama",
+        "C": "Veri Temizleme",
+        "D": "Raporlama",
+        "E": "Hedef Belirleme"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Analiz süreci, analiz edilecek ham verinin ilgili kaynaklardan (API vb. ile) toplanmasıyla başlar. (Not: Bazı kaynaklarda 'Hedef Belirleme' en başa konabilir ancak teknik süreç Veri Toplama ile başlar ve metin akışında bu vurgulanmıştır)."
+    },
+    {
+      "soruid": 32,
+      "soru_metni": "Aşağıdakilerden hangisi sosyal ağ analizinde (SNA) kullanılan temel kavramlardan biridir? (Ünite Sorusu 2)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Piksel",
+        "B": "Düğüm (Node)",
+        "C": "Vektör",
+        "D": "Katman",
+        "E": "Frekans"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Sosyal Ağ Analizi, ağdaki aktörleri temsil eden 'Düğüm' (Node) ve ilişkileri temsil eden 'Bağ' (Edge) kavramlarına dayanır."
+    },
+    {
+      "soruid": 33,
+      "soru_metni": "Metin madenciliği yöntemleri kullanılarak metinlerin 'pozitif', 'negatif' veya 'nötr' olarak sınıflandırılmasına ne ad verilir? (Ünite Sorusu 3)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Konum Analizi",
+        "B": "Ağ Analizi",
+        "C": "Duygu Analizi",
+        "D": "Trend Analizi",
+        "E": "İçerik Analizi"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Duygu analizi (Sentiment Analysis), metinlerdeki duygusal yönelimi tespit etme işlemidir."
+    },
+    {
+      "soruid": 34,
+      "soru_metni": "Aşağıdakilerden hangisi sosyal medya etkileşim metriklerinden biri değildir? (Ünite Sorusu 4)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Beğeni Sayısı",
+        "B": "Yorum Sayısı",
+        "C": "Paylaşım Sayısı",
+        "D": "Tıklama Sayısı",
+        "E": "Sunucu Kapasitesi"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": "Sunucu kapasitesi teknik bir altyapı verisidir, kullanıcının içerikle kurduğu bir etkileşim (beğeni, yorum vb.) metriği değildir."
+    },
+    {
+      "soruid": 35,
+      "soru_metni": "Google Trends aracı hangi amaçla kullanılır? (Ünite Sorusu 5)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Web sitesi trafiğini ölçmek",
+        "B": "Arama terimlerinin popülaritesini ve zaman içindeki değişimini analiz etmek",
+        "C": "Sosyal medya hesaplarını yönetmek",
+        "D": "E-posta göndermek",
+        "E": "Video düzenlemek"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Google Trends, anahtar kelimelerin arama hacimlerini ve trendlerini gösteren bir araçtır."
+    },
+    {
+      "soruid": 36,
+      "soru_metni": "Sosyal medya verilerine erişmek için platformların sunduğu yazılım arayüzüne ne ad verilir? (Ünite Sorusu 6)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "DNS",
+        "B": "VPN",
+        "C": "API",
+        "D": "URL",
+        "E": "HTML"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "API (Application Programming Interface), verilerin çekilmesi için platformların (Twitter, Facebook vb.) dışarıya açtığı kapıdır."
+    },
+    {
+      "soruid": 37,
+      "soru_metni": "Bir içeriğin tekil olarak kaç kişi tarafından görüntülendiğini ifade eden metrik hangisidir? (Ünite Sorusu 7)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Gösterim",
+        "B": "Erişim",
+        "C": "Frekans",
+        "D": "Dönüşüm",
+        "E": "Etkileşim"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Erişim (Reach), içeriği gören tekil (farklı) kullanıcı sayısını belirtir."
+    },
+    {
+      "soruid": 38,
+      "soru_metni": "Aşağıdakilerden hangisi sosyal medya analitiğinin sağladığı faydalardan biri değildir? (Ünite Sorusu 8)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Hedef kitleyi daha iyi tanıma",
+        "B": "Krizleri erken fark etme",
+        "C": "Rakip analizi yapma",
+        "D": "Kampanya performansını ölçme",
+        "E": "İnternet kotasını artırma"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": "Analitik, stratejik içgörüler sağlar; internet kotası gibi teknik bir servis sağlayıcı hizmetiyle ilgisi yoktur."
+    },
+    {
+      "soruid": 39,
+      "soru_metni": "Sosyal ağ analizinde 'merkezilik' (centrality) ölçütü neyi gösterir? (Ünite Sorusu 9)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Ağın büyüklüğünü",
+        "B": "Bir düğümün (kişinin) ağ içindeki önemini ve etkisini",
+        "C": "Veri miktarını",
+        "D": "Görsel kalitesini",
+        "E": "Bağlantı hızını"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Merkezilik, bir aktörün ağdaki diğer aktörlerle olan bağlantı yoğunluğunu ve dolayısıyla önemini/etkisini gösterir."
+    },
+    {
+      "soruid": 40,
+      "soru_metni": "Twitter Analytics aracında 'En İyi Tweet' (Top Tweet) neye göre belirlenir? (Ünite Sorusu 10)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "En kısa tweet",
+        "B": "En çok etkileşim alan tweet",
+        "C": "En son atılan tweet",
+        "D": "En az görülen tweet",
+        "E": "Resimsiz tweet"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "En iyi tweet, belirli bir dönemde en yüksek görüntülenme veya etkileşim (beğeni, RT, tıklama) sayısına ulaşan tweettir."
+    }
+      ]
+    }
+  ]
+}
