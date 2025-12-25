@@ -1,0 +1,573 @@
+{
+  "ders_kodu": "SMY203U",
+  "ders_adi": "DİJİTAL YAYINCILIK",
+  "sinavlar": [
+    {
+      "baslik": "2025 Ünite 7 Yapay Zeka Destekli Çıkabilecek Sorular",
+      "tur": "AI",
+      "yil": 2025,
+      "sorular": [
+   {
+      "soruid": 1,
+      "soru_metni": "Dijital medyanın temelini oluşturan ve analog verilerin (resim, video, metin) bilgisayar diline çevrilmesini ifade eden iki temel unsur nedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Hız ve Maliyet",
+        "B": "Sayısallık ve Dijital İletişim Ortamları",
+        "C": "Donanım ve Yazılım",
+        "D": "Klavye ve Ekran",
+        "E": "Uydu ve Alıcı"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "TDK tanımlarından yola çıkarak metinde dijital medyanın temelinde iki önemli unsurun bulunduğu belirtilmiştir: Sayısallık ve dijital iletişim ortamları."
+    },
+    {
+      "soruid": 2,
+      "soru_metni": "Lev Manovich'in yeni medya özelliklerinden biri olan ve 'farklı materyallerin (ses, görüntü vb.) birleştirilerek yeni nesnelerin oluşturulması' işlemini ifade eden kavram hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Otomasyon",
+        "B": "Kod Çevrimi",
+        "C": "Modülerlik",
+        "D": "Değişkenlik",
+        "E": "Sayısal Temsil"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Modülerlik, dijital ortama aktarılan bağımsız farklı materyallerin birleştirilerek yeni nesnelerin oluşturulması işlemidir (Örn: Bir filmde ses ve görüntünün birleşmesi)."
+    },
+    {
+      "soruid": 3,
+      "soru_metni": "Türkiye'de internet kullanımı ilk olarak hangi yıl ve hangi kurum aracılığıyla başlamıştır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "1990 - Boğaziçi Üniversitesi",
+        "B": "1993 - TÜBİTAK",
+        "C": "1996 - ODTÜ",
+        "D": "1998 - İTÜ",
+        "E": "2000 - Türk Telekom"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Metinde Türkiye'nin internetle tanışmasının 1990'lı yıllarda olduğu, ODTÜ gibi kurumların aracılığı ile 1996 yılında kullanılmaya başlandığı belirtilmiştir."
+    },
+    {
+      "soruid": 4,
+      "soru_metni": "Türkiye'de internet üzerinden Türkçe içerik sunan ilk yayın organı hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Hürriyet",
+        "B": "Milliyet",
+        "C": "Aktüel",
+        "D": "Sabah",
+        "E": "Nokta"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "İnternet altyapısı ilk geldiğinde içerik dili İngilizceydi, Türkçe ilk içerik 'Aktüel' dergisi tarafından gerçekleştirilmiştir."
+    },
+    {
+      "soruid": 5,
+      "soru_metni": "Kullanıcının manuel olarak gerçekleştirdiği birçok işlemin makineler aracılığı ile gerçekleştirilebilmesi, yeni medyanın hangi özelliğidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Otomasyon",
+        "B": "Sayısal Temsil",
+        "C": "Kod Çevrimi",
+        "D": "Değişkenlik",
+        "E": "Etkileşim"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Otomasyon, kullanıcının etkileşimde bulunduğu birçok işlemin makineler (yapay zeka, algoritmalar vb.) aracılığı ile otomatik yapılabilmesidir."
+    },
+    {
+      "soruid": 6,
+      "soru_metni": "Dijital medyada kullanılan terimlerden 'Domain' ne anlama gelmektedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "İnternet hızı",
+        "B": "Kullanıcı verisi",
+        "C": "Alan adı (Web sitesinin ismi)",
+        "D": "Reklam geliri",
+        "E": "Güvenlik duvarı"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Domain, dijital medyada alan adı anlamına gelmekte ve web sitesinin ismini ifade etmektedir."
+    },
+    {
+      "soruid": 7,
+      "soru_metni": "İnternet kullanıcıları hakkında tarayıcılar aracılığıyla veri toplamayı sağlayan dosyalara ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Spam",
+        "B": "Virüs",
+        "C": "Çerez (Cookie)",
+        "D": "Domain",
+        "E": "Server"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Çerezler, internet kullanıcıları hakkında verileri toplamayı sağlayan dosyalardır."
+    },
+    {
+      "soruid": 8,
+      "soru_metni": "Boyd ve Ellison'a (2004) göre aşağıdakilerden hangisi sosyal medya sitelerinin tanımlayıcı özelliklerinden biri değildir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Açık birer profil oluşturabilme",
+        "B": "Diğer kullanıcılar ile iletişimsel ilişkide olma",
+        "C": "Kendi ürettikleri içerikleri paylaşabilme",
+        "D": "Sadece tek yönlü bilgi alabilme",
+        "E": "Diğer kullanıcıların profil ve ilişkilerini gözlemleyebilme"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": "Sosyal medya siteleri etkileşimli ve çift yönlüdür; 'sadece tek yönlü bilgi alma' geleneksel medyanın özelliğidir, sosyal medyanın tanımına uymaz."
+    },
+    {
+      "soruid": 9,
+      "soru_metni": "İş dünyasından profesyonelleri bir araya getiren, kariyer ve marka yönetimi için kullanılan sosyal medya platformu hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Instagram",
+        "B": "Pinterest",
+        "C": "LinkedIn",
+        "D": "Snapchat",
+        "E": "TikTok"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "LinkedIn, iş dünyasından farklı uzmanlık alanlarındaki kişileri ve kurumları bir araya getiren, profesyonel bağlantı kurmayı sağlayan uygulamadır."
+    },
+    {
+      "soruid": 10,
+      "soru_metni": "'Pin' adı verilen görseller ve 'Board' adı verilen koleksiyonlar oluşturma mantığına dayalı görsel tabanlı sosyal medya sitesi hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Twitter",
+        "B": "Pinterest",
+        "C": "Tumblr",
+        "D": "Flickr",
+        "E": "Facebook"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Pinterest, kullanıcıların 'Pin' adı verilen görsel imler oluşturduğu ve bunları 'Board'larda topladığı görsel tabanlı sosyal ağdır."
+    },
+    {
+      "soruid": 11,
+      "soru_metni": "Halkla ilişkiler sürecinin ilk aşaması olan ve SWOT analizi gibi yöntemlerin kullanıldığı aşama hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Planlama",
+        "B": "Uygulama",
+        "C": "Araştırma (Durum Analizi)",
+        "D": "Değerlendirme",
+        "E": "Bütçeleme"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Halkla ilişkiler sürecinin birinci aşaması sorunun saptanması ve durum analizidir (Araştırma). Bu aşamada SWOT analizi yapılır."
+    },
+    {
+      "soruid": 12,
+      "soru_metni": "Web siteleri temel olarak hangi iki kategoriye ayrılır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Haber ve Spor siteleri",
+        "B": "Pazarlama amaçlı ve Kişisel web siteleri",
+        "C": "Yerel ve Ulusal siteler",
+        "D": "Ücretli ve Ücretsiz siteler",
+        "E": "Devlet ve Özel sektör siteleri"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Metinde web siteleri; kurumların kullandığı 'pazarlama amaçlı web siteleri' ve bireylerin kullandığı 'kişisel web siteleri' olarak ikiye ayrılmıştır."
+    },
+    {
+      "soruid": 13,
+      "soru_metni": "Kurumların hedef kitlelerine özel günlerde veya değişikliklerde ulaşmak için kullandığı, maliyeti düşük ve yaygın dijital iletişim aracı hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Televizyon Reklamı",
+        "B": "Bilboard",
+        "C": "E-posta",
+        "D": "Faks",
+        "E": "Mektup"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "E-posta, hemen her kullanıcının sahip olması, ücretsiz ve kolay kullanımı nedeniyle halkla ilişkilerde sıklıkla tercih edilen bir araçtır."
+    },
+    {
+      "soruid": 14,
+      "soru_metni": "Halkla ilişkiler sürecinin son aşaması olan ve yapılan faaliyetlerin başarısının ölçüldüğü aşama hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Planlama",
+        "B": "Araştırma",
+        "C": "Uygulama",
+        "D": "Değerlendirme",
+        "E": "Analiz"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": "Kampanya sürecinin son aşaması, sonuçların ölçüldüğü ve başarı düzeyinin belirlendiği 'Değerlendirme' aşamasıdır."
+    },
+    {
+      "soruid": 15,
+      "soru_metni": "David Karp tarafından 2007 yılında kurulan, karakter sınırlaması olmayan mikroblog sitesi hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Twitter",
+        "B": "Tumblr",
+        "C": "Medium",
+        "D": "WordPress",
+        "E": "Blogger"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Tumblr, 2007'de kurulan, Twitter'a benzeyen ancak karakter sınırı olmayan bir sosyal ağ ve mikroblog sitesidir."
+    },
+    {
+      "soruid": 16,
+      "soru_metni": "Aşağıdakilerden hangisi dijital medyanın geleneksel medyaya göre sunduğu 'Sayısal Temsil' özelliğini açıklar?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "İçeriğin sadece kağıda basılması",
+        "B": "Materyallerin kodlanarak (0 ve 1) bilgisayar ortamında depolanabilir ve taşınabilir hale gelmesi",
+        "C": "İletişimin tek yönlü olması",
+        "D": "Sadece belirli saatlerde yayın yapılması",
+        "E": "Maliyetin çok yüksek olması"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Sayısal Temsil, materyallerin (kitap, film vb.) bilgisayar ortamına aktarılıp kodlanması ve elektronik olarak depolanmasıdır."
+    },
+    {
+      "soruid": 17,
+      "soru_metni": "Halkla ilişkiler faaliyetlerinde kullanılan araç ve yöntemler belirlenirken en kritik unsur nedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Sadece en ucuz aracı seçmek",
+        "B": "Hedef kitlenin özelliklerine uygun aracı ve mesajı seçmek",
+        "C": "Sadece gazete ilanı vermek",
+        "D": "Rakip firmaları taklit etmek",
+        "E": "Yöneticinin kişisel tercihleri"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Halkla ilişkilerde kullanılacak araçlar, öncelikle seslenilecek hedef kitleye göre (sosyo-demografik özellikler vb.) seçilmelidir."
+    },
+    {
+      "soruid": 18,
+      "soru_metni": "ABD tarafından 1960'larda askeri savunma amacıyla kurulan ve internetin atası sayılan ağ projesinin adı nedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "WWW",
+        "B": "ARPA / ARPANET",
+        "C": "NASA",
+        "D": "ETHERNET",
+        "E": "INTRANET"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "ABD, nükleer saldırı durumunda iletişimi sürdürmek için ARPA birimini kurmuş ve ilk ağ temelleri (ARPANET) bu şekilde atılmıştır."
+    },
+    {
+      "soruid": 19,
+      "soru_metni": "Sağlık sektöründe dijitalleşmenin sağladığı en önemli faydalardan biri nedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Tedavi maliyetlerini artırması",
+        "B": "Doktor sayısını azaltması",
+        "C": "Hastalık verileri ve bilgilerle daha iyi tanı ve teşhis koyulabilmesi",
+        "D": "Hastanelere ulaşımı zorlaştırması",
+        "E": "İlaç kullanımını yasaklaması"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Dijitalleşme sayesinde hastalık ve hasta verileri daha iyi işlenerek daha doğru tanı ve teşhis konulabilmekte, hasta bakımı iyileşmektedir."
+    },
+    {
+      "soruid": 20,
+      "soru_metni": "Dijital medyanın habercilik üzerindeki etkilerinden biri olarak, haberin yayılmasında kimlerin etkinliği artmıştır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Sadece resmi makamların",
+        "B": "Matbaa çalışanlarının",
+        "C": "Sosyal medya kullanıcılarının (Vatandaşın)",
+        "D": "Dağıtım şirketlerinin",
+        "E": "Kağıt üreticilerinin"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Sosyal medya ile birlikte kullanıcılar, gazetecinin yerini alarak haberin yayılmasında ve gündem belirlenmesinde etkin rol oynamaya başlamıştır."
+    },
+    {
+      "soruid": 21,
+      "soru_metni": "Google Plus+ platformunun bireysel ve ticari kullanıma kapatılmasının temel nedeni ne olmuştur?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Yeterli kullanıcıya ulaşamaması",
+        "B": "Ücretli olması",
+        "C": "Güvenlik açığının ortaya çıkması",
+        "D": "İsim hakkı sorunları",
+        "E": "Rakip firmaların baskısı"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Metinde, Google Plus+'ın güvenlik açığının ortaya çıkması nedeniyle Google tarafından bireysel ve ticari kullanıma kapatıldığı belirtilmiştir."
+    },
+    {
+      "soruid": 22,
+      "soru_metni": "Bankacılık sektöründe dijitalleşmenin getirdiği 'alternatif dağıtım kanalları'na örnek olarak hangisi verilebilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Fiziksel şubeler",
+        "B": "Kasa işlemleri",
+        "C": "Mobil bankacılık ve internet şubesi",
+        "D": "Posta çeki",
+        "E": "Senet"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Bankacılıkta dijitalleşme ile fiziksel şubeler yerine mobil bankacılık ve internet gibi alternatif dağıtım kanalları ön plana çıkmıştır."
+    },
+    {
+      "soruid": 23,
+      "soru_metni": "Kullanıcıların bir konu hakkında duygu, düşünce ve deneyimlerini günlük tarzında paylaştığı dijital medya aracı hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "E-posta",
+        "B": "Blog",
+        "C": "Wiki",
+        "D": "Portal",
+        "E": "Forum"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Bloglar, kişilerin duygu, düşünce, yemek tarifi veya kitap yorumu gibi içerikleri paylaştığı dijital günlüklerdir."
+    },
+    {
+      "soruid": 24,
+      "soru_metni": "'Kod Çevrimi' kavramı yeni medya anlayışında neyi ifade eder?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Yabancı dili Türkçeye çevirmeyi",
+        "B": "Üretilen bilginin sayısallaşması ve dijitalleşen bilginin tekrar topluma hizmet eder hale gelmesini",
+        "C": "Şifre kırmayı",
+        "D": "Analog yayına geçmeyi",
+        "E": "Bilgisayarı kapatmayı"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Kod çevrimi, toplum ve bilgisayar katmanları arasındaki etkileşimi; üretilen bilginin dijitalleşip tekrar topluma dönmesini ifade eder."
+    },
+    {
+      "soruid": 25,
+      "soru_metni": "Dijital medyada yapılan bir reklamın veya içeriğin kaç kez tıklandığını ifade eden veriye ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Gösterim",
+        "B": "Çerez",
+        "C": "Tıklanma Oranı (CTR)",
+        "D": "Domain",
+        "E": "Bilinirlik"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Tıklanma Oranı, dijital medya içeriklerinin kaç kez tıklandığını ifade eden yüzdelik veridir."
+    },
+    {
+      "soruid": 26,
+      "soru_metni": "Halkla ilişkiler açısından web sitelerinin sahip olması gereken en önemli özelliklerden biri nedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Karmaşık bir tasarıma sahip olması",
+        "B": "Bilgilerin güncel olmaması",
+        "C": "Anlaşılır, sade bir tasarıma sahip olması ve bilgilerin güncel olması",
+        "D": "İletişim bilgilerinin gizli olması",
+        "E": "Sadece yöneticilerin giriş yapabilmesi"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Web siteleri kurumun vitrinidir; bu yüzden anlaşılır, sade bir tasarıma sahip olmalı ve bilgiler sık sık güncellenmelidir."
+    },
+    {
+      "soruid": 27,
+      "soru_metni": "Akıllı telefon ve tabletlerde kullanılan, özel olarak kodlanmış ve hedef kitleye indirim/kampanya duyurusu yapmada etkili olan araç hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Teletekst",
+        "B": "Mobil Uygulamalar",
+        "C": "Faks",
+        "D": "Radyo",
+        "E": "Sabit Telefon"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Mobil uygulamalar, akıllı cihazlarda kullanılan ve hedef kitleye hızlıca ulaşarak kampanya duyurusu yapmayı sağlayan araçlardır."
+    },
+    {
+      "soruid": 28,
+      "soru_metni": "Halkla ilişkiler faaliyetlerinde sosyal medyanın kullanılmasının kuruma sağladığı avantajlardan biri nedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Tek yönlü iletişim sağlaması",
+        "B": "Maliyetlerin çok yüksek olması",
+        "C": "Hedef kitleyle samimi ve hızlı etkileşim kurma imkanı",
+        "D": "İletişimi yavaşlatması",
+        "E": "Hedef kitleyi sınırlandırması"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Sosyal medya sıcak ve samimi bir ortam sunarak kurumların hedef kitleleriyle hızlı ve etkili bir etkileşim kurmasını sağlar."
+    },
+    {
+      "soruid": 29,
+      "soru_metni": "Aşağıdakilerden hangisi dijitalleşmenin tüketim sektörüne etkilerinden biridir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Fiziksel mağazalara bağımlılığın artması",
+        "B": "Kullanıcı alışkanlıklarının takip edilerek pazarlama stratejilerinin belirlenmesi",
+        "C": "Ürün çeşitliliğinin azalması",
+        "D": "Alışverişin sadece nakit parayla yapılması",
+        "E": "Müşteri memnuniyetinin önemsizleşmesi"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Sanal ortamda kullanıcıların alışkanlıkları belirlenebilmekte ve firmalar pazarlama stratejilerini bu verilere göre şekillendirebilmektedir."
+    },
+    {
+      "soruid": 30,
+      "soru_metni": "2004 yılında Mark Zuckerberg tarafından kurulan ve milyarlarca kullanıcısı olan sosyal medya platformu hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Twitter",
+        "B": "LinkedIn",
+        "C": "Facebook",
+        "D": "Instagram",
+        "E": "TikTok"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "2004 yılında Mark Zuckerberg tarafından kurulan platform Facebook'tur."
+    },
+    {
+      "soruid": 31,
+      "soru_metni": "\"Bilgisayar ortamına aktarılan ve dönüştürülen her bir materyalin (Kitap, Metin, Video) kodlanması işlemidir. Böylece tüm materyaller dijital ortamlarda depolanması mümkün olabilmekte ve bir ortamdan diğerine taşınabilmektedir.\" Yukarıda tanımı verilen özellik aşağıdakilerden hangisine aittir? (Ünite Sorusu 1)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Sayısal Temsil",
+        "B": "Modülerlik",
+        "C": "Değişkenlik",
+        "D": "Kodlama",
+        "E": "Otomasyon"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Materyallerin dijital koda dönüştürülerek depolanabilir hale gelmesi 'Sayısal Temsil' özelliğidir."
+    },
+    {
+      "soruid": 32,
+      "soru_metni": "Aşağıdakilerden hangisi dijital medya materyallerinden biri değildir? (Ünite Sorusu 2)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Mobil Uygulamalar",
+        "B": "Bilgisayar Oyunları",
+        "C": "Dijital ses, video dosyaları",
+        "D": "E-kitaplar",
+        "E": "Gazete"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": "Gazete (basılı haliyle) geleneksel medya materyalidir; diğerleri dijital ortamda üretilen ve tüketilen materyallerdir."
+    },
+    {
+      "soruid": 33,
+      "soru_metni": "Aşağıdakilerden hangisi dijital medya araçlarından biri değildir? (Ünite Sorusu 3)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Web Siteleri",
+        "B": "E-Dergi",
+        "C": "Bloglar",
+        "D": "Gazete",
+        "E": "Mobil Uygulamalar"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": "Gazete geleneksel bir kitle iletişim aracıdır, dijital medya aracı kategorisine (fiziksel baskı olduğu sürece) girmez."
+    },
+    {
+      "soruid": 34,
+      "soru_metni": "Mikroblog özelliği ile dikkat çeken, dijital medyanın önemli araçlarından biri olan sosyal medya uygulaması aşağıdakilerden hangisidir? (Ünite Sorusu 4)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Instagram",
+        "B": "Facebook",
+        "C": "Twitter",
+        "D": "Google Plus+",
+        "E": "Swarm"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Twitter, karakter sınırlaması olan içerikleriyle 'mikroblog' türünün en bilinen örneğidir."
+    },
+    {
+      "soruid": 35,
+      "soru_metni": "Aşağıdakilerden hangisi pazarlama amaçlı bir web sitesinde bulunması beklenen bilgilerden biri değildir? (Ünite Sorusu 5)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "İletişim Bilgileri",
+        "B": "Hizmetler",
+        "C": "Günlük Hava Durumu",
+        "D": "Ürün Tanıtımları",
+        "E": "Vizyon ve Misyon"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Kurumsal web sitelerinde kuruma ait bilgiler (iletişim, ürün, vizyon vb.) bulunur; günlük hava durumu bu sitelerin temel içeriği değildir."
+    },
+    {
+      "soruid": 36,
+      "soru_metni": "Aşağıdakilerden hangisi halkla ilişkilerde kullanılan dijital araç kategorisi içerisindedir? (Ünite Sorusu 6)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Törenler",
+        "B": "Sergi ve Fuarlar",
+        "C": "Sosyal Medya",
+        "D": "Dergi",
+        "E": "Sponsorluklar"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Tören, fuar, dergi geleneksel araçlarken; Sosyal Medya dijital bir araçtır."
+    },
+    {
+      "soruid": 37,
+      "soru_metni": "Aşağıdakilerden hangisi dijital medyanın halkla ilişkilere katkıları arasında yer almaz? (Ünite Sorusu 7)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Rekabetçi bir yapıya sokar.",
+        "B": "Hedef kitleye hızlı bir şekilde ulaşmayı sağlar.",
+        "C": "Anlık iletişimi kolaylaştırır.",
+        "D": "Halkla ilişkiler için bir araç değildir.",
+        "E": "Daha hızlı çözümler sunar."
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": "Dijital medya halkla ilişkiler için çok önemli ve etkili bir araçtır; 'araç değildir' ifadesi yanlıştır."
+    },
+    {
+      "soruid": 38,
+      "soru_metni": "Dijital dönüşümün medya yönüyle en çok etkilediği sektör aşağıdakilerden hangisidir? (Ünite Sorusu 8)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Tüketim",
+        "B": "Bankacılık",
+        "C": "Sigortacılık",
+        "D": "Sağlık",
+        "E": "Habercilik"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": "Medya yönüyle bakıldığında, haber üretim ve tüketim süreçlerinin değişmesiyle en çok etkilenen alan 'Habercilik'tir."
+    },
+    {
+      "soruid": 39,
+      "soru_metni": "Aşağıdakilerden hangisi geleneksel medyaya alternatif olabilecek özelliklerden biri değildir? (Ünite Sorusu 9)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Sayısal Temsil",
+        "B": "Modülerlik",
+        "C": "Kendini Tekrar",
+        "D": "Otomasyon",
+        "E": "Değişkenlik"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Yeni medyanın özellikleri Sayısal Temsil, Modülerlik, Otomasyon, Değişkenlik ve Kod Çevrimi'dir. 'Kendini Tekrar' bu özelliklerden biri değildir."
+    },
+    {
+      "soruid": 40,
+      "soru_metni": "Aşağıdakilerden hangisi halkla ilişkilerde kullanılan sosyal medya aracı değildir? (Ünite Sorusu 10)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Facebook",
+        "B": "E-Dergi",
+        "C": "Twitter",
+        "D": "Google +",
+        "E": "Instagram"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "E-Dergi dijital bir yayındır ancak bir 'sosyal medya platformu/aracı' (Facebook, Twitter gibi etkileşimli ağ) kategorisinde değerlendirilmez."
+    }
+      ]
+    }
+  ]
+}
