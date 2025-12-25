@@ -1,0 +1,573 @@
+{
+  "ders_kodu": "SMY203U",
+  "ders_adi": "DİJİTAL TASARIM",
+  "sinavlar": [
+    {
+      "baslik": "2025 Ünite 3 Yapay Zeka Destekli Çıkabilecek Sorular",
+      "tur": "AI",
+      "yil": 2025,
+      "sorular": [
+    {
+      "soruid": 1,
+      "soru_metni": "Veri, ses, görüntü ve metin gibi her türlü enformasyonun mikroişlemciler yardımıyla bilgisayar ortamına taşınması ve işlenmesi sürecine ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Analog İletişim",
+        "B": "Dijitalleşme (Sayısallaşma)",
+        "C": "Kablolama",
+        "D": "Enformasyon",
+        "E": "Manipülasyon"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Dijitalleşme, ulaşılabilir bilgilerin ve verilerin bir bilgisayar tarafından okunabilecek şekilde dijital ortama aktarılması ve saklanması sürecidir."
+    },
+    {
+      "soruid": 2,
+      "soru_metni": "Aşağıdakilerden hangisi dijital iletişimin ortaya çıkmasında ve gelişmesinde rol oynayan üç temel teknolojik gelişmeden biri değildir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Kablo sistemlerinin döşenmesi",
+        "B": "Uzun mesafede iletişim sağlayan uyduların gelişimi",
+        "C": "Matbaanın icadı",
+        "D": "Veriyi işleme kapasitesinin artması (Mikroişlemciler)",
+        "E": "İletişim teknolojilerinde sektörler arası geçiş"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Metinde dijital iletişimin gelişiminde etkili olan üç temel gelişme: Kablo sistemleri, Uydular ve Veriyi işleme (mikroişlemciler) olarak sıralanmıştır. Matbaa çok daha önceki bir döneme aittir."
+    },
+    {
+      "soruid": 3,
+      "soru_metni": "Sanayi devrimi sonrası toplumsal, ekonomik ve kültürel olarak toplumun değiştiği, bilginin ve bilgiye dayalı ekonominin yönlendirici olduğu çağ hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Tarım Çağı",
+        "B": "Sanayi Çağı",
+        "C": "Enformasyon (Bilgi) Çağı",
+        "D": "Uzay Çağı",
+        "E": "Mekanik Çağ"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Teknolojiyle iç içe yaşanan ve bilginin ekonomiyi yönlendirdiği günümüz dönemi 'Enformasyon Çağı' veya 'Bilgi Çağı' olarak adlandırılmaktadır."
+    },
+    {
+      "soruid": 4,
+      "soru_metni": "Dijital iletişimin geleneksel iletişimden ayrılan en belirgin özelliği aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Tek yönlü olması",
+        "B": "Sadece yazılı olması",
+        "C": "Etkileşimli (İnteraktif) olması ve geri bildirimin hızlı olması",
+        "D": "Maliyetinin çok yüksek olması",
+        "E": "Belirli bir mekanda gerçekleşmesi"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Dijital iletişim interaktiftir; kaynak ve alıcı arasındaki geri bildirim (feedback) hızlı ve süreklidir."
+    },
+    {
+      "soruid": 5,
+      "soru_metni": "Aşağıdakilerden hangisi dijital iletişimin özelliklerinden biri değildir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "İçeriklerin kolayca kopyalanıp saklanabilmesi",
+        "B": "Zaman ve mekan kavramının ortadan kalkması",
+        "C": "Kimlik gizliliğinin mümkün olması",
+        "D": "Bilginin kaynağının her zaman %100 güvenilir olması",
+        "E": "Aynı iletinin aynı anda birden fazla kişiye iletilebilmesi"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": "Dijital iletişimde kaynağı güvenilir olan veya olmayan bilgi fark etmeksizin yayılabilir; 'kirli bilgi' ile karşılaşma ihtimali yüksektir."
+    },
+    {
+      "soruid": 6,
+      "soru_metni": "Kurumun veya işletmenin genel bilgilerinin, iletişim adreslerinin ve ürün tanıtımlarının yer aldığı, temel amacı 'bilinir olmak' olan web sitesi türü hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Pazarlama Web Sitesi",
+        "B": "Tanıtım Amaçlı Web Sitesi",
+        "C": "E-Ticaret Sitesi",
+        "D": "Blog",
+        "E": "Forum"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Tanıtım amaçlı web siteleri, dijital dünyada görünür olma ve kurumu tanıtma ihtiyacını karşılar; genellikle ticari faaliyetleri desteklemek içindir."
+    },
+    {
+      "soruid": 7,
+      "soru_metni": "Hedef kitle ile daha yakın ilişki kuran, online satış, ödeme ve sipariş takibi gibi işlemleri gerçekleştiren web sitesi türü hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Tanıtım Amaçlı Web Sitesi",
+        "B": "Kişisel Web Sitesi",
+        "C": "Pazarlama Web Sitesi",
+        "D": "Wiki Sitesi",
+        "E": "Haber Sitesi"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Pazarlama web siteleri, satış hedeflerini gerçekleştirmek, online satış yapmak ve müşteriyle etkileşim kurmak için tasarlanmıştır."
+    },
+    {
+      "soruid": 8,
+      "soru_metni": "2004 yılında Harvard Üniversitesi öğrencileri için kurulan ve günümüzde milyarlarca kullanıcısı olan sosyal medya platformu hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Twitter",
+        "B": "Facebook",
+        "C": "LinkedIn",
+        "D": "Instagram",
+        "E": "Snapchat"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Facebook, 2004 yılında Mark Zuckerberg tarafından başlangıçta Harvard öğrencileri için kurulmuş, daha sonra tüm dünyaya yayılmıştır."
+    },
+    {
+      "soruid": 9,
+      "soru_metni": "Duygu ve düşünceleri 140 karakter (başlangıçta) ile paylaşmaya imkan sağlayan mikroblog uygulaması hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Facebook",
+        "B": "Tumblr",
+        "C": "Twitter",
+        "D": "Blogspot",
+        "E": "WordPress"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Twitter, 2006 yılında kurulan ve kısa metinlerle (mikroblog) iletişimi sağlayan platformdur."
+    },
+    {
+      "soruid": 10,
+      "soru_metni": "Kullanıcıların fotoğraf ve video paylaştığı, 2012 yılında Facebook tarafından satın alınan ve filtre özellikleriyle bilinen uygulama hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Snapchat",
+        "B": "Pinterest",
+        "C": "Flickr",
+        "D": "Instagram",
+        "E": "Vine"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": "Instagram, 2012 yılında Facebook tarafından satın alınan, fotoğraf/video odaklı ve filtre özellikli popüler bir uygulamadır."
+    },
+    {
+      "soruid": 11,
+      "soru_metni": "İş dünyasına yönelik, kurumsal yapıya sahip, işveren ve çalışanları bir araya getiren sosyal ağ hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Facebook",
+        "B": "Twitter",
+        "C": "LinkedIn",
+        "D": "Tumblr",
+        "E": "Swarm"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "LinkedIn, profesyonel iş hayatına yönelik paylaşımların yapıldığı ve kariyer bağlantılarının kurulduğu platformdur."
+    },
+    {
+      "soruid": 12,
+      "soru_metni": "'Broadcast Yourself' (Kendini Yayınla) sloganıyla 2005 yılında kurulan video paylaşım sitesi hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Vimeo",
+        "B": "Dailymotion",
+        "C": "YouTube",
+        "D": "Twitch",
+        "E": "Periscope"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "YouTube, 2005 yılında 'Broadcast Yourself' sloganıyla kurulmuş ve 2006'da Google tarafından satın alınmıştır."
+    },
+    {
+      "soruid": 13,
+      "soru_metni": "Kullanıcıların beğendikleri görselleri 'pinleyerek' kendi panolarını oluşturdukları görsel ağırlıklı sosyal medya platformu hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Tumblr",
+        "B": "Pinterest",
+        "C": "Flickr",
+        "D": "Instagram",
+        "E": "Snapchat"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Pinterest, 'pinleme' ve pano sistemiyle çalışan, görsel arşivleme ve fikir edinme odaklı bir platformdur."
+    },
+    {
+      "soruid": 14,
+      "soru_metni": "Twitter'a benzeyen ancak karakter sınırlaması olmayan, metin, ses, video ve bağlantı paylaşılabilen mikroblog servisi hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Tumblr",
+        "B": "Medium",
+        "C": "Blogger",
+        "D": "Reddit",
+        "E": "WordPress"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Tumblr, 2007'de kurulan, Twitter gibi mikroblog özelliği taşıyan ancak karakter sınırı bulunmayan bir platformdur."
+    },
+    {
+      "soruid": 15,
+      "soru_metni": "Anlık fotoğraf ve video gönderilen, gönderilerin belirli bir süre sonra kaybolduğu ve çeşitli yüz efektleriyle bilinen uygulama hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "TikTok",
+        "B": "Instagram",
+        "C": "Snapchat",
+        "D": "Vine",
+        "E": "Periscope"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Snapchat, kaybolan mesajlar (geçicilik) ve eğlenceli yüz efektleri ile bilinen bir uygulamadır."
+    },
+    {
+      "soruid": 16,
+      "soru_metni": "Kullanıcıların bulundukları yerin bildirimini (check-in) yapmasına ve yakınlardaki arkadaşlarını görmesine imkan sağlayan uygulama hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Foursquare",
+        "B": "Swarm",
+        "C": "Maps",
+        "D": "Uber",
+        "E": "Tinder"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Swarm, yer bildirimi (check-in) yapmaya ve mekanlardaki hareketliliği takip etmeye yarayan uygulamadır."
+    },
+    {
+      "soruid": 17,
+      "soru_metni": "Tek seferde 256 kişiye kadar grup sohbeti imkanı sunan ve 2014 yılında Facebook tarafından satın alınan anlık mesajlaşma uygulaması hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Telegram",
+        "B": "Viber",
+        "C": "WhatsApp",
+        "D": "Skype",
+        "E": "Bip"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "WhatsApp, grup sohbetleri, sesli/görüntülü arama özellikleri sunan ve Facebook bünyesinde olan popüler mesajlaşma uygulamasıdır."
+    },
+    {
+      "soruid": 18,
+      "soru_metni": "Bir kaynaktan iletilen duygu ve düşüncelerin, alıcı tarafından duyu organlarınca algılanmasına yönelik olan; kelime, jest, mimik veya resimlerden oluşan iletiye ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Kanal",
+        "B": "Kod",
+        "C": "Mesaj",
+        "D": "Geri Bildirim",
+        "E": "Gürültü"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "İletişim sürecinde kaynağın hedefe gönderdiği duygu, düşünce veya bilgi paketine mesaj denir."
+    },
+    {
+      "soruid": 19,
+      "soru_metni": "Beden dili, jestler ve mimikler hangi mesaj türüne örnektir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Sözel Mesaj",
+        "B": "Sözel Olmayan Mesaj",
+        "C": "Yazılı Mesaj",
+        "D": "Dijital Mesaj",
+        "E": "Grafik Mesaj"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Konuşma ve yazı dışındaki beden dili, jest ve mimikler 'sözel olmayan mesajlar' kategorisine girer."
+    },
+    {
+      "soruid": 20,
+      "soru_metni": "Resim, tablo, grafik, mektup ve SMS gibi yazılı ve çizili unsurlar hangi mesaj türü içinde değerlendirilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Sözel Olmayan Mesaj",
+        "B": "Sözel Mesaj",
+        "C": "Beden Dili",
+        "D": "Mimik",
+        "E": "Jest"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Metinde yazılı ve çizili olan her mesajın (resim, grafik, mektup vb.) 'sözel mesaj' grubuna girdiği belirtilmiştir."
+    },
+    {
+      "soruid": 21,
+      "soru_metni": "İletilmek istenen mesajın; alıcının ekonomik, fiziksel, kültürel ve psikolojik durumuna göre düzenlenmesine ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "İletişim Süreci",
+        "B": "Mesaj Tasarımı",
+        "C": "Kanal Seçimi",
+        "D": "Geri Bildirim",
+        "E": "Kodlama"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Mesaj tasarımı, iletinin alıcının özelliklerine (yaş, kültür, konum vb.) uygun olarak düzenlenmesi ve şekillendirilmesidir."
+    },
+    {
+      "soruid": 22,
+      "soru_metni": "Aşağıdakilerden hangisi iyi tasarlanmış bir mesajın özelliklerinden biri **değildir**?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Basit ve anlaşılır olması",
+        "B": "Dikkat çekici olması",
+        "C": "Alıcının özelliklerinin göz ardı edilmesi",
+        "D": "Tekrara düşmemesi ve yaratıcı olması",
+        "E": "Açık ve net olması"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "İyi bir mesaj tasarımı, alıcının özelliklerini göz ardı etmez; aksine onları temel alarak hazırlanır."
+    },
+    {
+      "soruid": 23,
+      "soru_metni": "Dijital iletişimde sesli mesaj tasarlarken dikkat edilmesi gereken en önemli unsur nedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Yazı tipi boyutu",
+        "B": "Grafik kullanımı",
+        "C": "Ses tonu ve vurgu",
+        "D": "Renk seçimi",
+        "E": "Başlık kullanımı"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Sesli mesajlarda ses tonu, konuşma hızı ve vurgu, mesajın etkili iletilmesi için en kritik unsurlardır."
+    },
+    {
+      "soruid": 24,
+      "soru_metni": "İnternet teknolojilerinin gelişimiyle birlikte, farklı iletişim ortamlarının (metin, ses, görüntü) tek bir dijital platformda birleşmesine ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Yakınsama (Yöndeşme)",
+        "B": "Ayrışma",
+        "C": "Gelenekselleşme",
+        "D": "Monolog",
+        "E": "Analog İletişim"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Metinde, teknolojinin sunduğu dijitalleşme ile bilgisayarın hem TV hem iletişim aracı olması 'yakınsama' kavramıyla açıklanmıştır."
+    },
+    {
+      "soruid": 25,
+      "soru_metni": "1990'lı yıllarda Türkiye'de internet üzerinden Türkçe içerik sunan ilk yayın organı hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Hürriyet",
+        "B": "Milliyet",
+        "C": "Aktüel",
+        "D": "Sabah",
+        "E": "Cumhuriyet"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Türkiye'de internet üzerinden Türkçe içerik sunan ilk yayın organı 'Aktüel' dergisidir."
+    },
+    {
+      "soruid": 26,
+      "soru_metni": "Dijitalleşme sürecinde, veri akışı için hangi kavramların ortadan kalktığı söylenebilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Hız ve Kalite",
+        "B": "Zaman ve Mekan",
+        "C": "Güvenlik ve Gizlilik",
+        "D": "İçerik ve Biçim",
+        "E": "Kaynak ve Alıcı"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Dijitalleşme ile veri mobilizasyonu mümkün hale gelmiş, iletişimde zaman ve mekan kısıtlamaları ortadan kalkmıştır."
+    },
+    {
+      "soruid": 27,
+      "soru_metni": "Kullanıcıların kendi içeriklerini oluşturabildiği, paylaşabildiği ve diğer kullanıcılarla etkileşime girebildiği internet sitelerine genel olarak ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Arama Motorları",
+        "B": "Sosyal Medya Ağları",
+        "C": "Statik Web Siteleri",
+        "D": "E-Posta Servisleri",
+        "E": "Bulut Depolama"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Sosyal medya ağları, kullanıcıların içerik üretip interaktif şekilde paylaşabildikleri platformlardır."
+    },
+    {
+      "soruid": 28,
+      "soru_metni": "Instagram kullanıcılarının diğer kullanıcılara ait fotoğrafları bulabilmesi için kullandığı sembol (#) ve sisteme ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Mention",
+        "B": "Like",
+        "C": "Hashtag (Etiket)",
+        "D": "Retweet",
+        "E": "DM"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Instagram ve diğer sosyal ağlarda içerikleri kategorize etmek ve bulmak için '#' işaretiyle yapılan etiketlemeye 'hashtag' denir."
+    },
+    {
+      "soruid": 29,
+      "soru_metni": "İletişim sürecinde, mesajın iletildiği yol veya araca ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Kaynak",
+        "B": "Alıcı",
+        "C": "Kanal (Oluk)",
+        "D": "Kod",
+        "E": "Geri Bildirim"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Mesajın kaynaktan alıcıya ulaştığı yola veya araca 'kanal' veya 'oluk' denir."
+    },
+    {
+      "soruid": 30,
+      "soru_metni": "Aşağıdakilerden hangisi dijital iletişimin 'aranabilirlik' özelliğinin bir sonucudur?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "İçeriklerin silinememesi",
+        "B": "Sadece metin tabanlı olması",
+        "C": "Fiziksel ve mekansal olarak uzak kişilerle kolayca iletişime geçilebilmesi",
+        "D": "İnternet hızının yavaşlaması",
+        "E": "Cihazların pil ömrünün azalması"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Aranabilirlik özelliği sayesinde dijital ağlar üzerinden, uzaktaki kişiler bulunabilir ve onlarla kolayca iletişim kurulabilir."
+    },
+    {
+      "soruid": 31,
+      "soru_metni": "Aşağıdakilerden hangisi dijital iletişimin sunduğu olanaklardan biri değildir? (Ünite Sorusu 1)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Uzun mesafede iletişim imkânı sağlaması",
+        "B": "Aynı anda birden fazla kişi ile iletişim kurulabilmesi",
+        "C": "Dijital iletişim sadece yazılı iletişime imkân sağlaması",
+        "D": "Bilgi paylaşımının hızlı olması",
+        "E": "Zaman ve mekân kavramının yok olması"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Dijital iletişim sadece yazılı değil; sesli, görüntülü ve grafiksel iletişime de imkan sağlar."
+    },
+    {
+      "soruid": 32,
+      "soru_metni": "Aşağıdakilerden hangisi sosyal ağ ortamlarından biri değildir? (Ünite Sorusu 2)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Kişisel web siteleri",
+        "B": "Sosyal medya siteleri",
+        "C": "E-posta",
+        "D": "Bloglar",
+        "E": "Forumlar"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Kişisel web siteleri genellikle tek yönlü bilgi sunumu yapar ve bir 'sosyal ağ' (karşılıklı etkileşim ağı) kategorisine tam olarak girmez; diğer şıklar daha belirgin sosyal ağ/iletişim araçlarıdır."
+    },
+    {
+      "soruid": 33,
+      "soru_metni": "I. Mikroblog özelliği taşımaktadır. II. Kullanıcılara ses, video ve fotoğraf yayınlama imkânı sunmaktadır. III. Mikroblog olma özelliği ile twitter ile benzerdir. Yukarıdaki bilgiler aşağıdaki sosyal medya ağlarından hangisine aittir? (Ünite Sorusu 3)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "İnstagram",
+        "B": "Pinterest",
+        "C": "Tumblr",
+        "D": "Kişisel web sitesi",
+        "E": "Snapchat"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Tumblr, mikroblog özelliği taşıyan, multimedya (ses, video, foto) paylaşımına izin veren ve Twitter'a benzeyen (ancak karakter sınırı olmayan) platformdur."
+    },
+    {
+      "soruid": 34,
+      "soru_metni": "I. Gazete II. TV'ye aktarılabilen bilgisayar ekranı III. İnternet erişim teknolojisine sahip televizyonlar IV. Görüntülü telefon görüşmeleri. Yukarıdakilerden hangileri yöndeşmeye örnek değildir? (Ünite Sorusu 4)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Yalnız II",
+        "B": "III ve I",
+        "C": "Yalnız IV",
+        "D": "Yalnız I",
+        "E": "Hepsi"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": "Yöndeşme (yakınsama), farklı teknolojilerin birleşmesidir. Gazete (geleneksel basılı haliyle) tek başına bir araçtır ve dijital yöndeşmeye örnek değildir. Diğerleri teknolojilerin birleşimidir."
+    },
+    {
+      "soruid": 35,
+      "soru_metni": "Genellikle güncel bilgi ve haber paylaşımı amacıyla kullanılan 140 karakter sınırlaması olan mikroblog uygulaması aşağıdakilerden hangisidir? (Ünite Sorusu 5)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Twitter",
+        "B": "Kişisel web sitesi",
+        "C": "Formlar",
+        "D": "Tumblr",
+        "E": "Pinterest"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "140 karakter (ilk döneminde) sınırlaması ile bilinen mikroblog uygulaması Twitter'dır."
+    },
+    {
+      "soruid": 36,
+      "soru_metni": "I. Sık aralıklar ile güncellenebilir II. Okuyucular yorum yapabilir III. Bir konu hakkında kamuoyu oluşturulabilir IV. Farklı birçok konuda içerik paylaşımı yapılabilir. Yukarıdaki özellikler aşağıdaki dijital iletişim ağlarından hangisine aittir? (Ünite Sorusu 6)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Kişisel web sitesi",
+        "B": "Bloglar",
+        "C": "Pazarlama web siteleri",
+        "D": "Forumlar",
+        "E": "E-posta"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Sık güncellenen, yorum yapılabilen ve günlük tarzı içerik paylaşımı yapılan platformlar 'Bloglar'dır."
+    },
+    {
+      "soruid": 37,
+      "soru_metni": "Aşağıdakilerden hangisi iyi tasarlanmış bir mesajın özelliklerinden biri değildir? (Ünite Sorusu 7)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Alıcının sahip olduğu özelliklere göre tasarlanması",
+        "B": "Açık ve anlaşılır olması, şüpheye yer bırakmaması",
+        "C": "Mesajın iletileceği kanal önemsizdir",
+        "D": "Mesajın şekline göre resim veya grafikler ile desteklenmesi",
+        "E": "Tekrara düşmemesi"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Mesajın iletileceği kanal, zaman ve mekan çok önemlidir; önemsiz değildir."
+    },
+    {
+      "soruid": 38,
+      "soru_metni": "Aşağıdakilerden hangisi blog kelimesini en iyi şekilde tanımlamaktadır? (Ünite Sorusu 8)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Web günlüğü",
+        "B": "Web sayfası",
+        "C": "Arama motoru",
+        "D": "Dijital medya platformu",
+        "E": "Sosyal ağ"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Blog (Weblog), internet üzerinde tutulan bir günlük (web günlüğü) olarak tanımlanır."
+    },
+    {
+      "soruid": 39,
+      "soru_metni": "... içeriği tamamen kullanıcılar belirler ve kullanıcılar birbirleri ile bu uygulamalar üzerinden sürekli etkileşim halindedir, zaman ve mekan sınırlaması olmaksızın paylaşımın, etkileşimin ve tartışmanın sürekli olduğu bir dijital iletişim şeklidir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar? (Ünite Sorusu 9)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "E-posta grupları",
+        "B": "Sosyal medya",
+        "C": "Dijital iletişim forumları",
+        "D": "Cep telefonları",
+        "E": "Web siteleri"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Tanım, kullanıcı etkileşimi ve içerik üretiminin merkezde olduğu 'Sosyal Medya' kavramına aittir."
+    },
+    {
+      "soruid": 40,
+      "soru_metni": "I. Kullanıcılar genellikle kurumsal ve iş hayatına yönelik paylaşımlar yapmaktadır. II. İşverenlerin ve çalışanların bir araya gelmesini sağlayan bir platformdur. III. Kişisel veya kurumsal profiller ile karşılaşılabilir. Yukarıdaki ifadeler aşağıdaki sosyal ağlardan hangisine aittir? (Ünite Sorusu 10)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Facebook",
+        "B": "Tumblr",
+        "C": "Linkedin",
+        "D": "YouTube",
+        "E": "Vine"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "İş hayatı, kurumsal paylaşımlar ve işveren-çalışan buluşması LinkedIn platformunun temel özelliğidir."
+    }
+      ]
+    }
+  ]
+}
