@@ -1,0 +1,573 @@
+{
+  "ders_kodu": "SMY201U",
+  "ders_adi": "SOSYAL MEDYA VE PROPAGANDA",
+  "sinavlar": [
+    {
+      "baslik": "2025 Ünite 6 Yapay Zeka Destekli Çıkabilecek Sorular",
+      "tur": "AI",
+      "yil": 2025,
+      "sorular": [
+    {
+      "soruid": 1,
+      "soru_metni": "Kitle iletişiminde haberin üretim sürecinde hangi haberin yayınlanıp hangisinin yayınlanmayacağına karar veren mekanizmayı açıklayan kuram aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Suskunluk Sarmalı",
+        "B": "Sihirli Mermi",
+        "C": "Eşik Bekçiliği (Gatekeeping)",
+        "D": "Kullanımlar ve Doyumlar",
+        "E": "Gündem Belirleme"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Eşik bekçiliği (Gatekeeping), haberin toplanmasından yayınlanmasına kadar geçen süreçte hangi bilgilerin geçip hangilerinin eleneceğine karar veren mekanizmadır."
+    },
+    {
+      "soruid": 2,
+      "soru_metni": "'Eşik Bekçiliği' kavramını sosyal psikoloji alanında ilk kez kullanan kuramcı kimdir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "David Manning White",
+        "B": "Kurt Lewin",
+        "C": "Marshall McLuhan",
+        "D": "Theodor Adorno",
+        "E": "Noam Chomsky"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Kavram ilk kez sosyal psikolog Kurt Lewin tarafından, bir evde hangi yiyeceklerin pişirileceğine karar veren ev hanımlarının rolünü açıklamak için kullanılmıştır."
+    },
+    {
+      "soruid": 3,
+      "soru_metni": "David Manning White'ın 1950 yılında yaptığı 'Bay Gates' (Mr. Gates) araştırması iletişim çalışmalarında neyi ortaya koymuştur?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "İnternetin hızını",
+        "B": "Okuyucu alışkanlıklarını",
+        "C": "Gazetecinin haber seçimindeki öznel kararlarını ve eşik bekçisi rolünü",
+        "D": "Televizyonun etkisini",
+        "E": "Reklam gelirlerini"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "White, bir yerel gazete editörünün (Bay Gates) haberleri seçerken kendi öznel yargılarına ve değerlerine göre karar verdiğini ortaya koymuştur."
+    },
+    {
+      "soruid": 4,
+      "soru_metni": "İnternet haberciliğinin geleneksel habercilikten ayrılan ve okuyucunun da içerik üretimine katılabildiği en temel özelliklerinden biri nedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Tek yönlülük",
+        "B": "Maliyet yüksekliği",
+        "C": "Etkileşim (İnteraktivite)",
+        "D": "Sınırlı erişim",
+        "E": "Kağıt baskı zorunluluğu"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "İnternet haberciliği, kullanıcıların yorum yapabildiği, içerik üretebildiği ve paylaşabildiği 'etkileşimli' yapısıyla geleneksel medyadan ayrılır."
+    },
+    {
+      "soruid": 5,
+      "soru_metni": "Profesyonel gazeteci olmayan sıradan vatandaşların, tanık oldukları olayları dijital araçlarla kaydedip yaymasına ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Araştırmacı Gazetecilik",
+        "B": "Sarı Basın",
+        "C": "Yurttaş Haberciliği",
+        "D": "Kurumsal İletişim",
+        "E": "Halkla İlişkiler"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Yurttaş haberciliği, profesyonel eğitimi olmayan bireylerin yeni medya teknolojilerini kullanarak haber üretimi ve dağıtımı sürecine katılmasıdır."
+    },
+    {
+      "soruid": 6,
+      "soru_metni": "Jay Rosen, yurttaş haberciliğini tanımlarken izleyici kitlesi (audience) için hangi ifadeyi kullanmıştır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Pasif alıcılar",
+        "B": "Eskiden izleyici olarak bilinen insanlar",
+        "C": "Tüketici kitlesi",
+        "D": "Sessiz çoğunluk",
+        "E": "Hedef kitle"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Jay Rosen, yurttaş haberciliği bağlamında aktif hale gelen kitleyi 'Eskiden izleyici olarak bilinen insanlar' (The people formerly known as the audience) olarak tanımlar."
+    },
+    {
+      "soruid": 7,
+      "soru_metni": "Oxford Sözlüğü tarafından 2016 yılında 'Yılın Kelimesi' seçilen ve nesnel hakikatlerin duyguların gerisinde kaldığı dönemi ifade eden kavram nedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Globalleşme",
+        "B": "Post-truth (Hakikat Sonrası)",
+        "C": "Metaverse",
+        "D": "Selfie",
+        "E": "Viral"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Brexit ve ABD seçimleri sürecindeki tartışmalarla popülerleşen 'Post-truth', 2016'da yılın kelimesi seçilmiştir."
+    },
+    {
+      "soruid": 8,
+      "soru_metni": "Claire Wardle'ın yalan haber kategorizasyonuna göre, 'bir durumu hicvetmek amacıyla yapılan ancak kandırma amacı taşımayan' içerik türü hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Uydurma İçerik",
+        "B": "Manipüle Edilmiş İçerik",
+        "C": "Hiciv/Parodi (Satire/Parody)",
+        "D": "Hatalı Bağlam",
+        "E": "Taklit İçerik"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Hiciv veya parodi, eğlence veya eleştiri amaçlı üretilen, zarar verme kastı olmayan ancak ciddiye alındığında yanlış bilgiye dönüşebilen içeriktir."
+    },
+    {
+      "soruid": 9,
+      "soru_metni": "Bir haberin başlığı, görseli veya altyazısının içerikle uyuşmadığı; genellikle 'tık tuzağı' (clickbait) olarak adlandırılan yanlış bilgi türü hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Hatalı İlişkilendirme (False Connection)",
+        "B": "Uydurma İçerik",
+        "C": "Taklit İçerik",
+        "D": "Parodi",
+        "E": "Derin Sahte"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Hatalı ilişkilendirme, başlık veya görselin içerikle örtüşmediği, daha çok tıklanma (tık tuzağı) amacı güden durumlardır."
+    },
+    {
+      "soruid": 10,
+      "soru_metni": "Gerçek bir bilginin veya görüntünün, olayın bağlamından koparılarak başka bir olayla ilişkilendirilmesi (örneğin eski bir fotoğrafın yeni bir olaymış gibi sunulması) hangi kategoriye girer?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Hatalı Bağlam (False Context)",
+        "B": "Uydurma İçerik",
+        "C": "Parodi",
+        "D": "Taklit İçerik",
+        "E": "Hiciv"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Hatalı bağlam, içeriğin kendisi gerçek olsa bile, sunulduğu zaman, mekan veya olay örgüsünün yanlış aktarılmasıdır."
+    },
+    {
+      "soruid": 11,
+      "soru_metni": "Mevcut kaynakların logolarının veya isimlerinin taklit edilerek oluşturulduğu sahte içerik türü aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Yanıltıcı İçerik",
+        "B": "Taklit İçerik (Imposter Content)",
+        "C": "Hatalı Bağlam",
+        "D": "Parodi",
+        "E": "Manipülasyon"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Taklit içerik, güvenilir haber kaynaklarının (örneğin BBC, CNN gibi) logolarının veya tasarımlarının kopyalanarak sahte haber üretilmesidir."
+    },
+    {
+      "soruid": 12,
+      "soru_metni": "Claire Wardle'a göre en tehlikeli yanlış bilgi türü olan, tamamen zarar verme amacıyla üretilmiş ve yüzde yüz yanlış olan içerik hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Uydurma İçerik (Fabricated Content)",
+        "B": "Parodi",
+        "C": "Hatalı İlişkilendirme",
+        "D": "Yanıltıcı İçerik",
+        "E": "Bağlamdan Koparma"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Uydurma içerik, hiçbir gerçeklik payı olmayan, tamamen kandırma ve zarar verme amacıyla sıfırdan üretilen içeriktir."
+    },
+    {
+      "soruid": 13,
+      "soru_metni": "Yapay zeka teknolojileri kullanılarak, bir kişinin yüzünün veya sesinin başka bir görüntüye/sese monte edilmesiyle oluşturulan sahte içeriklere ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Photoshop",
+        "B": "Deepfake (Derin Sahte)",
+        "C": "Clickbait",
+        "D": "Phishing",
+        "E": "Spam"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Deepfake, 'deep learning' (derin öğrenme) ve 'fake' kelimelerinin birleşiminden oluşur ve yapay zeka ile üretilen son derece gerçekçi sahte video/sesleri ifade eder."
+    },
+    {
+      "soruid": 14,
+      "soru_metni": "Bireylerin sosyal medyada sadece kendi görüşlerini destekleyen kişilerle etkileşime girmesi ve karşıt görüşlerden izole olması durumuna ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Sessizlik Sarmalı",
+        "B": "Yankı Odası (Echo Chamber)",
+        "C": "Bilgi Açığı",
+        "D": "Dijital Uçurum",
+        "E": "Küresel Köy"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Yankı odaları, algoritmalar veya kişisel tercihler nedeniyle bireylerin sadece kendi seslerinin yankısını (benzer görüşleri) duyduğu kapalı iletişim ortamlarıdır."
+    },
+    {
+      "soruid": 15,
+      "soru_metni": "Kişilerin karşılaştıkları bilgileri, kendi mevcut inanç ve düşüncelerini doğrulayacak şekilde yorumlama eğilimine ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Bilişsel Çelişki",
+        "B": "Doğrulama Yanlılığı (Confirmation Bias)",
+        "C": "Üçüncü Kişi Etkisi",
+        "D": "Çapa Etkisi",
+        "E": "Grup Düşüncesi"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Doğrulama yanlılığı, bireylerin kendi ön kabullerini destekleyen bilgilere inanıp, çelişen bilgileri görmezden gelmesi psikolojisidir."
+    },
+    {
+      "soruid": 16,
+      "soru_metni": "Aşağıdakilerden hangisi Türkiye'de faaliyet gösteren doğrulama (fact-checking) platformlarından biridir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Wikipedia",
+        "B": "Teyit.org",
+        "C": "Onedio",
+        "D": "Ekşi Sözlük",
+        "E": "Twitter"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Teyit.org, internetteki şüpheli bilgileri inceleyen ve doğrulayan bağımsız bir platformdur (Doğruluk Payı ile birlikte)."
+    },
+    {
+      "soruid": 17,
+      "soru_metni": "Uluslararası Doğruluk Kontrolü Ağı'nın (IFCN) temel amacı nedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Daha fazla haber üretmek",
+        "B": "Doğrulama organizasyonları arasında standartlar belirlemek ve iş birliğini artırmak",
+        "C": "Hükümetlere sansür desteği vermek",
+        "D": "Sosyal medyayı yasaklamak",
+        "E": "Reklam gelirlerini toplamak"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "IFCN (International Fact-Checking Network), dünya genelindeki doğrulama platformlarının şeffaflık ve tarafsızlık ilkelerini belirleyen çatı kuruluştur."
+    },
+    {
+      "soruid": 18,
+      "soru_metni": "İnternet haberciliğinde, bir bilginin doğruluğunu kontrol etmek için görsellerin kaynağını araştırmada kullanılan yöntem hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Tersine Görsel Arama (Reverse Image Search)",
+        "B": "Hashtag takibi",
+        "C": "Trend Topic analizi",
+        "D": "SEO çalışması",
+        "E": "Veri madenciliği"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Tersine görsel arama (Google Images, TinEye vb.), bir fotoğrafın daha önce internette nerede ve ne zaman yayınlandığını bulmaya yarayan temel teyit yöntemidir."
+    },
+    {
+      "soruid": 19,
+      "soru_metni": "Sosyal medyada insan davranışı taklidi yapan, otomatik mesajlar paylaşan yazılımlara ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Trol",
+        "B": "Bot (Sosyal Bot)",
+        "C": "Hacker",
+        "D": "Influencer",
+        "E": "Stalker"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Botlar, algoritmalar tarafından yönetilen, belirli etiketlere otomatik içerik giren ve gündemi manipüle edebilen yazılımlardır."
+    },
+    {
+      "soruid": 20,
+      "soru_metni": "Geleneksel medya ile karşılaştırıldığında, internet medyasında yalan haberin yayılmasını kolaylaştıran temel faktörlerden biri nedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Kağıt maliyeti",
+        "B": "Denetim mekanizmalarının ve editoryal sürecin zayıflığı/hızı",
+        "C": "Okuyucu sayısının azlığı",
+        "D": "Devlet kontrolü",
+        "E": "Uydu frekansları"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "İnternet medyasında hız baskısı ve 'önce yayınla sonra düzelt' anlayışı, geleneksel medyadaki editoryal kontrol süreçlerinin atlanmasına neden olmaktadır."
+    },
+    {
+      "soruid": 21,
+      "soru_metni": "Axel Bruns, internet çağında haberin yayınlandıktan sonra da kullanıcılar tarafından denetlendiği süreci tanımlamak için 'Gatekeeping' yerine hangi kavramı önermiştir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Gatewatching (Eşik İzleyiciliği)",
+        "B": "Housekeeping",
+        "C": "Agenda Setting",
+        "D": "Framing",
+        "E": "Priming"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Bruns, internette haberin kapıdan geçişinin (keeping) değil, çıktıktan sonra izlenmesinin ve yorumlanmasının (watching) önemli olduğunu vurgulamıştır."
+    },
+    {
+      "soruid": 22,
+      "soru_metni": "Aşağıdakilerden hangisi 'Yanıltıcı İçerik' (Misleading Content) tanımına en uygundur?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Bir verinin, okuyucuyu belirli bir yöne sevk etmek için kırpılarak veya seçilerek kullanılması",
+        "B": "Tamamen uydurma bir hikaye yazılması",
+        "C": "BBC logosunun sahte bir siteye konması",
+        "D": "Mizah amaçlı bir video yapılması",
+        "E": "Başlığın içerikten farklı olması"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Yanıltıcı içerik, bir kişiyi veya durumu karalamak için bilginin bağlamı dışında, seçilerek veya çerçevelenerek (framing) kullanılmasıdır."
+    },
+    {
+      "soruid": 23,
+      "soru_metni": "'Manipüle Edilmiş İçerik' ile 'Uydurma İçerik' arasındaki temel fark nedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Manipüle edilmiş içerikte gerçek bir materyal üzerinde oynama yapılırken, uydurma içerik tamamen hayal ürünüdür.",
+        "B": "Uydurma içerik daha az zararlıdır.",
+        "C": "Manipüle içerik sadece metinlerde olur.",
+        "D": "Fark yoktur, ikisi de aynıdır.",
+        "E": "Uydurma içerik sadece videolarda olur."
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Manipülasyonda var olan bir görsel/bilgi değiştirilir (photoshop vb.), uydurmada ise ortada gerçek bir temel yoktur."
+    },
+    {
+      "soruid": 24,
+      "soru_metni": "Sosyal medyada yalan haberlerin (fake news) yayılma hızının doğru haberlere göre daha fazla olmasının temel nedenlerinden biri nedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Daha uzun olmaları",
+        "B": "Daha duygusal, şaşırtıcı ve tepki çekici olmaları",
+        "C": "Resmi kaynaklardan gelmeleri",
+        "D": "Daha sıkıcı olmaları",
+        "E": "Ücretli olmaları"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Yalan haberler genellikle korku, öfke veya şaşkınlık gibi duygulara hitap ettiği için algoritmalar tarafından öne çıkarılır ve insanlar tarafından daha çok paylaşılır."
+    },
+    {
+      "soruid": 25,
+      "soru_metni": "Aşağıdakilerden hangisi internet haberciliğinde 'tık tuzağı' (clickbait) kullanımının temel motivasyonudur?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Kamu yararı",
+        "B": "Doğru bilgilendirme",
+        "C": "Daha fazla sayfa görüntülemesi ile reklam geliri elde etmek",
+        "D": "Etik gazetecilik ilkelerine uymak",
+        "E": "Eğitim vermek"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Tık tuzağı, merak uyandırıcı ancak içerikle uyuşmayan başlıklarla kullanıcıyı siteye çekip reklam geliri sağlamayı amaçlar."
+    },
+    {
+      "soruid": 26,
+      "soru_metni": "Bir haberin doğruluğunu teyit etmek için aşağıdakilerden hangisi 'yanlış' bir yöntemdir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Kaynağını sorgulamak",
+        "B": "Sadece başlığı okuyup paylaşmak",
+        "C": "Tarihini kontrol etmek",
+        "D": "Farklı kaynaklardan çapraz okuma yapmak",
+        "E": "Yazarın kimliğine bakmak"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Sadece başlığa bakmak, özellikle tık tuzaklarına düşmeye ve yanlış bilginin yayılmasına neden olur; içeriğin tamamı okunmalıdır."
+    },
+    {
+      "soruid": 27,
+      "soru_metni": "Yurttaş haberciliğinin profesyonel gazetecilik üzerindeki en belirgin baskısı nedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Daha yavaş haber üretme zorunluluğu",
+        "B": "Haber atlama (latif) korkusu ve hız rekabeti",
+        "C": "Daha pahalı ekipman kullanma zorunluluğu",
+        "D": "Sadece yerel haber yapma zorunluluğu",
+        "E": "Hiçbir etkisi yoktur"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Herkesin anlık görüntü paylaşabildiği ortamda profesyonel medya, haberi ilk veren olma (latif) konusunda yurttaşlarla yarışmakta, bu da hata riskini artırmaktadır."
+    },
+    {
+      "soruid": 28,
+      "soru_metni": "Dijital ortamda kullanıcıların kendi ürettikleri içeriklere (yorum, video, blog yazısı vb.) genel olarak ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Editoryal İçerik",
+        "B": "Türetilmiş İçerik (User Generated Content - UGC)",
+        "C": "Sponsorlu İçerik",
+        "D": "Ajans Haberi",
+        "E": "Resmi Gazete"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "İnternet haberciliğinin interaktif yapısı, kullanıcıların içerik üretimine (UGC) olanak tanır."
+    },
+    {
+      "soruid": 29,
+      "soru_metni": "'Haber' kavramının internet ile birlikte değişen tanımında, gazetecinin rolü 'bilgiyi ilk veren' olmaktan ziyade neye dönüşmektedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Propagandacı",
+        "B": "Sansürcü",
+        "C": "Bilgiyi doğrulayan ve anlamlandıran",
+        "D": "Sadece izleyici",
+        "E": "Tekniker"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Bilgi akışının çok hızlı olduğu internet ortamında gazetecinin yeni rolü, bilgi yığını içinden doğruyu ayıklamak ve bağlamına oturtmaktır."
+    },
+    {
+      "soruid": 30,
+      "soru_metni": "Türkiye'de doğrulama platformlarının ortaya çıkışındaki temel ihtiyaç nedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "İnternetin yavaş olması",
+        "B": "Sosyal medyada yayılan yanlış bilgilerin ve kutuplaşmanın artması",
+        "C": "Gazeteci sayısının azalması",
+        "D": "Kağıt fiyatlarının artması",
+        "E": "Yabancı dil bilme oranının düşüklüğü"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Özellikle seçim dönemleri ve kriz anlarında artan dezenformasyon ve kutuplaşma, bağımsız doğrulama organizasyonlarına (Teyit.org vb.) olan ihtiyacı doğurmuştur."
+    },
+    {
+      "soruid": 31,
+      "soru_metni": "Aşağıdakilerden hangisi 'eşik bekçiliği' kavramını ilk kez kullanan kişidir? (Ünite Sorusu 1)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "David Manning White",
+        "B": "Kurt Lewin",
+        "C": "Paul Lazarsfeld",
+        "D": "Pamela Shoemaker",
+        "E": "Maxwell McCombs"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Ünite sonu testine göre; kavramı ilk kez sosyal psikolog Kurt Lewin kullanmıştır."
+    },
+    {
+      "soruid": 32,
+      "soru_metni": "Eşik bekçiliği (gatekeeping) kavramının gazetecilik alanına uygulandığı ilk çalışma aşağıdakilerden hangisidir? (Ünite Sorusu 2)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Bay Gates (Mr. Gates)",
+        "B": "Bay White",
+        "C": "Bay Lewin",
+        "D": "Bay Jones",
+        "E": "Bay Smith"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "David Manning White'ın bir editörün haber seçimlerini incelediği çalışmanın adı 'Mr. Gates'tir."
+    },
+    {
+      "soruid": 33,
+      "soru_metni": "Aşağıdakilerden hangisi 'yurttaş haberciliği' kavramını en iyi açıklar? (Ünite Sorusu 3)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Profesyonel gazetecilerin yaptığı haberler",
+        "B": "Haber ajanslarının ürettiği içerikler",
+        "C": "Sıradan vatandaşların haber toplama ve yayma sürecine katılması",
+        "D": "Sadece yerel gazetelerin yaptığı habercilik",
+        "E": "Devletin resmi haberleri"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Yurttaş haberciliği, profesyonel olmayan vatandaşların aktif rol almasını ifade eder."
+    },
+    {
+      "soruid": 34,
+      "soru_metni": "'Post-truth' (hakikat sonrası) kavramı hangi yıl Oxford Sözlüğü tarafından yılın kelimesi seçilmiştir? (Ünite Sorusu 4)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "2010",
+        "B": "2012",
+        "C": "2014",
+        "D": "2016",
+        "E": "2018"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": "Brexit ve ABD seçimlerinin etkisiyle 2016 yılında seçilmiştir."
+    },
+    {
+      "soruid": 35,
+      "soru_metni": "Aşağıdakilerden hangisi Claire Wardle'ın yanlış bilgi türleri kategorizasyonunda yer almaz? (Ünite Sorusu 5)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Uydurma İçerik",
+        "B": "Hatalı Bağlam",
+        "C": "Manipüle Edilmiş İçerik",
+        "D": "Doğru İçerik",
+        "E": "Taklit İçerik"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": "Wardle'ın kategorizasyonu 'yanlış bilgi' (misinformation) üzerinedir, 'Doğru İçerik' bu sınıflandırmada bir sorun türü olarak yer almaz."
+    },
+    {
+      "soruid": 36,
+      "soru_metni": "Eğlence amaçlı yapılan ancak yanlış anlaşılma potansiyeli taşıyan yanlış bilgi türü hangisidir? (Ünite Sorusu 6)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Parodi/Hiciv",
+        "B": "Uydurma",
+        "C": "Taklit",
+        "D": "Manipülasyon",
+        "E": "Bağlamdan koparma"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Parodi veya hiciv, kandırma kastı olmasa da bağlamı bilinmediğinde yanlış bilgi gibi yayılabilir."
+    },
+    {
+      "soruid": 37,
+      "soru_metni": "Haber başlığı ile içeriğinin uyuşmaması durumuna ne ad verilir? (Ünite Sorusu 7)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Hatalı Bağlam",
+        "B": "Hatalı İlişkilendirme (Tık Tuzağı)",
+        "C": "Uydurma İçerik",
+        "D": "Manipüle İçerik",
+        "E": "Taklit İçerik"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Başlık, görsel veya altyazının içerikle örtüşmemesi 'Hatalı İlişkilendirme'dir."
+    },
+    {
+      "soruid": 38,
+      "soru_metni": "Gerçek bir bilginin veya görüntünün yanlış bir olayla ilişkilendirilmesi durumuna ne ad verilir? (Ünite Sorusu 8)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Hatalı Bağlam",
+        "B": "Parodi",
+        "C": "Taklit",
+        "D": "Uydurma",
+        "E": "Manipülasyon"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "İçeriğin kendisi gerçek olsa da sunulduğu olayın (zaman/mekan) yanlış olması hatalı bağlamdır."
+    },
+    {
+      "soruid": 39,
+      "soru_metni": "Yapay zeka kullanılarak üretilen sahte videolara ne ad verilir? (Ünite Sorusu 9)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Photoshop",
+        "B": "Deepfake",
+        "C": "Montaj",
+        "D": "Kolaj",
+        "E": "Animasyon"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Derin öğrenme (Deep learning) teknolojisiyle üretilen sahte içerikler 'Deepfake' olarak adlandırılır."
+    },
+    {
+      "soruid": 40,
+      "soru_metni": "Aşağıdakilerden hangisi Türkiye'deki doğrulama platformlarından biridir? (Ünite Sorusu 10)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Facebook",
+        "B": "Teyit.org",
+        "C": "Google",
+        "D": "Twitter",
+        "E": "Instagram"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Teyit.org, Türkiye'de faaliyet gösteren bağımsız bir doğrulama organizasyonudur."
+    }
+      ]
+    }
+  ]
+}
