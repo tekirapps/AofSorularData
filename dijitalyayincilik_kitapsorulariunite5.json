@@ -1,0 +1,573 @@
+{
+  "ders_kodu": "SMY203U",
+  "ders_adi": "DİJİTAL YAYINCILIK",
+  "sinavlar": [
+    {
+      "baslik": "2025 Ünite 6 Yapay Zeka Destekli Çıkabilecek Sorular",
+      "tur": "AI",
+      "yil": 2025,
+      "sorular": [
+   {
+      "soruid": 1,
+      "soru_metni": "Radyo kelimesinin kökeni ve anlamı aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Latince 'Radius' (Işın) ve Yunanca 'Phone' (Ses) kelimelerinden türetilmiştir.",
+        "B": "İngilizce 'Radio' ve 'Active' kelimelerinin birleşimidir.",
+        "C": "Latince 'Radix' (Kök) kelimesinden gelir.",
+        "D": "Yunanca 'Rhadios' (Kolay) kelimesinden türetilmiştir.",
+        "E": "Almanca 'Rundfunk' kelimesinin çevirisidir."
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Metinde radyo kelimesinin Latince ışın anlamına gelen radius ve Yunanca ses anlamına gelen phone kelimelerinin birleşiminden oluştuğu belirtilmiştir[cite: 1389]."
+    },
+    {
+      "soruid": 2,
+      "soru_metni": "Elektromanyetik dalgaların varlığını teorik olarak ilk kez 1860 yılında keşfeden bilim insanı kimdir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Heinrich Hertz",
+        "B": "Guglielmo Marconi",
+        "C": "James Clerk Maxwell",
+        "D": "Nikola Tesla",
+        "E": "Thomas Edison"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Radyo tekniği ile ilgili ilk keşif 1860 yılında İngiliz fizikçi James Clerk Maxwell tarafından gerçekleştirilmiş ve elektromanyetik dalgaların varlığı teorik olarak ortaya konmuştur[cite: 1393]."
+    },
+    {
+      "soruid": 3,
+      "soru_metni": "Tarihte ilk kez sesi ve müziği radyo dalgaları ile iletmeyi başaran ve 1906'da gemilere müzik dinleten mucit kimdir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Guglielmo Marconi",
+        "B": "Reginald Fessenden",
+        "C": "Lee de Forest",
+        "D": "Alexander Graham Bell",
+        "E": "Samuel Morse"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Marconi sinyalleri iletmesine rağmen, sesi ve müziği radyo dalgaları ile ileten ilk kişi Kanadalı Reginald Fessenden olmuştur[cite: 1404]."
+    },
+    {
+      "soruid": 4,
+      "soru_metni": "Radyo sinyallerini yükselterek hoparlörden duyulabilecek seviyeye getiren 'Audion' (üç elektrotlu lamba/triyot) adlı lambayı kim icat etmiştir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Thomas Edison",
+        "B": "Heinrich Hertz",
+        "C": "Lee de Forest",
+        "D": "Oliver Lodge",
+        "E": "Aleksandr Popov"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Lee de Forest, Audion adını verdiği radyo lambasını geliştirerek ses sinyali yükselticisi olarak kullanılmasını sağlamıştır[cite: 1418]."
+    },
+    {
+      "soruid": 5,
+      "soru_metni": "Dünyada düzenli radyo yayıncılığını başlatan ilk radyo istasyonu hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "BBC (Londra)",
+        "B": "KDKA (Pittsburg)",
+        "C": "WEAF (New York)",
+        "D": "Moskova Radyosu",
+        "E": "Paris Radyosu"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "ABD'nin Pittsburg kentinde kurulan KDKA, Kasım 1920'de düzenli yayına geçerek ilk radyo kanalı kabul edilmiştir[cite: 1434]."
+    },
+    {
+      "soruid": 6,
+      "soru_metni": "Türkiye'de radyo yayınları hangi yıl ve hangi kurumun öncülüğünde başlamıştır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "1927 - Telsiz Telefon Türk Anonim Şirketi (TTTAŞ)",
+        "B": "1964 - TRT",
+        "C": "1936 - PTT",
+        "D": "1940 - Matbuat Umum Müdürlüğü",
+        "E": "1992 - Özel Radyolar"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Türkiye'de radyo yayınları 1927 yılında Telsiz Telefon Türk Anonim Şirketi (TTTAŞ) adıyla başlamıştır[cite: 1452, 1453]."
+    },
+    {
+      "soruid": 7,
+      "soru_metni": "Radyo yayıncılığının 'Altın Çağı' olarak kabul edilen, radyonun en önemli haber ve propaganda aracı olduğu dönem hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "1922-1927",
+        "B": "1927-1945",
+        "C": "1945-1960",
+        "D": "1960-1980",
+        "E": "1990 sonrası"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "1927-1945 dönemi, radyo yayıncılığının her alanında geliştiği ve 2. Dünya Savaşı propagandasıyla önem kazandığı 'Altın Çağ'dır[cite: 1633, 1634]."
+    },
+    {
+      "soruid": 8,
+      "soru_metni": "Aşağıdakilerden hangisi AM (Genlik Modülasyonu) bandının özelliklerinden biridir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Ses kalitesi FM'den daha yüksektir.",
+        "B": "Gürültüden ve parazitten hiç etkilenmez.",
+        "C": "Uzun mesafelere iletilebilir ancak ses kalitesi düşüktür.",
+        "D": "Kısa mesafeli yayınlar için uygundur.",
+        "E": "Frekans aralığı 88-108 MHz'dir."
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "AM, FM ile karşılaştırıldığında daha düşük ses kalitesine sahiptir ancak uzun mesafelere iletilebilir[cite: 1563]."
+    },
+    {
+      "soruid": 9,
+      "soru_metni": "Seri üretim yapılan ilk otomobil radyosu hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Sony Walkman",
+        "B": "Regency TR-1",
+        "C": "Motorola 5T71",
+        "D": "Philips Car",
+        "E": "Blaupunkt Autosuper"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "1930 yılında üretilen Motorola 5T71 modeli, dünyanın ilk seri üretim otomobil radyosudur[cite: 1588]."
+    },
+    {
+      "soruid": 10,
+      "soru_metni": "Hangi icat radyo alıcılarının küçülmesini, taşınabilir hale gelmesini ve pil ömrünün uzamasını sağlayarak radyoyu mobilize etmiştir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Vakum Tüpü",
+        "B": "Transistör",
+        "C": "Diyot",
+        "D": "Kondansatör",
+        "E": "Manyetik Bant"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Transistörün icadıyla radyoların taşınabilirliği kolaylaşmış, cep boyutuna inmiş ve az enerji tüketir hale gelmiştir[cite: 1601, 1602]."
+    },
+    {
+      "soruid": 11,
+      "soru_metni": "Dijital yayıncılıkta kullanılan 'Codec' teriminin anlamı nedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Computer Decoding (Bilgisayar Çözümleme)",
+        "B": "Compression / Decompression (Sıkıştırma / Sıkıştırılanı Açma)",
+        "C": "Coding Electronic (Elektronik Kodlama)",
+        "D": "Communication Deck (İletişim Masası)",
+        "E": "Control Decimal (Ondalık Kontrol)"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Codec, İngilizce compression (sıkıştırma) ve decompression (sıkıştırılanı açma) kelimelerinin birleşiminden oluşur[cite: 1663]."
+    },
+    {
+      "soruid": 12,
+      "soru_metni": "Kayıpsız bir ses codeci olan ve karasal sayısal radyo yayıncılığında standart kabul edilen format hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "MP3",
+        "B": "WMA",
+        "C": "FLAC",
+        "D": "AAC",
+        "E": "OGG"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "FLAC, minimum kayıpla sıkıştırma yapar ve sayısal karasal radyo yayıncılığında standart olduğu kabul edilmektedir[cite: 1682, 1684]."
+    },
+    {
+      "soruid": 13,
+      "soru_metni": "Karasal sayısal radyo yayıncılığının (T-DAB) en önemli avantajı nedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Daha fazla anten gerektirmesi",
+        "B": "Aynı frekans üzerinden birden fazla radyo yayını yapılabilmesi ve ses kalitesinin yüksek olması",
+        "C": "Sadece internet üzerinden dinlenebilmesi",
+        "D": "Analog radyolardan daha fazla cızırtı yapması",
+        "E": "Uydu alıcısına ihtiyaç duyması"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "T-DAB sayesinde sadece birkaç frekans üzerinden birçok radyo istasyonu aynı anda yayın yapabilir ve ses kalitesi stüdyodan çıktığı gibi ulaşır[cite: 1727, 1732]."
+    },
+    {
+      "soruid": 14,
+      "soru_metni": "Podcast kelimesi hangi iki kelimenin birleşiminden türetilmiştir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Portable - Cast",
+        "B": "iPod - Broadcasting",
+        "C": "Personal - Casting",
+        "D": "Public - Broadcast",
+        "E": "Phone - Cast"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Podcast kelimesi iPod ve broadcasting (yayın) kelimelerinin birleşiminden oluşmuştur[cite: 1970]."
+    },
+    {
+      "soruid": 15,
+      "soru_metni": "Radyo stüdyosundan çıkan yayının vericiye iletilmesini sağlayan, iki nokta arasındaki kablosuz aktarım cihazına ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Uplink",
+        "B": "Radyolink",
+        "C": "Encoder",
+        "D": "Decoder",
+        "E": "Amplifikatör"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Radyo linkler iki nokta arasında veri iletimi için kullanılır ve yayının stüdyodan vericiye iletilmesi görevini üstlenirler[cite: 1688, 1689]."
+    },
+    {
+      "soruid": 16,
+      "soru_metni": "Uydu üzerinden radyo yayını yapmak için sesi sıkıştırıp uyduya gönderen cihaza ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Radyolink",
+        "B": "Uplink",
+        "C": "Transponder",
+        "D": "Downlink",
+        "E": "Modülatör"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Uplinkler sesi uygun codec ile sıkıştırıp uydudaki transpondera yollar ve bu şekilde yayın gerçekleşir[cite: 1708]."
+    },
+    {
+      "soruid": 17,
+      "soru_metni": "İnternet radyoculuğunda sesi sayısal ortama dönüştürüp kodlayarak medya sunucusuna gönderen yazılıma/araca ne denir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Player",
+        "B": "Encoder",
+        "C": "Browser",
+        "D": "Mixer",
+        "E": "Amplifier"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Encoder sesi sayısal ortama dönüştürüp kodlar ve medya sunucuya (media server) gönderir[cite: 1746, 1747]."
+    },
+    {
+      "soruid": 18,
+      "soru_metni": "Fiziksel bir stüdyoya ihtiyaç duymadan, bir mobil cihaz ve yazılım ile doğrudan medya sunucusuna yayın gönderen radyo türü hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Karasal Radyo",
+        "B": "Sanal Radyo",
+        "C": "Uydu Radyosu",
+        "D": "Analog Radyo",
+        "E": "Kısa Dalga Radyo"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Sanal radyo, fiziksel stüdyoya ihtiyaç duymayan, mobil cihaz ve yazılımla yayın gerçekleştiren radyolara verilen isimdir[cite: 1849, 1850]."
+    },
+    {
+      "soruid": 19,
+      "soru_metni": "Radyo otomasyon sistemlerinin temel işlevi nedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Sadece müzik çalmak",
+        "B": "Radyo vericisini soğutmak",
+        "C": "Yayın akışını planlamak, reklamları ve içerikleri insana ihtiyaç duymadan otomatik yönetmek",
+        "D": "İnternet bağlantısı sağlamak",
+        "E": "Dinleyici istatistiklerini tutmak"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Otomasyon sistemleri, yayın akışı yönetimi, reklam zamanlaması gibi işlemlerle yayının insana ihtiyaç duymadan sürmesini sağlar[cite: 2009, 2010]."
+    },
+    {
+      "soruid": 20,
+      "soru_metni": "Hangi ses formatı (codec) sıkıştırma oranı çok yüksek olduğu için kayıp oranı fazladır ancak az yer kapladığı için yerel radyolarca tercih edilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "WAV",
+        "B": "FLAC",
+        "C": "MP3",
+        "D": "AIFF",
+        "E": "DSD"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "MP3'ün sıkıştırma oranı yüksektir ve kayıp oranı fazladır, ancak az yer kapladığı için tercih edilir[cite: 1668, 1670]."
+    },
+    {
+      "soruid": 21,
+      "soru_metni": "Radyo yayıncılığında 1955 yılında bulunan ve müzik yayınlarındaki kaliteyi artıran gelişme nedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Mono Yayın",
+        "B": "Stereo Yayın",
+        "C": "Dijital Yayın",
+        "D": "Uydu Yayını",
+        "E": "HD Ses"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "1955 yılında stereo yayının keşfi müzik yayınlarındaki kaliteyi arttırmıştır[cite: 1481]."
+    },
+    {
+      "soruid": 22,
+      "soru_metni": "Analog radyolarda ses sinyallerinin yüksek frekanslı taşıyıcı dalgalar üzerine bindirilmesi işlemine ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Amplifikasyon",
+        "B": "Osilasyon",
+        "C": "Modülasyon",
+        "D": "Filtrasyon",
+        "E": "Emülasyon"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Sinyallerin taşıyıcı dalgalar üzerine bindirilmesi işlemi modülasyon olarak adlandırılır[cite: 1501]."
+    },
+    {
+      "soruid": 23,
+      "soru_metni": "Radyonun 1960-1980 yılları arasında 'evin dostu' olmaktan çıkıp 'bireyin dostu' haline gelmesinin temel nedeni nedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Televizyonun bozulması",
+        "B": "Alıcıların ucuzlayıp küçülmesi ve bireyselleşmesi",
+        "C": "Elektrik kesintileri",
+        "D": "Yayınların kalitesizleşmesi",
+        "E": "İnternetin icadı"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Bu dönemde radyo, alıcı sayısı ve teknik gelişim etkisiyle ailenin değil bireyin dostu konumuna gelmiş, bireyselleşmiştir[cite: 1637]."
+    },
+    {
+      "soruid": 24,
+      "soru_metni": "RDS (Radio Data System) verisinin dinleyici ekranında görünmesini sağlayan sistemler hangisiyle entegre çalışır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Mikrofonlar",
+        "B": "Hoparlörler",
+        "C": "Otomasyon Programları",
+        "D": "Plak çalarlar",
+        "E": "Kablolar"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Otomasyon programları ile RDS veya Radiotext verilerinin dinleyici cihazında görünmesi sağlanır[cite: 2080]."
+    },
+    {
+      "soruid": 25,
+      "soru_metni": "İnternet radyoculuğunun en önemli avantajlarından biri nedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "İnternet kesilse de çalışması",
+        "B": "Yüksek maliyetli olması",
+        "C": "Tüm dünyaya yayın yapılabilmesi ve interaktif olması",
+        "D": "Sadece bilgisayardan dinlenebilmesi",
+        "E": "Dinleyici sayısının sınırsız olması (sunucu kapasitesinden bağımsız)"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "İnternet radyoculuğunun avantajları arasında tüm dünyaya yayın yapılabilmesi ve interaktif olması sayılmıştır[cite: 1954, 1955]."
+    },
+    {
+      "soruid": 26,
+      "soru_metni": "AAC ses formatının en belirgin özelliği nedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Çok yer kaplaması",
+        "B": "Apple tarafından üretilmesi, yüksek sıkıştırma ve düşük kayıp oranı",
+        "C": "Microsoft ürünü olması",
+        "D": "Sadece analog radyolarda kullanılması",
+        "E": "Hiçbir veriyi sıkıştırmaması"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "AAC, Apple firmasının ürettiği, sıkıştırma oranı yüksek ancak kayıp oranı az olan bir codec'tir[cite: 1679]."
+    },
+    {
+      "soruid": 27,
+      "soru_metni": "Manyetik bantlı kayıt cihazlarının radyo yayıncılığına en büyük katkısı ne olmuştur?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Canlı yayını zorunlu kılması",
+        "B": "Sesi depolama ve montajlama imkanı sunarak prodüksiyonu geliştirmesi",
+        "C": "Radyoları ağırlaştırması",
+        "D": "Sadece müzik çalınmasını sağlaması",
+        "E": "Reklamları engellemesi"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Manyetik bantlar sesin depolanması ve işlenmesi (montaj) konusunda kolaylık sağlayarak prodüksiyona dayalı içerik üretimini mümkün kılmıştır[cite: 1489, 1617]."
+    },
+    {
+      "soruid": 28,
+      "soru_metni": "İlk düzenli radyo yayınlarını yapan ve 'kamu yayıncısı' modelinin öncüsü olan İngiliz kuruluşu hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "CNN",
+        "B": "NBC",
+        "C": "BBC",
+        "D": "CBS",
+        "E": "DW"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "İngiltere'de 1922'de yayına başlayan BBC, 1927'de devletleştirilerek en büyük kamu yayıncılarından biri olmuştur[cite: 1443]."
+    },
+    {
+      "soruid": 29,
+      "soru_metni": "Medya serverların (sunucuların) dijital radyoculuktaki görevi nedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Sesi kaydetmek",
+        "B": "Sesi mikrofonla toplamak",
+        "C": "Encoder'dan gelen yayını dinleyicilere dağıtmak",
+        "D": "Reklam satmak",
+        "E": "Frekans ayarlamak"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Medya sunucu (media server), encode edilen sesi alır ve kendisine bağlanan dinleyicilere yayını ulaştırır[cite: 1747]."
+    },
+    {
+      "soruid": 30,
+      "soru_metni": "Radyo yayıncılığının 1980 sonrası dönemi nasıl tanımlanır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Devlet tekellerinin kalktığı, özel ve yerel radyoların arttığı dönem",
+        "B": "Radyonun tamamen bittiği dönem",
+        "C": "Sadece internet radyoculuğunun yapıldığı dönem",
+        "D": "Transistörlü radyoların ilk çıktığı dönem",
+        "E": "Televizyonun icat edildiği dönem"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "1980 sonrası, devlet tekellerinin kalkmasıyla çok sesliliğin ve yerel/tematik radyoculuğun arttığı dönemdir[cite: 1638]."
+    },
+    {
+      "soruid": 31,
+      "soru_metni": "'Bu dönemde radyo, hızla gelişen ve yayılan televizyon karşısında kendini yenilemeye ve dinleyicisini kaptırmamaya çalışmıştır.' ifadesiyle anlatılan radyo yayıncılığı dönemi aşağıdakilerden hangisidir? (Ünite Sorusu 1)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "1922-1927 Dönemi",
+        "B": "1927-1945 Dönemi",
+        "C": "1945-1960 Dönemi",
+        "D": "1960-1980 Dönemi",
+        "E": "1980 Sonrası Dönem"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "1945-1960 dönemi, radyonun televizyon karşısında rekabet etmeye ve kendini yenilemeye çalıştığı dönemdir[cite: 1635]."
+    },
+    {
+      "soruid": 32,
+      "soru_metni": "Aşağıdakilerden hangisi FM bandının bir özelliği değildir? (Ünite Sorusu 2)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Radyo dalgası iletilecek olan sinyal tarafından genlikte modüle edilir.",
+        "B": "AM bandına göre Gürültüden daha az etkilenir.",
+        "C": "Sinyaller fiziksel engellerden etkilenir.",
+        "D": "88 ila 108 MHz arasında bir spektrumu vardır",
+        "E": "AM bandına göre daha yüksek ses kalitesi vardır."
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "FM'de genlik değil frekans modüle edilir; genlikte modülasyon AM'in özelliğidir[cite: 1555, 1561]."
+    },
+    {
+      "soruid": 33,
+      "soru_metni": "Dünyada ilk düzenli radyo yayının başlama tarihi ve bu yayınları başlatan istasyon aşağıdakilerden hangisidir? (Ünite Sorusu 3)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "1921-WEAF",
+        "B": "1920-KDKA",
+        "C": "1918-RTF",
+        "D": "1919-BBC",
+        "E": "1920-CBS"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Kasım 1920'de Pittsburg'da kurulan KDKA, ilk düzenli yayına geçen istasyondur[cite: 1434]."
+    },
+    {
+      "soruid": 34,
+      "soru_metni": "Aşağıdakilerden hangisi çalışma ve buluşlarıyla radyonun icadına katkıda bulunan bilim adamlarından biri değildir? (Ünite Sorusu 4)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Guglielmo Marconi",
+        "B": "Reginald Fessenden",
+        "C": "Heinrich Hertz",
+        "D": "Marie Curie",
+        "E": "Aleksandr Stepanovich Popov"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": "Marconi, Fessenden, Hertz ve Popov radyo tarihi ile ilgili metinde geçerken, Marie Curie radyoaktivite ile ilgilidir ve metinde geçmez[cite: 1398, 1404]."
+    },
+    {
+      "soruid": 35,
+      "soru_metni": "Dijital radyo yayınında sesi sayısal ortama çeviren unsur aşağıdakilerden hangisidir? (Ünite Sorusu 5)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Osilatör",
+        "B": "Modülatör",
+        "C": "Decoder",
+        "D": "Encoder",
+        "E": "Emülatör"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": "Encoder, sesi sayısal ortama dönüştürüp kodlayan unsurdur[cite: 1746]."
+    },
+    {
+      "soruid": 36,
+      "soru_metni": "Aşağıdakilerden hangisi dijital radyo yayıncılığında kullanılan codeclerden biri değildir? (Ünite Sorusu 6)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Wav",
+        "B": "Mp3",
+        "C": "Dsd",
+        "D": "Ogg vorbis",
+        "E": "Mpeg-4"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": "Metinde MP3, WMA, WAV, AAC, Ogg Vorbis, FLAC, ALAC ve DSD sayılmış ancak MPEG-4 (video formatı olarak bilinir) ses codec listesinde geçmemiştir[cite: 2145]."
+    },
+    {
+      "soruid": 37,
+      "soru_metni": "Uydu teknolojisine bağımlı olmadan yerdeki vericiler ve radyolink ağı ile dijital yayın yapmayı sağlayan sisteme ne ad verilir? (Ünite Sorusu 7)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Podcasting",
+        "B": "İnternet yayıncılığı",
+        "C": "Karasal sayısal radyo yayıncılığı",
+        "D": "Sanal yayıncılık",
+        "E": "Analog yayıncılık"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Karasal sayısal radyo yayıncılığı (T-DAB), uyduya ihtiyaç duymadan yerdeki vericilerle dijital yayın yapar[cite: 1716]."
+    },
+    {
+      "soruid": 38,
+      "soru_metni": "Aşağıdakilerden hangisi internet radyosunun avantajlarından biri değildir? (Ünite Sorusu 8)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Mobil ortama erişebilir",
+        "B": "Dinleyici kitlesi genellikle daha azdır",
+        "C": "Her türlü yayın ortamına entegre edilebilir",
+        "D": "Ses kalitesi kontrol edilebilir",
+        "E": "Bireyselleştirebilir"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Dinleyici kitlesinin daha az olması, internet radyoculuğunun bir dezavantajı olarak belirtilmiştir[cite: 1965]."
+    },
+    {
+      "soruid": 39,
+      "soru_metni": "Herhangi bir fiziksel mekâna ihtiyaç duymadan bir mobil cihaz ve bu cihaza kurulu yazılım üzerinden yayın yapan radyolara verilen ad aşağıdakilerden hangisidir? (Ünite Sorusu 9)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Yerel radyo",
+        "B": "İnternet radyosu",
+        "C": "Analog radyo",
+        "D": "Sayısal radyo",
+        "E": "Sanal radyo"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": "Sanal radyo, fiziksel stüdyoya ihtiyaç duymayan ve mobil cihaz/yazılım ile yayın yapan türdür[cite: 1849]."
+    },
+    {
+      "soruid": 40,
+      "soru_metni": "Arşivden istenilen şarkıları seçerek yayın akışı yönetimi yapma, reklamların ne zaman yayına gireceğini belirleme gibi çok sayıda özellikle radyoların kesintisiz olarak ve insana ihtiyaç duymadan yayın yapmasını sağlayan sistemlere ne ad verilir? (Ünite Sorusu 10)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Otomasyon sistemleri",
+        "B": "Encoder sistemleri",
+        "C": "Uydu sistemleri",
+        "D": "Medya Sunucu sistemleri",
+        "E": "Podcast sistemleri"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Otomasyon sistemleri, yayını planlama ve otomatik yürütme imkanı sağlar[cite: 2009]."
+    }
+      ]
+    }
+  ]
+}
