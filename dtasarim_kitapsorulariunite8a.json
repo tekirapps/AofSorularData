@@ -1,0 +1,573 @@
+{
+  "ders_kodu": "SMY203U",
+  "ders_adi": "DİJİTAL YAYINCILIK",
+  "sinavlar": [
+    {
+      "baslik": "2025 Ünite 8 Yapay Zeka Destekli Çıkabilecek Sorular",
+      "tur": "AI",
+      "yil": 2025,
+      "sorular": [
+    {
+      "soruid": 1,
+      "soru_metni": "Bilişim kelimesi, Türkçeye hangi terimin karşılığı olarak girmiştir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Computer Science",
+        "B": "Informatics",
+        "C": "Cybernetics",
+        "D": "Technology",
+        "E": "Digitalization"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Metinde 'Bilişim' kelimesinin Türkçeye 'informatics' teriminin karşılığı olarak girdiği belirtilmektedir[cite: 1512]."
+    },
+    {
+      "soruid": 2,
+      "soru_metni": "Elektronik ortam ve cihazlarda yayınlanan, üretilen ve saklanan bilgilerle ilgili sorunları ele alan hukuk dalı aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Ticaret Hukuku",
+        "B": "Medeni Hukuk",
+        "C": "Bilişim Hukuku",
+        "D": "İdare Hukuku",
+        "E": "Borçlar Hukuku"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Bilişim Hukuku, elektronik ortam ve cihazlarda yayınlanan, üretilen ve saklanan bilgilerle ilgili sorunları ele alan bir hukuk türü olarak tanımlanmıştır[cite: 1552]."
+    },
+    {
+      "soruid": 3,
+      "soru_metni": "Siber suçlarla ilgili ilk uluslararası sözleşme olma özelliği taşıyan ve 'Budapeşte Sözleşmesi' olarak da bilinen belge hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Avrupa İnsan Hakları Sözleşmesi",
+        "B": "Viyana Sözleşmesi",
+        "C": "Lizbon Antlaşması",
+        "D": "Avrupa Siber Suç Sözleşmesi",
+        "E": "Bern Sözleşmesi"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": "Budapeşte Sözleşmesi adıyla anılan Avrupa Siber Suç Sözleşmesi, bu alandaki ilk uluslararası sözleşme özelliğini taşımaktadır[cite: 1607]."
+    },
+    {
+      "soruid": 4,
+      "soru_metni": "TCK'nın 243. maddesinde düzenlenen ve bilişim suçlarının en yaygını olan suç tipi hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Kredi kartı dolandırıcılığı",
+        "B": "Bilişim sistemine girme",
+        "C": "Sistemi engelleme",
+        "D": "Verileri yok etme",
+        "E": "Yasak cihaz kullanma"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Bilişim suçlarının en yaygını olan 'bilişim sistemine girme suçu' TCK'nın 243. maddesinde düzenlenmiştir[cite: 1681]."
+    },
+    {
+      "soruid": 5,
+      "soru_metni": "Bir kişinin Facebook veya e-posta şifresini ele geçirerek izinsiz giriş yapmak, TCK'ya göre hangi suçu oluşturur?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Haberleşmenin engellenmesi",
+        "B": "Bilişim sistemine girme",
+        "C": "Nitelikli dolandırıcılık",
+        "D": "Hırsızlık",
+        "E": "Mala zarar verme"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Bir kimsenin sosyal medya veya e-posta hesabına şifresini ele geçirerek girmesi TCK 243. madde kapsamındaki 'Bilişim sistemine girme' suçunu oluşturur[cite: 1688]."
+    },
+    {
+      "soruid": 6,
+      "soru_metni": "TCK 244. maddeye göre, bir bilişim sistemini 'kullanılamaz hale getirmek' (örneğin siteyi kilitlemek) hangi suç kapsamında değerlendirilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Sisteme veri yerleştirme",
+        "B": "Bilişim sistemine girme",
+        "C": "Bilişim sisteminin işleyişini engelleme veya bozma",
+        "D": "Kişisel verileri kaydetme",
+        "E": "Haberleşmenin gizliliğini ihlal"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Bir internet sitesine siber saldırı yapılarak hizmet verilemez hale getirilmesi, TCK 244/1 kapsamındaki 'Bilişim sisteminin işleyişini bozma/engelleme' suçudur[cite: 1727, 1728]."
+    },
+    {
+      "soruid": 7,
+      "soru_metni": "Bilişim suçları içerisinde en ağır cezayı gerektiren, TCK 245. maddede düzenlenen suç hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Sisteme izinsiz giriş",
+        "B": "Verileri silme",
+        "C": "Banka veya kredi kartlarının kötüye kullanılması",
+        "D": "Yasak program bulundurma",
+        "E": "Kişisel verileri yayma"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Bilişim suçlarının en çok işlenen şekli olan banka veya kredi kartlarının kötüye kullanılması, hapis cezası bakımından diğerlerine göre daha ağır yaptırımlar içerir (3 yıldan 6 yıla kadar vb.)[cite: 1761, 1765]."
+    },
+    {
+      "soruid": 8,
+      "soru_metni": "5651 sayılı İnternet Kanunu'na göre, internet ortamı üzerinden kullanıcılara sunulan her türlü bilgi veya veriyi üreten kişilere ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Yer sağlayıcı",
+        "B": "Erişim sağlayıcı",
+        "C": "Toplu kullanım sağlayıcı",
+        "D": "İçerik sağlayıcı",
+        "E": "Servis sağlayıcı"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": "Kanunda, internet ortamı üzerinden kullanıcılara sunulan her türlü bilgi veya veriyi üreten, değiştiren ve sağlayan kişiler 'içerik sağlayıcı' olarak tanımlanmıştır[cite: 1924]."
+    },
+    {
+      "soruid": 9,
+      "soru_metni": "Aşağıdakilerden hangisi 5651 sayılı kanunun 8. maddesinde sayılan ve 'erişimin engellenmesi' kararı verilebilen katalog suçlardan biri değildir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "İntihara yönlendirme",
+        "B": "Çocukların cinsel istismarı",
+        "C": "Müstehcenlik",
+        "D": "Kumar oynanması için yer sağlama",
+        "E": "Haberleşmenin gizliliğini ihlal"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": "Katalog suçlar arasında intihara yönlendirme, çocuk istismarı, müstehcenlik, kumar vb. sayılmış ancak 'haberleşmenin gizliliğini ihlal' bu listede yer almamaktadır [cite: 1944-1954]."
+    },
+    {
+      "soruid": 10,
+      "soru_metni": "Kişisel Verilerin Korunması Kanunu (KVKK) uyarınca, veri sorumlularının kayıt olmak zorunda olduğu sicil sisteminin adı nedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "MERNİS",
+        "B": "UYAP",
+        "C": "VERBİS",
+        "D": "KAYSİS",
+        "E": "TAKİS"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Veri sorumluları, Veri Sorumluları Siciline (VERBİS) kayıt olmak zorundadırlar[cite: 1995]."
+    },
+    {
+      "soruid": 11,
+      "soru_metni": "Avrupa Birliği'nin 2018 yılında yürürlüğe giren ve kişisel verilerin korunması konusunda katı kurallar getiren düzenlemesinin kısa adı nedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "NATO",
+        "B": "GDPR",
+        "C": "UNESCO",
+        "D": "UNICEF",
+        "E": "OECD"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Avrupa Birliği Genel Veri Koruma Yönetmeliği'nin kısaltması GDPR (General Data Protection Regulation) olarak geçmektedir[cite: 2045]."
+    },
+    {
+      "soruid": 12,
+      "soru_metni": "Kişi ve kurumların internette kendi adlarıyla arama yapıldığında çıkan sonuçların silinmesini isteme hakkına ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Erişim Hakkı",
+        "B": "Unutulma Hakkı",
+        "C": "Telif Hakkı",
+        "D": "Cevap Hakkı",
+        "E": "Düzeltme Hakkı"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Unutulma hakkı, kişilerin internette kendileriyle ilgili verilerin arama sonuçlarında yer almamasını veya silinmesini isteme hakkıdır[cite: 2102]."
+    },
+    {
+      "soruid": 13,
+      "soru_metni": "TCK'ya göre bilişim sistemine girme suçunda (md. 243), mağdurun rızası olması durumu nasıl değerlendirilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Suçu ortadan kaldırmaz, ceza verilir.",
+        "B": "Sadece para cezası verilir.",
+        "C": "Hukuka uygunluk nedeni olarak kabul edilir ve ceza verilmez.",
+        "D": "Ceza yarı oranında artırılır.",
+        "E": "Denetimli serbestlik uygulanır."
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Mağdurun rızası, bilişim sistemine girme suçunda hukuka uygunluk nedeni olarak kabul edilir; yani izin varsa suç oluşmaz[cite: 1694]."
+    },
+    {
+      "soruid": 14,
+      "soru_metni": "Bir kimsenin onur ve şerefini rencide edecek nitelikteki bir iletinin internet yoluyla (sosyal medya vb.) gönderilmesi TCK'da hangi suç kapsamında değerlendirilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Tehdit",
+        "B": "Şantaj",
+        "C": "Hakaret",
+        "D": "İftira",
+        "E": "Halkı kin ve düşmanlığa tahrik"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "TCK 125. maddeye göre, sesli, yazılı veya görüntülü iletiyle işlenen bu tür fiiller 'Hakaret' suçu kapsamında değerlendirilir[cite: 1848, 1849]."
+    },
+    {
+      "soruid": 15,
+      "soru_metni": "Kişisel verilerin (ırk, siyasi düşünce, sağlık vb.) ilgilinin açık rızası olmaksızın işlenmesi KVKK'ya göre nasıldır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Serbesttir",
+        "B": "Yasaktır",
+        "C": "Sadece devlete serbesttir",
+        "D": "Sadece sağlık verileri işlenebilir",
+        "E": "Sadece ticari amaçla işlenebilir"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Özel nitelikli kişisel verilerin ilgilinin açık rızası olmaksızın işlenmesi kanunen yasaktır[cite: 1985]."
+    },
+    {
+      "soruid": 16,
+      "soru_metni": "5651 sayılı kanuna göre, kullanıcılarına internet ortamına erişim olanağı sağlayan (örneğin TTNET, Turkcell) işletmelere ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "İçerik Sağlayıcı",
+        "B": "Yer Sağlayıcı",
+        "C": "Erişim Sağlayıcı",
+        "D": "Toplu Kullanım Sağlayıcı",
+        "E": "Veri Sorumlusu"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Kullanıcılarına internet ortamına erişim olanağı sağlayan her türlü gerçek veya tüzel kişiler 'erişim sağlayıcı' olarak tanımlanmıştır[cite: 1923]."
+    },
+    {
+      "soruid": 17,
+      "soru_metni": "TCK 244. maddeye göre, bir bilişim sistemindeki verileri 'yok etme veya değiştirme' suçu bir banka veya kamu kurumuna karşı işlenirse ceza nasıl uygulanır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Ceza verilmez.",
+        "B": "Ceza yarı oranında indirilir.",
+        "C": "Ceza aynı kalır.",
+        "D": "Ceza yarı oranında artırılır.",
+        "E": "Sadece para cezası verilir."
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": "Bu fiil bir banka veya kamu kurumuna ait sistem üzerinde işlenirse verilecek ceza yarı oranında artırılır[cite: 1747]."
+    },
+    {
+      "soruid": 18,
+      "soru_metni": "Bilişim suçu işlemek amacıyla cihaz, program veya yazılım (örneğin hacker programları) üretmek ve satmak TCK'nın hangi maddesiyle suç sayılmıştır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "TCK 243",
+        "B": "TCK 244",
+        "C": "TCK 245/A",
+        "D": "TCK 135",
+        "E": "TCK 142"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Yasak cihaz veya programların imali, satışı ve bulundurulması TCK 245/A maddesi ile suç kapsamına alınmıştır[cite: 1832]."
+    },
+    {
+      "soruid": 19,
+      "soru_metni": "Kişisel verilerin korunması hakkı, Türk Anayasası'na hangi yıl eklenerek anayasal bir hak haline gelmiştir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "1982",
+        "B": "1995",
+        "C": "2001",
+        "D": "2010",
+        "E": "2016"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": "Kişisel verilerin korunması, 12 Eylül 2010 tarihli referandumla Anayasa'nın 20. maddesine eklenerek anayasal hak olmuştur[cite: 1599]."
+    },
+    {
+      "soruid": 20,
+      "soru_metni": "Aşağıdakilerden hangisi 'özel nitelikli kişisel veri' sayılmaz?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Siyasi düşünce",
+        "B": "Ad ve Soyad",
+        "C": "Mezhep ve inanç",
+        "D": "Sağlık bilgileri",
+        "E": "Biyometrik veriler"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Ad ve soyad genel kişisel veridir; ancak ırk, siyasi düşünce, sağlık, inanç gibi veriler kanunda 'özel nitelikli' (hassas) veri olarak sayılmıştır[cite: 1984]."
+    },
+    {
+      "soruid": 21,
+      "soru_metni": "GDPR düzenlemesine göre, bir veri ihlali tespit edildiğinde işletmeler bu durumu en geç ne kadar sürede yetkililere bildirmelidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "12 saat",
+        "B": "24 saat",
+        "C": "48 saat",
+        "D": "72 saat",
+        "E": "1 hafta"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": "GDPR'ye göre veri ihlalleri, tespitin ardından en geç 72 saat içerisinde bildirilmelidir[cite: 2077]."
+    },
+    {
+      "soruid": 22,
+      "soru_metni": "Bir kişinin evine gizli kamera yerleştirerek görüntülerini kaydetmek ve internette yayınlamak TCK'da hangi suç kapsamında değerlendirilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Haberleşmenin engellenmesi",
+        "B": "Özel hayatın gizliliğini ihlal",
+        "C": "Bilişim sistemine girme",
+        "D": "Verileri yok etme",
+        "E": "Hakaret"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Kişilerin özel hayatına ilişkin görüntü veya seslerin kayda alınması ve ifşa edilmesi TCK 134. madde (Özel hayatın gizliliğini ihlal) kapsamındadır[cite: 1863, 1867]."
+    },
+    {
+      "soruid": 23,
+      "soru_metni": "Unutulma hakkı kavramı Avrupa Birliği'nde hangi mahkeme kararıyla gündeme gelmiş ve içtihat oluşmuştur?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Avrupa İnsan Hakları Mahkemesi",
+        "B": "Uluslararası Ceza Mahkemesi",
+        "C": "Avrupa Adalet Divanı (Google Kararı)",
+        "D": "Lahey Adalet Divanı",
+        "E": "Türkiye Anayasa Mahkemesi"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Avrupa Adalet Divanı, 2014 tarihli Google İspanya kararında 'unutulma hakkı'na hükmederek bu kavramı gündeme taşımıştır[cite: 2108]."
+    },
+    {
+      "soruid": 24,
+      "soru_metni": "Bir başkasına ait kredi kartını kopyalayarak sahte kart üretmek, TCK 245. maddeye göre en az kaç yıl hapis cezası gerektirir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "1 yıl",
+        "B": "2 yıl",
+        "C": "3 yıl",
+        "D": "5 yıl",
+        "E": "10 yıl"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Sahte banka veya kredi kartı üreten, satan veya kabul eden kişi 3 yıldan 7 yıla kadar hapis cezası ile cezalandırılır[cite: 1766]."
+    },
+    {
+      "soruid": 25,
+      "soru_metni": "5651 sayılı kanuna göre, yer sağlayıcıların (hosting firmaları) sundukları içerikleri denetleme yükümlülüğü var mıdır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Evet, her içeriği kontrol etmelidirler.",
+        "B": "Hayır, içeriklerin hukuka uygunluğunu denetlemekle yükümlü değildirler.",
+        "C": "Sadece şikayet olursa denetlerler.",
+        "D": "Sadece ticari siteleri denetlerler.",
+        "E": "Evet, her ay rapor vermelidirler."
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Kanunun 5. maddesine göre yer sağlayıcılar, barındırdıkları içeriklerin hukuka uygunluğunu denetlemekle yükümlü değildir[cite: 1931]."
+    },
+    {
+      "soruid": 26,
+      "soru_metni": "Kişisel Verileri Koruma Kurumu (KVKK) kaç üyeden oluşur?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "5",
+        "B": "7",
+        "C": "9",
+        "D": "11",
+        "E": "15"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "KVKK'nın yönetim organı olan Kurul, 9 kişiden oluşmaktadır[cite: 2019]."
+    },
+    {
+      "soruid": 27,
+      "soru_metni": "Bilişim suçlarının soruşturulmasında şikayet şartı aranır mı?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Evet, mağdur şikayet etmezse dava açılmaz.",
+        "B": "Hayır, savcılık resen (kendiliğinden) soruşturabilir.",
+        "C": "Sadece maddi zarar varsa aranmaz.",
+        "D": "Sadece kamu kurumlarına karşıysa aranmaz.",
+        "E": "Evet, şikayet geri çekilirse dava düşer."
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Bilişim suçları şikâyete tabi suçlardan değildir, savcılık kendiliğinden soruşturabilir ve şikayetten vazgeçme davanın düşmesine sebep olmaz[cite: 1668]."
+    },
+    {
+      "soruid": 28,
+      "soru_metni": "TCK 142/2-e maddesine göre, hırsızlık suçunun 'bilişim sistemleri kullanılarak' işlenmesi (örneğin internet bankacılığıyla para çalma) ne sonuç doğurur?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Suçun cezası azalır.",
+        "B": "Suç, 'bilişim suçu' olmaktan çıkar.",
+        "C": "Suç nitelikli hale gelir ve ceza ağırlaştırılır.",
+        "D": "Sadece para cezası verilir.",
+        "E": "Uzlaşma yoluna gidilir."
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Hırsızlığın bilişim sistemleri kullanılarak işlenmesi, suçu nitelikli hale getirir ve cezanın ağırlaştırılmasına neden olur[cite: 1885]."
+    },
+    {
+      "soruid": 29,
+      "soru_metni": "Türk Ceza Kanunu'nda 'Bilişim Alanında Suçlar' başlığı altında düzenlenen maddeler hangileridir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "TCK 100-105",
+        "B": "TCK 140-145",
+        "C": "TCK 243-246",
+        "D": "TCK 301-305",
+        "E": "TCK 50-55"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "TCK'nın 10. bölümünde Bilişim Alanında Suçlar, 243, 244, 245 ve 245/A maddelerinde düzenlenmiştir[cite: 1665]."
+    },
+    {
+      "soruid": 30,
+      "soru_metni": "Kişisel verilerin işlenmesinde 'açık rıza' ne anlama gelir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Sözlü izin vermek.",
+        "B": "Belirli bir konuya ilişkin, bilgilendirilmeye dayanan ve özgür iradeyle açıklanan rıza.",
+        "C": "Sessiz kalarak kabul etmek.",
+        "D": "Zorla alınan imza.",
+        "E": "Genel bir onay formu imzalamak."
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Açık rıza, belirli bir konuya ilişkin, bilgilendirilmeye dayanan ve özgür iradeyle açıklanan rızayı ifade eder[cite: 1989]."
+    },
+    {
+      "soruid": 31,
+      "soru_metni": "Aşağıdaki ifadelerden hangisi yanlıştır? (Ünite Sorusu)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Bilişim hukuku eklektik bir hukuktur.",
+        "B": "Bilişim hukukunda örf ve adetler geçerlidir.",
+        "C": "Bilişim suçlarında ceza vermeye devlet yetkilidir.",
+        "D": "Fikri mülkiyet hakları bilişim hukukuna dahildir.",
+        "E": "Bilişim hukuku AB direktifleri ile uyumlu olacak şekilde hayata geçirilmiştir."
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Bilişim hukuku teknik ve yazılı kurallara dayanır, örf ve adet hukuku bu alanda geçerli bir kaynak değildir[cite: 2263]."
+    },
+    {
+      "soruid": 32,
+      "soru_metni": "Aşağıdakilerden hangisi Türk Ceza Kanunu'nda yer alan bilişim suçlarından biri değildir? (Ünite Sorusu)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Bilişim sistemine girme",
+        "B": "Sistemi engelleme, bozma, verileri yok etme veya değiştirme",
+        "C": "Banka veya kredi kartlarının kötüye kullanılması",
+        "D": "Yasak cihaz veya programlar",
+        "E": "Kişisel verilerin işlenmesi"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": "Kişisel verilerin işlenmesi (TCK 135-140) 'Özel Hayata Karşı Suçlar' bölümündedir, teknik anlamda 'Bilişim Alanında Suçlar' (243-245) bölümünde yer almaz[cite: 2263]."
+    },
+    {
+      "soruid": 33,
+      "soru_metni": "Bir kişinin sosyal medya hesabını ele geçirmek aşağıdaki bilişim suçlarından hangisinin kapsamına girer? (Ünite Sorusu)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Sistemi engelleme, bozma, verileri yok etme veya değiştirme",
+        "B": "Banka veya kredi kartlarının kötüye kullanılması",
+        "C": "Yasak cihaz veya programlar",
+        "D": "Bilişim sistemine girme",
+        "E": "Kişisel verilerin işlenmesi"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": "Bir hesaba izinsiz erişim sağlamak 'Bilişim sistemine girme' suçudur[cite: 2263]."
+    },
+    {
+      "soruid": 34,
+      "soru_metni": "Bir bilgisayardaki verilerin kısmen veya tamamen kullanılamaz hale getirilmesi TCK'nın hangi maddesi kapsamında cezalandırılır? (Ünite Sorusu)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "TCK 243",
+        "B": "TCK 244",
+        "C": "TCK 245",
+        "D": "TCK 133",
+        "E": "TCK 124"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Verileri bozma, yok etme veya erişilmez kılma TCK 244. maddede düzenlenmiştir[cite: 2263]."
+    },
+    {
+      "soruid": 35,
+      "soru_metni": "Başkasına ait kredi kartı bilgilerini kopyalayan kişiye verilecek hapis cezasının alt sınırı kaç yıldır? (Ünite Sorusu)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "6 ay",
+        "B": "1 yıl",
+        "C": "3 yıl",
+        "D": "5 yıl",
+        "E": "7 yıl"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "TCK 245/2'ye göre sahte kart üretmek (kopyalamak) 3 yıldan 7 yıla kadar hapis cezası gerektirir, alt sınır 3 yıldır[cite: 2263]."
+    },
+    {
+      "soruid": 36,
+      "soru_metni": "Aşağıdakilerden hangisi bilişim araçlarıyla işlenen suçlardan biri değildir? (Ünite Sorusu)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Kişiler arasındaki haberleşmenin engellenmesi",
+        "B": "Gizliliği ifşa",
+        "C": "Özel hayatı ihlali",
+        "D": "Yasak program kullanılması",
+        "E": "Kişisel verileri ele geçirme"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": "'Yasak program kullanılması' doğrudan bir 'Bilişim Suçu'dur (TCK 245/A); diğer şıklar ise bilişim araçları *kullanılarak* işlenebilen genel suçlardır[cite: 2263]."
+    },
+    {
+      "soruid": 37,
+      "soru_metni": "Facebook, Instagram ve Twitter gibi sosyal medya araçları üzerinden hakaret içerikli yazı ve mesajlar göndermek TCK'nın hangi maddesine göre suç olarak değerlendirilir? (Ünite Sorusu)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "TCK 124",
+        "B": "TCK 125",
+        "C": "TCK 132",
+        "D": "TCK 134",
+        "E": "TCK 142"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Hakaret suçu TCK 125. maddede düzenlenmiştir[cite: 2263]."
+    },
+    {
+      "soruid": 38,
+      "soru_metni": "İnternet Kanununa göre internet ortamı üzerinden kullanıcılara sunulan her türlü bilgi veya veriyi üreten, değiştiren ve sağlayan gerçek veya tüzel kişilere ne ad verilir? (Ünite Sorusu)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Yer sağlayıcı",
+        "B": "Erişim sağlayıcı",
+        "C": "Toplu kullanım sağlayıcı",
+        "D": "İnternet kullanıcısı",
+        "E": "İçerik sağlayıcı"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": "Bu tanım 5651 sayılı kanunda 'İçerik sağlayıcı'yı ifade eder[cite: 2263]."
+    },
+    {
+      "soruid": 39,
+      "soru_metni": "Aşağıdakilerden hangisi erişimin engellenmesi cezasını gerektiren suçlardan biri değildir? (Ünite Sorusu)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "İntihara yönlendirme",
+        "B": "Çocukların cinsel istismarı",
+        "C": "Hakaret ve iftira",
+        "D": "Uyuşturucu veya uyarıcı madde kullanılmasını kolaylaştırma",
+        "E": "Sağlık için tehlikeli madde temini"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Hakaret ve iftira, 5651 sayılı kanunun 8. maddesindeki erişim engelleme katalog suçları arasında yer almaz[cite: 2263]."
+    },
+    {
+      "soruid": 40,
+      "soru_metni": "Aşağıdakilerden hangisi Kişisel Verileri Koruma Kanunu'na göre özel nitelikli kişisel veri olarak değerlendirilmez? (Ünite Sorusu)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Mesleği",
+        "B": "Etnik kökeni",
+        "C": "Siyasi düşüncesi",
+        "D": "Sendika üyeliği",
+        "E": "Cinsel hayatı"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Etnik köken, siyasi düşünce, sendika üyeliği ve cinsel hayat 'özel nitelikli' veridir; ancak 'meslek' bilgisi genel kişisel veridir, özel nitelikli değildir[cite: 2263]."
+    }
+      ]
+    }
+  ]
+}
