@@ -1,0 +1,573 @@
+{
+  "ders_kodu": "SMY203U",
+  "ders_adi": "DİJİTAL TASARIM",
+  "sinavlar": [
+    {
+      "baslik": "2025 Ünite 8 Yapay Zeka Destekli Çıkabilecek Sorular",
+      "tur": "AI",
+      "yil": 2025,
+      "sorular": [
+   {
+      "soruid": 1,
+      "soru_metni": "Bir tasarımın hukuk düzeni tarafından korunabilmesi için sahip olması gereken en temel özellik nedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Pahalı olması",
+        "B": "Renkli olması",
+        "C": "Ayırt edici niteliğe ve yeniliğe sahip olması",
+        "D": "Sadece bilgisayarda yapılmış olması",
+        "E": "Yabancı bir ülkede üretilmesi"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Hukuken bir tasarımın korunabilmesi (tescil edilebilmesi) için daha önce kamuya sunulmamış olması (yenilik) ve diğerlerinden farklılaşması (ayırt edicilik) gerekir."
+    },
+    {
+      "soruid": 2,
+      "soru_metni": "Fikir ve sanat eserleri üzerindeki hakları koruyan ve 'Telif Hakkı' olarak da bilinen hukuk dalı hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Sınai Mülkiyet",
+        "B": "Fikri Mülkiyet (Fikir ve Sanat Eserleri)",
+        "C": "Ceza Hukuku",
+        "D": "İdare Hukuku",
+        "E": "Borçlar Hukuku"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Telif hakları, bilim, edebiyat, musiki, güzel sanatlar gibi alanlardaki eserleri koruyan Fikri Mülkiyet hukuku kapsamındadır."
+    },
+    {
+      "soruid": 3,
+      "soru_metni": "Türkiye'de yürürlükte olan ve buluşlar, markalar, tasarımlar gibi sanayi ile ilgili hakları tek çatı altında toplayan 2017 tarihli kanun hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Fikir ve Sanat Eserleri Kanunu (FSEK)",
+        "B": "Türk Ceza Kanunu (TCK)",
+        "C": "Sınai Mülkiyet Kanunu (SMK)",
+        "D": "Medeni Kanun",
+        "E": "Ticaret Kanunu"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "6769 sayılı Sınai Mülkiyet Kanunu (SMK), marka, patent, tasarım ve coğrafi işaretleri tek bir kanunla düzenlemek üzere 2017'de yürürlüğe girmiştir."
+    },
+    {
+      "soruid": 4,
+      "soru_metni": "Bir buluşun (teknik yeniliğin) sahibine, o buluşu üretme, kullanma ve satma konusunda belirli bir süre için verilen tekel hakkına ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Marka",
+        "B": "Patent",
+        "C": "Telif",
+        "D": "Endüstriyel Tasarım",
+        "E": "Coğrafi İşaret"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Patent, teknik bir soruna çözüm getiren buluşların sahibine verilen koruma belgesidir."
+    },
+    {
+      "soruid": 5,
+      "soru_metni": "Tescilli bir tasarımın koruma süresi, başvuru tarihinden itibaren kaç yıldır ve kaçar yıllık dönemler halinde uzatılabilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Toplam 5 yıl, uzatılamaz.",
+        "B": "5 yıldır, 5'er yıllık dönemlerle toplam 25 yıla kadar uzatılabilir.",
+        "C": "10 yıldır, uzatılamaz.",
+        "D": "Süresizdir.",
+        "E": "20 yıldır, 10'ar yıllık dönemlerle uzatılabilir."
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Tescilli tasarımların koruma süresi 5 yıldır. Bu süre beşer yıllık dönemler halinde yenilenmek suretiyle toplam 25 yıla kadar uzatılabilir."
+    },
+    {
+      "soruid": 6,
+      "soru_metni": "Aşağıdakilerden hangisi 'Fikir ve Sanat Eserleri Kanunu' (FSEK) kapsamında korunan bir eser türü değildir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "İlim ve Edebiyat Eserleri",
+        "B": "Musiki Eserleri",
+        "C": "Güzel Sanat Eserleri",
+        "D": "Sinema Eserleri",
+        "E": "Sanayi Makinesi Motoru"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": "Sanayi makinesi motoru teknik bir buluştur ve 'Patent' (Sınai Mülkiyet) konusu olur, FSEK kapsamında bir sanat/fikir eseri değildir."
+    },
+    {
+      "soruid": 7,
+      "soru_metni": "Bir teşebbüsün mal veya hizmetlerini diğer teşebbüslerin mal veya hizmetlerinden ayırt etmeyi sağlayan işaretlere (isim, logo, şekil vb.) ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Patent",
+        "B": "Tasarım",
+        "C": "Marka",
+        "D": "Faydalı Model",
+        "E": "Eser"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Marka, bir işletmenin ürün veya hizmetlerini diğerlerinden ayıran her türlü işarettir."
+    },
+    {
+      "soruid": 8,
+      "soru_metni": "Dünya Fikri Mülkiyet Örgütü'nün (WIPO) merkezi hangi şehirdedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "New York",
+        "B": "Paris",
+        "C": "Londra",
+        "D": "Cenevre",
+        "E": "Brüksel"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": "WIPO (World Intellectual Property Organization), merkezi Cenevre'de bulunan bir BM kuruluşudur."
+    },
+    {
+      "soruid": 9,
+      "soru_metni": "Türkiye'de fikri ve sınai mülkiyet haklarının tescili ve korunmasından sorumlu olan resmi kurum hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "TÜBİTAK",
+        "B": "Türk Patent ve Marka Kurumu (TÜRKPATENT)",
+        "C": "Kültür Bakanlığı",
+        "D": "RTÜK",
+        "E": "Rekabet Kurumu"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Sınai mülkiyet haklarının (marka, patent, tasarım) tescili ve korunması TÜRKPATENT tarafından yürütülür."
+    },
+    {
+      "soruid": 10,
+      "soru_metni": "Fikir ve sanat eserlerinde, eserin sahibi kimdir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Eseri yayınlayan yayınevi",
+        "B": "Eseri satın alan kişi",
+        "C": "Eseri meydana getiren kişi",
+        "D": "Devlet",
+        "E": "Matbaa"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "FSEK'e göre bir eserin sahibi, onu meydana getiren kişidir."
+    },
+    {
+      "soruid": 11,
+      "soru_metni": "Bir eserin korunması için tescil (kayıt) zorunlu mudur?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Evet, tescilsiz eser korunmaz.",
+        "B": "Hayır, eser yaratıldığı andan itibaren kendiliğinden koruma altındadır (FSEK kapsamında).",
+        "C": "Sadece müzik eserleri için zorunludur.",
+        "D": "Sadece kitaplar için zorunludur.",
+        "E": "Evet, notere onaylatmak şarttır."
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Fikir ve sanat eserlerinde koruma, eserin üretildiği anda başlar; tescil kurucu değil, ispatlayıcı bir işlemdir (ihtiyari kayıt)."
+    },
+    {
+      "soruid": 12,
+      "soru_metni": "Sınai Mülkiyet Kanunu'na göre 'Tasarım' kavramı ürünün hangi özelliğini ifade eder?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Teknik çalışma prensibini",
+        "B": "Kimyasal formülünü",
+        "C": "Dış görünümünü (Görünüm özelliği)",
+        "D": "Üretim maliyetini",
+        "E": "Kullanım amacını"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Tasarım, ürünün tümü veya bir parçasının çizgi, şekil, renk, doku gibi özelliklerinden kaynaklanan 'görünümü'dür."
+    },
+    {
+      "soruid": 13,
+      "soru_metni": "'Kamuya Sunma' kavramı tasarım hukukunda neyi ifade eder?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Tasarımın devlet dairesine teslim edilmesini",
+        "B": "Tasarımın sadece aile içinde gösterilmesini",
+        "C": "Tasarımın sergilenmesi, satılması, yayınlanması yoluyla herkesin ulaşabileceği hale gelmesini",
+        "D": "Tasarımın kasada saklanmasını",
+        "E": "Tasarımın imha edilmesini"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Kamuya sunma; sergileme, satış, reklam gibi yollarla tasarımın üçüncü kişilerin erişimine açılmasıdır."
+    },
+    {
+      "soruid": 14,
+      "soru_metni": "Aşağıdakilerden hangisi sınai mülkiyet haklarından biri değildir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Patent",
+        "B": "Faydalı Model",
+        "C": "Marka",
+        "D": "Tasarım",
+        "E": "Roman (Edebiyat Eseri)"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": "Roman, Fikir ve Sanat Eserleri (Telif) kapsamındadır; diğerleri Sınai Mülkiyet (Sanayi) kapsamındadır."
+    },
+    {
+      "soruid": 15,
+      "soru_metni": "Marka tescili koruma süresi kaç yıldır ve yenilenebilir mi?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "10 yıldır ve 10'ar yıllık dönemlerle sonsuza kadar yenilenebilir.",
+        "B": "20 yıldır, yenilenemez.",
+        "C": "5 yıldır, bir kere yenilenebilir.",
+        "D": "50 yıldır, yenilenemez.",
+        "E": "70 yıldır."
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Marka tescili 10 yıl koruma sağlar ve ücreti ödendiği sürece onar yıllık dönemler halinde sınırsız kez yenilenebilir."
+    },
+    {
+      "soruid": 16,
+      "soru_metni": "Uluslararası alanda edebiyat ve sanat eserlerinin korunmasına ilişkin imzalanan ilk ve en temel sözleşme hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Paris Sözleşmesi",
+        "B": "Bern Sözleşmesi",
+        "C": "Viyana Sözleşmesi",
+        "D": "Maastricht Antlaşması",
+        "E": "Lozan Antlaşması"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "1886 tarihli Bern Sözleşmesi, edebiyat ve sanat eserlerinin korunmasına dair en temel uluslararası belgedir."
+    },
+    {
+      "soruid": 17,
+      "soru_metni": "Sınai mülkiyet haklarının (patent, marka, tasarım) uluslararası korunmasına ilişkin 1883 tarihli temel sözleşme hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Bern Sözleşmesi",
+        "B": "Paris Sözleşmesi",
+        "C": "Lahey Anlaşması",
+        "D": "Madrid Protokolü",
+        "E": "Lizbon Anlaşması"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Sınai mülkiyetin korunmasına ilişkin ilk ve en kapsamlı uluslararası düzenleme 1883 tarihli Paris Sözleşmesi'dir."
+    },
+    {
+      "soruid": 18,
+      "soru_metni": "Bir tasarımın tescil edilebilmesi için 'Yenilik' şartı ne anlama gelir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Tasarımın daha önce dünyanın hiçbir yerinde kamuya sunulmamış olması",
+        "B": "Tasarımın sadece Türkiye'de yeni olması",
+        "C": "Tasarımın çok renkli olması",
+        "D": "Tasarımın pahalı malzemeden yapılması",
+        "E": "Tasarımın elektronik olması"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Yenilik, bir tasarımın aynısının, başvuru tarihinden önce dünyanın herhangi bir yerinde kamuya sunulmamış olmasını ifade eder (Mutlak yenilik)."
+    },
+    {
+      "soruid": 19,
+      "soru_metni": "Aşağıdaki durumlardan hangisi tasarım koruması kapsamı dışındadır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Mobilya tasarımı",
+        "B": "Kamu düzenine ve genel ahlaka aykırı tasarımlar",
+        "C": "Ambalaj tasarımı",
+        "D": "Kıyafet tasarımı",
+        "E": "Web sitesi arayüz tasarımı"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Kanuna göre kamu düzenine ve genel ahlaka aykırı tasarımlar koruma kapsamı dışındadır ve tescil edilemez."
+    },
+    {
+      "soruid": 20,
+      "soru_metni": "Telif hakları (eser koruması) genellikle eser sahibinin yaşamı boyunca ve ölümünden sonra kaç yıl devam eder?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "20 yıl",
+        "B": "50 yıl",
+        "C": "70 yıl",
+        "D": "100 yıl",
+        "E": "Sonsuza kadar"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "FSEK'e göre koruma süresi eser sahibinin yaşadığı müddetçe ve ölümünden itibaren 70 yıldır."
+    },
+    {
+      "soruid": 21,
+      "soru_metni": "Creative Commons (CC) lisanslarının temel amacı nedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Eserlerin kullanımını tamamen yasaklamak",
+        "B": "Eser sahibinin telif haklarından feragat etmeden, eserini belirli koşullarla paylaşıma açmasını sağlamak",
+        "C": "Tüm eserleri ücretli yapmak",
+        "D": "Sadece ticari kullanımı zorunlu kılmak",
+        "E": "Devletin eserlere el koyması"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Creative Commons, 'bazı hakları saklıdır' prensibiyle, eser sahibinin belirlediği şartlarda (atıf, ticari olmayan kullanım vb.) eserin paylaşımına izin veren lisanslama modelidir."
+    },
+    {
+      "soruid": 22,
+      "soru_metni": "Teknik bir buluşun (örneğin yeni bir motor sistemi) korunması için hangi başvuru yapılmalıdır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Telif",
+        "B": "Marka Tescili",
+        "C": "Tasarım Tescili",
+        "D": "Patent veya Faydalı Model",
+        "E": "Coğrafi İşaret"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": "Teknik yönü olan, bir soruna teknik çözüm getiren yenilikler Patent veya Faydalı Model ile korunur."
+    },
+    {
+      "soruid": 23,
+      "soru_metni": "Bir ürünün sadece dış görünüşünü (estetik yapısını) korumak için hangi tescil türü uygundur?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Patent",
+        "B": "Faydalı Model",
+        "C": "Tasarım Tescili",
+        "D": "Marka",
+        "E": "Ticaret Unvanı"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Tasarım tescili, ürünün teknik işlevini değil, sadece görsel özelliklerini (dış görünüşünü) korur."
+    },
+    {
+      "soruid": 24,
+      "soru_metni": "Türkiye'de patent koruma süresi (incelemeli patent) kaç yıldır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "7 yıl",
+        "B": "10 yıl",
+        "C": "20 yıl",
+        "D": "50 yıl",
+        "E": "Sonsuz"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Patent koruma süresi, başvuru tarihinden itibaren 20 yıldır ve bu süre uzatılamaz."
+    },
+    {
+      "soruid": 25,
+      "soru_metni": "Fikri mülkiyet haklarının, ihlal eden kişilere karşı sağladığı en temel hukuki yetki nedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "İzinsiz kullanımı önleme (men etme) yetkisi",
+        "B": "Vergi muafiyeti",
+        "C": "Sınırsız üretim hakkı",
+        "D": "Devlet memuru olma hakkı",
+        "E": "Yurtdışına çıkış izni"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Mülkiyet hakkı sahibine, eserini veya buluşunu izinsiz kullanan üçüncü kişileri engelleme (men etme) ve tazminat isteme yetkisi verir."
+    },
+    {
+      "soruid": 26,
+      "soru_metni": "Tasarım hukukunda 'hoşgörü süresi' ne kadardır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "3 ay",
+        "B": "6 ay",
+        "C": "12 ay",
+        "D": "2 yıl",
+        "E": "5 yıl"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Tasarımcı, tasarımını kamuya sunduktan sonra 12 ay içinde tescil başvurusu yaparsa, kendi ifşası yeniliği bozmaz (Hoşgörü Süresi)."
+    },
+    {
+      "soruid": 27,
+      "soru_metni": "Bilgisayar programları (yazılımlar) Türk hukukunda hangi kanun kapsamında korunur?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Sınai Mülkiyet Kanunu (Patent)",
+        "B": "Fikir ve Sanat Eserleri Kanunu (Eser/Telif)",
+        "C": "Ticaret Kanunu",
+        "D": "Borçlar Kanunu",
+        "E": "İş Kanunu"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Bilgisayar programları ve kaynak kodları, FSEK kapsamında 'ilim ve edebiyat eseri' sayılarak telif hakkıyla korunur (Patentlenmesi istisnai teknik durumlara bağlıdır)."
+    },
+    {
+      "soruid": 28,
+      "soru_metni": "Bir yöreye, alana veya bölgeye özgü ürünlerin (örneğin Antep Baklavası, Malatya Kayısısı) kalitesini ve kökenini gösteren işarete ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Marka",
+        "B": "Coğrafi İşaret",
+        "C": "Tasarım",
+        "D": "Patent",
+        "E": "Faydalı Model"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Belirgin bir niteliği, ünü veya diğer özellikleri bakımından kökenin bulunduğu yöre, alan, bölge veya ülke ile özdeşleşmiş ürünler Coğrafi İşaret ile korunur."
+    },
+    {
+      "soruid": 29,
+      "soru_metni": "Fikir ve Sanat Eserleri Kanunu'na göre 'İşleme Eser' ne demektir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Sıfırdan yaratılan eser",
+        "B": "Başka bir eserden yararlanılarak oluşturulan ve o esere bağımlı olan eser (Örn: Çeviri, Uyarlama)",
+        "C": "Anonim eser",
+        "D": "Kamu malı eser",
+        "E": "Hiç yayınlanmamış eser"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Diğer bir eserden istifade suretiyle vücuda getirilip de bu esere nispetle müstakil olmayan eserlere 'İşleme' denir (Tercüme, romanın filme uyarlanması vb.)."
+    },
+    {
+      "soruid": 30,
+      "soru_metni": "Marka ve Patent vekilliği sınavını kazanan kişiler hangi kurum nezdinde işlem yapmaya yetkili olurlar?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Mahkemeler",
+        "B": "Noterler",
+        "C": "Türk Patent ve Marka Kurumu",
+        "D": "Gümrükler",
+        "E": "Belediyeler"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Marka ve Patent vekilleri, müvekkilleri adına Türk Patent ve Marka Kurumu nezdindeki tescil süreçlerini yürütürler."
+    },
+    {
+      "soruid": 31,
+      "soru_metni": "Hukuk kurallarını din kurallarından ayıran en temel özellik aşağıdakilerden hangisidir? (Ünite Sorusu 1)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Yaptırımının manevi olması",
+        "B": "Devlet gücüne dayanması (Maddi yaptırım)",
+        "C": "Sadece vicdani olması",
+        "D": "Yazılı olmaması",
+        "E": "Kişisel olması"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Hukuk kuralları devlet gücüyle desteklenen, uyulmadığında maddi yaptırımı (ceza, tazminat) olan kurallardır; din kuralları ise manevi yaptırımlıdır."
+    },
+    {
+      "soruid": 32,
+      "soru_metni": "Fikir ve sanat eserlerinin korunması ile ilgili temel kanun aşağıdakilerden hangisidir? (Ünite Sorusu 2)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Türk Ticaret Kanunu",
+        "B": "Sınai Mülkiyet Kanunu",
+        "C": "Fikir ve Sanat Eserleri Kanunu (FSEK)",
+        "D": "Borçlar Kanunu",
+        "E": "Medeni Kanun"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Telif hakları (eserler) 5846 sayılı Fikir ve Sanat Eserleri Kanunu ile korunur."
+    },
+    {
+      "soruid": 33,
+      "soru_metni": "Sınai mülkiyet haklarını (marka, patent, tasarım vb.) düzenleyen ve 2017 yılında yürürlüğe giren kanun hangisidir? (Ünite Sorusu 3)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "6769 sayılı Sınai Mülkiyet Kanunu",
+        "B": "556 sayılı KHK",
+        "C": "551 sayılı KHK",
+        "D": "FSEK",
+        "E": "Tüketici Kanunu"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "2017 yılında önceki KHK'ları yürürlükten kaldıran ve alanı tek elde toplayan 6769 sayılı Sınai Mülkiyet Kanunu yürürlüğe girmiştir."
+    },
+    {
+      "soruid": 34,
+      "soru_metni": "Aşağıdakilerden hangisi bir tasarımın tescil edilebilmesi için gereken şartlardan biridir? (Ünite Sorusu 4)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Ucuz olması",
+        "B": "Yenilik ve Ayırt Edicilik",
+        "C": "Seri üretilmesi",
+        "D": "Renkli olması",
+        "E": "Yerli malı olması"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Tasarım tescili için iki temel kriter 'Yenilik' (daha önce sunulmamış olma) ve 'Ayırt Edicilik'tir."
+    },
+    {
+      "soruid": 35,
+      "soru_metni": "Tescilli bir tasarımın koruma süresi toplamda en fazla kaç yıl olabilir? (Ünite Sorusu 5)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "10 yıl",
+        "B": "15 yıl",
+        "C": "20 yıl",
+        "D": "25 yıl",
+        "E": "50 yıl"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": "Tescilli tasarımlar 5 yıllık dönemler halinde yenilenerek en fazla 25 yıl korunabilir."
+    },
+    {
+      "soruid": 36,
+      "soru_metni": "Aşağıdakilerden hangisi FSEK kapsamında eser sahibi sayılmaz? (Ünite Sorusu 6)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Besteci",
+        "B": "Ressam",
+        "C": "Yazar",
+        "D": "Yazılım geliştiren",
+        "E": "Eseri sadece satın alan kişi"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": "Eser sahibi, eseri meydana getiren kişidir; satın alan kişi sadece kullanım hakkına (veya nüshaya) sahip olur, eser sahibi olmaz."
+    },
+    {
+      "soruid": 37,
+      "soru_metni": "Marka tescilinin sağladığı koruma süresi kaç yıldır? (Ünite Sorusu 7)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "5 yıl",
+        "B": "10 yıl",
+        "C": "20 yıl",
+        "D": "25 yıl",
+        "E": "70 yıl"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Marka tescili 10 yıl koruma sağlar (ancak sınırsız yenilenebilir)."
+    },
+    {
+      "soruid": 38,
+      "soru_metni": "Uluslararası alanda fikri mülkiyet haklarının korunması için çalışan Birleşmiş Milletler kuruluşu hangisidir? (Ünite Sorusu 8)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "WHO",
+        "B": "WTO",
+        "C": "WIPO",
+        "D": "UNESCO",
+        "E": "NATO"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "WIPO (World Intellectual Property Organization), fikri mülkiyet hakları alanındaki BM kuruluşudur."
+    },
+    {
+      "soruid": 39,
+      "soru_metni": "Paris Sözleşmesi (1883) hangi hakların korunmasına yöneliktir? (Ünite Sorusu 9)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Sadece telif hakları",
+        "B": "Sınai Mülkiyet Hakları (Patent, Marka, Tasarım)",
+        "C": "İnsan hakları",
+        "D": "Çevre hakları",
+        "E": "Deniz hukuku"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Paris Sözleşmesi, sınai mülkiyet haklarının (sanayi ile ilgili hakların) uluslararası korunmasını düzenler."
+    },
+    {
+      "soruid": 40,
+      "soru_metni": "Bern Sözleşmesi (1886) hangi hakların korunmasına yöneliktir? (Ünite Sorusu 10)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Patentler",
+        "B": "Markalar",
+        "C": "Edebiyat ve Sanat Eserleri (Telif Hakları)",
+        "D": "Ticari sırlar",
+        "E": "Tasarımlar"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Bern Sözleşmesi, edebiyat ve sanat eserlerinin (telif haklarının) uluslararası korunmasını düzenleyen temel belgedir."
+    }
+      ]
+    }
+  ]
+}
