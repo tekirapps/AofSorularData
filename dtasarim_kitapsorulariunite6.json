@@ -1,0 +1,573 @@
+{
+  "ders_kodu": "SMY203U",
+  "ders_adi": "DİJİTAL TASARIM",
+  "sinavlar": [
+    {
+      "baslik": "2025 Ünite 6 Yapay Zeka Destekli Çıkabilecek Sorular",
+      "tur": "AI",
+      "yil": 2025,
+      "sorular": [
+    {
+      "soruid": 1,
+      "soru_metni": "Bir metni açıklamak, somutlaştırmak veya süslemek amacıyla yapılan, estetik kaygıdan ziyade mesaj iletme amacı taşıyan görsel çalışmalara ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Rönesans Resmi",
+        "B": "Heykel",
+        "C": "İllüstrasyon (Resimleme)",
+        "D": "Soyut Sanat",
+        "E": "Enstalasyon"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "İllüstrasyon, bir konuyu ya da metni açıklayan, betimleyen ve mesajı görselleştiren resimleme sanatıdır."
+    },
+    {
+      "soruid": 2,
+      "soru_metni": "İllüstrasyonun tarihsel kökeni düşünüldüğünde, bilinen ilk örnekleri nerede görülmektedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Dijital ekranlarda",
+        "B": "Mağara duvarlarında",
+        "C": "Tuval üzerinde",
+        "D": "Fotoğraf kağıdında",
+        "E": "Televizyonda"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "İnsanların iletişim kurmak için mağara duvarlarına çizdiği av sahneleri ve figürler, illüstrasyonun ilk ilkel örnekleri olarak kabul edilir."
+    },
+    {
+      "soruid": 3,
+      "soru_metni": "Matematiksel formüllere (vektörlere) dayalı olan, büyütülüp küçültüldüğünde görüntü kalitesinde bozulma yaşanmayan dijital görüntü türü hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Piksel Tabanlı (Raster)",
+        "B": "Bitmap",
+        "C": "Vektörel",
+        "D": "Analog",
+        "E": "Fotoğrafik"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Vektörel görseller matematiksel koordinatlarla oluşturulduğu için çözünürlükten bağımsızdır ve boyut değişiminde kalite kaybı yaşamaz."
+    },
+    {
+      "soruid": 4,
+      "soru_metni": "Nokta (piksel) esaslı çalışan, büyütüldüğünde 'pikselleşme' (bozulma) sorunu yaşayan görüntü türü hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Vektörel",
+        "B": "Raster (Bitmap)",
+        "C": "Geometrik",
+        "D": "Matematiksel",
+        "E": "Çizgisel"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Raster (piksel tabanlı) görüntüler, belirli sayıda renkli kareden (piksel) oluşur ve boyutları artırıldığında detay kaybı ve bozulma yaşarlar."
+    },
+    {
+      "soruid": 5,
+      "soru_metni": "Geleneksel boyama tekniklerini (yağlı boya, sulu boya vb.) dijital ortamda taklit ederek yapılan illüstrasyon türüne ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Vektörel Çizim",
+        "B": "Matte Painting",
+        "C": "Dijital Boyama (Digital Painting)",
+        "D": "Teknik Çizim",
+        "E": "Kolaj"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Dijital boyama, bilgisayar yazılımları ve tabletler kullanılarak geleneksel boyama hissinin ve dokusunun dijital ortamda oluşturulmasıdır."
+    },
+    {
+      "soruid": 6,
+      "soru_metni": "Sinema sektöründe, gerçekte var olmayan veya çekilmesi çok maliyetli olan mekanların/manzaraların dijital olarak oluşturulması tekniğine ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Stop Motion",
+        "B": "Matte Painting",
+        "C": "Vektörel İllüstrasyon",
+        "D": "Storyboarding",
+        "E": "Tipografi"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Matte Painting, film setlerinde arka plan oluşturmak için kullanılan, farklı görüntülerin ve boyamanın birleştirildiği bir tekniktir."
+    },
+    {
+      "soruid": 7,
+      "soru_metni": "Matte Painting tekniğinin dijitalleşmeden önceki dönemde (geleneksel yöntemle) uygulandığı yüzey hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Kağıt",
+        "B": "Tuval",
+        "C": "Cam",
+        "D": "Ahşap",
+        "E": "Metal"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Geleneksel Matte Painting, kamera önüne yerleştirilen büyük cam levhalar üzerine manzara boyanarak yapılırdı."
+    },
+    {
+      "soruid": 8,
+      "soru_metni": "Adobe firmasının vektörel tabanlı illüstrasyonlar oluşturmak için geliştirdiği endüstri standardı yazılım hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Adobe Photoshop",
+        "B": "Adobe Premiere",
+        "C": "Adobe Illustrator",
+        "D": "Adobe After Effects",
+        "E": "Adobe Lightroom"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Adobe Illustrator, vektör tabanlı çizim ve grafik tasarım için kullanılan en yaygın profesyonel yazılımdır."
+    },
+    {
+      "soruid": 9,
+      "soru_metni": "Piksel tabanlı görüntü işleme ve dijital boyama konusunda en yaygın kullanılan profesyonel yazılım hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Corel Draw",
+        "B": "Adobe Photoshop",
+        "C": "Adobe Illustrator",
+        "D": "AutoCAD",
+        "E": "InDesign"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Adobe Photoshop, piksel tabanlı (raster) görüntü işleme, fotoğraf düzenleme ve dijital boyama alanında lider yazılımdır."
+    },
+    {
+      "soruid": 10,
+      "soru_metni": "Özellikle iPad ve iOS cihazlar için geliştirilen, kullanım kolaylığı ve güçlü fırça motoruyla illüstratörler arasında popüler olan uygulama hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "MS Paint",
+        "B": "Procreate",
+        "C": "GIMP",
+        "D": "Blender",
+        "E": "Excel"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Procreate, iPad tabletler için özel olarak geliştirilmiş, dokunmatik ve kalemle kullanıma uygun popüler bir çizim uygulamasıdır."
+    },
+    {
+      "soruid": 11,
+      "soru_metni": "Grafik tabletlerde bulunan ve kalemin yüzeye ne kadar sert bastırıldığını algılayarak çizgi kalınlığını veya opaklığını değiştiren özelliğe ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Çözünürlük",
+        "B": "Basınç Hassasiyeti (Pressure Sensitivity)",
+        "C": "Renk Derinliği",
+        "D": "Tarama Hızı",
+        "E": "Kablosuz Bağlantı"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Basınç hassasiyeti, dijital kalemin (stylus) tablete uyguladığı baskıyı algılayarak fırça darbelerinin doğal görünmesini sağlar."
+    },
+    {
+      "soruid": 12,
+      "soru_metni": "Geleneksel boya ve fırça etkilerini (yağlı boya dokusu, sulu boya akışkanlığı vb.) en gerçekçi şekilde simüle etmesiyle bilinen yazılım hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Adobe Illustrator",
+        "B": "Corel Painter",
+        "C": "Notepad",
+        "D": "PowerPoint",
+        "E": "Flash"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Corel Painter, 'Natural Media' teknolojisi ile geleneksel sanat malzemelerinin davranışlarını dijital ortamda en iyi taklit eden programlardan biridir."
+    },
+    {
+      "soruid": 13,
+      "soru_metni": "Vektörel çizimlerde kullanılan, noktalar ve bu noktaları birleştiren eğrilerden oluşan çizim mantığına ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Piksel ızgarası",
+        "B": "Bezier Eğrileri (Paths)",
+        "C": "Bitmap haritası",
+        "D": "Mozaik",
+        "E": "Filtre"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Vektörel programlarda çizimler, matematiksel denklemlere dayalı 'Bezier eğrileri' (path/yol) ve bağlantı noktaları (anchor point) ile oluşturulur."
+    },
+    {
+      "soruid": 14,
+      "soru_metni": "Aşağıdakilerden hangisi dijital illüstrasyonun geleneksel yöntemlere göre sağladığı avantajlardan biri **değildir**?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Hata yapıldığında 'Geri Al' (Undo) seçeneğinin olması",
+        "B": "Katmanlar (Layers) ile çalışabilme esnekliği",
+        "C": "Malzeme masrafının (boya, kağıt) zamanla azalması",
+        "D": "Elektrik kesintisinde çalışmanın kaybolma riski olmaması",
+        "E": "Renklerin ve araçların sınırsız değiştirilebilmesi"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": "Dijital çalışmanın en büyük dezavantajlarından biri, elektrik kesintisi veya donanım arızası durumunda kaydedilmemiş verilerin kaybolma riskidir; bu bir avantaj değildir."
+    },
+    {
+      "soruid": 15,
+      "soru_metni": "Dijital illüstrasyonda 'Layer' (Katman) mantığı ne işe yarar?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Çizimi otomatik boyar.",
+        "B": "Çizimin farklı öğelerini (arka plan, karakter vb.) birbirinden bağımsız düzenlemeyi sağlar.",
+        "C": "Dosya boyutunu küçültür.",
+        "D": "Sadece çıktı alırken kullanılır.",
+        "E": "Ekran parlaklığını ayarlar."
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Katmanlar, şeffaf asetatlar gibi üst üste binerek çalışmanın farklı parçalarına diğerlerini bozmadan müdahale etme imkanı tanır."
+    },
+    {
+      "soruid": 16,
+      "soru_metni": "Bir oyunun, filmin veya animasyonun genel atmosferini, mekanlarını ve karakterlerini belirlemek için yapılan ön çizim ve tasarımlara ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Konsept Sanatı (Concept Art)",
+        "B": "Teknik Çizim",
+        "C": "Tipografi",
+        "D": "Logo Tasarımı",
+        "E": "Kaligrafi"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Konsept sanatı, bir projenin görsel stilini ve dünyasını oluşturmak için yapılan, fikir aşamasındaki illüstrasyonlardır."
+    },
+    {
+      "soruid": 17,
+      "soru_metni": "Vektörel çizimlerin en sık kullanıldığı alan aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Fotoğraf düzenleme",
+        "B": "Logo, ikon ve kurumsal kimlik tasarımı",
+        "C": "Matte Painting",
+        "D": "Dijital yağlı boya",
+        "E": "Video kurgu"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Vektörel çizimler her boyutta netliğini koruduğu için logo, ikon ve marka tasarımlarında standart olarak kullanılır."
+    },
+    {
+      "soruid": 18,
+      "soru_metni": "Ekranlı grafik tabletlerin (Örn: Cintiq) standart grafik tabletlerden farkı nedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Daha ucuz olmaları",
+        "B": "Kalem gerektirmemeleri",
+        "C": "Çizimin doğrudan tabletin üzerindeki ekrana yapılması (el-göz koordinasyonunun doğal olması)",
+        "D": "Sadece siyah beyaz olmaları",
+        "E": "Bilgisayara bağlanmamaları"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Ekranlı tabletlerde görüntü doğrudan çizim yüzeyindedir, bu da kağıda çizer gibi doğal bir deneyim sunar; standart tabletlerde ise ele bakarken karşıdaki monitöre bakmak gerekir."
+    },
+    {
+      "soruid": 19,
+      "soru_metni": "Vektörel formatta kaydedilen bir dosyanın uzantısı genellikle hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": ".JPG",
+        "B": ".PSD",
+        "C": ".AI veya .EPS",
+        "D": ".GIF",
+        "E": ".BMP"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": ".AI (Adobe Illustrator) ve .EPS, vektörel verileri saklayan en yaygın dosya formatlarıdır."
+    },
+    {
+      "soruid": 20,
+      "soru_metni": "Piksel tabanlı (Raster) görüntülerin kalitesini belirleyen temel faktör nedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Dosya adı",
+        "B": "Oluşturulma tarihi",
+        "C": "Çözünürlük (Resolution - DPI/PPI)",
+        "D": "Vektör sayısı",
+        "E": "Ekran boyutu"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Piksel tabanlı görsellerde kalite, birim alana düşen piksel sayısı yani çözünürlük ile doğru orantılıdır."
+    },
+    {
+      "soruid": 21,
+      "soru_metni": "Adobe Illustrator'da 'Mesh Tool' (Ağ Aracı) ne işe yarar?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Dosyayı siler.",
+        "B": "Vektörel nesneler üzerinde karmaşık ve gerçekçi renk geçişleri (degrade) oluşturur.",
+        "C": "Pikselleri sayar.",
+        "D": "Yazıyı kalınlaştırır.",
+        "E": "Fotoğrafı kırpar."
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Mesh Tool, vektörel bir nesneye ızgara ekleyerek noktalar arasında çok yumuşak ve fotogerçekçi renk geçişleri yapmayı sağlar."
+    },
+    {
+      "soruid": 22,
+      "soru_metni": "Dijital illüstrasyonda 'Fırça' (Brush) kütüphanelerinin işlevi nedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Sadece düz çizgi çizmeyi sağlamak",
+        "B": "Farklı doku, efekt ve stillerde (kalem, tebeşir, yaprak vb.) çizim yapma imkanı sunmak",
+        "C": "Dosya kaydetmek",
+        "D": "Ekranı temizlemek",
+        "E": "İnternet hızını artırmak"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Fırça kütüphaneleri, sanatçıya sonsuz çeşitlilikte uç şekli, doku ve efekt sunarak dijital çizimin zenginliğini artırır."
+    },
+    {
+      "soruid": 23,
+      "soru_metni": "Dijital boyamada 'Opaklık' (Opacity) ayarı neyi değiştirir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Fırçanın boyutunu",
+        "B": "Rengin şeffaflık derecesini",
+        "C": "Rengin tonunu",
+        "D": "Tuvalin boyutunu",
+        "E": "Kalemin sertliğini"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Opaklık ayarı, boyanın ne kadar örtücü veya şeffaf olacağını belirler; düşük opaklıkta alttaki renkler görünür."
+    },
+    {
+      "soruid": 24,
+      "soru_metni": "Kağıt üzerine çizilmiş bir eskizi dijital ortama aktarmak için kullanılan donanım hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Yazıcı (Printer)",
+        "B": "Tarayıcı (Scanner)",
+        "C": "Hoparlör",
+        "D": "Projeksiyon",
+        "E": "Modem"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Tarayıcılar, fiziksel kağıt üzerindeki çizimleri dijital görüntüye dönüştürerek bilgisayara aktarır."
+    },
+    {
+      "soruid": 25,
+      "soru_metni": "Autodesk firmasının geliştirdiği, özellikle eskiz ve hızlı çizim odaklı, sade arayüzlü yazılım hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Sketchbook",
+        "B": "Word",
+        "C": "Excel",
+        "D": "Premiere",
+        "E": "Flash"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Autodesk Sketchbook, çizim ve eskiz odaklı, araç kalabalığından arındırılmış sade bir arayüze sahip yazılımdır."
+    },
+    {
+      "soruid": 26,
+      "soru_metni": "İllüstrasyon ile 'Sanat' (Resim sanatı) arasındaki temel fark nedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Kullanılan malzeme",
+        "B": "İllüstrasyonun bir metni veya konuyu açıklama/iletişim amacı gütmesi, sanatın ise daha bireysel/özgün olması",
+        "C": "İllüstrasyonun daha pahalı olması",
+        "D": "Sanatın bilgisayarla yapılamaması",
+        "E": "İllüstrasyonun sadece siyah beyaz olması"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "İllüstrasyonun birincil işlevi bir mesajı iletmek, bir metni görselleştirmek ve iletişim kurmaktır; saf sanat ise daha çok sanatçının iç dünyasını yansıtır."
+    },
+    {
+      "soruid": 27,
+      "soru_metni": "Dijital illüstrasyonun baskı sürecinde (matbaa) sorun yaşamaması için hangi renk modu ile çalışılması önerilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "RGB",
+        "B": "CMYK",
+        "C": "Grayscale",
+        "D": "Lab",
+        "E": "Bitmap"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Baskı teknolojileri CMYK (Cyan, Magenta, Yellow, Black) pigmentlerini kullanır; ekranlar ise RGB ışıklarını kullanır. Baskı için CMYK şarttır."
+    },
+    {
+      "soruid": 28,
+      "soru_metni": "Wacom, Huion, XP-Pen gibi markalar hangi donanım ürünüyle tanınır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Bilgisayar faresi",
+        "B": "Grafik Tablet",
+        "C": "Yazıcı",
+        "D": "Kamera",
+        "E": "Ses kartı"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Bu markalar, dijital sanatçıların kullandığı grafik tablet ve ekranlı çizim tabletlerinin önde gelen üreticileridir."
+    },
+    {
+      "soruid": 29,
+      "soru_metni": "Dijital ortamda 'Kalem Aracı' (Pen Tool) genellikle ne oluşturmak için kullanılır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Piksel boyama",
+        "B": "Vektörel yollar (Paths) ve şekiller",
+        "C": "Filtre efekti",
+        "D": "Bulanıklık",
+        "E": "Renk ayarı"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Pen Tool, hem Photoshop hem Illustrator'da vektörel yollar (paths) çizmek ve hassas seçimler yapmak için kullanılan temel araçtır."
+    },
+    {
+      "soruid": 30,
+      "soru_metni": "Matte Painting tekniğinin diğer adı veya sinema sektöründeki tanımı nedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Görünür Sanat",
+        "B": "Hareketli Grafik",
+        "C": "Görünmez Sanat (Invisible Art)",
+        "D": "Pop Art",
+        "E": "Soyut Sanat"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Matte Painting, izleyiciye gerçek gibi görünmesi gerektiği ve fark edilmemesi amaçlandığı için 'Görünmez Sanat' olarak anılır."
+    },
+    {
+      "soruid": 31,
+      "soru_metni": "İllüstrasyon kelimesinin sözlük anlamı aşağıdakilerden hangisidir? (Ünite Sorusu 1)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Bezeme",
+        "B": "Resimleme",
+        "C": "Boyama",
+        "D": "Baskı",
+        "E": "Eskiz"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "İllüstrasyon (Illustration), kelime anlamı olarak 'Resimleme' demektir."
+    },
+    {
+      "soruid": 32,
+      "soru_metni": "Aşağıdakilerden hangisi dijital illüstrasyonun kullanım alanlarından biri değildir? (Ünite Sorusu 2)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Sinema ve oyun sektörü",
+        "B": "Tanıtım grafiği",
+        "C": "Yayın grafiği",
+        "D": "Mimari proje çizimi",
+        "E": "Ambalaj tasarımı"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": "Mimari proje çizimi teknik bir çizim alanıdır (CAD); illüstrasyon ise daha sanatsal ve betimleyici alanlarda (sinema, yayın, ambalaj vb.) kullanılır."
+    },
+    {
+      "soruid": 33,
+      "soru_metni": "Büyütüldüklerinde herhangi bir görsel bozulmaya veya deformasyona uğramayan görüntüler hangi tabanlıdır? (Ünite Sorusu 3)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Piksel",
+        "B": "Vektör",
+        "C": "Bitmap",
+        "D": "Raster",
+        "E": "Jpeg"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Vektörel görüntüler matematiksel formüllerle tanımlandığından boyut değişiminde bozulmazlar."
+    },
+    {
+      "soruid": 34,
+      "soru_metni": "Görüntü kalitesi çözünürlüğe bağlı olan ve büyütüldüğünde bozulma yaşanan görüntü türü hangisidir? (Ünite Sorusu 4)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Vektör",
+        "B": "Ai",
+        "C": "Eps",
+        "D": "Piksel (Raster)",
+        "E": "Pdf"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": "Piksel (Raster) tabanlı görüntüler sabit bir çözünürlüğe sahiptir ve büyütüldüklerinde detay kaybederler."
+    },
+    {
+      "soruid": 35,
+      "soru_metni": "Aşağıdakilerden hangisi vektörel tabanlı çizim programlarından biridir? (Ünite Sorusu 5)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Adobe Photoshop",
+        "B": "Adobe Illustrator",
+        "C": "Corel Painter",
+        "D": "Procreate",
+        "E": "ArtRage"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Adobe Illustrator, vektörel çizim alanında standart yazılımdır; diğerleri ağırlıklı olarak piksel tabanlıdır."
+    },
+    {
+      "soruid": 36,
+      "soru_metni": "Piksel tabanlı programlar arasında en yaygın kullanılanı aşağıdakilerden hangisidir? (Ünite Sorusu 6)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Adobe Illustrator",
+        "B": "Corel Draw",
+        "C": "Adobe Photoshop",
+        "D": "Inkscape",
+        "E": "Macromedia Freehand"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Adobe Photoshop, piksel tabanlı (raster) görüntü işleme yazılımlarının en popüleridir."
+    },
+    {
+      "soruid": 37,
+      "soru_metni": "Gerçekte var olmayan mekanların ve setlerin dijital ortamda oluşturulması tekniğine ne ad verilir? (Ünite Sorusu 7)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Matte Painting",
+        "B": "Vektörel çizim",
+        "C": "Karakter tasarımı",
+        "D": "Logo tasarımı",
+        "E": "Tipografi"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Matte Painting, sinema ve oyunlar için hayali veya maliyetli mekanların dijital boyama ve kolaj ile oluşturulmasıdır."
+    },
+    {
+      "soruid": 38,
+      "soru_metni": "iPad ve tabletler için geliştirilmiş popüler çizim uygulaması aşağıdakilerden hangisidir? (Ünite Sorusu 8)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Photoshop",
+        "B": "Illustrator",
+        "C": "Procreate",
+        "D": "Corel Draw",
+        "E": "Indesign"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Procreate, özellikle iPad kullanıcıları için tasarlanmış ve sektörde standart haline gelmiş bir mobil çizim uygulamasıdır."
+    },
+    {
+      "soruid": 39,
+      "soru_metni": "Basınç hassasiyeti özelliği ile çizim yapmayı sağlayan donanım aşağıdakilerden hangisidir? (Ünite Sorusu 9)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Mouse",
+        "B": "Klavye",
+        "C": "Grafik Tablet",
+        "D": "Yazıcı",
+        "E": "Tarayıcı"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Grafik tabletler, kalemin ucundaki basıncı algılayarak çizgi kalınlığını ve koyuluğunu ayarlar."
+    },
+    {
+      "soruid": 40,
+      "soru_metni": "Dijital boyama (Digital Painting) tekniğinde amaç nedir? (Ünite Sorusu 10)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Vektörel logo çizmek",
+        "B": "Geleneksel boyama tekniklerini taklit etmek",
+        "C": "Fotoğraf düzenlemek",
+        "D": "Metin yazmak",
+        "E": "Web sitesi kodlamak"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Dijital boyama, geleneksel sanat araçlarının (fırça, tuval, boya) etkisini dijital ortamda yeniden üretmeyi hedefler."
+    }
+      ]
+    }
+  ]
+}
