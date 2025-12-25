@@ -1,0 +1,740 @@
+{
+  "ders_kodu": "SMY201U",
+  "ders_adi": "SOSYAL MEDYA VE PROPAGANDA",
+  "sinavlar": [
+    {
+      "baslik": "2025 Ünite 2 Yapay Zeka Destekli Çıkabilecek Sorular",
+      "tur": "AI",
+      "yil": 2025,
+      "sorular": [
+    {
+      "soruid": 1,
+      "soru_metni": "Toffler (1980) tarafından ortaya atılan ve sosyal medyada kullanıcıların hem içerik üreticisi hem de tüketicisi olmasını ifade eden kavramın Türkçeleştirilmiş hali aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Pasif İzleyici",
+        "B": "Siber Zorba",
+        "C": "Üre-tüketici (Prosumer)",
+        "D": "Fenomen",
+        "E": "Dijital Yerli"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Metinde, bireylerin tükettikleri içeriği aynı zamanda üretiyor olmalarını vurgulayan kavramın 'Üre-tüketici' (Prosumer) olduğu belirtilmiştir [cite: 72-73]."
+    },
+    {
+      "soruid": 2,
+      "soru_metni": "Horton ve Wohl (1956) tarafından tanımlanan, izleyicinin izlediği medya figürü ile yüz yüze iletişim kuruyormuş gibi bir yanılsama yaşayarak geliştirdiği psikolojik ilişkiye ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Parasosyal Etkileşim",
+        "B": "Sosyal Biliş",
+        "C": "Bilişsel Çelişki",
+        "D": "Empati",
+        "E": "Telepati"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Metinde parasosyal etkileşim, izleyici ile izlenen arasında yüz yüze iletişim olduğuna dair bir yanılsama ve kurulan psikolojik ilişki olarak tanımlanmıştır [cite: 67-68]."
+    },
+    {
+      "soruid": 3,
+      "soru_metni": "Birey kendisine 'Yap!' denildiğinde, bu yönergenin özgür iradesini kısıtladığını düşünerek tam tersini yapma eğilimi gösterebilir. Bu durumu açıklayan kuram aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Sosyal Norm Kuramı",
+        "B": "Psikolojik Tepkisellik Kuramı",
+        "C": "Suskunluk Sarmalı",
+        "D": "Gündem Belirleme",
+        "E": "Sihirli Mermi Kuramı"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Brehm'in (1966) Psikolojik Tepkisellik Kuramı'na göre, insanlar davranışlarının iradeleri dışında olduğunu fark ettiklerinde tepki geliştirirler [cite: 96-97]."
+    },
+    {
+      "soruid": 4,
+      "soru_metni": "Kamuoyunun belirlenmesinde duyguların ve kişisel görüşlerin nesnel gerçeklerden daha fazla rol oynaması durumunu ifade eden ve Oxford Sözlüğü tarafından 2016'da yılın kelimesi seçilen kavram hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Fake News (Yalan Haber)",
+        "B": "Clickbait (Tık Tuzağı)",
+        "C": "Viral",
+        "D": "Post-truth (Gerçek Ötesi)",
+        "E": "Deepfake"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": "Metinde Oxford Sözlüğü'nün 2016 yılını 'gerçek ötesi' (post-truth) yılı seçtiği ve tanımı detaylıca verilmiştir [cite: 304-306]."
+    },
+    {
+      "soruid": 5,
+      "soru_metni": "Cialdini'ye göre insanoğlunun evrimsel amaçlarına (üremek ve hayatta kalmak) ulaşmak için sahip olduğu üç temel hedef aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Zenginlik, Şöhret, Güç",
+        "B": "Yakınlık kurma, Tutarlı olma, Doğru olma",
+        "C": "Savaşma, Kaçma, Donma",
+        "D": "Yeme, İçme, Barınma",
+        "E": "Öğrenme, Eğlenme, Dinlenme"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Metinde Cialdini ve Goldstein'a (2004) atıfla, bu üç hedefin 'yakınlık kurma, tutarlı olma ve doğru olma' olduğu belirtilmiştir [cite: 133-134]."
+    },
+    {
+      "soruid": 6,
+      "soru_metni": "Sosyal medyada firmaların karşılıksız hediye veya promosyon göndererek kullanıcıda 'borçlu hissetme' duygusu yaratıp olumlu yorum yapmasını sağlaması, Cialdini'nin hangi ikna prensibine örnektir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Otorite",
+        "B": "Enderlik",
+        "C": "Karşılıklılık Normu",
+        "D": "Sosyal Onay",
+        "E": "Tutarlılık"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Bireylerin kendilerine yapılan bir iyiliğin altında kalmak istememesi ve karşılık verme isteği 'Karşılıklılık Normu' olarak açıklanmıştır [cite: 145-147]."
+    },
+    {
+      "soruid": 7,
+      "soru_metni": "Terör örgütlerinin sosyal medyada önce 'sadece broşür okumak' gibi küçük bir istekte bulunup, kişi bunu kabul ettikten sonra daha büyük taleplerde (toplantıya katılmak vb.) bulunması hangi taktiğe örnektir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Eşiğe Adım Atma Taktiği",
+        "B": "Kapıyı Yüzüne Çarpma Taktiği",
+        "C": "Korku Çekiciliği",
+        "D": "Listeleme Tekniği",
+        "E": "Sessizlik Tekniği"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Küçük bir isteğin kabul edilmesinin daha sonraki büyük isteğin kabulünü kolaylaştırması, tutarlılık ilkesine dayalı 'Eşiğe adım atma taktiği'dir [cite: 183-184]."
+    },
+    {
+      "soruid": 8,
+      "soru_metni": "Change.org gibi sitelerde bir imza kampanyasına katılan diğer kişilerin listesinin bireye gösterilmesi, bireyin ikna olması için Cialdini'nin hangi prensibini devreye sokar?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Sempati",
+        "B": "Sosyal Onay (Listeleme Tekniği)",
+        "C": "Otorite",
+        "D": "Enderlik",
+        "E": "Karşılıklılık"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Başkalarının da aynı davranışı sergilediğinin gösterilmesi (Listeleme), 'Sosyal Onaylanma İhtiyacı' başlığı altında anlatılmıştır [cite: 173-176]."
+    },
+    {
+      "soruid": 9,
+      "soru_metni": "Milgram'ın (1963) ünlü itaat deneyinde, katılımcıların yüzde kaçı otorite figürünün (deneycinin) emriyle karşıdaki kişiye zarar verici düzeyde (450 volt) elektrik şoku vermiştir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "%10",
+        "B": "%25",
+        "C": "%50",
+        "D": "%65",
+        "E": "%90"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": "Metinde Milgram'ın deney sonuçlarına göre deneklerin %65'inin otoriteye itaat ederek 450 voltluk şoku verdiği belirtilmiştir[cite: 231]."
+    },
+    {
+      "soruid": 10,
+      "soru_metni": "Sosyal medyada 'Sahip olunan son göl kurudu!' gibi haberlerin, bireylerde özgürlüğün kısıtlandığı hissi ve kaybetme korkusu yaratarak tepki oluşturması Cialdini'nin hangi ilkesiyle açıklanır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Enderlik İlkesi",
+        "B": "Otorite İlkesi",
+        "C": "Sempati İlkesi",
+        "D": "Benzerlik İlkesi",
+        "E": "Uyumlaştırma İlkesi"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Olanakların azalması veya tükenmesi durumunda bireylerin rahatsız olması ve nesneye değer atfetmesi 'Enderlik İlkesi' ile açıklanmıştır [cite: 207-214]."
+    },
+    {
+      "soruid": 11,
+      "soru_metni": "Goebbels'in propaganda ilkelerinden biri olan 'Sentez Kuralı' sosyal medya bağlamında neyi ifade eder?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Mesajın karmaşık olması gerektiğini",
+        "B": "Mesajın içinde birden fazla alt başlık varsa, bunların ayrı ayrı işlenebilir küçük mesajlar olarak verilmesini",
+        "C": "Mesajın sadece görsellerden oluşmasını",
+        "D": "Propagandanın tek bir kanaldan yapılmasını",
+        "E": "Düşmanların övülmesini"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Sentez kuralı, mesaj bileşenlerinin ayrı ayrı verilerek hedefin mesajları daha rahat işlemesini sağlamayı amaçlar. Twitter karakter sınırı buna örnek verilmiştir [cite: 277-281]."
+    },
+    {
+      "soruid": 12,
+      "soru_metni": "Occupy Wall Street hareketinin başarısında, mesajın basit, akılda kalıcı ve tek bir hedefe odaklı olması Goebbels'in hangi kuralı ile açıklanır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Orkestrasyon Kuralı",
+        "B": "Basitleştirme ve Tek Hedef Kuralı",
+        "C": "Abartma Kuralı",
+        "D": "Yineleme Kuralı",
+        "E": "Devamlılık Kuralı"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Kitleleri harekete geçirmek için mesajın basit ve tek bir bilgi üzerinden gitmesi 'Basitleştirme ve Tek Hedef Kuralı'dır. 'Occupy Wall Street' buna örnektir [cite: 284-288]."
+    },
+    {
+      "soruid": 13,
+      "soru_metni": "Sosyal medyada kullanıcıların dikkatini çekmek ve belirli bir sayfaya yönlendirmek için kullanılan abartılı veya merak uyandırıcı başlıklara (Tık Tuzağı) ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Spam",
+        "B": "Phishing",
+        "C": "Clickbait",
+        "D": "Hashtag",
+        "E": "Algorithm"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Metinde 'Clickbait', belirli bir web sayfasının tıklanmasını amaçlayan dikkat çekici içerik veya 'tık tuzağı' olarak tanımlanmıştır [cite: 301-302]."
+    },
+    {
+      "soruid": 14,
+      "soru_metni": "Bir mesajın sürekli tekrarlanmasının, bireyin o mesaja karşı olumlu tutum geliştirmesine (Salt Maruz Kalma Etkisi) ve bilginin akılda kalıcılığına yol açtığını savunan kural hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Yineleme Kuralı",
+        "B": "Zamanlama Kuralı",
+        "C": "Sempati Kuralı",
+        "D": "Uyumlaştırma Kuralı",
+        "E": "Enderlik Kuralı"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Yineleme Kuralı, mesajın sürekli tekrarlanmasının maruz kalma etkisi ve ulaşılabilirlik etkisi yaratarak kabulünü kolaylaştırdığını belirtir [cite: 313-318]."
+    },
+    {
+      "soruid": 15,
+      "soru_metni": "Propaganda mesajının toplumun tarihi, mitleri ve mevcut önyargıları ile uyumlu ögeler kullanılarak kabul edilebilirliğinin artırılması hangi kuraldır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Orkestrasyon Kuralı",
+        "B": "Yayılma (Contagion) Kuralı",
+        "C": "Sentez Kuralı",
+        "D": "Basitleştirme Kuralı",
+        "E": "Abartma Kuralı"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Yayılma Kuralı, propagandanın yayılabilmesi için sosyal bağlamda değeri olan ögeleri (mitler, tarih, önyargılar) kullanması gerektiğini belirtir [cite: 361-363]."
+    },
+    {
+      "soruid": 16,
+      "soru_metni": "Bireylerin belirli bir bilgiye her gün azar azar maruz kalarak, karşı propagandaya dirençli (aşılı) hale gelmesini sağlayan teknik hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Aşılama (Inoculation) Tekniği",
+        "B": "Şoklama Tekniği",
+        "C": "Sansürleme Tekniği",
+        "D": "Trolleme Tekniği",
+        "E": "Engelleme Tekniği"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Metinde 'Aşılama tekniği', bilginin peyderpey verilerek karşı propagandaya direncin kırılması ve aidiyetin artırılması olarak açıklanmıştır [cite: 367-368]."
+    },
+    {
+      "soruid": 17,
+      "soru_metni": "Bradshaw ve Howard (2019) tarafından yapılan araştırmaya göre, sosyal medyada politik propaganda malzemelerini yaymak için para alan kişilere ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Hacker",
+        "B": "Siber Takım (Cyber Troops)",
+        "C": "Aktivist",
+        "D": "Gazeteci",
+        "E": "Yazılımcı"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Siber Takım, özellikle sosyal medyada politik propaganda malzemelerini yaymak için para alan kişiler olarak tanımlanmıştır[cite: 387]."
+    },
+    {
+      "soruid": 18,
+      "soru_metni": "Suudi Arabistan örneğinde olduğu gibi, siber takımların sosyal medya paylaşımlarına 'nötr' yorumlar yapmalarının temel amacı nedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Destek olmak",
+        "B": "Eleştirmek",
+        "C": "Dikkati dağıtmak ve konuyu saptırmak",
+        "D": "Takipçi kazanmak",
+        "E": "Hesabı şikayet etmek"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Bazı ülkelerde siber takımların nötr yorumlarla bireylerin dikkatini dağıtmayı ve konuyu saptırmayı amaçladıkları belirtilmiştir [cite: 396-397]."
+    },
+    {
+      "soruid": 19,
+      "soru_metni": "Sosyal medyada propagandanın başarılı olmasında 'Sempati Kuralı'nın önemine örnek olarak metinde hangi iklim aktivistinin stratejisi anlatılmıştır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Malala Yousafzai",
+        "B": "Greta Thunberg",
+        "C": "Al Gore",
+        "D": "Elon Musk",
+        "E": "Leonardo DiCaprio"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Metinde 16 yaşındaki Greta Thunberg'in mesajının yayılmasında sempati kuralının (yaşı, hastalığı, gençliği) rolü detaylıca anlatılmıştır [cite: 265-271]."
+    },
+    {
+      "soruid": 20,
+      "soru_metni": "Sosyal medyada bir propaganda mesajının birden fazla kanaldan, sanki herkes tarafından kabul edilen bir 'norm'muş gibi uyum içinde verilmesi Goebbels'in hangi ilkesidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Orkestrasyon Kuralı",
+        "B": "Zamanlama Kuralı",
+        "C": "Enderlik Kuralı",
+        "D": "Sempati Kuralı",
+        "E": "Abartma Kuralı"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Orkestrasyon kuralı, mesajların farklı kanallardan uyum içinde verilerek bir 'sosyal norm' algısı yaratılmasını ifade eder [cite: 333-338]."
+    },
+      "soruid": 21,
+      "soru_metni": "Milgram'ın otoriteye itaat deneyinin tekrarlanan versiyonlarında, katılımcıların deneyi yarıda bırakmasına sebep olan en önemli değişken ne olmuştur?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Elektrik şokunun voltajının düşürülmesi",
+        "B": "Deneyin laboratuvar dışında yapılması",
+        "C": "Otorite figürünün (bilim insanı) yerine sıradan birinin talimat vermesi",
+        "D": "Kurbanın hiç ses çıkarmaması",
+        "E": "Ödülün artırılması"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Metinde, elektrik şokunu artırma yönergesini bir bilim insanı değil de otorite kabul edilmeyen herhangi bir kişi verdiğinde katılımcıların hepsinin deneyi bıraktığı belirtilmiştir[cite: 912]."
+    },
+    {
+      "soruid": 22,
+      "soru_metni": "İsveçli iklim aktivisti Greta Thunberg'in mesajlarını yaymak için Cuma günleri yaptığı boykotu '#fridaysforfuture' etiketiyle sürekli paylaşması, Goebbels'in hangi propaganda ilkesine örnektir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Yineleme Kuralı",
+        "B": "Abartma Kuralı",
+        "C": "Korku Kuralı",
+        "D": "Sansür Kuralı",
+        "E": "Gizlilik Kuralı"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Greta'nın boykotunu her Cuma düzenli olarak paylaşması ve aynı etiketi sürekli kullanması, mesajın akılda kalıcılığını sağlayan 'Yineleme Kuralı' ile ilişkilendirilmiştir[cite: 949]."
+    },
+    {
+      "soruid": 23,
+      "soru_metni": "2012 Güney Kore Başkanlık seçimlerinde Ulusal İstihbarat'ın muhalefet partisi aleyhine yürüttüğü gizli karalama kampanyası, propagandanın hangi kuralına olumsuz bir örnek teşkil eder?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Sempati Kuralı",
+        "B": "Zamanlama Kuralı",
+        "C": "Basitleştirme Kuralı",
+        "D": "Orkestrasyon Kuralı",
+        "E": "Uyumlaştırma Kuralı"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Bu olay metinde 'Zamanlama Kuralı' başlığı altında, kara propagandanın zamanlamasının seçim dönemine denk getirilmesi örneği olarak anlatılmıştır[cite: 1024]."
+    },
+    {
+      "soruid": 24,
+      "soru_metni": "Sosyal medyada 'Aynı milletteniz', 'Aynı gemideyiz' veya 'Müslümanlar kardeştir' gibi söylemlerle grubun bütünlüğüne vurgu yaparak bireyin dışlanma korkusunu kullanan propaganda ilkesi hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Uyumlaştırma Kuralı",
+        "B": "Sentez Kuralı",
+        "C": "Abartma Kuralı",
+        "D": "Yineleme Kuralı",
+        "E": "Enderlik Kuralı"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Uyumlaştırma kuralı, bireyin grup normuna uymasını hedefler; grup dışı kalma korkusunu kullanarak 'birlik olma' mesajları verir [cite: 1027-1031]."
+    },
+    {
+      "soruid": 25,
+      "soru_metni": "Rusya ve Sırbistan gibi ülkelerde, siber takımların politik mesajları fark ettirmeden yaymak için kullandıkları 'ilginç' yöntemlerden biri metinde nasıl örneklendirilmiştir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Yemek tarifi videoları",
+        "B": "Astroloji blogları",
+        "C": "Araba yarışları",
+        "D": "Moda dergileri",
+        "E": "Çizgi filmler"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Metinde, politik mesaj vermediği düşünülen ancak incelikli mesajlar içeren 'astroloji bloglarının' Rusya ve Sırbistan'da kullanıldığı belirtilmiştir[cite: 1100]."
+    },
+    {
+      "soruid": 26,
+      "soru_metni": "Bradshaw ve Howard'ın raporuna göre, İsrail'in sosyal medyadaki resmi görünürlüğü ile İngiltere'ninki arasındaki temel fark nedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "İsrail hiç sosyal medya kullanmazken İngiltere çok aktiftir.",
+        "B": "İngiltere tek bir hesaba dayalıyken, İsrail üç dilde 350'den fazla resmi hesaba sahiptir.",
+        "C": "İsrail sadece Facebook kullanırken İngiltere sadece Twitter kullanır.",
+        "D": "Her iki ülke de bot hesap kullanmamaktadır.",
+        "E": "İngiltere propaganda yapmaz."
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Metinde İngiltere'nin görünürlüğünün tek hesaba dayalı olduğu, İsrail'in ise İbranice, Arapça ve İngilizce 350'den fazla resmi hesabı olduğu karşılaştırması yapılmıştır[cite: 1084]."
+    },
+    {
+      "soruid": 27,
+      "soru_metni": "Bir kişinin daha büyük bir isteği kabul etmesini sağlamak için önce reddedilemeyecek kadar küçük bir istekte bulunulması (örneğin sadece broşür okutmak) tekniğine ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Eşiğe Adım Atma Taktiği (Foot-in-the-door)",
+        "B": "Kapıyı Yüzüne Çarpma",
+        "C": "Bilişsel Çelişki",
+        "D": "Yansıtma",
+        "E": "Ödüllendirme"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Bireyin tutarlı olma ihtiyacına dayanarak, küçük bir isteği (broşür okuma) kabul ettirip sonra büyük istekleri (toplantıya gelme) kabul ettirme taktiği 'Eşiğe adım atma'dır [cite: 861-864]."
+    },
+    {
+      "soruid": 28,
+      "soru_metni": "WWF'nin (Dünya Doğayı Koruma Vakfı) #10yearschallenge etiketiyle paylaştığı 2009 ve 2019 orman fotoğraflarında, 2019 fotoğrafının aslında gerçek olmaması hangi duruma örnektir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Sosyal medyanın denetim gücüne",
+        "B": "Propaganda amaçlı (farkındalık için bile olsa) gerçeğin kurgulanmasına",
+        "C": "Teknolojinin yetersizliğine",
+        "D": "Fotoğrafçılık sanatına",
+        "E": "Telif hakları ihlaline"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Metinde WWF'nin farkındalık yaratmak için kullandığı 2019 görselinin gerçek olmadığı, ancak çok kişi paylaştığı için sorgulanmadığı (Sosyal Onay) anlatılmıştır [cite: 844-846]."
+    },
+    {
+      "soruid": 29,
+      "soru_metni": "Cialdini'ye göre, insanların 'Güzel olan iyidir' kalıp yargısına dayanarak, fiziksel olarak çekici buldukları kişilerin daha zeki ve dürüst olduğunu düşünmeleri hangi ilkedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Otorite İlkesi",
+        "B": "Karşılıklılık İlkesi",
+        "C": "Çekicilik ve Benzerlik İlkesi",
+        "D": "Tutarlılık İlkesi",
+        "E": "Enderlik İlkesi"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Metinde 'Güzel olan iyidir' kalıp yargısının çekicilik ilkesiyle bağlantılı olduğu ve fiziksel çekiciliğin diğer olumlu özellikleri çağrıştırdığı belirtilmiştir [cite: 870-871]."
+    },
+    {
+      "soruid": 30,
+      "soru_metni": "Sosyal medyada yayılan 'Suriyelilerin sınavsız üniversiteye girdiği' veya 'devletten maaş aldığı' gibi yalan haberlerin sürekli tekrarlanarak zihinlerde yer etmesi hangi etkinin sonucudur?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Ulaşılabilirlik Etkisi ve Maruz Kalma Etkisi",
+        "B": "Suskunluk Sarmalı",
+        "C": "Üçüncü Kişi Etkisi",
+        "D": "Bumerang Etkisi",
+        "E": "Plasebo Etkisi"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Bu durum 'Yineleme Kuralı' altında, bilgilerin sürekli tekrar edilerek zihinde ulaşılabilir hale gelmesi (Ulaşılabilirlik etkisi) ile açıklanmıştır [cite: 996-1008]."
+    },
+    {
+      "soruid": 31,
+      "soru_metni": "Bir terör örgütü olan Al-Shaabab'ın 2013'teki alışveriş merkezi saldırısını Twitter'da eş zamanlı tweetlerle duyurması, propagandanın hangi kuralına örnektir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Basitleştirme",
+        "B": "Devamlılık ve Süreklilik Kuralı",
+        "C": "Sempati",
+        "D": "Enderlik",
+        "E": "Karşılıklılık"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Metinde Al-Shaabab örgütünün saldırıyı eş zamanlı tweetlerle sürekli gündemde tutması 'Devamlılık ve Süreklilik Kuralı'na örnek verilmiştir [cite: 1047-1048]."
+    },
+    {
+      "soruid": 32,
+      "soru_metni": "Sosyal medyada bireyleri hedef alarak yapılan tacizler, nefret söylemleri ve mahremiyet ihlalleri Bradshaw ve Howard'ın sınıflandırmasında hangi başlıkta yer alır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "İçerik Oluşturma",
+        "B": "Bireyleri Hedef Alma",
+        "C": "Hükümet Sponsorluğu",
+        "D": "Yorum Yapma",
+        "E": "Bot Hesap Kullanımı"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Bu tür eylemler 'Bireyleri Hedef Alma' başlığı altında, kişilerin siyasi pozisyonunu yumuşatmak veya sindirmek amacıyla yapılan tacizler olarak tanımlanmıştır [cite: 1076-1079]."
+    },
+    {
+      "soruid": 33,
+      "soru_metni": "Oxford Üniversitesi'nin 'Bilgisayar Temelli Propaganda Araştırma Projesi'ne göre, sosyal medya manipülasyonlarının en fazla gerçekleştirildiği platform hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Twitter",
+        "B": "Instagram",
+        "C": "Facebook",
+        "D": "YouTube",
+        "E": "WhatsApp"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Bradshaw ve Howard'ın (2019) raporuna göre sosyal medya manipülasyonları en fazla Facebook üzerinden gerçekleştirilmektedir[cite: 1066]."
+    },
+    {
+      "soruid": 34,
+      "soru_metni": "Propagandanın, hedef kitlenin tarihi, mitleri ve önyargıları gibi halihazırda var olan değerlerini kullanarak yayılması hangi ilkeyi ifade eder?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Yayılma (Contagion) Kuralı",
+        "B": "Sentez Kuralı",
+        "C": "Orkestrasyon Kuralı",
+        "D": "Yineleme Kuralı",
+        "E": "Sempati Kuralı"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Yayılma kuralı, propagandanın içinde bulunduğu sosyal bağlamdaki değerleri (tarih, mit, önyargı) kullanarak kabul edilebilirliğini artırmasıdır [cite: 1038-1039]."
+    },
+    {
+      "soruid": 35,
+      "soru_metni": "Goebbels'in 'Sempati Kuralı'na göre, propagandanın başarılı olması için ne gereklidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Kaynağın zengin olması",
+        "B": "Kaynağın hedef kitle tarafından sempatik ve olumlu algılanması",
+        "C": "Kaynağın korkutucu olması",
+        "D": "Mesajın çok uzun olması",
+        "E": "Mesajın gece yarısı verilmesi"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Sempati kuralı, mesajı veren kaynağın hedef tarafından olumlu değerlendirilmesinin mesajın kabulünü kolaylaştırdığını belirtir [cite: 937-938]."
+    },
+    {
+      "soruid": 36,
+      "soru_metni": "Aşağıdakilerden hangisi sosyal medyanın propaganda gücünü artıran özelliklerden biri olarak metinde sayılmamıştır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "İnteraktif yapı (Etkileşim)",
+        "B": "Üre-tüketici olanağı",
+        "C": "Merkezi sansür mekanizmasının çok güçlü olması",
+        "D": "Hız ve ulaşılabilirlik",
+        "E": "Anonimite (Kimliksizlik)"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Tam tersine, metinde sosyal medyanın geleneksel medyaya kıyasla 'içeriğe yönelik herhangi bir filtreleme uygulamaması' (filtresizlik) propagandanın gücünü artıran bir özellik olarak sayılmıştır[cite: 765]."
+    },
+    {
+      "soruid": 37,
+      "soru_metni": "Zajonc'un (1968) 'Salt Maruz Kalma Etkisi'ne (Mere Exposure Effect) göre, bireyin nötr olduğu bir uyarana sürekli maruz kalması sonucunda ne olur?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "O uyarandan nefret eder",
+        "B": "O uyarana karşı duyarsızlaşır",
+        "C": "O uyarana karşı olumlu bir değerlendirme geliştirir",
+        "D": "Uyaranı tamamen unutur",
+        "E": "Depresyona girer"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Metinde Zajonc'a atıfla, sürekli maruz kalmanın o uyarana karşı olumlu değerlendirme sahibi olmaya neden olduğu belirtilmiştir[cite: 992]."
+    },
+    {
+      "soruid": 38,
+      "soru_metni": "Sosyal medyada bir kullanıcının kimliğini gizleyebilmesi (anonim olması), propaganda açısından hangi sonucu doğurur?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Bireylerin daha kibar olmasını sağlar",
+        "B": "Propagandanın kaynağının sorgulanmamasını ve bireylerin daha saldırgan olabilmesini sağlar",
+        "C": "İnternet hızını artırır",
+        "D": "Reklam gelirlerini düşürür",
+        "E": "Yalan haberleri engeller"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Anonimitenin işlevleri: Bireyin daha saldırgan olması ve kimliksizliğin normalleşmesiyle kaynağın sorgulanmamasıdır [cite: 770-771]."
+    },
+    {
+      "soruid": 39,
+      "soru_metni": "Propagandanın, hedef kitlenin zihninde 'biz' ve 'onlar' ayrımını netleştirmek için kullandığı ve genellikle düşman tarafla ilgili bilgileri bozarak sunduğu Goebbels ilkesi hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Abartma ve Çarpıtma Kuralı",
+        "B": "Sempati Kuralı",
+        "C": "Zamanlama Kuralı",
+        "D": "Sentez Kuralı",
+        "E": "Tutarlılık Kuralı"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Abartma ve Çarpıtma kuralı, bilgilerin amaca hizmet ettiği sürece büyütülmesi veya bozulmasıdır; düşman (dış grup) algısı yaratmak için kullanılır [cite: 973-974]."
+    },
+    {
+      "soruid": 40,
+      "soru_metni": "Kitleleri harekete geçirmek için verilecek mesajın karmaşık değil, akılda kalıcı ve tek bir odak noktasında olması gerektiğini savunan ilke hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Orkestrasyon",
+        "B": "Basitleştirme ve Tek Hedef Kuralı",
+        "C": "Yineleme",
+        "D": "Harmonizasyon",
+        "E": "Çeşitlendirme"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Goebbels ve Le Bon'a göre kitleleri harekete geçirmek için mesaj 'basit ve tek hedefi içeriyor' olmalıdır [cite: 962-963]."
+    },
+    {
+      "soruid": 41,
+      "soru_metni": "Bir mesajın farklı kanallardan (TV, Twitter, Gazete vb.) uyum içinde verilmesiyle oluşan 'Orkestrasyon' kuralı, hangi kuramla açıklanabilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Kaos Kuramı",
+        "B": "Oyun Kuramı",
+        "C": "Sosyal Norm Kuramı",
+        "D": "Kullanımlar ve Doyumlar Kuramı",
+        "E": "Eşik Bekçiliği Kuramı"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Metinde Orkestrasyon kuralının 'Sosyal Norm Kuramı' ile açıklanabileceği, bireyin davranışlarının diğerleri tarafından benimsendiği düşünülen normlarla şekillendiği belirtilmiştir [cite: 1013-1014]."
+    },
+    {
+      "soruid": 42,
+      "soru_metni": "Rusya'da gazetecilerin sosyal medyada başlayan kampanyalar sonucunda ölüm tehditleri almaları, siber takımların hangi taktiğine bir örnektir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Bireyleri Hedef Alma",
+        "B": "İçerik Oluşturma",
+        "C": "Hükümet Sponsorluğu",
+        "D": "Yorum Yapma",
+        "E": "Hashtag Kullanımı"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Sosyal medya tacizlerinin gerçek hayatta ölüm tehdidine dönmesi 'Bireyleri Hedef Alma' başlığı altında Rusya örneğiyle verilmiştir[cite: 1080]."
+    },
+    "soruid": 46,
+      "soru_metni": "Sosyal medyanın geleneksel medyaya kıyasla sahip olduğu bazı özellikler propaganda tekniklerinin bireyler üzerinde daha etkili olmasını sağlayabilir. Aşağıdakilerden hangisi bu özelliklerden biri değildir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Sosyal medyanın geleneksel medyaya kıyasla daha interaktif bir yapıya sahip olması",
+        "B": "Sosyal medyanın geleneksel medyanın aksine kullanıcılarına kendilerinin üre-tüketici olduğu bir platform sağlaması",
+        "C": "Sosyal medyanın geleneksel medyaya kıyasla görece yeni olması",
+        "D": "Sosyal medyanın geleneksel medyaya kıyasla daha hızlı ve ulaşılabilir olması",
+        "E": "Sosyal medyanın geleneksel medyaya kıyasla içeriğe yönelik herhangi bir filtre uygulanmaması"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Metinde sosyal medyanın interaktif yapısı, üre-tüketici özelliği, hızı ve filtre uygulanmaması propagandanın gücünü artıran yapısal özellikler olarak sayılmıştır. Ancak 'yeni olması' tek başına propagandanın etkisini artıran yapısal bir özellik olarak belirtilmemiştir."
+    },
+    {
+      "soruid": 47,
+      "soru_metni": "Aşağıdakilerden hangisi sosyal medyada kullanılan propaganda tekniklerinden biri değildir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Karşılıklılık normunun propaganda tekniği olarak kullanılması",
+        "B": "Süblimasyonun propaganda tekniği olarak kullanılması",
+        "C": "Çekiciliğin propaganda tekniği olarak kullanılması",
+        "D": "Benzerliğin propaganda tekniği olarak kullanılması",
+        "E": "Devamlılık ve süreklilik kuralı"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Karşılıklılık, çekicilik, benzerlik ve devamlılık metinde geçen propaganda teknikleridir. Ancak 'Süblimasyon' (yüceltme) psikanalitik bir savunma mekanizmasıdır, bu ünitede geçen bir propaganda tekniği değildir."
+    },
+    {
+      "soruid": 48,
+      "soru_metni": "Cialdini'ye göre aşağıdakilerden hangisi insanoğlunun hayattaki temel amaçlarından biridir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Hayatta kalmak",
+        "B": "Sağlıklı kalmak",
+        "C": "Güçlü olmak",
+        "D": "Tutarsız olmak",
+        "E": "Çekici olmak"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Metinde Cialdini'ye atıfla insanoğlunun iki evrimsel/temel amacı olduğu belirtilmiştir: Üremek ve hayatta kalmak."
+    },
+    {
+      "soruid": 49,
+      "soru_metni": "Oxford Üniversitesi'nden Bradshaw ve Howard'ın 2019 yılı araştırmalarına göre sosyal medya manipülasyonlarında en çok hangi sosyal medya sitesi/uygulaması kullanılmaktadır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Instagram",
+        "B": "Twitter",
+        "C": "LinkedIn",
+        "D": "Snapchat",
+        "E": "Facebook"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": "Bradshaw ve Howard'ın raporuna göre, siber takımlar ve troller manipülasyon faaliyetleri için en yaygın olarak Facebook platformunu kullanmaktadır."
+    },
+    {
+      "soruid": 50,
+      "soru_metni": "Propagandanın başarılı olabilmesi için kaynağın hedef tarafından sempatik algılanması önemlidir. 16 yaşındaki iklim aktivisti Greta Thunberg'in verdiği mesajın kitlelere yayılmasında da sempati kuralının önemli rol oynadığı söylenebilir. Yukarıdaki maddelerden hangileri hedef kitlenin Greta'ya sempati duymasındaki başlıca sebeplerdendir?\nI. Sahip olduğu Asperger Sendromu'nun onu bu tür bir mücadelede engellememiş olması\nII. Yaşı\nIII. Konuşmalarında kendi gençliğinin elinden çalındığına dair vurgusu\nIV. İsveçli olması",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Yalnız I",
+        "B": "I ve II",
+        "C": "I, II ve III",
+        "D": "I, III ve IV",
+        "E": "I, II ve IV"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Metinde Greta'nın yaşı, hastalığına (Asperger) rağmen mücadelesi ve 'gençliğinin çalındığı' vurgusu sempati yaratan unsurlar olarak sayılmıştır. İsveçli olması (IV) sempati unsuru olarak vurgulanmamıştır."
+    },
+    {
+      "soruid": 51,
+      "soru_metni": "Aşağıdakilerden hangisi Goebbels'in İlkeleri Temeli'nde kullanılan propaganda tekniklerinden biri değildir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Sentez Kuralı",
+        "B": "Yineleme Kuralı",
+        "C": "Orkestrasyon Kuralı",
+        "D": "Empati Kuralı",
+        "E": "Sempati Kuralı"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": "Goebbels'in ilkeleri arasında Sentez, Yineleme, Orkestrasyon ve Sempati kuralları yer alır. Ancak 'Empati Kuralı' diye bir başlık metinde yer almamaktadır (Sempati ile karıştırılmamalıdır)."
+    },
+    {
+      "soruid": 52,
+      "soru_metni": "Milgram'ın 1974 yılında gerçekleştirdiği ikinci deneyde 1963 yılındaki çalışmasından farklı sonuçlar almasının sebebi nedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "1974 yılındaki deneyde katılımcılara yönergeyi bir otorite figürünün değil de herhangi birinin vermesi",
+        "B": "1963 yılındaki deneyde Milgram'ın katılımcıları kandırması",
+        "C": "1974 yılındaki deneyde bulunan katılımcı sayısının azlığı",
+        "D": "1963 yılında yapılan deneyin uygun koşullarda yapılmaması",
+        "E": "1974 yılındaki katılımcıların hepsinin kadın olması"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Milgram deneyinin tekrarında, emirleri veren kişi bir 'bilim insanı' (otorite) yerine sıradan biri olduğunda, katılımcıların hiçbiri itaat etmeyerek deneyi bırakmıştır."
+    },
+    {
+      "soruid": 53,
+      "soru_metni": "Aşağıdakilerden hangisi Bradshaw ve Howard'ın 2019 yılında yayınlanan Bilgisayar Temelli Propaganda Araştırma Projesi'ne göre siber takımların, trollerin ve propagandayı gerçekleştiren diğer kurumların kullandığı sosyal medya manipülasyonlarından biridir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Sosyal medyaya fotoğraf koymak",
+        "B": "Sosyal medyadan durum güncellemesi yapmak",
+        "C": "Sosyal medya paylaşımlarına yorum yapmak",
+        "D": "Sosyal medyadan herhangi birini arkadaş eklemek",
+        "E": "Bir kişinin sosyal medya profilini incelemek"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Raporda siber takımların kullandığı manipülasyon yöntemleri arasında; paylaşımlara olumlu/olumsuz/nötr yorum yapmak, bireyleri hedef almak ve sahte hesap kullanımı sayılmıştır."
+    },
+    {
+      "soruid": 54,
+      "soru_metni": "Avukat olan Büşra bir davanın kazanılması konusunda yakın zamanda tanıştığı Avukat Batuhan'dan yardım almıştır. Sonraki süreçte Batuhan, Büşra'dan kurucusu olduğu siyasi bir Facebook sayfasına üye olmasını istemiştir. Büşra, borçlu kalmamak için bu isteği kabul etmiştir. Yaşanan bu olay Cialdini'nin İkna Prensipleri Temelinde Propaganda tekniklerinden hangisine örnektir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Sosyal Onaylama İhtiyacının Propaganda Tekniği Olarak Kullanılması",
+        "B": "Karşılıklılık Normunun Propaganda Tekniği Olarak Kullanılması",
+        "C": "Tutarlı Olma İhtiyacının Propaganda Tekniği Olarak Kullanılması",
+        "D": "Çekiciliğin ve Benzerliğin Propaganda Tekniği Olarak Kullanılması",
+        "E": "Uzmanlık/Otorite İlkesinin Propaganda Tekniği Olarak Kullanılması"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Büşra'nın kendisine yapılan bir iyilik karşısında 'borçlu kalmamak' hissiyle karşı tarafın isteğini kabul etmesi 'Karşılıklılık Normu' prensibine örnektir."
+    },
+    {
+      "soruid": 55,
+      "soru_metni": "Siber takımların sosyal medya paylaşımlarına yönelik yorumları Bradshaw ve Howard'ın araştırmalarına göre çeşitli şekillerde olmaktadır. Ülkelerin siber takımlarının sosyal medya paylaşımlarına neden nötr yorumlar yaptıkları ile ilgili yukarıda verilenlerden hangisi ya da hangileri doğrudur?\nI. Dikkatin dağılmasını sağlamak\nII. Verilen görevi yapmak istememek\nIII. Konuyu dağıtmak",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Yalnız I",
+        "B": "Yalnız II",
+        "C": "I ve II",
+        "D": "I ve III",
+        "E": "I, II ve III"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": "Metinde bazı ülkelerde siber takımların nötr yorumlar yaparak 'dikkati dağıtmayı' (I) ve 'konuyu saptırmayı' (III) amaçladıkları belirtilmiştir."
+    }
+      ]
+    }
+  ]
+}
+
