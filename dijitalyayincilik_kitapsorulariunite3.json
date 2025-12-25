@@ -1,0 +1,573 @@
+{
+  "ders_kodu": "SMY203U",
+  "ders_adi": "DİJİTAL YAYINCILIK",
+  "sinavlar": [
+    {
+      "baslik": "2025 Ünite 3 Yapay Zeka Destekli Çıkabilecek Sorular",
+      "tur": "AI",
+      "yil": 2025,
+      "sorular": [
+   {
+      "soruid": 1,
+      "soru_metni": "Fotoğraf (Photography) kelimesinin kökeni ve anlamı aşağıdakilerden hangisinde doğru verilmiştir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Latince: Işık ve Gölge",
+        "B": "Eski Yunanca: Işık (Photo) ve Çizmek (Graphy)",
+        "C": "İngilizce: Resim ve Kayıt",
+        "D": "Fransızca: Anı yakalamak",
+        "E": "Almanca: Işık kutusu"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Metinde fotoğraf kelimesinin eski Yunanca photo (ışık) ve graphy (çizmek, resmetmek) kelimelerinin birleşiminden oluştuğu ve 'ışıkla çizmek' anlamına geldiği belirtilmiştir."
+    },
+    {
+      "soruid": 2,
+      "soru_metni": "İlk dijital fotoğraf makinesi hangi yıl ve kim tarafından üretilmiştir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "1990 - Sony Mühendisleri",
+        "B": "1985 - Canon Ekibi",
+        "C": "1975 - Steven Sasson (Kodak)",
+        "D": "2000 - Steve Jobs (Apple)",
+        "E": "1960 - NASA"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "İlk dijital fotoğraf makinesi 1975 yılında Kodak'ta mühendis olarak çalışan Steven Sasson ve asistanları tarafından üretilmiştir."
+    },
+    {
+      "soruid": 3,
+      "soru_metni": "Dijital fotoğrafçılığı analog fotoğrafçılıktan ayıran en temel fark nedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Objektif kullanılması",
+        "B": "Işık kaynağına ihtiyaç duyması",
+        "C": "Filmin yerini elektronik algılayıcıların (sensör) alması",
+        "D": "Deklanşör mekanizmasının olması",
+        "E": "Karanlık oda gerektirmesi"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Metne göre en önemli dönüşüm, ışığa duyarlı yüzey yani filmin yerini bilgisayar teknolojisinin ürünü olan algılayıcıların (sensörlerin) almış olmasıdır."
+    },
+    {
+      "soruid": 4,
+      "soru_metni": "Dijital görüntüleri oluşturan ve 'resim ögesi' (picture element) anlamına gelen en küçük yapı birimine ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Gren",
+        "B": "Piksel",
+        "C": "Bit",
+        "D": "Vektör",
+        "E": "İnç"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Metinde dijital görüntüyü oluşturan en küçük birime 'piksel' adı verildiği ve İngilizce 'picture element'ten geldiği ifade edilmiştir."
+    },
+    {
+      "soruid": 5,
+      "soru_metni": "CCD algılayıcıların (sensörlerin) CMOS algılayıcılara göre en belirgin avantajı nedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Daha az enerji tüketmeleri",
+        "B": "Daha ucuz maliyetli olmaları",
+        "C": "Daha küçük boyutta olmaları",
+        "D": "Işığa karşı daha hassas olup daha yüksek kaliteli görüntü sunmaları",
+        "E": "Video çekiminde daha hızlı olmaları"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": "CCD algılayıcılar ışığa karşı CMOS algılayıcılara göre daha hassastır ve yüksek kalitede net görüntü elde etmek için genellikle tercih edilirler."
+    },
+    {
+      "soruid": 6,
+      "soru_metni": "Dijital bir fotoğrafta piksel yoğunluğu (PPI) arttıkça aşağıdakilerden hangisi gerçekleşir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Görüntü bulanıklaşır",
+        "B": "Dosya boyutu küçülür",
+        "C": "Görüntünün keskinliği artar",
+        "D": "Renkler solar",
+        "E": "Fotoğraf siyah beyaz olur"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Metne göre birim alana düşen piksel sayısı (PPI) arttıkça dijital görüntünün keskinliği ve ayrıntısı artar."
+    },
+    {
+      "soruid": 7,
+      "soru_metni": "İnsan gözünün fark edemeyeceği verileri atarak sıkıştırma yapan ve bu sayede hafıza kartında az yer kaplayan dosya formatı hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "TIFF",
+        "B": "RAW",
+        "C": "PSD",
+        "D": "JPEG",
+        "E": "PNG"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": "JPEG formatı, görüntüyü sıkıştırarak kaydeder ve gereksiz verileri atarak hafızada az yer kaplar, ancak kayıplı bir formattır."
+    },
+    {
+      "soruid": 8,
+      "soru_metni": "Profesyonel fotoğrafçıların çekim sonrası düzenleme (post-prodüksiyon) esnekliği nedeniyle tercih ettiği, görüntüyü ham ve kayıpsız kaydeden format hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "JPEG",
+        "B": "GIF",
+        "C": "RAW",
+        "D": "MP4",
+        "E": "BMP"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "RAW formatı görüntüyü herhangi bir kayba uğratmadan ham haliyle kaydeder ve fotoğrafçıya işleme programlarında düzeltme imkanı sağlar."
+    },
+    {
+      "soruid": 9,
+      "soru_metni": "Dijital görüntüde piksel başına düşen renk sayısını ifade eden kavram nedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Çözünürlük",
+        "B": "Renk Derinliği (Bit)",
+        "C": "Beyaz Dengesi",
+        "D": "Kontrast",
+        "E": "Diyafram"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Sayısal bir görüntüdeki piksel başına düşen renk sayısını ifade eden kavram 'Renk Derinliği'dir ve 'Bit' ile adlandırılır."
+    },
+    {
+      "soruid": 10,
+      "soru_metni": "Objektifin optik merkezi ile film yüzeyi (veya sensör) arasındaki uzaklığın milimetre cinsinden ifadesine ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Odak Uzunluğu",
+        "B": "Diyafram Açıklığı",
+        "C": "Enstantane Hızı",
+        "D": "ISO Değeri",
+        "E": "Bakış Açısı"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Odak uzunluğu, objektifin optik merkezi ile sensör arasındaki uzaklığın milimetre cinsinden ifadesidir."
+    },
+    {
+      "soruid": 11,
+      "soru_metni": "Fotoğraf makinesine giren ışık miktarını ayarlayan ve f/1.4, f/2.8, f/16 gibi değerlerle ifade edilen mekanizma hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Enstantane (Örtücü)",
+        "B": "Diyafram",
+        "C": "Vizör",
+        "D": "Deklanşör",
+        "E": "Sensör"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Diyafram, ışığa duyarlı yüzey üzerine düşecek ışık miktarını ayarlayan düzenektir ve f değerleri ile ifade edilir."
+    },
+    {
+      "soruid": 12,
+      "soru_metni": "Hareketli bir konuyu (örneğin koşan bir sporcu) dondurarak net bir şekilde çekmek için hangi ayar öncelikli olarak değiştirilmelidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Diyaframı kısmak",
+        "B": "ISO'yu düşürmek",
+        "C": "Enstantane (Perde) hızını artırmak",
+        "D": "Beyaz dengesini değiştirmek",
+        "E": "Dosya formatını değiştirmek"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Enstantane, ışığın süresini belirlediği gibi hareketli konuların çekiminde hareketin net olarak dondurulmasını sağlar."
+    },
+    {
+      "soruid": 13,
+      "soru_metni": "Sensör boyutu analog makinelerdeki 35mm film karesiyle aynı ebatta ($24\\times36$ mm) olan dijital makinelere ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Kompakt Makine",
+        "B": "Full Frame (Tam Çerçeve) Makine",
+        "C": "Crop Frame Makine",
+        "D": "Aynasız Makine",
+        "E": "APS-C Makine"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Görüntüyü sensör üzerine $24\\times36$ mm'lik bir alana, yani 35mm film boyutuna eşit şekilde kaydeden makineler 'Full Frame' olarak adlandırılır."
+    },
+    {
+      "soruid": 14,
+      "soru_metni": "Kırpma faktörlü (Crop Frame/APS-C) bir makinede 75mm objektif kullanıldığında, görüntü alanı daraldığı için bu objektif yaklaşık kaç mm gibi davranır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "35 mm",
+        "B": "50 mm",
+        "C": "75 mm (Değişmez)",
+        "D": "100 mm (Daha tele/dar açılı)",
+        "E": "20 mm"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": "Metinde verilen örneğe göre, crop faktörlü bir makinede 75mm objektif kullanıldığında görüntü çerçevesi daralacak ve sanki 100mm tele bir objektifle çekim yapılmış gibi görünecektir."
+    },
+    {
+      "soruid": 15,
+      "soru_metni": "Gövdesinde ayna mekanizması bulunmayan, bu nedenle daha hafif ve küçük olan, optik vizör yerine elektronik vizör kullanan makine türü hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "DSLR",
+        "B": "SLR",
+        "C": "Aynasız (Mirrorless) Dijital Makine",
+        "D": "Orta Format Makine",
+        "E": "Polaroid Makine"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Aynasız dijital fotoğraf makineleri, DSLR'lerden farklı olarak ayna mekanizması barındırmaz, daha hafiftir ve optik vizör yerine elektronik vizör kullanır."
+    },
+    {
+      "soruid": 16,
+      "soru_metni": "Sürekli hareket halinde olan konuların (spor, haber fotoğrafçılığı vb.) çekiminde kullanılması önerilen otomatik netleme modu hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Tekil Servo (Single Servo)",
+        "B": "Manuel Netleme",
+        "C": "Sürekli Servo (Continuous Servo)",
+        "D": "Sonsuz Netleme",
+        "E": "Makro Netleme"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Sürekli Servo modu, sürekli hareket halinde olan konu ve detayların fotoğrafları çekilirken tercih edilen ve konu hareket ettikçe netlemeyi yenileyen moddur."
+    },
+    {
+      "soruid": 17,
+      "soru_metni": "Karanlık bir ortamda flaş kullanmadan çekim yapmak zorunda kalan bir fotoğrafçı, ışığa duyarlılığı artırmak için hangi değeri yükseltmelidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Diyafram Değerini (f sayısını)",
+        "B": "Enstantane Hızını",
+        "C": "ISO Değerini",
+        "D": "Piksel Sayısını",
+        "E": "Odak Uzaklığını"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "ISO, sensörlerin ışığa duyarlılık derecesini ifade eder. Işığın az olduğu ortamlarda ISO değeri yükseltilerek sensörün ışığı daha fazla algılaması sağlanır."
+    },
+    {
+      "soruid": 18,
+      "soru_metni": "Diyafram öncelikli mod (AV veya A) seçildiğinde aşağıdakilerden hangisi gerçekleşir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Tüm ayarları makine yapar.",
+        "B": "Enstantaneyi fotoğrafçı, diyaframı makine seçer.",
+        "C": "Diyaframı fotoğrafçı seçer, enstantaneyi makine otomatik ayarlar.",
+        "D": "ISO ve beyaz dengesi otomatik olarak kilitlenir.",
+        "E": "Sadece manuel netleme yapılabilir."
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Diyafram öncelikli modda, diyafram ayar seçimini fotoğrafçı yaparken enstantane ve diğer ayarları makine otomatik olarak yapar."
+    },
+    {
+      "soruid": 19,
+      "soru_metni": "Havai fişek veya yıldız pozlama gibi 30 saniyeden uzun süreli pozlamalar için kullanılması gereken mod hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "P (Program) Modu",
+        "B": "M (Manuel) Mod",
+        "C": "B (Bulb) Modu",
+        "D": "S (Enstantane Öncelikli) Mod",
+        "E": "Auto Mod"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Bulb (B) modu, deklanşöre basılı tutulduğu sürece perdenin açık kalmasını sağlayarak 30 saniyenin üzerindeki uzun pozlamalara imkan tanır."
+    },
+    {
+      "soruid": 20,
+      "soru_metni": "Fotoğraf makinesinin sarsılmasını önleyerek net fotoğraflar çekmeyi sağlayan üç ayaklı yardımcı ekipman nedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Flaş",
+        "B": "Lens Hood",
+        "C": "Tripod",
+        "D": "Filtre",
+        "E": "Reflektör"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Tripod, makineyi sabitleyerek titremeyi önleyen ve net fotoğraflar çekilmesini sağlayan üç ayaklı mekanizmadır."
+    },
+    {
+      "soruid": 21,
+      "soru_metni": "Baskı kalitesini belirleyen 'DPI' kavramının açılımı nedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Dots Per Inch (İnç başına düşen nokta sayısı)",
+        "B": "Digital Photo Interface",
+        "C": "Direct Print Image",
+        "D": "Data Processing Input",
+        "E": "Dual Pixel Integration"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "DPI (Dots Per Inch), baskı cihazlarının 1 inç kareye vurdukları nokta sayısının yoğunluğunu ifade eder."
+    },
+    {
+      "soruid": 22,
+      "soru_metni": "Aşağıdakilerden hangisi dijital fotoğraf makinelerinde kullanılan hafıza kartı türlerinden biri değildir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "SD (Secure Digital)",
+        "B": "CF (Compact Flash)",
+        "C": "xD Picture",
+        "D": "MMC (Multi Media Card)",
+        "E": "VHS Kaset"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": "SD, CF, xD ve MMC dijital fotoğrafçılıkta kullanılan hafıza kartı çeşitleridir; VHS kaset ise eski analog video kayıt formatıdır."
+    },
+    {
+      "soruid": 23,
+      "soru_metni": "1 Megapiksel kaç adet piksele karşılık gelir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "1.000",
+        "B": "100.000",
+        "C": "1.000.000 (Bir Milyon)",
+        "D": "10.000",
+        "E": "10.000.000"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Metinde '1 megapiksel 1 milyon piksel taneciğine karşılık gelir' ifadesi açıkça yer almaktadır."
+    },
+    {
+      "soruid": 24,
+      "soru_metni": "Dijital fotoğrafın kalitesini etkileyen ve 'renkli görüntüleri oluşturmak için kullanılan model' olarak belirtilen RGB'nin açılımı nedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Red-Grey-Blue",
+        "B": "Red-Green-Black",
+        "C": "Red-Green-Blue (Kırmızı-Yeşil-Mavi)",
+        "D": "Real-Graphic-Base",
+        "E": "Rose-Gold-Brown"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "RGB renk modeli, Kırmızı (Red), Yeşil (Green) ve Mavi (Blue) renklerinin baş harflerinden oluşur."
+    },
+    {
+      "soruid": 25,
+      "soru_metni": "Fotoğraf makinesinin deklanşörüne 'yarım basmak' genellikle hangi işlemi başlatır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Fotoğrafı siler",
+        "B": "Otomatik netleme (Focus) ve ışık ölçümü yapar",
+        "C": "Makineyi kapatır",
+        "D": "Flaş patlatır",
+        "E": "Videoya geçer"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Deklanşöre yarım basmak, makinenin otomatik netleme (AF) yapmasını ve pozlama değerlerini ölçmesini sağlar."
+    },
+    {
+      "soruid": 26,
+      "soru_metni": "P (Program) Modu'nda fotoğrafçı ISO'yu ayarlarken, makine neleri otomatik ayarlar?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Sadece Diyaframı",
+        "B": "Sadece Enstantaneyi",
+        "C": "Enstantane ve Diyaframı",
+        "D": "Beyaz dengesini ve Flaş'ı",
+        "E": "Hiçbir şeyi, her şey manueldir"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Program (P) modunda makine enstantane ve diyafram ayarlarını otomatik yaparken ISO tercihlerini fotoğrafçıya bırakır."
+    },
+    {
+      "soruid": 27,
+      "soru_metni": "Uzun pozlama çekimlerinde (örneğin yıldız pozlama) titremeyi engellemek için kullanılan yardımcı ekipman hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Flaş",
+        "B": "Uzaktan Kumanda Düğmesi (Deklanşör Kablosu)",
+        "C": "UV Filtre",
+        "D": "Geniş Açı Lens",
+        "E": "Hafıza Kartı"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Uzun pozlamalarda elimizin makineyi titretmesini engellemek için makineye temas etmeden çekim yapmayı sağlayan uzaktan kumanda/kablo kullanılır."
+    },
+    {
+      "soruid": 28,
+      "soru_metni": "TIFF dosya formatının temel özelliği nedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Çok küçük dosya boyutuna sahiptir.",
+        "B": "Sıkıştırılmış ve kayıplı bir formattır.",
+        "C": "Görüntüyü çok büyük boyutlu dosyalar halinde kaydeder, yüksek kalitelidir.",
+        "D": "Sadece siyah beyaz fotoğraf çeker.",
+        "E": "İnternette paylaşım için en uygun formattır."
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "TIFF formatı, görüntüyü sıkıştırmadan çok büyük boyutlu dosyalar halinde kaydeder ve çok büyük baskı alınacak işlerde tercih edilir."
+    },
+    {
+      "soruid": 29,
+      "soru_metni": "Aşağıdakilerden hangisi dijital fotoğraf makinelerinin gövde (body) kısmında yer almaz, genellikle objektif (lens) üzerinde bulunur?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Sensör",
+        "B": "Deklanşör düğmesi",
+        "C": "LCD Ekran",
+        "D": "Netleme (Focus) Halkası",
+        "E": "Hafıza kartı yuvası"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": "Netleme halkası ve diyafram düzeneği objektif (lens) üzerinde bulunur; diğer parçalar gövdededir."
+    },
+    {
+      "soruid": 30,
+      "soru_metni": "DSLR makinelerde görüntüyü vizöre iletmek için kullanılan, 45 derecelik açıyla duran mekanizma nedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Ayna (Refleks Ayna)",
+        "B": "Sensör",
+        "C": "Hafıza Kartı",
+        "D": "Pil",
+        "E": "Flaş"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "DSLR makinelerde objektiften gelen ışık, 45 derecelik açıyla duran ayna ve pentaprizma aracılığıyla vizöre iletilir."
+    },
+    {
+      "soruid": 31,
+      "soru_metni": "Fotografik görüntünün oluşması için aşağıdakilerden hangisine ihtiyaç yoktur? (Ünite Sorusu 1)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Işık",
+        "B": "Fotoğrafçı",
+        "C": "Işığa duyarlı yüzey",
+        "D": "Tripot",
+        "E": "Fotoğraf makinesi"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": "Fotoğrafın oluşması için ışık, makine, duyarlı yüzey ve fotoğrafçı temel gereksinimlerdir; ancak tripod yardımcı bir ekipmandır, zorunlu değildir."
+    },
+    {
+      "soruid": 32,
+      "soru_metni": "Dijital fotoğrafçılığı analog fotoğrafçılıktan ayıran en önemli özellik aşağıdakilerden hangisidir? (Ünite Sorusu 2)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Filmin yerini algılayıcıların alması",
+        "B": "Filmin yerini grenlerin alması",
+        "C": "Filmin yerini piksellerin alması",
+        "D": "Filmin yerini aynaların alması",
+        "E": "Filmin yerini lcd ekranların alması"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "En temel fark, görüntüyü kaydeden filmin yerini elektronik algılayıcıların (sensörlerin) almasıdır."
+    },
+    {
+      "soruid": 33,
+      "soru_metni": "Dijital görüntüler kaydedilirken kullanılan dosya formatları aşağıdakilerden hangisinde doğru olarak verilmiştir? (Ünite Sorusu 3)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Piksel, inç, çözünürlük",
+        "B": "Raw, ppı, dpı",
+        "C": "Tiff, piksel, dpı",
+        "D": "Jpeg, Raw, Tiff",
+        "E": "Çözünürlük, Tiff, Raw"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": "Metinde belirtilen üç temel dosya formatı JPEG, RAW ve TIFF'tir."
+    },
+    {
+      "soruid": 34,
+      "soru_metni": "Fotografik görüntüyü kaydedip üretmek için film ve foto kimyasallar yerine dijital yani sayısal teknolojileri kullanan görüntüleme biçimi aşağıdakilerden hangisidir? (Ünite Sorusu 4)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Çözünürlük",
+        "B": "Analog Fotoğraf",
+        "C": "Megapiksel",
+        "D": "DPI",
+        "E": "Dijital fotoğraf"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": "Tanım, dijital fotoğrafın tanımıdır."
+    },
+    {
+      "soruid": 35,
+      "soru_metni": "Dijital fotoğraf makineleri hangi iki temel parçadan oluşur? (Ünite Sorusu 5)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Piksel ve Megapiksel",
+        "B": "Gövde ve Objektif",
+        "C": "Dijital ve Analog",
+        "D": "Diyafram ve Enstantane",
+        "E": "Full Frame ve Krop"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Fotoğraf makineleri temel olarak Body (Gövde) ve Objektif olmak üzere iki ana parçadan oluşur."
+    },
+    {
+      "soruid": 36,
+      "soru_metni": "Dijital fotoğraf makinelerinde genellikle aşağıdaki algılayıcı tiplerinden hangi ikisi kullanılmaktadır? (Ünite Sorusu 6)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "DPI-PPI",
+        "B": "Gren-Piksel",
+        "C": "CCD-CMOS",
+        "D": "Enstantane-Diyafram",
+        "E": "Gövde-Objektif"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Dijital makinelerde kullanılan iki ana sensör teknolojisi CCD ve CMOS'tur."
+    },
+    {
+      "soruid": 37,
+      "soru_metni": "35 mm film boyutunda sensöre sahip dijital makine aşağıdakilerin hangisinde doğru olarak verilmiştir? (Ünite Sorusu 7)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Full frame dijital fotoğraf makinesi",
+        "B": "Elektronik bakaçlı dijital fotoğraf makinesi",
+        "C": "Aynasız dijital fotoğraf makinesi",
+        "D": "Aps-c Tip dijital fotoğraf makinesi",
+        "E": "Apsc-h Tip dijital fotoğraf makinesi"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Analog 35mm film boyutuna ($24\\times36$mm) eşdeğer sensöre sahip makineler 'Full Frame' (Tam Kare) olarak adlandırılır."
+    },
+    {
+      "soruid": 38,
+      "soru_metni": "Aşağıdakilerden hangisi hafıza kartı çeşitlerinden biri değildir? (Ünite Sorusu 8)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "SD",
+        "B": "CF",
+        "C": "XD",
+        "D": "MMC",
+        "E": "DPI"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": "SD, CF, XD ve MMC hafıza kartı türleridir; DPI ise baskı çözünürlüğü birimidir."
+    },
+    {
+      "soruid": 39,
+      "soru_metni": "Sensör üzerinde 1 inçlik alana düşen piksel sayısına ne denir? (Ünite Sorusu 9)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "PPI",
+        "B": "Çözünürlük",
+        "C": "Objektif",
+        "D": "Piksel",
+        "E": "Diyafram"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Metinde 'Dijital fotoğraf makinemizde yer alan sensör üzerindeki 1 inç uzunluk yani 2.54 cm lik alana düşen piksel sayısı çözünürlük olarak ifade edilir' denilmektedir. (Not: Teknik olarak PPI piksel yoğunluğudur ancak kitap bu tanımı çözünürlük başlığı altında verip, ünite sorusunda cevabı 'Çözünürlük' olarak kabul etmiştir)."
+    },
+    {
+      "soruid": 40,
+      "soru_metni": "Çekim esnasında makinemizin yapacağı tüm yön ve hareketleri makineyi titretmeden yapan düzenek aşağıdakilerden hangisidir? (Ünite Sorusu 10)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Taşınabilir disk",
+        "B": "Yazıcı",
+        "C": "Tripod",
+        "D": "Hafıza kartları",
+        "E": "Uzaktan Kumanda Düğmesi"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Tripod, makineyi sabitleyerek titremeyi önleyen üç ayaklı destek ekipmanıdır."
+    }
+      ]
+    }
+  ]
+}
