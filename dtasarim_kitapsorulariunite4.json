@@ -1,0 +1,573 @@
+{
+  "ders_kodu": "SMY203U",
+  "ders_adi": "DİJİTAL TASARIM",
+  "sinavlar": [
+    {
+      "baslik": "2025 Ünite 4 Yapay Zeka Destekli Çıkabilecek Sorular",
+      "tur": "AI",
+      "yil": 2025,
+      "sorular": [
+    {
+      "soruid": 1,
+      "soru_metni": "Modernite ile birlikte meydana gelen dönüşümlerden biri olan ve üretimin artması, yeni iş alanlarının doğuşu ile tarım toplumundan sanayi toplumuna geçişi ifade eden gelişme hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Fransız İhtilali",
+        "B": "Rönesans",
+        "C": "Sanayi Devrimi",
+        "D": "Aydınlanma Çağı",
+        "E": "Coğrafi Keşifler"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Metinde modernite sürecindeki üç önemli dönüşümden biri olan Sanayi Devrimi'nin (1760-1840) üretim, fabrikalaşma ve toplum yapısını değiştirdiği belirtilmiştir."
+    },
+    {
+      "soruid": 2,
+      "soru_metni": "Walter Benjamin, 'Tekniğin Olanaklarıyla Yeniden Üretilebildiği Çağda Sanat Yapıtı' adlı eserinde, sanat eserinin kopyalanabilirliği (yeniden üretimi) ile neyin kaybolduğunu savunmuştur?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Estetik",
+        "B": "Aura (Hare/Biriciklik)",
+        "C": "Piyasa Değeri",
+        "D": "Sanatçı İmzası",
+        "E": "Perspektif"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Walter Benjamin, mekanik yeniden üretim çağında sanat eserinin 'şimdi ve burada' olma özelliğini taşıyan 'Aura'sının (biricikliğinin) yok olduğunu savunur."
+    },
+    {
+      "soruid": 3,
+      "soru_metni": "Jean Baudrillard'ın 'Simülasyon' kuramına göre, bir gerçeklik olarak algılanmak isteyen, gerçeğin yerini alan kopyalara veya görünümlere ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Metafor",
+        "B": "İkon",
+        "C": "Simülakr",
+        "D": "Kolaj",
+        "E": "Soyutlama"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Baudrillard'a göre simülakr, gerçeklik ile teması azaltan veya ortadan kaldıran, gerçeğin yerine geçen kopya/görünümdür."
+    },
+    {
+      "soruid": 4,
+      "soru_metni": "1952 yılında katot ışınlarını fotoğraflayarak 'elektronik soyutlamalar' adını verdiği çalışmaları üreten ve ilk bilgisayar sanatçısı olarak kabul edilen isim kimdir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Ben F. Laposky",
+        "B": "Frieder Nake",
+        "C": "Harold Cohen",
+        "D": "Nam June Paik",
+        "E": "Man Ray"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Ben F. Laposky, 1950'lerin başında analog ekrandan çektiği 'Oscillon' serisiyle elektronik aygıtlarla sanat yapan öncü isimdir."
+    },
+    {
+      "soruid": 5,
+      "soru_metni": "Nicolas Schoffer'in 1956 yılında yaptığı ve elektronik hesaplamalar ile gerçekleştirilen ilk sibernetik heykel olarak kabul edilen eseri hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "AARON",
+        "B": "CYSP 1",
+        "C": "Oscillon 40",
+        "D": "Tv Buddha",
+        "E": "Magnet TV"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Schoffer'in 'CYSP 1' adlı çalışması, çevreden gelen ses ve ışık yoğunluğuna tepki veren ilk sibernetik heykeldir."
+    },
+    {
+      "soruid": 6,
+      "soru_metni": "Umberto Eco'nun 'Açık Yapıt' (Open Work) kavramı dijital sanatta neyi ifade eder?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Eserin sadece açık havada sergilenmesini",
+        "B": "Eserin tamamlanmamış olduğunu ve izleyicinin yorumu/katılımı ile anlam kazandığını",
+        "C": "Eserin ücretsiz olmasını",
+        "D": "Sanatçının isminin gizli olmasını",
+        "E": "Eserin kodlarının herkese açık olmasını"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Eco'ya göre açık yapıt, izleyiciye yoruma ve katılıma açık bir alan bırakır; izleyici eseri kendi birikimiyle tamamlar veya dönüştürür."
+    },
+    {
+      "soruid": 7,
+      "soru_metni": "Yapay zekanın sanat üretimindeki kapasitesini göstermek amacıyla, ünlü ressam Rembrandt'ın 300'den fazla eserinin verisiyle oluşturulan 2014 tarihli projenin adı nedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Deep Dream",
+        "B": "The Next Rembrandt",
+        "C": "Flow Machine",
+        "D": "AI Portrait",
+        "E": "Digital Mona Lisa"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "ING ve Microsoft işbirliğiyle yapılan 'The Next Rembrandt' projesi, yapay zekanın ressamın üslubunu taklit ederek yeni bir eser üretmesidir."
+    },
+    {
+      "soruid": 8,
+      "soru_metni": "Sanatçı Harold Cohen'in kendi tasarladığı ve resim yapabilen bir yapay zekâ programı olan çalışmasının adı nedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "SIRI",
+        "B": "AARON",
+        "C": "CYSP",
+        "D": "HAL 9000",
+        "E": "WATSON"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Harold Cohen, AARON ismini verdiği programla bilgisayarın otonom olarak çizim ve boyama yapmasını sağlamıştır."
+    },
+    {
+      "soruid": 9,
+      "soru_metni": "Nicolas Bourriaud'un 'İlişkisel Estetik' kavramı 1990'lar sonrası sanatta neyi ön plana çıkarmaktadır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Sanatçının yalnızlığını",
+        "B": "Malzemenin pahalılığını",
+        "C": "Eserin izleyiciyle birlikte meydana gelen toplumsallığını ve katılımcılığını",
+        "D": "Müze duvarlarının rengini",
+        "E": "Resimlerin çerçevelerini"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "İlişkisel estetik, sanat eserini bir karşılaşma ve sosyal ilişki alanı olarak görür; izleyici katılımı ve deneyim paylaşımı esastır."
+    },
+    {
+      "soruid": 10,
+      "soru_metni": "1960'lı yıllarda sanat eleştirmeni Arnold Rockman, 'Sanatçı Olarak Elektronik Bilgisayar' makalesinde neyi savunmuştur?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Bilgisayarların sanatı yok edeceğini",
+        "B": "Dijital üretimin sanat sayılamayacağını",
+        "C": "Dijital ortamda üretilen imgelerin sanatsal bir dil ve stile sahip olduğunu",
+        "D": "Sadece yağlı boyanın gerçek sanat olduğunu",
+        "E": "Bilgisayarların sadece hesaplama yapması gerektiğini"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Rockman, bilgisayar üretimlerini sanat eleştirisi kategorileriyle (stil, bağlam) değerlendirerek onların sanatsal dilini savunmuştur."
+    },
+    {
+      "soruid": 11,
+      "soru_metni": "Ron Burnett'e göre sanal bir akvaryuma bakarken asıl gerçeklik nedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Sanal balıkların renkleri",
+        "B": "Akvaryumun camı",
+        "C": "O balıklara bakma deneyiminin kendisi",
+        "D": "Yazılımın kodları",
+        "E": "Elektrik tüketimi"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Burnett, simülasyon eleştirilerine karşı, sanal imgenin işaret ettiği şeyden ziyade onunla kurulan 'deneyimin' gerçek olduğunu savunur."
+    },
+    {
+      "soruid": 12,
+      "soru_metni": "Dijital sanatın tarihsel gelişiminde, 1990'lı yılların en belirgin özelliği nedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "İlk bilgisayarın icadı",
+        "B": "Yapay zekanın insanı yenmesi",
+        "C": "Bilgisayar kullanıcı sayısının artması ve dijital kültürün yaygınlaşması",
+        "D": "3D yazıcıların evlere girmesi",
+        "E": "Telgrafın yaygınlaşması"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "1990'lar, kişisel bilgisayarların ve internetin yaygınlaşmasıyla dijital kültürün geniş kitlelere ulaştığı dönemdir."
+    },
+    {
+      "soruid": 13,
+      "soru_metni": "Tokyo'da açılan ve izleyicinin katılımıyla interaktif bir deneyim sunan ünlü dijital sanat müzesi hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Louvre Müzesi",
+        "B": "The Mori Building Digital Art Museum (TeamLab)",
+        "C": "MoMA",
+        "D": "Tate Modern",
+        "E": "Guggenheim"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Mori Building Digital Art Museum, TeamLab grubu tarafından oluşturulan ve tamamen dijital/interaktif eserlere adanmış bir müzedir."
+    },
+    {
+      "soruid": 14,
+      "soru_metni": "Frieder Nake'in 1965 tarihli 'Paul Klee'ye Saygı' adlı çalışması, dijital sanat ile hangi akım/sanatçı arasındaki ilişkiye örnektir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Rönesans ve Da Vinci",
+        "B": "Barok ve Rembrandt",
+        "C": "Modernizm ve Paul Klee",
+        "D": "Pop Art ve Warhol",
+        "E": "Sürrealizm ve Dali"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Nake'in çalışması, modern ressam Paul Klee'nin kompozisyon düzenini ve çizgisel yapısını bilgisayar algoritmalarıyla yeniden yorumlamıştır."
+    },
+    {
+      "soruid": 15,
+      "soru_metni": "Olia Lialina'nın 1996 tarihli 'Erkek Arkadaşım Savaştan Geldi' adlı eseri hangi tür dijital sanat örneğidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Robotik Sanat",
+        "B": "Yapay Zeka Portresi",
+        "C": "Tarayıcı (Browser) tabanlı internet sanatı (Net.art)",
+        "D": "3D Heykel",
+        "E": "Sanal Gerçeklik"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Bu eser, internet tarayıcısı üzerinden oynanabilen, kullanıcının tıklamalarıyla ilerleyen erken dönem net.art (internet sanatı) örneğidir."
+    },
+    {
+      "soruid": 16,
+      "soru_metni": "Max Bense'in 'Estetik' anlayışında sanat ve estetik hangi temele dayandırılmaya çalışılmıştır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Duygusal yoğunluk",
+        "B": "Matematiksel ve bilimsel veriler",
+        "C": "Dini inançlar",
+        "D": "Politik görüşler",
+        "E": "Doğaçlama"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Bense, estetiği matematiksel bilime dönüştürmeyi amaçlamış; istatistiksel ve topolojik analizlerle 'bilgilenme estetiği'ni savunmuştur."
+    },
+    {
+      "soruid": 17,
+      "soru_metni": "Rönesans döneminde ressamların doğayı birebir yansıtmak için kullandıkları, görüntüyü yüzeye yansıtan mercekli düzeneğe ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Camera Obscura (Karanlık Kutu)",
+        "B": "Dijital Kamera",
+        "C": "Teleskop",
+        "D": "Mikroskop",
+        "E": "Projeksiyon"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Camera Obscura, Rönesans ve sonrasında ressamların perspektif ve gerçekçi görüntü elde etmek için kullandıkları optik araçtır."
+    },
+    {
+      "soruid": 18,
+      "soru_metni": "Refik Anadol'un 'Eriyen Hatıralar' gibi eserlerinde kullandığı temel malzeme nedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Yağlı boya",
+        "B": "Kil ve mermer",
+        "C": "Büyük veri (Data) ve algoritmalar",
+        "D": "Fotoğraf filmi",
+        "E": "Kumaş"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Refik Anadol, veri heykeltıraşlığı yaparak büyük veri setlerini algoritmalarla işleyip görselleştiren bir sanatçıdır."
+    },
+    {
+      "soruid": 19,
+      "soru_metni": "Dijital kültürde sanatçının rolü 'Romantik sanatçı' (gizemli yaratıcı) modelinden hangi modele dönüşmüştür?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Zanaatkar",
+        "B": "Multimedya Sanatçısı / Araştırmacı",
+        "C": "Tüccar",
+        "D": "Politikacı",
+        "E": "Filozof"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Dijital kültürde sanatçı; kod yazan, verileri işleyen, kültürün kodlarını yeniden yorumlayan bir araştırmacı ve multimedya üreticisine dönüşmüştür."
+    },
+    {
+      "soruid": 20,
+      "soru_metni": "Aşağıdakilerden hangisi dijital sanatın sergilenme ve korunma alanlarından biri olan online platformlardan (çevrimiçi arşiv) biridir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Louvre",
+        "B": "Rhizome",
+        "C": "Topkapı Sarayı",
+        "D": "British Museum",
+        "E": "Uffizi"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Rhizome, 1996'da kurulan ve dijital sanatı arşivleyen, sergileyen önemli bir çevrimiçi platformdur."
+    },
+    {
+      "soruid": 21,
+      "soru_metni": "Maurizio Bolognini'nin 'Etkileşimli Yerleştirme' (2004) adlı çalışmasında görüntüler nasıl değiştirilmiştir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Sanatçı tarafından elle çizilerek",
+        "B": "Rüzgar gücüyle",
+        "C": "İzleyicilerin cep telefonlarından yükledikleri görüntülerle",
+        "D": "Rastgele sayısal kodlarla",
+        "E": "Ses komutlarıyla"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Bolognini, izleyicileri sürece katarak onların cep telefonlarından gönderdikleri görüntülerle eserin içeriğini değiştirmiştir."
+    },
+    {
+      "soruid": 22,
+      "soru_metni": "Bilgisayar (Computer) terimi halk diline girmeden önce ve sanatçı Ben F. Laposky tarafından süreç nasıl adlandırılıyordu?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Mekanik Paradigma",
+        "B": "Dijital Devrim",
+        "C": "Elektronik Paradigma",
+        "D": "Sanal Gerçeklik",
+        "E": "Yapay Zeka"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Laposky ve dönemin öncüleri süreci 'elektronik paradigma' olarak adlandırmaktaydı; bilgisayar terimi o dönemde daha çok hesaplama yapan kişileri kastediyordu."
+    },
+    {
+      "soruid": 23,
+      "soru_metni": "2000'li yıllarda akıllı telefonların yaygınlaşması dijital sanat üzerinde nasıl bir etki yaratmıştır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Sanat üretimini zorlaştırmıştır.",
+        "B": "Sanatı sadece müzelere hapsetmiştir.",
+        "C": "Kolay ve hızlı üretim/yayılım sağlayarak üretimi anonimleştirmiş ve yaygınlaştırmıştır.",
+        "D": "Görüntü kalitesini düşürmüştür.",
+        "E": "Sanatçı sayısını azaltmıştır."
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Akıllı telefonlar ve uygulamalar, herkesin üretim yapabilmesini ve sosyal medyada paylaşabilmesini sağlayarak dijital sanat kültürünü tabana yaymıştır."
+    },
+    {
+      "soruid": 24,
+      "soru_metni": "Chris Milk'in 'Sığınmamın Hâli' (2012) adlı interaktif enstalasyonunda izleyici neyi deneyimler?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Sadece bir film izler.",
+        "B": "Kendi gölgesinin kanatlanıp uçtuğunu görür.",
+        "C": "Bir müzik aleti çalar.",
+        "D": "Sanal bir gözlük takar.",
+        "E": "Bir robotla konuşur."
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Bu eserde izleyici ekran karşısında kollarını açtığında, ekrandaki yansımasının (gölgesinin) kuş gibi kanatlanıp uçtuğunu görür."
+    },
+    {
+      "soruid": 25,
+      "soru_metni": "Paul Brown'un 1980'lerde ürettiği ve 'hücresel otomat' olarak adlandırdığı çalışmaların temel özelliği nedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "İnsan yüzlerini çizmesi",
+        "B": "Sadece siyah renk kullanması",
+        "C": "Organik bir yapı gibi kendi kendini meydana getiren, tekrar eden motiflerden oluşması",
+        "D": "Fotoğraf kullanması",
+        "E": "Sesle çalışması"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Brown'un çalışmaları, basit kurallarla başlayan ve karmaşık desenlere dönüşen, hücresel dizilime dayalı algoritmik yapıtlardır."
+    },
+    {
+      "soruid": 26,
+      "soru_metni": "İnternet (ARPANET) ilk olarak hangi on yılda ve hangi amaçla geliştirilmeye başlanmıştır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "1990'lar - Eğlence",
+        "B": "1940'lar - Ticaret",
+        "C": "1960'lar - Askeri Savunma (ABD)",
+        "D": "1980'ler - Eğitim",
+        "E": "2000'ler - Sosyal Medya"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "İnternetin atası ARPANET, 1960'larda ABD Savunma Bakanlığı (DARPA) tarafından, olası bir saldırıda iletişim ağını korumak amacıyla geliştirilmiştir."
+    },
+    {
+      "soruid": 27,
+      "soru_metni": "'Van Gogh Alive' sergisi dijital sanatın hangi yönünü ön plana çıkarmaktadır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Orijinal tabloların korunmasını",
+        "B": "İzleyicinin eserin 'içinde' gezindiği sarmalayan (immersive) bir multimedya deneyimini",
+        "C": "Sadece biyografik bilgi vermeyi",
+        "D": "Resimlerin satılmasını",
+        "E": "Heykel sanatını"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Bu sergi, projeksiyonlarla mekanın tamamını kaplayarak izleyiciyi Van Gogh'un resimlerinin ve dünyasının içine sokan bir deneyim sunar."
+    },
+    {
+      "soruid": 28,
+      "soru_metni": "Modern demokrasinin bireyselliğe verdiği önem ile dijital kültür arasındaki ilişki nasıl kurulabilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "İlişki yoktur.",
+        "B": "Dijital kültür bireyselliği yok eder.",
+        "C": "Yeni medyalarda bireysel ifadenin sunumu ve özgürlüğü, demokrasi fikriyle paralellik gösterir.",
+        "D": "Sadece devletler dijital kültürü kullanabilir.",
+        "E": "Dijital kültür monarşiyi destekler."
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Dijital kültür, bireylerin kendi fikirlerini, üretimlerini özgürce paylaşabildiği platformlar (blog, sosyal medya) sunarak demokratik ifade alanını genişletir."
+    },
+    {
+      "soruid": 29,
+      "soru_metni": "Jack Burnham'ın 1968'de ortaya attığı 'sistem estetiği' kavramı neyi önerir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Sanatın sadece duygularla ilgili olduğunu",
+        "B": "Sanatın geleneksel kategorilerinin (resim, heykel) ötesinde, sistemler ve süreçler olarak yeniden düşünülmesi gerektiğini",
+        "C": "Bilgisayarların yasaklanmasını",
+        "D": "Sanatın doğayı taklit etmesini",
+        "E": "Müzelerin kapatılmasını"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Burnham, sanatın nesne odaklı olmaktan çıkıp, sistemler, ilişkiler ve süreçler odaklı bir yapıya (yazılım, ağlar vb.) evrildiğini savunmuştur."
+    },
+    {
+      "soruid": 30,
+      "soru_metni": "Sanatçı Charles A. Csuri'nin 'Dignified Lady' (1964-65) çalışmasında kullandığı teknik nedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Sadece yağlı boya",
+        "B": "Fotoğraf kolajı",
+        "C": "Analog bilgisayarlar ile üretilen imgelere mürekkep müdahalesi",
+        "D": "3D yazıcı",
+        "E": "Lazer kesim"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Csuri, bilgisayarla oluşturduğu çizimlerin çıktısını alıp üzerlerine geleneksel yöntemlerle (mürekkep vb.) müdahale ederek hibrit eserler üretmiştir."
+    },
+    {
+      "soruid": 31,
+      "soru_metni": "Bugünün kültürünün köklerinin on dokuzuncu yüzyıla kadar götürülebilmesinin nedeni aşağıdakilerden hangisidir? (Ünite Sorusu 1)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "On dokuzuncu yüzyıl bireyciliğin önem kazandığı, girişimci, teknolojik açıdan yenilikçi, ekonomik anlamda yeni bir evre olduğu için",
+        "B": "On dokuzuncu yüzyıl önemli savaşların yüzyılı olduğu için",
+        "C": "On dokuzuncu yüzyıl sanatlarda yeni stillerin ortaya çıktığı yüzyıl olduğu için",
+        "D": "On sekizinci yüzyıldan gelen düşüncelerin devamı olduğu için",
+        "E": "On dokuzuncu yüzyılda kentleşme ile kültürün de kentli özelliklik gösterdiği için"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "19. yüzyıl; sanayi devrimi, bireyciliğin yükselişi ve teknolojik yeniliklerle bugünkü dijital ve girişimci kültürün temellerini atmıştır."
+    },
+    {
+      "soruid": 32,
+      "soru_metni": "Aşağıdakilerden hangisi bilgisayar teknolojisinin ilk dönemlerinde görülen ana sorulardan biridir? (Ünite Sorusu 2)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Tasarım yapma",
+        "B": "Enformasyon toplama",
+        "C": "Animasyonlar üretme",
+        "D": "Oyunlar gerçekleştirme",
+        "E": "Diğer medyalara yardım etme"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Bilgisayarın atası sayılan Babbage'in Analitik Makinesi gibi ilk örneklerde temel amaç enformasyonu toplamak, depolamak ve iletmekti."
+    },
+    {
+      "soruid": 33,
+      "soru_metni": "Aşağıdakilerden hangisi 2000 sonrası dijital kültürün teknolojik olarak yaygınlaşmasında önemli etkendir? (Ünite Sorusu 3)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Sosyal medyaların ortaya çıkması",
+        "B": "Kullanıcı sayısının artışı",
+        "C": "Akıllı televizyonların yaygınlaşması",
+        "D": "Teknolojinin mobilize olması (Akıllı telefonlar vb.)",
+        "E": "Forum sitelerinin artışı"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": "Masaüstünden dizüstüne, oradan akıllı telefonlara geçiş (mobilize olma), dijital kültürün her an her yerde ulaşılabilir olmasını sağlamıştır."
+    },
+    {
+      "soruid": 34,
+      "soru_metni": "Aşağıdakilerden hangisi sanal cemaatler düşüncesinin genel anlamda özelliğidir? (Ünite Sorusu 4)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Etnik kimliklerde ortaklık",
+        "B": "Dilsel açıdan ortaklık",
+        "C": "Cinsiyet açısından ortaklık",
+        "D": "Örf ve adetler açısından ortaklık",
+        "E": "İlgilenilen konular ve beğeniler açısından ortaklık"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": "Sanal cemaatler, fiziksel yakınlıktan ziyade ortak ilgi alanları, zevkler ve beğeniler etrafında birleşen topluluklardır."
+    },
+    {
+      "soruid": 35,
+      "soru_metni": "Castells gibi araştırmacılar için dijital kültürün en yaygın elemanları olan İnternet ağlarının en güçlü etkisi aşağıdakilerden hangisidir? (Ünite Sorusu 5)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "İnternet alışverişinin ortaya çıkması",
+        "B": "İnternet haberciliğinin ortaya çıkması",
+        "C": "Yeni toplumsal ilişkilerinin ortaya çıkması (Sanal cemaatler)",
+        "D": "Baskı kalitesinin artması",
+        "E": "Geleneksel yöntemlerin ortadan kalkması"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Castells'e göre internet ağları, zaman ve mekan sınırlarını aşarak yeni toplumsal örgütlenme biçimleri ve sanal cemaatler oluşturmuştur."
+    },
+    {
+      "soruid": 36,
+      "soru_metni": "Umberto Eco'nun 'açık yapıt' düşüncesi aşağıdakilerden hangisini içerir? (Ünite Sorusu 6)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "İzleyici esere kendi yorumunu katarak onu deneyimler.",
+        "B": "İzleyici eserden katartik bir deneyim yaşamaktadır.",
+        "C": "Sanat yapıtı eğiticidir.",
+        "D": "Sanat yapıtını anlamanın yolu sanatçının hayatını bilmekten geçmektedir.",
+        "E": "Sanat eserine anlamını veren sanat ortamıdır."
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Açık yapıt, eserin anlamının sabit olmadığı, izleyicinin katılımı ve yorumuyla tamamlandığı düşüncesidir."
+    },
+    {
+      "soruid": 37,
+      "soru_metni": "Aşağıdakilerden hangisi dijital sanatın genel anlamıyla tanımıdır? (Ünite Sorusu 7)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Artırılmış gerçekliklerin olduğu sanatsal üretimlerdir.",
+        "B": "Sosyal medyalarda paylaşılan sanatsal üretimlerdir.",
+        "C": "VR teknolojisiyle gerçekleşen sanatsal üretimdir.",
+        "D": "Dijital tabletler ile yapılan sanatsal üretimlerdir.",
+        "E": "Dijital medyalarda üretilen sanatsal üretimlerdir."
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": "Dijital sanat, üretiminde, sergilenmesinde veya dağıtımında dijital teknolojilerin (bilgisayar, yazılım vb.) kullanıldığı tüm sanatları kapsayan genel bir tanımdır."
+    },
+    {
+      "soruid": 38,
+      "soru_metni": "Aşağıdakilerden hangisi 1980'li yıllarda dijital sanatta yaşananlardan biridir? (Ünite Sorusu 8)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Bilgisayar araştırmalarıyla sanat arasındaki ilişki kurulmuştur.",
+        "B": "Dijital sanatın sanat olduğuna dair ikna edici çabalar görülmüştür (Popülerleşme).",
+        "C": "Açık kod kullanımı başlamıştır.",
+        "D": "İnternet küresel açıdan yaygınlaşmıştır.",
+        "E": "Dijital sanat hakkında ilk eleştiri yazısı çıkmıştır."
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "1980'ler, kişisel bilgisayarların yaygınlaşması ve popüler kültürde (filmler vb.) yer almasıyla dijital sanatın daha görünür olduğu ve kabul görmeye çalıştığı dönemdir."
+    },
+    {
+      "soruid": 39,
+      "soru_metni": "Yapay zekâ tarafından yapılan 'Next Rembrandt' aşağıdakilerden hangisinin göstergesidir? (Ünite Sorusu 9)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Yapay zekanın renk seçiminde etkili olduğuna",
+        "B": "Sanat tarihi konusunda bilgi üretiminde yapay zekâdan faydalanabileceği",
+        "C": "Yapay zekânın veri işleme kabiliyetinin ressamın tarzını taklit edebilecek kadar iyi olması",
+        "D": "Yapay zekânın sonraki evrede kendi resmini yapabileceğine",
+        "E": "Yapay zekânın sanat eserleri hakkında fikir yürütebilecek kabiliyette olduğuna"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Bu proje, yapay zekanın veri analizi yaparak bir sanatçının üslubunu, fırça darbelerini ve kompozisyonunu taklit edip yeni bir eser 'üretebileceğini' kanıtlamıştır."
+    },
+    {
+      "soruid": 40,
+      "soru_metni": "Dijital sanat müzelerinin varlığının dijital sanat için öncelikli varlığı aşağıdakilerden ne olabilir? (Ünite Sorusu 10)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Dijital sanat eğitimine olan ilginin artması",
+        "B": "Dijital sanatın kitlelere ulaştırılması",
+        "C": "Dijital sanat eseri üreten sanatçıların kendilerini ifade edecekleri bir ortam meydan getirilmesi",
+        "D": "Dijital sanat ve medya ilişkilerini kurmak",
+        "E": "Dijital sanatın kurumsallaşması ve eserlerin korunması"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": "Müzeler, sanatın meşruiyet kazandığı, arşivlendiği ve korunduğu alanlardır; dijital sanatın müzelere girmesi onun kurumsallaştığını gösterir."
+    }
+      ]
+    }
+  ]
+}
