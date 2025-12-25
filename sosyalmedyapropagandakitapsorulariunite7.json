@@ -1,0 +1,573 @@
+{
+  "ders_kodu": "SMY201U",
+  "ders_adi": "SOSYAL MEDYA VE PROPAGANDA",
+  "sinavlar": [
+    {
+      "baslik": "2025 Ünite 7 Yapay Zeka Destekli Çıkabilecek Sorular",
+      "tur": "AI",
+      "yil": 2025,
+      "sorular": [
+    {
+      "soruid": 1,
+      "soru_metni": "Bir bilginin istihbarata dönüşebilmesi için geçirdiği beş temel süreç hangi seçenekte doğru sıralanmıştır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Toplama - Analiz - Doğrulama - İhtiyaç - Paylaşma",
+        "B": "İhtiyaç - Toplama - Doğrulama - Analiz - Paylaşma",
+        "C": "Analiz - Toplama - İhtiyaç - Doğrulama - Paylaşma",
+        "D": "Toplama - İhtiyaç - Analiz - Doğrulama - Paylaşma",
+        "E": "Paylaşma - Analiz - Doğrulama - Toplama - İhtiyaç"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Metinde istihbarat sürecinin beş adımı sırasıyla; İhtiyaç, Toplama, Doğrulama, Analiz ve İlgili kişilerle paylaşma olarak belirtilmiştir."
+    },
+    {
+      "soruid": 2,
+      "soru_metni": "İstihbarat bilgisinin kaynağının yaklaşık %90'ı hangi yöntemle elde edilmektedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Casusluk faaliyetleri",
+        "B": "Siber saldırılar",
+        "C": "Açık Kaynaklar (OSINT)",
+        "D": "Gizli sorgulamalar",
+        "E": "Uydu görüntüleri"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Metinde istihbarat bilgisinin kaynağının neredeyse %90'ının açık kaynak olarak tabir edilen, herkesin ulaşabileceği mecralardan elde edildiği belirtilmiştir."
+    },
+    {
+      "soruid": 3,
+      "soru_metni": "Kamuya açık bilgilerin sistematik olarak toplanması, işlenmesi ve analiz edilmesi sonucu istihbarat üretme disiplinine ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Sinyal İstihbaratı (SIGINT)",
+        "B": "İnsan İstihbaratı (HUMINT)",
+        "C": "Görüntü İstihbaratı (IMINT)",
+        "D": "Açık Kaynak İstihbaratı (OSINT)",
+        "E": "Teknik İstihbarat (TECHINT)"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": "OSINT (Open Source Intelligence), kamuya açık bilgilerin toplanıp analiz edilerek istihbarata dönüştürülmesini ifade eder."
+    },
+    {
+      "soruid": 4,
+      "soru_metni": "Boyd ve arkadaşlarının tanımına göre aşağıdakilerden hangisi sosyal medya ağlarının temel özelliklerinden biri değildir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Sınırlı bir sistem içinde profil oluşturabilme",
+        "B": "Bağlantı listesi oluşturabilme",
+        "C": "Başkalarının bağlantılarını görüntüleyebilme",
+        "D": "Sadece tek yönlü iletişim kurabilme",
+        "E": "Web tabanlı hizmetler olması"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": "Sosyal medya ağları etkileşimli ve karşılıklı iletişime olanak tanır, 'sadece tek yönlü iletişim' bu tanımın bir parçası değildir."
+    },
+    {
+      "soruid": 5,
+      "soru_metni": "Bir internet platformuna anlık erişim sağlayan ve erişimi devam eden çok sayıda kişi, grup ya da organizasyona ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Dijital Kalabalık",
+        "B": "Siber Ordu",
+        "C": "Trol Ordusu",
+        "D": "Hacktivist Grup",
+        "E": "Sanal Cemaat"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Metinde bu kitle 'dijital kalabalık' olarak tanımlanmıştır; zaman ve mekân sınırı olmayan, hiyerarşisiz bir yapıdır."
+    },
+    {
+      "soruid": 6,
+      "soru_metni": "İstihbarat toplama açısından, kendisinden bilgi toplanan ancak bunun farkında olmayan veya gönüllü olmayan kitleye ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Aktif Dijital Kalabalıklar",
+        "B": "Kriz Odaklı Dijital Kalabalıklar",
+        "C": "Pasif Dijital Kalabalıklar",
+        "D": "Bilinçli Kullanıcılar",
+        "E": "Gönüllü Muhbirler"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Pasif dijital kalabalıklar, rutin kullanımlarında bilgi sağladıklarının farkında olmayan kullanıcılardan oluşur."
+    },
+    {
+      "soruid": 7,
+      "soru_metni": "Haiti depremi sonrasında oluşturulan kriz haritaları, hangi dijital kalabalık türüne örnektir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Pasif Dijital Kalabalıklar",
+        "B": "Kriz Odaklı Dijital Kalabalıklar",
+        "C": "Aktif Dijital Kalabalıklar",
+        "D": "Politik Dijital Kalabalıklar",
+        "E": "Ticari Dijital Kalabalıklar"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Afet olayları karşısında kendiliğinden oluşan ve bilgi paylaşımıyla kriz yönetimine destek veren gruplar 'kriz odaklı dijital kalabalıklar'dır."
+    },
+    {
+      "soruid": 8,
+      "soru_metni": "Devletin istihbarat kurumları ile vatandaşlar arasında açık ve gönüllü bir iş birliğinin olduğu dijital kalabalık türü hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Pasif Dijital Kalabalıklar",
+        "B": "Kriz Odaklı Dijital Kalabalıklar",
+        "C": "Aktif Dijital Kalabalıklar",
+        "D": "Gizli Dijital Kalabalıklar",
+        "E": "Tarafsız Dijital Kalabalıklar"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Aktif dijital kalabalıkların en önemli özelliği, devletin güvenlik birimleriyle açık ve gönüllü bir iş birliği içinde olmalarıdır (Örn: Boston Maratonu saldırısı sonrası bilgi paylaşımı)."
+    },
+    {
+      "soruid": 9,
+      "soru_metni": "Büyük ölçekli veriler (Big Data) içerisinden faydalı bilgiye ulaşma ve gelecekle ilgili tahminlerde bulunma işine ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Veri Madenciliği (Data Mining)",
+        "B": "Siber Güvenlik",
+        "C": "Algı Yönetimi",
+        "D": "Sosyal Mühendislik",
+        "E": "Kriptoloji"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Veri madenciliği, büyük veri yığınları içinden anlamlı bağlantılar kurarak bilgi keşfetme sürecidir."
+    },
+    {
+      "soruid": 10,
+      "soru_metni": "İnternet kullanıcılarının fikir, değer, tutum ve hislerini yazılı dilden analiz ederek 'olumlu', 'olumsuz' veya 'nötr' olarak sınıflandıran yöntem hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Coğrafi İşaretleme",
+        "B": "Duygu Analizi (Sentiment Analysis)",
+        "C": "Toplum Mühendisliği",
+        "D": "Ağ Analizi",
+        "E": "İçerik Yönetimi"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Duygu analizi, metinlerdeki ifadeleri analiz ederek kişilerin duygusal durumlarını ve tutumlarını nesnel verilere dönüştürür."
+    },
+    {
+      "soruid": 11,
+      "soru_metni": "Bilgisayar korsanlarının, kişilerin güvenini suistimal ederek özel bilgilerini elde etmesi veya sistemlere izinsiz giriş yapması hangi kavramla açıklanır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Siyasal Toplum Mühendisliği",
+        "B": "Teknik Toplum Mühendisliği (Social Engineering)",
+        "C": "Veri Madenciliği",
+        "D": "Açık Kaynak İstihbaratı",
+        "E": "Kriz Yönetimi"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Teknik anlamda toplum mühendisliği, manipülasyon yoluyla kişilerin bilgilerini çalmayı hedefleyen bir hack yöntemidir."
+    },
+    {
+      "soruid": 12,
+      "soru_metni": "Aşağıdakilerden hangisi siyasal toplum mühendisliğinin amaçlarından biridir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Banka şifrelerini çalmak",
+        "B": "Bilgisayarlara virüs bulaştırmak",
+        "C": "Toplumun geniş kesiminin tavır ve davranışlarını değiştirmek/yönlendirmek",
+        "D": "Kredi kartı dolandırıcılığı yapmak",
+        "E": "Web sitesi hacklemek"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Siyasal toplum mühendisliği, algı yönetimi yoluyla kitlelerin fikir, değer ve davranışlarını istenilen yönde değiştirmeyi hedefler."
+    },
+    {
+      "soruid": 13,
+      "soru_metni": "Sosyal medyada paylaşılan fotoğraf ve videolara konum bilgisinin (koordinatların) eklenmesine ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Etiketleme (Tagging)",
+        "B": "Hashtag",
+        "C": "Coğrafi İşaretleme (Geo-tagging)",
+        "D": "Mention",
+        "E": "Retweet"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Coğrafi işaretleme, dijital medyaya konum bilgisinin eklenmesidir ve istihbarat açısından kişinin nerede olduğunu gösteren önemli bir veridir."
+    },
+    {
+      "soruid": 14,
+      "soru_metni": "ABD Savunma Bakanlığı'nın (Pentagon) 'Bir Şey Görürseniz, Bir Şey Söyleyin' kampanyası hangi istihbarat türüne örnektir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Pasif Dijital Kalabalık İstihbaratı",
+        "B": "Aktif Dijital Kalabalık İstihbaratı",
+        "C": "Sinyal İstihbaratı",
+        "D": "Kapalı Devre İstihbarat",
+        "E": "Ekonomik İstihbarat"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Bu kampanya, vatandaşları şüpheli durumları bildirmeye teşvik ederek devletle aktif iş birliğine çağırdığı için 'Aktif Dijital Kalabalık' örneğidir."
+    },
+    {
+      "soruid": 15,
+      "soru_metni": "Propaganda faaliyetlerinin etkisizleştirilmesine yönelik yürütülen tüm çabalara ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Sansür",
+        "B": "Karşı Propaganda",
+        "C": "Dezenformasyon",
+        "D": "Manipülasyon",
+        "E": "Lobi Faaliyeti"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Karşı propaganda, mevcut bir propagandanın etkisini kırmak, yalanlamak veya etkisiz hale getirmek için yapılan faaliyetlerdir."
+    },
+    {
+      "soruid": 16,
+      "soru_metni": "Aşağıdakilerden hangisi sosyal medya yoluyla yapılan karşı propaganda yöntemlerinden biri değildir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Algı Yönetimi",
+        "B": "Sosyal Medya Propagandalarının Önlenmesi",
+        "C": "Psikolojik Operasyonlar",
+        "D": "Fiziksel Saldırı",
+        "E": "Karşıt Anlatı Oluşturma"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": "Metinde sosyal medya yoluyla karşı propaganda yöntemleri; algı yönetimi, önleme ve psikolojik operasyonlar olarak sıralanmıştır. Fiziksel saldırı bu kapsamda değildir."
+    },
+    {
+      "soruid": 17,
+      "soru_metni": "Omand ve arkadaşlarına göre, sosyal medya istihbaratının (SOCMINT) etik açıdan daha az problemli görülmesinin temel nedeni nedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Herkesin anonim olması",
+        "B": "Sosyal medyanın kamusal alan kabul edilmesi ve verilerin açık kaynak olması",
+        "C": "Devletin her şeyi yapmaya hakkı olması",
+        "D": "Kullanıcıların izin vermiş olması",
+        "E": "İnternetin yasalarla yönetilmemesi"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Omand vd., sosyal medyayı kamusal alan ve buradaki verileri açık kaynak (OSINT) olarak değerlendirdiği için müdahaleci olmayan izlemeyi etik bulmaktadır."
+    },
+    {
+      "soruid": 18,
+      "soru_metni": "2014 yılında Suriye'de DAEŞ ve El-Nusra arasındaki çatışmada, aşiretlerin desteğini manipüle etmek için kullanılan yöntem hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Veri madenciliği",
+        "B": "Siber saldırı",
+        "C": "Sosyal medya üzerinden psikolojik operasyon (Sahte video yayma)",
+        "D": "Ekonomik ambargo",
+        "E": "Gazete ilanı"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "DAEŞ sahte videolarla aşiretlerin desteğini almış gibi göstermiş, El-Nusra ise bunu yalanlayan videolar yayınlamıştır. Bu bir psikolojik operasyon örneğidir."
+    },
+    {
+      "soruid": 19,
+      "soru_metni": "Bir sorunun çözümünün uzmanlar yerine kitlelerden (halktan) sağlanması sürecine ne ad verilir? (Haiti depremi örneğindeki gibi)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Outsourcing (Dış Kaynak)",
+        "B": "Crowdsourcing (Kitle Kaynak)",
+        "C": "Insourcing",
+        "D": "Brainstorming",
+        "E": "Benchmarking"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Metinde Haiti depreminde halkın veri sağlaması süreci 'Kitle Kaynak' (Crowdsourcing) olarak tanımlanmıştır."
+    },
+    {
+      "soruid": 20,
+      "soru_metni": "Sosyal medyada 'Benmerkezci ağlar'ın oluşması ne anlama gelmektedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Herkesin kendi web sitesini kurması",
+        "B": "Odağın gruptan bireye kayması ve kullanıcının kendi ilgi alanlarına göre ağını şekillendirmesi",
+        "C": "Sadece ünlülerin takip edilmesi",
+        "D": "İnternetin merkezileşmesi",
+        "E": "Devlet kontrolünün artması"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Boyd ve ark., sosyal medyanın eski grupların aksine birey odaklı (benmerkezci) olduğunu ve kişilerin kendi ağlarını yarattığını belirtir."
+    },
+    {
+      "soruid": 21,
+      "soru_metni": "Edward Snowden'in ifşaatları, istihbarat dünyasında sosyal medyanın hangi rolünü ön plana çıkarmıştır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Sadece eğlence aracı olduğunu",
+        "B": "Ticari gelir kapısı olduğunu",
+        "C": "Terörle mücadele ve istihbarat toplama için devasa bir kaynak olduğunu",
+        "D": "Güvenli bir iletişim yolu olduğunu",
+        "E": "Gereksiz bir mecra olduğunu"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Snowden belgeleri, NSA gibi kurumların Facebook ve Google gibi platformlardan yoğun şekilde veri/istihbarat topladığını ortaya koymuştur."
+    },
+    {
+      "soruid": 22,
+      "soru_metni": "Aşağıdakilerden hangisi DAEŞ'in sosyal medyayı etkin kullanma amaçlarından biri değildir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Propaganda yapmak",
+        "B": "Eleman kazanmak (Recruitment)",
+        "C": "Operasyonel planlama yapmak",
+        "D": "Bilinçlendirme kampanyaları düzenlemek",
+        "E": "Sadece mizah içeriği üretmek"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": "DAEŞ sosyal medyayı propaganda, eleman temini ve planlama için kullanır; sadece mizah üretmek gibi bir amacı yoktur."
+    },
+    {
+      "soruid": 23,
+      "soru_metni": "2013 Boston Maratonu saldırısında faillerin bulunması için sosyal medyanın kullanılması hangi olguya örnektir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Güvenlik Yönetişimi",
+        "B": "Sansür",
+        "C": "Karartma",
+        "D": "Dezenformasyon",
+        "E": "Pasif Direniş"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Halkın ve devletin iş birliği ile suçluların tespiti 'Güvenlik Yönetişimi' kavramıyla açıklanmıştır."
+    },
+    {
+      "soruid": 24,
+      "soru_metni": "Sosyal medya istihbaratında, gelecekte olabilecek olayları tahmin etmek için kullanılan, 'insan gibi davranış sergileme ve mantık yürütme' yeteneğine sahip sistemlere ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Yapay Zeka (AI)",
+        "B": "Veri Tabanı",
+        "C": "Excel Tablosu",
+        "D": "Hard Disk",
+        "E": "Modem"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Metinde Yapay Zeka; insan gibi davranış sergileyen, mantık yürüten ve tahminde bulunan sistemler bütünü olarak tanımlanmıştır."
+    },
+    {
+      "soruid": 25,
+      "soru_metni": "Sosyal medya üzerinden gerçekleştirilen karşı propaganda faaliyetlerinde 'önleme' (prevention) stratejisi neyi amaçlar?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Propaganda yapıldıktan sonra cevap vermeyi",
+        "B": "Rakip güçlerin propaganda faaliyetlerini daha başlamadan veya yayılmadan engellemeyi",
+        "C": "Kendi propagandasını yaymayı",
+        "D": "İnterneti tamamen kapatmayı",
+        "E": "Haberleri izlememeyi"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Önleme, rakip gücün propaganda planlarını önceden öğrenip bozmayı veya hesaplarını kapatarak yayılmasını durdurmayı hedefler."
+    },
+    {
+      "soruid": 26,
+      "soru_metni": "Sosyal medyada sahte hesaplar (botlar/troller) kullanılarak bir görüşün çoğunlukta olduğu izlenimini yaratmak hangi propaganda tekniğidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Korku yaratma",
+        "B": "Otoriteye başvurma",
+        "C": "Sürü psikolojisi / Çoğunluğa aitmiş gibi gösterme",
+        "D": "Emir kipleri kullanma",
+        "E": "Mantıklı açıklama yapma"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Sahte hesaplarla etkileşimi artırıp 'herkes böyle düşünüyor' algısı yaratmak, hedef kitleyi sürü psikolojisiyle yönlendirmeyi amaçlar."
+    },
+    {
+      "soruid": 27,
+      "soru_metni": "Twitter'da 2006 yılından itibaren kullanılmaya başlanan ve içeriklerin etiketlenerek aranmasını sağlayan özellik nedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Like",
+        "B": "Share",
+        "C": "Hashtag (#)",
+        "D": "Story",
+        "E": "DM"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Twitter, içeriklerin konu bazlı aranabilmesi için 'Hashtag' kuralını ortaya çıkarmıştır."
+    },
+    {
+      "soruid": 28,
+      "soru_metni": "Aşağıdakilerden hangisi 2011 Londra olaylarında 'Pasif Dijital Kalabalıklar'dan istihbarat elde edilmesine bir örnektir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Polisin halktan yardım istemesi",
+        "B": "Eylemcilerin şifreli mesajlaşmalarına rağmen dijital izlerinden kimliklerinin tespit edilmesi",
+        "C": "Halkın gönüllü fotoğraf göndermesi",
+        "D": "Kriz haritası çıkarılması",
+        "E": "Hiçbir bilgi bulunamaması"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Eylemciler kapalı gruplar kullansa da bıraktıkları dijital izlerden (pasif veri) kimliklerinin tespiti pasif dijital kalabalık istihbaratıdır."
+    },
+    {
+      "soruid": 29,
+      "soru_metni": "İngilizcede 'Intelligence' kelimesi istihbarat dışında hangi anlamı taşır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Güç",
+        "B": "Zekâ / Akıl",
+        "C": "Haberleşme",
+        "D": "Savaş",
+        "E": "Barış"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "İngilizcedeki 'Intelligence' kelimesi aynı zamanda zekâ, akıl ve analitik düşünce anlamlarına gelir."
+    },
+    {
+      "soruid": 30,
+      "soru_metni": "Türkiye'de istihbarat faaliyetlerini yürüten ve karşı propaganda ile ilgili görevleri de bulunan kurum hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "TÜİK",
+        "B": "RTÜK",
+        "C": "Milli İstihbarat Teşkilatı (MİT)",
+        "D": "BTK",
+        "E": "AFAD"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Türkiye'de iç ve dış tehditlere karşı istihbarat ve karşı propaganda faaliyetlerini yürütmekle görevli kurum MİT'tir."
+    },
+    {
+      "soruid": 31,
+      "soru_metni": "İstihbarat ile ilgili aşağıdaki ifadelerden hangisi yanlıştır? (Ünite Sorusu 1)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "İstihbarat, ihtiyaç duyulan bilgilerin çeşitli analiz yöntemlerinden geçirilmesini ifade eder.",
+        "B": "İstihbarat, temel olarak bilinmeyeni bilme ihtiyacından kaynaklanmaktadır.",
+        "C": "İstihbarat kişi, şirket ya da devletler açısından bir ihtiyaçtır.",
+        "D": "İstihbarat edinilen bilginin olduğu gibi aktarılmasını içerir.",
+        "E": "İstihbarat kavramı, bilgiden farklı bir anlama gelir."
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": "İstihbarat sadece bilginin aktarılması değil, işlenmesi ve analiz edilmesi sürecidir. Ham bilginin olduğu gibi aktarılması istihbarat değildir."
+    },
+    {
+      "soruid": 32,
+      "soru_metni": "Aşağıdakilerden hangisi sosyal medya istihbaratı tanımındaki temel unsurlar arasında yer almaz? (Ünite Sorusu 2)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Sosyal medya üzerinden bilgi toplama",
+        "B": "Sosyal medya üzerinden elde edilen bilgileri analiz etme",
+        "C": "Sosyal medya üzerinden bilgi paylaşma",
+        "D": "Sosyal medya üzerinden toplanarak analiz edilen bilgilerin raporlanması",
+        "E": "Sosyal medya bilgilerinin analizinde teknolojik yöntemler kullanılması"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "İstihbarat süreci toplama, analiz ve raporlamayı içerir; ancak istihbaratın kendisi sosyal medyada 'bilgi paylaşma' faaliyeti değildir (bu daha çok propaganda veya iletişimdir)."
+    },
+    {
+      "soruid": 33,
+      "soru_metni": "I. Acil durum ve krizlerde bilgi akışı elde etmek.\nII. Şiddet ve radikalleşme göstergelerinin belirlenmesi.\nIII. Meydana gelen olaylar hakkında durumsal farkındalık sahibi olmak.\n\nYukardakilerden hangisi/hangileri sosyal medyanın ulusal istihbarat açısından kullanım alanları arasındadır? (Ünite Sorusu 3)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Yalnız I",
+        "B": "Yalnız II",
+        "C": "Yalnız III",
+        "D": "I ve II",
+        "E": "I, II ve III"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": "Sosyal medya istihbaratı hem krizlerde bilgi akışı, hem radikalleşmenin takibi hem de durumsal farkındalık için kullanılır."
+    },
+    {
+      "soruid": 34,
+      "soru_metni": "Sosyal medya istihbaratının etik yönü açısından aşağıdakilerden hangisi yanlıştır? (Ünite Sorusu 4)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Güvenlik güçleri istedikleri takdirde herkesin sosyal medya hesabına erişebilir.",
+        "B": "Sosyal medya kullanıcısının herkese açık paylaşımlarının kamusal alanda gerçekleştiği kabul edildiğinden istihbarat açısından kullanılabilir.",
+        "C": "Sosyal medya istihbaratı belirli durumlarda açık kaynak istihbaratı kapsamına girer.",
+        "D": "Sosyal medya paylaşımlarının istihbarat maksatlı kullanılması bazı durumlarda kişisel verilerin gizliliği prensibiyle çatışabilmektedir.",
+        "E": "Demokratik ülkelerde belirli koşullar haricinde kullanıcıların sosyal medya hesaplarından gizli yöntemlerle istihbarat elde edilemez."
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Güvenlik güçlerinin 'istedikleri takdirde' her hesaba erişebilmesi etik ve hukuki değildir; sadece açık kaynaklar veya yasal izinlerle erişim söz konusudur."
+    },
+    {
+      "soruid": 35,
+      "soru_metni": "Aşağıdakilerden hangisi dijital kalabalık kavramının özellikleri arasında yer alır? (Ünite Sorusu 5)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Bir internet platformu ya da paylaşım sitesine anlık erişim sağlamış ve erişimi devam etmekte olan çok sayıda kişi, grup ya da organizasyonlardır.",
+        "B": "Gevşek sosyal bağlara sahip topluluklardır.",
+        "C": "Toplumsal hareket oluşturma yönü zayıftır.",
+        "D": "Sınırlı zaman ve mekânda işlev sürdürmektedir.",
+        "E": "Varlıkları anlık ve istikrarsızdır."
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Dijital kalabalıklar, internet platformlarında bir araya gelen çok sayıda kişi ve gruptan oluşur; zaman/mekân sınırı yoktur ve bağları güçlüdür."
+    },
+    {
+      "soruid": 36,
+      "soru_metni": "Aşağıdakilerden hangisi pasif dijital kalabalıkların ayırıcı özellikleri arasında yer almaz? (Ünite Sorusu 6)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Kendileri bilgi elde etme aracı olduklarının farkında değildir.",
+        "B": "Pasif dijital kalabalıklardan istihbarat toplanması kolay ve hızlıdır.",
+        "C": "Kısa vadeli ve amaca özgü istihbarata hizmet etmektedir.",
+        "D": "Uzun vadeli stratejik istihbarata hizmet etmektedir.",
+        "E": "Güvenlik güçleriyle etkileşimleri yok denecek düzeyde gerçekleşmektedir."
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Metindeki bilgilere göre pasif kalabalıklardan veri toplamak mümkündür ancak 'kolay ve hızlı' ifadesi bu grubun özelliği olarak vurgulanmamıştır; aksine, bu veri yığınından anlamlı bilgi çıkarmak (veri madenciliği) zahmetli bir süreçtir. Diğer şıklar pasif kalabalığın tanımına daha uygundur."
+    },
+    {
+      "soruid": 37,
+      "soru_metni": "Aşağıdaki olaylardan hangisi kriz odaklı dijital kalabalık oluşumunu hızlandıran olaylara örnek teşkil edemez? (Ünite Sorusu 7)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Deprem",
+        "B": "Sel felaketi",
+        "C": "Salgın hastalık",
+        "D": "Ekonomik kriz",
+        "E": "Tsunami"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": "Kriz odaklı dijital kalabalıklar genellikle ani gelişen doğal afetler (deprem, sel, tsunami, salgın) etrafında şekillenir. Ekonomik kriz daha uzun vadeli ve yapısal bir sorundur, bu tür bir 'acil durum müdahale' kalabalığı oluşturmaz."
+    },
+    {
+      "soruid": 38,
+      "soru_metni": "I. Pasif dijital kalabalık\nII. Kriz odaklı dijital kalabalık\nIII. Aktif dijital kalabalık\n\nYukarıdaki dijital kalabalık tipolojilerinden hangisi/hangileri güvenlik güçleriyle etkileşimi en yüksek düzeydedir? (Ünite Sorusu 8)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Yalnız I",
+        "B": "Yalnız II",
+        "C": "Yalnız III",
+        "D": "I ve II",
+        "E": "I, II ve III"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Aktif dijital kalabalıklar, devletin çağrısıyla gönüllü ve açık iş birliği yaptığı için etkileşimi en yüksek gruptur."
+    },
+    {
+      "soruid": 39,
+      "soru_metni": "Aşağıdakilerden hangisi sosyal medya istihbaratında kullanılan yöntemlerden biridir? (Ünite Sorusu 9)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Veri Madenciliği",
+        "B": "Algı Yönetimi",
+        "C": "Propaganda",
+        "D": "Karşı Propaganda",
+        "E": "Davranış Analizi"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Sosyal medya istihbarat yöntemleri: Veri Madenciliği, Toplum Mühendisliği ve Duygu Analizidir. Diğer şıklar (Propaganda vb.) istihbarat yöntemi değil, iletişim stratejisidir."
+    },
+    {
+      "soruid": 40,
+      "soru_metni": "Sosyal medyanın karşı propaganda faaliyetleri açısından önemine ilişkin aşağıdaki ifadelerden hangisi yanlıştır? (Ünite Sorusu 10)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Sosyal medya, rakip güçlerin herhangi bir propaganda faaliyetinin etkisini kırmak için oluşturulmuş büyük bir medya kampanyasının bir parçasıdır.",
+        "B": "Sosyal medya, büyüklüğü terabaytlarla ölçülebilen dijital bir veri kaynağıdır.",
+        "C": "Sosyal medya geniş kitlelere hızlı erişim sağlayabildiği için algı yönetimi aracılığıyla kullanılabilmektedir.",
+        "D": "Sosyal medya, belirli tartışma platformlarını da etkileyerek kullanıcılara karşı propaganda konusunda fırsatlar içermektedir.",
+        "E": "Sosyal medya, kamuoyunda paylaşılan anlatıların kontrol edilmesiyle hedef kitlenin algılarının yönetilmesini sağlamaktadır."
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "B seçeneği ('dijital veri kaynağıdır') sosyal medyanın *istihbarat* açısından önemini anlatır, *karşı propaganda* açısından değil. Diğer şıklar doğrudan propaganda/karşı propaganda fonksiyonu ile ilgilidir."
+    }
+      ]
+    }
+  ]
+}
