@@ -1,0 +1,573 @@
+{
+  "ders_kodu": "SMY201U",
+  "ders_adi": "SOSYAL MEDYA VE PROPAGANDA",
+  "sinavlar": [
+    {
+      "baslik": "2025 Ünite 5 Yapay Zeka Destekli Çıkabilecek Sorular",
+      "tur": "AI",
+      "yil": 2025,
+      "sorular": [
+   {
+      "soruid": 1,
+      "soru_metni": "Toplum içinde siyasal görüşlerin ve tercihlerin, birbirine zıt iki uç noktada yoğunlaşması ve merkezin boşalması durumuna ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Siyasal Katılım",
+        "B": "Çoğulculuk",
+        "C": "Kutuplaşma",
+        "D": "Merkezileşme",
+        "E": "Küreselleşme"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Metinde kutuplaşma, 'toplum içinde siyasal görüşler ve tercihlerin en uçta yer alan iki noktada yoğunlaşması' [cite: 745] ve 'ortanın boş kalması' [cite: 754] olarak tanımlanmıştır."
+    },
+    {
+      "soruid": 2,
+      "soru_metni": "Demokratik bir toplumda, çıkarları ve görüşleri farklı çok sayıda grubun bulunması ve bunların birbirleriyle özgürce yarışması hangi kavramla ifade edilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Otokrasi",
+        "B": "Çoğulculuk",
+        "C": "Totalitarizm",
+        "D": "Asimilasyon",
+        "E": "İzolasyon"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Metindeki tanıma göre çoğulculuk; farklı çıkarları olan grupların bulunması ve karar alma süreçlerini etkilemek için özgürce yarışmasıdır[cite: 940]."
+    },
+    {
+      "soruid": 3,
+      "soru_metni": "Aşağıdakilerden hangisi siyasal kutuplaşmanın demokrasi açısından doğurabileceği 'olumlu' sonuçlardan biri olarak kabul edilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Toplumsal şiddeti artırması",
+        "B": "Diyaloğu tamamen bitirmesi",
+        "C": "Siyasal katılımı ve seçmen ilgisini artırması",
+        "D": "Ekonomik krize yol açması",
+        "E": "Yabancı düşmanlığını körüklemesi"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Kutuplaşma, siyasal partilerin tabanlarını harekete geçirmesiyle vatandaşların siyasete ilgisini ve seçimlere katılım oranını yükseltebilir[cite: 825, 828]."
+    },
+    {
+      "soruid": 4,
+      "soru_metni": "Siyasetçilerin, gerçeklerle ilgisi olup olmamasından bağımsız olarak kendi kitlelerini yüceltici, diğerlerini ötekileştirici bir dil kullanmasına ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Liberalizm",
+        "B": "Siyasi Popülizm",
+        "C": "Marksizm",
+        "D": "Elitizm",
+        "E": "Rasyonalizm"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Siyasi popülizm, gerçeklerden bağımsız şekilde kendi seçmenini yücelten ve 'öteki'ni dışlayan bir söylem biçimi olarak tanımlanmıştır[cite: 807]."
+    },
+    {
+      "soruid": 5,
+      "soru_metni": "Sosyal paylaşım sitelerinde, algoritmaların kullanıcının ilgi alanlarına göre içerikleri öne çıkarıp diğerlerini elemesiyle oluşan sisteme ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Siber Zorbalık",
+        "B": "Filtre Balonu",
+        "C": "Veri Madenciliği",
+        "D": "Ağ Tarafsızlığı",
+        "E": "Dijital Uçurum"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Filtre Balonu (Filter Bubble), algoritmaların kullanıcının ilgi alanlarına göre içerikleri öne çıkarıp diğerlerini elemesiyle oluşan sisteme denir[cite: 1187]."
+    },
+    {
+      "soruid": 6,
+      "soru_metni": "Siyasal ve toplumsal olaylara ilişkin kanaatlerin oluşmasında nesnel gerçeklerden çok duyguların ve kişisel inançların belirleyici olduğu döneme ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Aydınlanma Çağı",
+        "B": "Sanayi Devrimi",
+        "C": "Post-truth (Hakikat Sonrası)",
+        "D": "Soğuk Savaş",
+        "E": "Rönesans"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Post-truth (hakikat sonrası), nesnel gerçekliklerden ziyade duyguların kanaat oluşumunda rol oynadığı durumu ifade eder[cite: 812, 813]."
+    },
+    {
+      "soruid": 7,
+      "soru_metni": "Edward Shils'in kutuplaşma teorisine göre, her toplumda değerlerin üretildiği yer neresidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Çevre",
+        "B": "Merkez",
+        "C": "Sınırlar",
+        "D": "Kırsal kesim",
+        "E": "Uluslararası arena"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Edward Shils, 'merkez-çevre karşıtlığı' tezinde her toplumun bir merkezi olduğunu ve toplumsal değerlerin bu merkezde ortaya çıktığını savunur[cite: 796]."
+    },
+    {
+      "soruid": 8,
+      "soru_metni": "Marksist yaklaşıma göre toplumsal kutuplaşmanın ve çatışmanın temel nedeni nedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Dini farklılıklar",
+        "B": "Kültürel yozlaşma",
+        "C": "Ekonomik kaynakların kontrolüne dayalı sınıf çatışması",
+        "D": "Coğrafi koşullar",
+        "E": "Teknolojik yetersizlik"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Marx'a göre toplumların tarihi, ekonomik kaynakları kontrol eden sınıf ile diğer sınıf arasındaki tahakküm ekseninde şekillenir[cite: 789]."
+    },
+    {
+      "soruid": 9,
+      "soru_metni": "Sosyal medyada insanların yüz yüze iletişimde kullanmayacakları kaba, saldırgan ve aşağılayıcı dili kullanmaları hangi kavramla açıklanır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Siyasal Nezaketsizlik (Political Incivility)",
+        "B": "Siber Güvenlik",
+        "C": "Dijital Okuryazarlık",
+        "D": "Algoritmik Düzen",
+        "E": "Sosyal Mühendislik"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Siyasal nezaketsizlik, kişilerin sosyal medyada gündelik hayattaki nezaketlerini bırakıp daha saldırgan bir tavır benimsemelerini ifade eder[cite: 1162, 1170]."
+    },
+    {
+      "soruid": 10,
+      "soru_metni": "Kutuplaşmış bir siyasal iklimde bireylerin kendi gruplarına ve karşı gruba bakış açısı nasıldır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Kendi gruplarını sürekli eleştirirler.",
+        "B": "Kendi gruplarının mutlak bir ahlaki üstünlüğe sahip olduğunu, karşı tarafın ise tamamen yanlış olduğunu düşünürler.",
+        "C": "Diğer gruplarla işbirliği yapmaya isteklidirler.",
+        "D": "Tarafsız kalmaya çalışırlar.",
+        "E": "Siyasetten tamamen uzaklaşırlar."
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Kutuplaşmış bir iklimde birey, kendi tarafının diğer kesime karşı mutlak bir ahlaki üstünlüğe sahip olduğunu düşünür[cite: 906]."
+    },
+    {
+      "soruid": 11,
+      "soru_metni": "Sosyal medyada 'bot' adı verilen robotik uygulamalar kutuplaşmayı artırmak için nasıl kullanılır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Kullanıcıların güvenliğini sağlamak için",
+        "B": "Suni gündem yaratarak algıyı yönetmek ve manipülasyon yapmak için",
+        "C": "İnternet hızını artırmak için",
+        "D": "Yabancı dil çevirisi yapmak için",
+        "E": "Reklamları engellemek için"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Botlar, belirli bir konu veya kişi hakkında yoğun paylaşım yaparak suni gündem yaratmak ve algıyı belirli bir yöne kaydırmak için kullanılır[cite: 1198]."
+    },
+    {
+      "soruid": 12,
+      "soru_metni": "Giovanni Sartori'ye göre, çok sayıda farklı siyasal sesin çıkması ancak kutuplaşmanın yaşanmaması durumuna ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Aşırı çoğulculuk",
+        "B": "Ilımlı çoğulculuk",
+        "C": "Parçalanmış sistem",
+        "D": "İki partili sistem",
+        "E": "Tek seslilik"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Sartori, parçalı yapılarda kutuplaşma yaşanmamışsa bunun 'ılımlı çoğulculuk' olarak nitelendirilmesi gerektiğini savunur[cite: 934]."
+    },
+    {
+      "soruid": 13,
+      "soru_metni": "Metinde, ABD'de Cumhuriyetçi Parti'ye yakınlığı ile bilinen medya kuruluşu hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "CNN",
+        "B": "BBC",
+        "C": "Fox News",
+        "D": "Al Jazeera",
+        "E": "New York Times"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Metinde ABD'de Fox'un Cumhuriyetçi Partiye, CNN'in ise Demokrat Partiye yakın kabul edildiği belirtilmektedir[cite: 1056]."
+    },
+    {
+      "soruid": 14,
+      "soru_metni": "İslamofobi kavramı metne göre neyi ifade eder?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "İslam dinini öğrenme isteği",
+        "B": "Müslüman ülkelerle ticaret yapma",
+        "C": "Müslümanlara dini kimliklerinden ötürü ayrımcılık ve düşmanlık yapılması",
+        "D": "Ortadoğu kültürüne hayranlık",
+        "E": "Dinler arası diyalog çalışmaları"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "İslamofobi, Müslümanlara dini kimliklerinden ötürü ayrımcılık yapılmasını, düşmanlık benimsenmesini ifade eder[cite: 1014]."
+    },
+    {
+      "soruid": 15,
+      "soru_metni": "Sosyal medyada yayılan 'yalan haberler' (fake news) genellikle hangi özelliklere sahiptir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Çok uzun ve akademik metinlerdir.",
+        "B": "Genellikle bilimsel verilerle desteklenirler.",
+        "C": "Sloganik, çarpıcı görsellere sahip, kısa ve spekülatiftirler.",
+        "D": "Sadece resmi kurumlarca paylaşılırlar.",
+        "E": "Doğruluğu herkesçe hemen teyit edilir."
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Yalan haberler genellikle kısa, sloganik, çarpıcı görsellerle desteklenen ve spekülatif içerikli oldukları için hızla yayılırlar[cite: 1207, 1208]."
+    },
+    {
+      "soruid": 16,
+      "soru_metni": "Sosyal medyanın kutuplaşmayı 'azaltma' potansiyeline ilişkin temel argüman aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "İnsanları yalnızlaştırması",
+        "B": "Farklı dünya görüşlerine sahip insanlarla tanışma ve bilgi kaynaklarını çeşitlendirme imkanı sunması",
+        "C": "Reklam gelirlerini artırması",
+        "D": "Devlet denetimini kolaylaştırması",
+        "E": "Yüz yüze iletişimi bitirmesi"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Sosyal medya, insanların normalde temas etmeyecekleri farklı görüşteki insanlarla tanışmasını ve bilgi kaynaklarını çeşitlendirmesini sağlayabilir[cite: 1122, 1131]."
+    },
+    {
+      "soruid": 17,
+      "soru_metni": "İrlanda'da yüzyıllardır devam eden ve kronikleşmiş kutuplaşmaya örnek olarak verilen çatışma hangi gruplar arasındadır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Sağcılar ve Solcular",
+        "B": "Protestanlar ve Katolikler",
+        "C": "Göçmenler ve Yerliler",
+        "D": "Liberaller ve Muhafazakarlar",
+        "E": "Kuzeyliler ve Güneyliler"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Metinde, İrlanda'da Protestan ve Katolik nüfus arasında yüzyıllardır devam eden ciddi bir ayrılık olduğu belirtilmiştir[cite: 864]."
+    },
+    {
+      "soruid": 18,
+      "soru_metni": "Francis Fukuyama'nın 'Tarihin Sonu' tezi hangi tarihsel olayın ardından ortaya atılmıştır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "II. Dünya Savaşı",
+        "B": "11 Eylül Saldırıları",
+        "C": "Soğuk Savaş'ın sona ermesi",
+        "D": "Sanayi Devrimi",
+        "E": "Arap Baharı"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Soğuk Savaş'ın sona ermesiyle liberal demokrasilerin zaferini ilan etmesi üzerine Fukuyama 'tarihin sonu' tezini ortaya atmıştır[cite: 1007, 1008]."
+    },
+    {
+      "soruid": 19,
+      "soru_metni": "Platon'a göre tiranlar (zorbalar) halkı neden birbirine düşürür?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Demokrasiyi güçlendirmek için",
+        "B": "Ekonomiyi canlandırmak için",
+        "C": "Kendi adaletsiz yönetimlerini perdelemek ve halkın birleşmesini önlemek için",
+        "D": "Eğitim seviyesini artırmak için",
+        "E": "Dış düşmanlara karşı birlik olmak için"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Platon, tiranların halkı birbirine düşürerek kendi adaletsiz yönetimlerini perdelediğini ve kendisine karşı blok oluşmasını engellediğini savunur[cite: 920]."
+    },
+    {
+      "soruid": 20,
+      "soru_metni": "Robert B. Talisse'e göre 'grup kutuplaşması' bireyler üzerinde nasıl bir etki yaratır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Daha ılımlı hale gelirler.",
+        "B": "Yalnızca anlaştıkları kişilerle konuştukça inançlarında daha radikal hale gelirler.",
+        "C": "Siyasetten soğurlar.",
+        "D": "Farklı görüşlere saygıları artar.",
+        "E": "Kararsız seçmen olurlar."
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Talisse'e göre insanlar sadece kendi fikirlerini onaylayanlarla konuştukça inançlarında radikalleşir ve muhalif görüşleri anlama kapasiteleri azalır[cite: 977]."
+    },
+    {
+      "soruid": 21,
+      "soru_metni": "İtalya'da ekonomik nedenli ayrılıkçı hareketlere ve kutuplaşmaya örnek olarak hangi hareket gösterilmiştir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Beş Yıldız Hareketi",
+        "B": "Kuzey Ligi Hareketi",
+        "C": "Kızıl Tugaylar",
+        "D": "Forza Italia",
+        "E": "Zeytin Dalı"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Metinde, bölgeler arası ekonomik eşitsizlikler nedeniyle İtalya'da 'Kuzey Ligi Hareketi'nin yükseldiği belirtilmiştir[cite: 1017]."
+    },
+    {
+      "soruid": 22,
+      "soru_metni": "Toplum üyelerinin değer, algı ve tutumları arasındaki makasın genişliğini ölçmek için geliştirilen araçlara ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Zeka Testleri",
+        "B": "Sosyal Mesafe Ölçekleri",
+        "C": "Seçim Anketleri",
+        "D": "Ekonomik Göstergeler",
+        "E": "Reyting Ölçümleri"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Kutuplaşmanın derecesini ölçmeyi hedefleyen araçlar 'sosyal mesafe ölçekleri' olarak tanımlanmıştır[cite: 849]."
+    },
+    {
+      "soruid": 23,
+      "soru_metni": "ABD'de kendi partilerinin ideolojisine yeterince bağlı olmayan Cumhuriyetçileri aşağılamak için kullanılan 'RINO' kısaltmasının anlamı nedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Radical Independent New Organization",
+        "B": "Republican In Name Only (Yalnızca Sözde Cumhuriyetçi)",
+        "C": "Right International National Order",
+        "D": "Real Intelligent Noble Observer",
+        "E": "Republican International New Order"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Metinde RINO ifadesinin 'Republican In Name Only' (Yalnızca Sözde Cumhuriyetçi) anlamına geldiği ve ideolojik saflığı öne çıkarmak için kullanıldığı belirtilir[cite: 966]."
+    },
+    {
+      "soruid": 24,
+      "soru_metni": "Soğuk Savaş yıllarında ideolojik ayrışmanın ve kutuplaşmanın tam bir toplumsal bölünmeye yol açmasını engelleyen faktör neydi?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Sosyal medyanın olmaması",
+        "B": "Ekonomik refahın yüksekliği",
+        "C": "Sağ ve solun kendi içlerinde bütünleşik yapılar sergileyememesi ve çok sayıda farklı akımın olması",
+        "D": "Liderlerin çok güçlü olması",
+        "E": "Din birliği"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Soğuk Savaş döneminde çok sayıda farklı düşünce akımının olması (parçalı yapı), toplumsal bölünmenin sadece iki yönlü olmasını engellemiştir[cite: 1004, 1005]."
+    },
+    {
+      "soruid": 25,
+      "soru_metni": "Sosyal medyada yalan haberlerin yayılmasını kolaylaştıran ve kullanıcıların kimlik tespitini zorlaştıran özellik nedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Yüksek çözünürlüklü videolar",
+        "B": "Müstear isim (nickname) kullanımı ve anonimlik",
+        "C": "Gerçek isim zorunluluğu",
+        "D": "Ücretli üyelik",
+        "E": "Konum paylaşımı"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Sosyal medyada müstear isim kullanmanın mümkün olması ve anonimlik, denetimsiz paylaşımı ve yalan haber yayılımını kolaylaştırır[cite: 1106, 1212]."
+    },
+    {
+      "soruid": 26,
+      "soru_metni": "Kullanıcıların sürekli kendi görüşlerini onaylayan haberleri izlemeyi tercih etmesi medya kuruluşlarını nasıl etkiler?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Daha tarafsız olmaya zorlar",
+        "B": "Haber yapmayı bırakırlar",
+        "C": "Kendi kitlelerinin hoşuna gidecek taraflı yayınlar yapmaya yöneltir",
+        "D": "Yalnızca belgesel yayınlamaya başlarlar",
+        "E": "Tüm partilere eşit süre verirler"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "İzleyicilerin kendi kanaatlerini onaylayan haberleri tercih etmesi, medya kuruluşlarının da bu beklentiye uygun taraflı yayın yapmasına neden olur[cite: 1065, 1067]."
+    },
+    {
+      "soruid": 27,
+      "soru_metni": "İnternet teknolojisinin gelişmesiyle geleneksel medyanın (gazete, dergi) yaşadığı en belirgin değişim nedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Tirajlarının artması",
+        "B": "Kağıt baskıya daha çok önem vermeleri",
+        "C": "Basılı versiyonlarına son verip çevrim içi (online) yayıncılığa geçmeleri",
+        "D": "Haber sayılarını azaltmaları",
+        "E": "Sadece yerel haber yapmaları"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Metinde, internet teknolojisinin güç kazanmasıyla birçok gazete ve derginin basılı versiyonlarına son verip çevrim içi ortama geçtiği belirtilir[cite: 1086, 1087]."
+    },
+    {
+      "soruid": 28,
+      "soru_metni": "Aşağıdakilerden hangisi bir ülkede farklılıklara rağmen beraber yaşama kültürünün gelişmiş olduğunun göstergesidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Herkesin aynı partiye oy vermesi",
+        "B": "Sadece bir dini inancın olması",
+        "C": "Ayrışmış pek çok toplumsal grubun uyumlu birlikteliği (Demokrasinin gücü)",
+        "D": "Sınırların kapatılması",
+        "E": "Yabancı dilin yasaklanması"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Bir ülkede farklılıklara rağmen beraber yaşama kültürünün gelişmişliği, demokrasinin gücünün en önemli göstergelerinden biridir[cite: 733]."
+    },
+    {
+      "soruid": 29,
+      "soru_metni": "Sosyal medyada trollerin 'mizahi' amaçla başlattığı ancak sonradan ciddiye alınan paylaşımlar hangi durumu besler?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Bilimsel ilerlemeyi",
+        "B": "Post-truth (Hakikat sonrası) algıyı ve bilgi kirliliğini",
+        "C": "Ekonomik kalkınmayı",
+        "D": "Sanatsal üretimi",
+        "E": "Eğitim seviyesini"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Trollerin mizahi amaçla yaydığı absürt bilgiler, post-truth dünyada doğruymuş gibi algılanarak bilgi kirliliğini besler[cite: 1225, 1226]."
+    },
+    {
+      "soruid": 30,
+      "soru_metni": "Avrupa Parlamentosu'nun 2019 yılında yayınladığı rapor hangi konuya odaklanmıştır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Tarım politikaları",
+        "B": "Uzay araştırmaları",
+        "C": "Kutuplaşmanın demokrasi üzerinde yarattığı tehdit ve teknolojinin rolü",
+        "D": "Spor müsabakaları",
+        "E": "Turizm gelirleri"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Avrupa Parlamentosu, 2019 yılında kutuplaşmanın demokrasi üzerindeki tehdidini ve internet teknolojisinin buna etkisini ele alan bir rapor yayınlamıştır[cite: 756, 757]."
+    },
+    {
+      "soruid": 31,
+      "soru_metni": "Aşağıdakilerden hangisi kutuplaşmayı ifade eder? (Orijinal Ünite Sorusu)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Toplumdaki siyasal görüşlerin birbirlerine en uzak durumda bulunan uç noktalarda toplanması",
+        "B": "Toplumda herkesin aynı şekilde düşünmesi",
+        "C": "İnsanların görüşlerinin her bakımdan ayrışması",
+        "D": "Siyasal iktidarın farklı görüş ve yaklaşımları yasaklaması",
+        "E": "Demokratik çoğulculuğun en üst düzeye ulaşması"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Ünite sonu testinde kutuplaşma, siyasal görüşlerin birbirine en uzak uç noktalarda toplanması olarak tanımlanmıştır[cite: 1314]."
+    },
+    {
+      "soruid": 32,
+      "soru_metni": "Aşağıdakilerden hangisi kutuplaşmanın nedenleri arasında gösterilebilir? (Orijinal Ünite Sorusu)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Uzlaşmacı tavırlar",
+        "B": "Popülist söylemler",
+        "C": "Apolitik yaklaşımlar",
+        "D": "Objektif habercilik",
+        "E": "Siyasal doğruculuk"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Popülist söylemler, siyasetçilerin kendi kitlelerini konsolide etmek için kullandıkları ve kutuplaşmayı artıran temel nedenlerden biridir[cite: 1318]."
+    },
+    {
+      "soruid": 33,
+      "soru_metni": "Aşağıdakilerden hangisi kutuplaşmanın toplum üzerindeki olumsuz etkilerinden biri değildir? (Orijinal Ünite Sorusu)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Kişilerin kendi görüşlerine ahlaki üstünlük atfetmesi",
+        "B": "Farklı düşünenler arasındaki diyalogların giderek azalması",
+        "C": "İnsanların yalnızca kendi görüşleriyle aynı olan siyasal yaklaşımları takip etmesi",
+        "D": "Siyasete katılımın ve oy verme oranının artması",
+        "E": "Başkalarına karşı dışlayıcı bir dil kullanılması"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": "Siyasete katılımın ve oy verme oranının artması, kutuplaşmanın demokrasiyi güçlendirici 'olumlu' bir etkisi olarak görülür[cite: 1326]."
+    },
+    {
+      "soruid": 34,
+      "soru_metni": "Aşağıdakilerden hangisi sosyal medyanın kutuplaşma açısından doğurduğu olumsuz sonuçlardan biri değildir? (Orijinal Ünite Sorusu)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "İnsanların yalnızca kendi görüşlerinden insanlarla takipleşmesi",
+        "B": "Haberlerin doğruluğunu teyit edilmeden paylaşılabilmesi",
+        "C": "Paylaşımlarda sert ve incitici ifadeler kullanılması",
+        "D": "İnsanların katılacakları ve benimseyecekleri paylaşımlarla karşılaşması",
+        "E": "Her türden düşüncenin özgürce ifade edilebilmesi"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": "Her türden düşüncenin özgürce ifade edilebilmesi, sosyal medyanın demokratik ve olumlu bir özelliğidir[cite: 1332]."
+    },
+    {
+      "soruid": 35,
+      "soru_metni": "Aşağıdakilerden hangisi sosyal medyanın kutuplaşmayı azaltıcı bir özelliği olarak kabul edilebilir? (Orijinal Ünite Sorusu)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "İnsanların yalnızca kendi görüşlerindeki kişileri takip etmeleri",
+        "B": "Sosyal medyadaki paylaşımların gerçekliği önemsenmeden yapılması",
+        "C": "Yalan haberlerin kısa sürede yayılması",
+        "D": "İnsanların farklı yaklaşımlardan haberdar olması",
+        "E": "Sansasyonel haberlerin daha kolay yayılması"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": "İnsanların farklı yaklaşımlardan haberdar olması, sosyal medyanın kutuplaşmayı azaltma potansiyelidir[cite: 1337]."
+    },
+    {
+      "soruid": 36,
+      "soru_metni": "Kişilerin sosyal medyada, gündelik hayatlarında kullanmayacakları incitici ve saldırgan bir üslupla yaptıkları paylaşımlar hangi kavramla ifade edilir? (Orijinal Ünite Sorusu)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Politik doğruculuk",
+        "B": "Toplumsal umursamazlık",
+        "C": "Siyasal nezaketsizlik",
+        "D": "Ahlakî sapma",
+        "E": "Anomali"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Bu durum literatürde 'siyasal nezaketsizlik' (political incivility) olarak adlandırılır[cite: 1342]."
+    },
+    {
+      "soruid": 37,
+      "soru_metni": "Siyasal ve toplumsal olaylara ilişkin kanaatlerin oluşmasında nesnel gerçekliklerden daha çok duyguların ve kişisel etmenlerin belirleyici olduğu koşulları anlatmak için kullanılan kavram aşağıdakilerden hangisidir? (Orijinal Ünite Sorusu)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Postmodern çağ",
+        "B": "Post-truth dönem",
+        "C": "Siber gerçekçilik",
+        "D": "Tarihin sonu",
+        "E": "Manipülasyon çağı"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Bu kavram 'Post-truth' (Hakikat sonrası) dönemdir[cite: 1346]."
+    },
+    {
+      "soruid": 38,
+      "soru_metni": "Aşağıdakilerden hangisi sosyal paylaşım sitelerinin kullanıcıların ilgi alanlarına dönük paylaşımlarının daha sık karşılarına çıkmasını sağlamak için kullandıkları algoritmik uygulamaları anlatır? (Orijinal Ünite Sorusu)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Veri Dumanı",
+        "B": "Filtre Balonu",
+        "C": "Blog'lar",
+        "D": "Yalan haberler",
+        "E": "Robotlar"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Bu algoritmik sistem 'Filtre Balonu' olarak adlandırılır[cite: 1350]."
+    },
+    {
+      "soruid": 39,
+      "soru_metni": "Aşağıdakilerden hangisi sosyal medyada yanıltıcı ve yönlendirici paylaşımlar yapılmasının nedenlerinden biri değildir? (Orijinal Ünite Sorusu)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Sahte isimlerle paylaşım yapmanın mümkün olması",
+        "B": "İnternet mecrasının denetlenmesindeki güçlük",
+        "C": "Sosyal medyada yalan haber üretimini engellemenin zor olması",
+        "D": "Temel hak ve özgürlüklerin sosyal medyada geçerli olmaması",
+        "E": "Kutuplaşma nedeniyle insanların siyasal tavırlarının sertleşmesi"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": "Temel hak ve özgürlüklerin sosyal medyada geçerli olmaması diye bir durum söz konusu değildir; aksine bu özgürlük ortamı manipülasyonu da kolaylaştırabilir[cite: 1361, 1384]."
+    },
+    {
+      "soruid": 40,
+      "soru_metni": "Aşağıdakilerden hangisi sosyal medyada kullanıcının sitede daha fazla kalmasını sağlamakta kullanılır? (Orijinal Ünite Sorusu)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Spekülasyonlar",
+        "B": "Yalan haberler",
+        "C": "Algoritmalar",
+        "D": "Dedikodular",
+        "E": "Teyit edilmemiş bilgiler"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Sosyal medya siteleri, kullanıcının sitede kalış süresini uzatmak için 'algoritmalar' kullanır[cite: 1366]."
+    }
+      ]
+    }
+  ]
+}
