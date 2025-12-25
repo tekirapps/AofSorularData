@@ -1,0 +1,559 @@
+{
+  "ders_kodu": "SMY203U",
+  "ders_adi": "DİJİTAL YAYINCILIK",
+  "sinavlar": [
+    {
+      "baslik": "2025 Ünite 6 Yapay Zeka Destekli Çıkabilecek Sorular",
+      "tur": "AI",
+      "yil": 2025,
+      "sorular": [
+    {
+      "soruid": 2,
+      "soru_metni": "Dünyada ilk düzenli televizyon yayınları hangi yıl ve hangi ülkede başlamıştır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "1926 - İskoçya",
+        "B": "1936 - İngiltere",
+        "C": "1940 - ABD",
+        "D": "1950 - Almanya",
+        "E": "1939 - Fransa"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "1936 yılında İngiltere'de ilk düzenli televizyon yayınlarının başlamasıyla geleneksel televizyon yayıncılığı hayata geçmiştir[cite: 1740]."
+    },
+    {
+      "soruid": 3,
+      "soru_metni": "Aşağıdakilerden hangisi renkli televizyon yayıncılığında kullanılan analog renk sistemlerinden biri değildir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "PAL",
+        "B": "SECAM",
+        "C": "NTSC",
+        "D": "JPEG",
+        "E": "Hiçbiri"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": "Analog renk sistemleri PAL, SECAM ve NTSC'dir. JPEG ise dijital bir görüntü sıkıştırma formatıdır[cite: 1753]."
+    },
+    {
+      "soruid": 4,
+      "soru_metni": "Almanya tarafından geliştirilen ve Türkiye dâhil birçok Avrupa ülkesinin tercih ettiği analog renk sistemi hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "NTSC",
+        "B": "SECAM",
+        "C": "PAL",
+        "D": "DVB-T",
+        "E": "HDTV"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "PAL sistemi Almanya tarafından icat edilmiş ve Avrupa'nın birçok ülkesi tarafından tercih edilmiştir[cite: 1754, 1756]."
+    },
+    {
+      "soruid": 5,
+      "soru_metni": "Televizyon yayınlarının iletilmesi için uyduların yerleştirildiği, dünya ile aynı dönme süresine sahip yörüngeye ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Kutupsal Yörünge",
+        "B": "Alçak Dünya Yörüngesi",
+        "C": "Eliptik Yörünge",
+        "D": "Yer Sabit (Jeostatik) Yörünge",
+        "E": "Orta Dünya Yörüngesi"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": "İletişim uyduları, dünya ile aynı dönme süresine sahip olan Yer Sabit (Jeostatik) yörüngeye yerleştirilir, böylece yeryüzünden bakıldığında sabit görünürler[cite: 1784]."
+    },
+    {
+      "soruid": 6,
+      "soru_metni": "Belli bir konu veya alana (haber, spor, müzik vb.) odaklanarak yayın yapan televizyon yayıncılığı türü aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Genel Televizyon Yayıncılığı",
+        "B": "Tematik Televizyon Yayıncılığı",
+        "C": "Kamusal Yayıncılık",
+        "D": "Yerel Yayıncılık",
+        "E": "Şifreli Yayıncılık"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Belli bir temada (haber, spor, çocuk vb.) yapılan ve o ilgi alanındaki kitleyi hedefleyen yayıncılık 'Tematik Televizyon Yayıncılığı'dır[cite: 1806]."
+    },
+    {
+      "soruid": 7,
+      "soru_metni": "İzleyici ölçümlerinde (reyting) kullanılan, belirli hanelerdeki televizyonlara takılarak kimin ne zaman ne izlediğini kaydeden cihazın adı nedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Decoder",
+        "B": "Peoplemeter",
+        "C": "Transponder",
+        "D": "Receiver",
+        "E": "Prompter"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Televizyon izleme araştırması yapan şirketler, ölçüm yapılacak hanelerdeki televizyonlara 'peoplemeter' cihazı takarak izlenme verilerini toplarlar[cite: 1842]."
+    },
+    {
+      "soruid": 8,
+      "soru_metni": "Geleneksel televizyon yayıncılığında, yayın esnasında izleyicinin haber, hava durumu, borsa gibi bilgilere ulaşmasını sağlayan veri yayını sistemine ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "İnternet",
+        "B": "Teletekst (Telemetin)",
+        "C": "Altyazı",
+        "D": "EPG",
+        "E": "VOD"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Teletekst (Telemetin), televizyon sinyalindeki boş alanları kullanarak izleyiciye metin ve grafik tabanlı bilgi sunan sistemdir[cite: 1851]."
+    },
+    {
+      "soruid": 9,
+      "soru_metni": "Analog televizyon sisteminde, görüntünün kasetten kasete aktarılması sırasında sinyal zayıflaması sonucu oluşan kalite bozulmasına ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Pikselleşme",
+        "B": "Jenerasyon Kaybı",
+        "C": "Frekans Kayması",
+        "D": "Kineskop Etkisi",
+        "E": "Enterferans"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Analog sistemde kopyalama (aktarım) sırasında görüntünün bozulması ve renklerin kötüleşmesi durumuna 'Jenerasyon Kaybı' denir[cite: 1876]."
+    },
+    {
+      "soruid": 10,
+      "soru_metni": "1986 yılında Sony tarafından tanıtılan ve dünyada uzun süre 'yayın standardı' olarak kabul edilen analog profesyonel video formatı hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "VHS",
+        "B": "U-Matic",
+        "C": "Betacam SP",
+        "D": "Video 2000",
+        "E": "Betamax"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "1986 yılında piyasaya sürülen Betacam SP, dijital sistemler gelene kadar dünyada yayın için standart format olarak kabul görmüştür[cite: 1889]."
+    },
+    {
+      "soruid": 11,
+      "soru_metni": "Ev tipi video formatları savaşında Betamax'a karşı üstünlük sağlayarak pazarın hakimi olan format hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "VHS",
+        "B": "Video 2000",
+        "C": "U-Matic",
+        "D": "V2000",
+        "E": "Hi8"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "VHS, 1976'da piyasaya çıkmış ve Betamax ile girdiği rekabeti kazanarak ev tipi video pazarında yaygınlaşmıştır[cite: 1902]."
+    },
+    {
+      "soruid": 12,
+      "soru_metni": "Dijital televizyon teknolojisinde görüntülerin bölündüğü en küçük noktalara ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Bit",
+        "B": "Byte",
+        "C": "Piksel",
+        "D": "Frekans",
+        "E": "Dalga"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Dijital televizyonda görüntüler 'piksel' olarak adlandırılan en küçük parçalara veya noktalara bölünerek kodlanır[cite: 1961]."
+    },
+    {
+      "soruid": 13,
+      "soru_metni": "Türkiye'nin de benimsediği, Avrupa Birliği tarafından kabul edilen dijital yayın standardı aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "ATSC",
+        "B": "ISDB-T",
+        "C": "DVB",
+        "D": "NTSC",
+        "E": "PAL"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Avrupa Birliği üyeleri ve Türkiye tarafından kabul edilen dijital yayın standardı DVB'dir (DVB-T, DVB-S, DVB-C)[cite: 1969, 1974]."
+    },
+    {
+      "soruid": 14,
+      "soru_metni": "Amatör kullanıcılar için tasarlanmasına rağmen, ekonomik olması ve kalitesi nedeniyle profesyonel TV kanallarınca da (özellikle haberde) yoğun olarak kullanılan küçük dijital kaset formatı hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Betacam SX",
+        "B": "Digital Betacam",
+        "C": "Mini DV",
+        "D": "HDCAM",
+        "E": "D-1"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Mini DV, amatörler için tasarlanmış olsa da ekonomikliği ve kalitesi nedeniyle profesyonel yapımlarda ve yerel kanallarda yaygın kullanılmıştır[cite: 2015, 2016]."
+    },
+    {
+      "soruid": 15,
+      "soru_metni": "Dijital televizyonun sunduğu, izleyicinin yayın akışını ekranda görmesini ve programlar hakkında bilgi almasını sağlayan hizmete ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "VOD (Video on Demand)",
+        "B": "PVR (Personel Video Record)",
+        "C": "EPG (Elektronik Program Rehberi)",
+        "D": "Pay Per View",
+        "E": "Teletekst"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "İzleyiciye yayını izlerken istediği an ulaşabileceği bir yayın rehberi sunan hizmet EPG (Elektronik Program Rehberi)'dir[cite: 2064]."
+    },
+    {
+      "soruid": 16,
+      "soru_metni": "Yakınsama (Yöndeşme) kavramı medya teknolojileri açısından neyi ifade eder?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Medya araçlarının birbirinden tamamen ayrılmasını",
+        "B": "Farklı iletişim biçimlerinin (TV, telefon, internet) giderek birbirine dönüşmesini ve aralarındaki farkın yok olmasını",
+        "C": "Sadece uydu yayınlarının kullanılmasını",
+        "D": "Televizyonun önemini yitirmesini",
+        "E": "Radyonun dijitalleşmesini"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Yakınsama, teknolojik gelişmeler sonucu kitle iletişimi, veri iletişimi gibi farklı biçimlerin birbirine dönüşmesi ve bütünleşmesidir[cite: 1954]."
+    },
+    {
+      "soruid": 17,
+      "soru_metni": "Telefon, televizyon ve internet hizmetinin tek bir paket/altyapı içinde bütünleşik olarak sunulduğu sisteme ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Web TV",
+        "B": "Triplay",
+        "C": "Smart TV",
+        "D": "Podcast",
+        "E": "HBB TV"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "IPTV altyapısında telefon, televizyon ve internet hizmetinin bir bütün içinde alınabilmesine 'Triplay' denilmektedir[cite: 2150]."
+    },
+    {
+      "soruid": 18,
+      "soru_metni": "Aşağıdakilerden hangisi Netflix, BluTV, Amazon Prime gibi platformların dahil olduğu, internet üzerinden servis kalitesi garantisi olmadan sunulan yayıncılık türüdür?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Kablo TV",
+        "B": "IPTV",
+        "C": "OTT TV (Over The Top)",
+        "D": "Karasal Yayın",
+        "E": "Uydu Yayını"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "OTT TV, servis kalitesi olmayan açık internet ağı üzerinden sunulan (Netflix vb.) yayıncılık türüdür[cite: 2165, 2168]."
+    },
+    {
+      "soruid": 19,
+      "soru_metni": "Hem uydu yayınlarını hem de internet hizmetlerini aynı televizyon cihazında birleştiren 'hibrit' teknolojiye ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "HBB TV",
+        "B": "Web TV",
+        "C": "Analog TV",
+        "D": "3D TV",
+        "E": "CCTV"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "HBB TV (Hybrid Broadcast Broadband Television), uydu yayınları ile internetin bir arada kullanılmasını sağlayan ikili bir yapıdır[cite: 2180]."
+    },
+    {
+      "soruid": 20,
+      "soru_metni": "'İkinci Ekran' (Second Screen) kavramı neyi ifade eder?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Televizyonun yanında ikinci bir televizyon daha olması",
+        "B": "İzleyicinin televizyon izlerken aynı anda akıllı telefon veya tablet gibi başka bir cihazı kullanması",
+        "C": "Sinema perdesini",
+        "D": "Bilgisayar monitörünü",
+        "E": "Televizyonun bozulunca kullanılan yedek ekranı"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "İkinci ekran, bireylerin televizyon (birinci ekran) izlerken aynı anda ellerindeki mobil cihazlarla (ikinci ekran) etkileşime geçmesidir[cite: 2198]."
+    },
+    {
+      "soruid": 21,
+      "soru_metni": "Sosyal TV kavramı temel olarak hangi etkileşime dayanır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Televizyon ile Radyo arasındaki etkileşime",
+        "B": "Televizyon ile Sosyal Medya arasındaki yakınsamaya ve etkileşime",
+        "C": "Gazete ile İnternet arasındaki etkileşime",
+        "D": "Sinema ile Tiyatro arasındaki etkileşime",
+        "E": "Uydu ile Anten arasındaki etkileşime"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Sosyal TV, televizyon ile sosyal medyanın yakınsaması ile ortaya çıkan, izleyicinin sosyal medya üzerinden TV içeriğiyle etkileşime girdiği formdur[cite: 2195]."
+    },
+    {
+      "soruid": 22,
+      "soru_metni": "Aşağıdakilerden hangisi dijital televizyonun izleyiciye sunduğu 'İsteğe Bağlı Video' hizmetinin kısaltmasıdır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "EPG",
+        "B": "PVR",
+        "C": "VOD (Video on Demand)",
+        "D": "HDTV",
+        "E": "PAL"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "İsteğe Bağlı Video hizmeti literatürde VOD (Video on Demand) olarak adlandırılır[cite: 2042]."
+    },
+    {
+      "soruid": 23,
+      "soru_metni": "Twitch ve Mixer gibi platformlar hangi tür yayıncılığın günümüzdeki en gelişmiş örnekleri olarak kabul edilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Geleneksel TV",
+        "B": "Sosyal TV / Canlı Yayın Platformları",
+        "C": "Kablo TV",
+        "D": "Analog TV",
+        "E": "Radyo Yayıncılığı"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Twitch ve Mixer, Sosyal TV'nin en son geldiği aşama olan, canlı yayın ve anlık etkileşime dayalı platformlardır[cite: 2325]."
+    },
+    {
+      "soruid": 24,
+      "soru_metni": "3D (Üç Boyutlu) Televizyon teknolojisinin popülaritesini yitirmesinin temel nedenleri nelerdir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Çok ucuz olması",
+        "B": "Görüntünün çok net olması",
+        "C": "Yeterli içerik olmaması ve gözlük kullanımının fiziksel rahatsızlık (baş ağrısı vb.) yaratması",
+        "D": "İnternet gerektirmemesi",
+        "E": "Her kanalda yayınlanabilmesi"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "3D TV, yeterli içerik bulunmaması ve gözlükle uzun süre izlemenin baş ağrısı, mide bulantısı gibi yan etkileri nedeniyle popülerliğini yitirmiştir[cite: 2097]."
+    },
+    {
+      "soruid": 25,
+      "soru_metni": "Aynı programın bir dijital platformun farklı kanallarında 15-30 dakika arayla peş peşe başlatılması hizmetine ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "VOD",
+        "B": "NVOD (Near Video on Demand)",
+        "C": "SVOD",
+        "D": "Live Stream",
+        "E": "Replay"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "NVOD (Sık başlama zamanı), aynı içeriğin belirli aralıklarla farklı kanallarda başlatılarak izleyiciye kaçırdığını yakalama şansı veren sistemdir[cite: 2053]."
+    },
+    {
+      "soruid": 26,
+      "soru_metni": "İzleyicinin yayın akışına bağlı kalmadan, içeriği istediği zaman durdurup, geri alıp, kaydedebildiği yayıncılık teknolojisinin genel avantajı nedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Zaman ve mekandan bağımsızlık / Özgürlük",
+        "B": "Daha ucuz olması",
+        "C": "Daha az içerik sunması",
+        "D": "Sadece siyah beyaz olması",
+        "E": "Reklamları zorunlu kılması"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "İnternet ve dijital televizyonun en büyük farkı ve avantajı, izleyiciye istediği içeriği istediği zaman izleyebilme özgürlüğü sunmasıdır[cite: 2124]."
+    },
+    {
+      "soruid": 27,
+      "soru_metni": "IPTV ile Web TV arasındaki temel farklardan biri nedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Web TV ücretlidir, IPTV ücretsizdir.",
+        "B": "Web TV genel internet ağını kullanır (kota tüketir), IPTV kapalı devre özel ağ üzerinden hizmet verir (kota tüketmez).",
+        "C": "IPTV sadece bilgisayardan izlenir.",
+        "D": "Web TV'de canlı yayın yoktur.",
+        "E": "Fark yoktur, ikisi de aynıdır."
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Web TV kullanıcının internet paketini/kotasını kullanırken, IPTV servis sağlayıcının tahsis ettiği kapalı bant genişliğini kullanır ve internet kotasını tüketmez[cite: 2146, 2157]."
+    },
+    {
+      "soruid": 28,
+      "soru_metni": "Sosyal medyadaki dikey videoların (örneğin Instagram IGTV) geleneksel 16:9 televizyon ekranlarında yarattığı uyum sorununa yayıncılar nasıl çözüm bulmaktadır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Videoyu yayınlamayarak",
+        "B": "Yanlardaki siyah boşluklara grafik koyarak veya görüntüyü buzlayıp büyüterek",
+        "C": "Televizyonu yan çevirerek",
+        "D": "Görüntüyü sündürerek",
+        "E": "Ekranı küçülterek"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Dikey videolar 16:9 ekranda yanlarda boşluk bırakır; yayıncılar bu boşlukları grafiklerle veya bulanıklaştırılmış arka planla doldurur[cite: 2324]."
+    },
+    {
+      "soruid": 29,
+      "soru_metni": "Yüksek Tanımlı Televizyon (HDTV) formatı için geliştirilen son kaset formatı hangisidir? (Bundan sonra kaset devri bitmiştir)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "VHS",
+        "B": "Betacam SP",
+        "C": "HDCAM SR",
+        "D": "Mini DV",
+        "E": "U-Matic"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "HDCAM SR, 2003 yılında çıkan ve kaset dönemini kapatan son profesyonel kaset formatıdır; sonrasında disk/kart sistemlerine geçilmiştir[cite: 2001]."
+    },
+    {
+      "soruid": 30,
+      "soru_metni": "Geleneksel televizyon kanallarının sosyal medyayı kullanma amaçlarından biri nedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Yayınlarını durdurmak",
+        "B": "İzleyiciyle etkileşime geçmek ve geri besleme (feedback) almak",
+        "C": "İnternet hızını düşürmek",
+        "D": "Daha az reklam almak",
+        "E": "Sadece eski programları yayınlamak"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Geleneksel TV, izleyiciyi ekranda tutmak ve etkileşim sağlamak için sosyal medyayı güçlü bir geri besleme aracı olarak kullanır[cite: 1841, 2248]."
+    },
+    {
+      "soruid": 31,
+      "soru_metni": "Televizyonun analog yayın yaptığı dönemde Türkiye tarafından da kullanılan PAL renk sisteminin satır tarama sayısı aşağıdakilerden hangisidir? (Ünite Sorusu 1)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "819",
+        "B": "625",
+        "C": "525",
+        "D": "800",
+        "E": "620"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "PAL renk sisteminin satır tarama sayısı 625'tir[cite: 1766, 2504]."
+    },
+    {
+      "soruid": 32,
+      "soru_metni": "Televizyon yayınlarını ileten iletişim uydularının dünya çevresinde yerleştirildiği yörüngenin adı aşağıdakilerden hangisidir? (Ünite Sorusu 2)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Alçak Dünya Yörüngesi",
+        "B": "Orta Dünya Yörüngesi",
+        "C": "Yer Sabit Yörüngesi",
+        "D": "Yüksek Dünya Yörüngesi",
+        "E": "Kutupsal Yörünge"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "İletişim uyduları, dünya ile aynı hızda dönen Yer Sabit (Jeostatik) yörüngeye yerleştirilir[cite: 1784, 2504]."
+    },
+    {
+      "soruid": 33,
+      "soru_metni": "İzlenme oranı ve izlenme payının hesaplanmasında kullanılan, televizyon alıcılarına takılan cihaz aşağıdakilerden hangisidir? (Ünite Sorusu 3)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Peoplemeter",
+        "B": "Pay TV",
+        "C": "Pay Per TV",
+        "D": "Personmeter",
+        "E": "Feedback"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Reyting ölçümlerinde kullanılan cihazın adı Peoplemeter'dır[cite: 1842, 2504]."
+    },
+    {
+      "soruid": 34,
+      "soru_metni": "Aşağıdakilerden hangisi, analog profesyonel formatlardan biri değildir? (Ünite Sorusu 4)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Umatic",
+        "B": "1 Inch Type B",
+        "C": "Betacam SP",
+        "D": "Betacam",
+        "E": "Betamax"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": "Betamax, amatör kullanım ve film kiralama için üretilmiş ev tipi bir formattır; diğerleri profesyonel yayın formatlarıdır[cite: 1899, 2504]."
+    },
+    {
+      "soruid": 35,
+      "soru_metni": "Aşağıdakilerden hangisi amatör bir format olarak üretilmesine karşın profesyonel yapımlarda da kullanılmıştır? (Ünite Sorusu 5)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Digital Betacam",
+        "B": "Mini DV",
+        "C": "Betacam SX",
+        "D": "DVCAM",
+        "E": "HDCAM"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Mini DV amatörler için tasarlanmış olsa da ekonomikliği ve kalitesiyle profesyonel kanallarda da kullanılmıştır[cite: 2015, 2504]."
+    },
+    {
+      "soruid": 36,
+      "soru_metni": "Aşağıdakilerden hangisi dijital televizyonun sunduğu temel hizmetlerden biri değildir? (Ünite Sorusu 6)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Canlı yayın yapma",
+        "B": "İzlediğin kadar öde (Pay per View)",
+        "C": "Elektronik program rehberi",
+        "D": "Teletekst",
+        "E": "Alt yazı"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Canlı yayın yapma televizyonun geleneksel ve temel özelliğidir; dijital televizyonun sunduğu 'ekstra' veya 'yeni' bir hizmet (EPG, VOD vb. gibi) değildir[cite: 2504]."
+    },
+    {
+      "soruid": 37,
+      "soru_metni": "Dijital televizyonun temeli aşağıdakilerden hangisine dayanmaktadır? (Ünite Sorusu 7)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Yükseltilmiş analog video sinyali",
+        "B": "Satır tarama ve PAL renk sistemi",
+        "C": "Satır tarama ve SECAM renk sistemi",
+        "D": "Satır tarama ve NTSC renk sistemi",
+        "E": "Kodlama ve pikseller"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": "Dijital televizyon, video sinyalinin 1 ve 0 olarak kodlanmasına ve görüntünün piksellere bölünmesine dayanır[cite: 1960, 2504]."
+    },
+    {
+      "soruid": 38,
+      "soru_metni": "Uydu yayınları ile interneti bir arada kullanabilen en uygun televizyon sistemi hangisidir? (Ünite Sorusu 8)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "IPTV",
+        "B": "OTT TV",
+        "C": "Web TV",
+        "D": "HBB TV",
+        "E": "Sosyal TV"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": "HBB TV (Hybrid Broadcast Broadband TV), uydu ve interneti birleştiren hibrit sistemdir[cite: 2180, 2504]."
+    },
+    {
+      "soruid": 39,
+      "soru_metni": "Aşağıdakilerden hangisi Sosyal TV'nin özelliklerinden biri değildir? (Ünite Sorusu 9)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Birlikte video izleme etkinliği yapılabilmesi",
+        "B": "Peoplemeter ile izleyici ölçümü yapmak",
+        "C": "Canlı yayın yapmak",
+        "D": "Canlı yayın izlerken soru sormak, yorum yapmak",
+        "E": "IPTV ve Sosyal TV'nin aynı cihazda kullanılabilmesi"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Peoplemeter, geleneksel televizyon reyting ölçümü aracıdır; Sosyal TV'nin etkileşimli özelliklerinden biri değildir[cite: 1842, 2504]."
+    },
+    {
+      "soruid": 40,
+      "soru_metni": "Aşağıdakilerden hangisi sosyal TV, sosyal medya ve geleneksel televizyon ilişkisi ile ilgili doğru bir ifade değildir? (Ünite Sorusu 10)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Sosyal TV geleneksel televizyon ile entegre olamaz.",
+        "B": "Geleneksel televizyon Sosyal TV'yi ve sosyal medyayı geri besleme amacıyla kullanır.",
+        "C": "Televizyon kanalları reklam almak için sosyal medya ve Sosyal TV ile bağ kurmaktadır.",
+        "D": "Geleneksel televizyon yayınlarını Sosyal TV üzerinden de yapmaktadır.",
+        "E": "Geleneksel televizyon Sosyal TV imkanlarıyla canlı yayın yapmaktadır."
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Sosyal TV geleneksel televizyon ile entegre olabilir ve etkileşim içindedir; bu ifade yanlıştır[cite: 2233, 2504]."
+    }
+      ]
+    }
+  ]
+}
