@@ -14,17 +14,17 @@
           {
             "ders_adi": "DİJİTAL YAYINCILIK",
             "kod": "SMY203U",
-            "dosya_adi": "dijitalyayincilik_kitapsorulariunite1.json, dijitalyayincilik_kitapsorulariunite2.json, dijitalyayincilik_kitapsorulariunite3.json, dijitalyayincilik_kitapsorulariunite4.json, dijitalyayincilik_kitapsorulariunite5.json, dijitalyayincilik_kitapsorulariunite6.json, dijitalyayincilik_kitapsorulariunite7.json, dijitalyayincilik_kitapsorulariunitesek.json, bosdursun.json"
+            "dosya_adi": "dijitalyayincilik_kitapsorulariunite1.json, dijitalyayincilik_kitapsorulariunite2.json, dijitalyayincilik_kitapsorulariunite3.json, dijitalyayincilik_kitapsorulariunite4.json, dijitalyayincilik_kitapsorulariunite5.json, dijitalyayincilik_kitapsorulariunite6.json, dijitalyayincilik_kitapsorulariunite7.json, dijitalyayincilik_kitapsorulariunite8.json, bosdursun.json"
           },
           {
             "ders_adi": "DİJİTAL TASARIM",
             "kod": "SMY207U",
-            "dosya_adi": "dtasarim_unite1.json, dtasarim_unite2.json, dtasarim_unite3.json,dtasarim_unite4.json,dtasarim_unite5.json,dtasarim_unite8.json,dtasarim_unite7.json,dtasarim_unite6.json"
+            "dosya_adi": "dtasarim_unite1.json, dtasarim_unite2.json, dtasarim_unite3.json, dtasarim_unite4.json, dtasarim_unite5.json, dtasarim_unite6.json, dtasarim_unite7.json, dtasarim_unite8.json"
           },
           {
             "ders_adi": "SOSYAL MEDYA ARAÇLARI",
             "kod": "SMY209U",
-           "dosya_adi": "smaraclari_kitapsorulariunite1.json, smaraclari_kitapsorulariunite2.json, smaraclari_kitapsorulariunite3.json, smaraclari_kitapsorulariunite4.json, smaraclari_kitapsorulariunite5.json, smaraclari_kitapsorulariunite6.json, smaraclari_kitapsorulariunite7.json, smaraclari_kitapsorulariunite8.json, bosdursun.json"
+            "dosya_adi": "smaraclari_kitapsorulariunite1.json, smaraclari_kitapsorulariunite2.json, smaraclari_kitapsorulariunite3.json, smaraclari_kitapsorulariunite4.json, smaraclari_kitapsorulariunite5.json, smaraclari_kitapsorulariunite6.json, smaraclari_kitapsorulariunite7.json, smaraclari_kitapsorulariunite8.json, bosdursun.json"
           }
         ]
       }
