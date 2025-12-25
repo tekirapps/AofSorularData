@@ -12,9 +12,9 @@
             "dosya_adi": "sosyalmedyapropaganda_sorular.json, sosyalmedyapropagandakitapsorulariunite1.json, sosyalmedyapropagandakitapsorulariunite2.json, sosyalmedyapropagandakitapsorulariunite3.json, sosyalmedyapropagandakitapsorulariunite4.json, sosyalmedyapropagandakitapsorulariunite5.json, sosyalmedyapropagandakitapsorulariunite6.json, sosyalmedyapropagandakitapsorulariunite7.json, sosyalmedyapropagandakitapsorulariunite8.json"
           },
           {
-            "ders_adi": "İdare Hukuku",
-            "kod": "HUK103U",
-            "dosya_adi": "huk_103_sorular.json"
+            "ders_adi": "DİJİTAL YAYINCILIK",
+            "kod": "SMY203U",
+            "dosya_adi": "dijitalyayincilik_kitapsorulariunite1.json, dijitalyayincilik_kitapsorulariunite2.json, dijitalyayincilik_kitapsorulariunite3.json, dijitalyayincilik_kitapsorulariunite4.json, dijitalyayincilik_kitapsorulariunite5.json, dijitalyayincilik_kitapsorulariunite6.json, dijitalyayincilik_kitapsorulariunite7.json, dijitalyayincilik_kitapsorulariunite8.json"
           }
         ]
       }
