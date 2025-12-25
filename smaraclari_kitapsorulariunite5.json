@@ -1,0 +1,573 @@
+{
+  "ders_kodu": "SMY209U",
+  "ders_adi": "SOSYAL MEDYA ARAÇLARI",
+  "sinavlar": [
+    {
+      "baslik": "2025 Ünite 5 Yapay Zeka Destekli Çıkabilecek Sorular",
+      "tur": "AI",
+      "yil": 2025,
+      "sorular": [
+    {
+      "soruid": 1,
+      "soru_metni": "Geleneksel medya ile yeni medya arasındaki en temel farklardan biri olan ve kullanıcının içeriğe katkıda bulunabilmesini ifade eden kavram hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Tek Yönlülük",
+        "B": "Etkileşim (İnteraktivite)",
+        "C": "Kitlesellik",
+        "D": "Maliyet",
+        "E": "Zaman Kısıtı"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Yeni medyanın geleneksel medyadan en büyük farkı, kullanıcının sadece alıcı değil, aynı zamanda içerik üreticisi ve katılımcı olmasını sağlayan etkileşim özelliğidir."
+    },
+    {
+      "soruid": 2,
+      "soru_metni": "Profesyonel gazeteci olmayan sıradan vatandaşların, tanık oldukları olayları dijital araçlarla kaydedip sosyal medyada paylaşarak haber üretimi sürecine katılmasına ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Sarı Gazetecilik",
+        "B": "Yurttaş Haberciliği (Citizen Journalism)",
+        "C": "Kurumsal Habercilik",
+        "D": "Araştırmacı Gazetecilik",
+        "E": "Magazin Haberciliği"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Yurttaş haberciliği, teknolojinin gelişmesiyle sıradan bireylerin haber toplama, analiz etme ve yayma sürecine aktif katılımını ifade eder."
+    },
+    {
+      "soruid": 3,
+      "soru_metni": "Geleneksel medyada haberin doğruluğunu kontrol eden ve yayınlanıp yayınlanmayacağına karar veren mekanizmaya ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Eşik Bekçisi (Gatekeeper)",
+        "B": "Sosyal Medya Uzmanı",
+        "C": "Influencer",
+        "D": "Yurttaş Gazeteci",
+        "E": "Trol"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Geleneksel medyada editörler ve yayın yönetmenleri 'Eşik Bekçisi' olarak görev yapar ve haberin denetimini sağlar; sosyal medyada bu mekanizma zayıflamıştır."
+    },
+    {
+      "soruid": 4,
+      "soru_metni": "Sosyal medyanın haber üretim ve tüketim sürecine getirdiği 'hız' faktörü, beraberinde en çok hangi riski doğurmuştur?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Haberin maliyetinin artması",
+        "B": "Teyit edilmemiş, yalan ve yanlış bilgilerin (Dezenformasyon) hızla yayılması",
+        "C": "Haberin daha az okunması",
+        "D": "Gazetecilerin işsiz kalması",
+        "E": "Teknolojinin yetersiz kalması"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Hız baskısı ve eşik bekçilerinin olmaması, sosyal medyada doğrulanmamış ve yanlış bilgilerin kontrolsüzce yayılmasına neden olmuştur."
+    },
+    {
+      "soruid": 5,
+      "soru_metni": "Yeni medyada haber metninin; ses, video, grafik ve animasyon gibi farklı formatlarla zenginleştirilerek sunulmasına ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Hipermetinsellik",
+        "B": "Çoklu Ortam (Multimedia)",
+        "C": "Sanal Gerçeklik",
+        "D": "Basılı Yayın",
+        "E": "Tekdüze Yayın"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Çoklu ortam, haberin metin, ses, görüntü ve grafiklerin bir arada kullanılarak daha etkileyici ve anlaşılır sunulmasını sağlar."
+    },
+    {
+      "soruid": 6,
+      "soru_metni": "Haberin içerisinde verilen linkler (bağlantılar) sayesinde okuyucunun farklı kaynaklara veya geçmiş haberlere kolayca ulaşabilmesini sağlayan özellik hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Etkileşim",
+        "B": "Hipermetinsellik (Hypertextuality)",
+        "C": "Sanalizasyon",
+        "D": "Asenkronizasyon",
+        "E": "Kitlesizleştirme"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Hipermetinsellik, metinler arası bağlantılar kurarak okuyucunun doğrusal olmayan bir şekilde bilgiye ulaşmasına olanak tanır."
+    },
+    {
+      "soruid": 7,
+      "soru_metni": "Sosyal medyada bir haberin doğruluğundan emin olmadan paylaşım yapmanın etik açıdan en büyük sakıncası nedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "İnternet kotasını doldurması",
+        "B": "Bilgi kirliliğine (Enformasyon kirliliği) katkıda bulunmak ve manipülasyona alet olmak",
+        "C": "Takipçi kaybetmek",
+        "D": "Platformun yavaşlaması",
+        "E": "Daha az beğeni almak"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Doğrulanmamış bilginin paylaşılması, dezenformasyonun yayılmasına, paniğe ve yanlış algıların oluşmasına neden olur."
+    },
+    {
+      "soruid": 8,
+      "soru_metni": "Haberin belirli bir zaman ve mekan sınırına bağlı kalmaksızın, istenildiği an ulaşılabilir ve güncellenebilir olması yeni medyanın hangi özelliğidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Eşzamansızlık (Asenkron olma)",
+        "B": "Eşzamanlılık",
+        "C": "Mekansallık",
+        "D": "Sınırlılık",
+        "E": "Doğrusallık"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Yeni medyada içerik asenkron (eşzamansız) olarak sunulur; kullanıcı içeriğe yayınlandığı anda değil, istediği zaman erişebilir."
+    },
+    {
+      "soruid": 9,
+      "soru_metni": "Kullanıcının haber sitelerinde veya sosyal medyada okuduğu habere yorum yapabilmesi, beğenmesi veya paylaşması hangi kavramla açıklanır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Gözetim",
+        "B": "Etkileşim (Interactivity)",
+        "C": "Sansür",
+        "D": "Tekelleşme",
+        "E": "Yabancılaşma"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Yorum, beğeni ve paylaşım gibi geri bildirim mekanizmaları, yeni medyanın 'etkileşim' özelliğinin göstergesidir."
+    },
+    {
+      "soruid": 10,
+      "soru_metni": "Sosyal medyada yalan haberlerin (Fake News) yayılma hızının doğru haberlere göre daha yüksek olmasının temel psikolojik nedeni nedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Daha kısa olmaları",
+        "B": "Duygulara (korku, öfke, şaşkınlık) hitap etmesi ve sansasyonel olması",
+        "C": "Resmi kurumlarca paylaşılması",
+        "D": "Daha pahalı olması",
+        "E": "Bilimsel veriye dayanması"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Yalan haberler genellikle şok edici, duygusal tepki uyandıran ve merak cezbeden unsurlar içerdiği için daha hızlı yayılır."
+    },
+    {
+      "soruid": 11,
+      "soru_metni": "Bir haberin sosyal medyada paylaşılırken 'Tık Tuzağı' (Clickbait) başlıklar kullanılması etik açıdan neden sorunludur?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Okuyucuyu aldattığı ve içeriğin niteliği hakkında yanlış beklenti oluşturduğu için",
+        "B": "Daha fazla okunmasını sağladığı için",
+        "C": "Reklam gelirini artırdığı için",
+        "D": "Başlığın kısa olması gerektiği için",
+        "E": "Görsel kullanılmadığı için"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Tık tuzağı, sırf tıklanma almak uğruna içeriği yansıtmayan, abartılı veya yanıltıcı başlıklar kullanarak okuyucunun güvenini sarsar."
+    },
+    {
+      "soruid": 12,
+      "soru_metni": "Geleneksel medyanın (Gazete, TV) haber üretim sürecinde 'zaman' faktörü nasıldır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Anlıktır, hemen yayınlanır.",
+        "B": "Belirli periyotlara (baskı saati, ana haber bülteni) bağlıdır ve gecikmelidir.",
+        "C": "Zaman sınırı yoktur.",
+        "D": "Sürekli güncellenir.",
+        "E": "İzleyici belirler."
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Geleneksel medyada haber, gazetenin baskı saatine veya televizyonun bülten saatine kadar beklemek zorundadır; yeni medyada ise anlıktır."
+    },
+    {
+      "soruid": 13,
+      "soru_metni": "Sosyal medya haberciliğinde 'Teyit' (Doğrulama) mekanizmasının eksikliği hangi soruna yol açar?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Haberin daha kaliteli olmasına",
+        "B": "Manipülasyon ve spekülasyonların gerçekmiş gibi algılanmasına",
+        "C": "Gazetecilerin daha çok çalışmasına",
+        "D": "Haberin maliyetinin düşmesine",
+        "E": "Okuyucu sayısının azalmasına"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Teyit edilmeyen bilgiler, sosyal medyada hızla yayılarak kitlelerin yanlış yönlendirilmesine ve manipüle edilmesine sebep olur."
+    },
+    {
+      "soruid": 14,
+      "soru_metni": "Aşağıdakilerden hangisi dijital haberciliğin geleneksel haberciliğe göre sağladığı 'ekonomik' avantajlardan biridir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Kağıt, baskı ve dağıtım maliyetlerinin olmaması",
+        "B": "Daha çok personel çalıştırma zorunluluğu",
+        "C": "Sadece ücretli abonelikle çalışması",
+        "D": "Devlet desteği alması",
+        "E": "Reklam gelirinin olmaması"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Dijital yayıncılık, fiziksel baskı ve dağıtım süreçlerini ortadan kaldırarak maliyetleri önemli ölçüde düşürür."
+    },
+    {
+      "soruid": 15,
+      "soru_metni": "Bireylerin sosyal medyada sadece kendi görüşlerini destekleyen haber kaynaklarını takip etmesi ve karşıt görüşlerden habersiz kalması durumuna ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Açık Toplum",
+        "B": "Yankı Odası (Echo Chamber)",
+        "C": "Küresel Köy",
+        "D": "Bilgi Toplumu",
+        "E": "Siber Uzay"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Yankı odası, kişinin sadece kendi sesinin yankısını duyduğu, farklı fikirlerin filtrelendiği izole bir iletişim ortamıdır."
+    },
+    {
+      "soruid": 16,
+      "soru_metni": "Haberin sosyal medyada yayılımını artıran ve konuyu etiketlemeye yarayan '#' sembolüyle yapılan işleme ne denir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Mention",
+        "B": "Hashtag (Etiket)",
+        "C": "Retweet",
+        "D": "Like",
+        "E": "DM"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Hashtag, içeriği kategorize ederek o konuyla ilgilenen diğer kullanıcıların habere ulaşmasını kolaylaştırır."
+    },
+    {
+      "soruid": 17,
+      "soru_metni": "Geleneksel medya ile yeni medyanın 'hedef kitle'ye erişim farkı nasıldır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Geleneksel medya bireysel, yeni medya kitleseldir.",
+        "B": "Geleneksel medya küresel, yeni medya yereldir.",
+        "C": "Geleneksel medya kitlesel (homojen), yeni medya ise kitlesizleştirilmiş (bireyselleştirilmiş/hedefli) ve küreseldir.",
+        "D": "Arada fark yoktur.",
+        "E": "Yeni medya sadece gençlere hitap eder."
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Yeni medya, kullanıcı verilerine göre kişiselleştirilmiş içerik sunabilir (kitlesizleştirme) ve sınırları aşarak küresel erişim sağlar."
+    },
+    {
+      "soruid": 18,
+      "soru_metni": "Bir gazetecinin veya kullanıcının sosyal medyada haber paylaşırken uyması gereken en temel etik kural nedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Hızlı olmak için doğrulamadan paylaşmak",
+        "B": "Doğruluk, tarafsızlık ve özel hayata saygı ilkelerine uymak",
+        "C": "Sadece kendi görüşünü savunmak",
+        "D": "Hakaret içeren dil kullanmak",
+        "E": "Kaynağı gizlemek"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Dijital ortamda da gazetecilik meslek etiği (doğruluk, tarafsızlık, mahremiyet) geçerliliğini korumalıdır."
+    },
+    {
+      "soruid": 19,
+      "soru_metni": "Sosyal medyada bir olay hakkında kasıtlı olarak üretilen ve yayılan yanlış bilgiye ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Enformasyon",
+        "B": "Dezenformasyon",
+        "C": "Mizenformasyon",
+        "D": "Simülasyon",
+        "E": "Animasyon"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Dezenformasyon, kitleleri manipüle etmek amacıyla bilerek ve isteyerek üretilen yanlış bilgidir."
+    },
+    {
+      "soruid": 20,
+      "soru_metni": "Aşağıdakilerden hangisi 'Yurttaş Haberciliği'nin sağladığı avantajlardan biridir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Profesyonel standartlara her zaman uyması",
+        "B": "Ana akım medyanın görmediği veya sansürlediği olayları duyurabilmesi (Çok seslilik)",
+        "C": "Her zaman doğru bilgi vermesi",
+        "D": "Kurumsal kimliğe sahip olması",
+        "E": "Maddi kazanç sağlaması"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Yurttaş haberciliği, sansürlenen veya gözden kaçan konuları gündeme getirerek demokratikleşmeye ve çok sesliliğe katkı sağlar."
+    },
+    {
+      "soruid": 21,
+      "soru_metni": "Kullanıcıların içerikleri oylayarak veya paylaşarak hangisinin öne çıkacağını belirlediği (kürasyon) sosyal medya dinamiklerine ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Katılımcı Gazetecilik",
+        "B": "Sarı Basın",
+        "C": "Resmi Gazetecilik",
+        "D": "Tekelci Medya",
+        "E": "Pasif Tüketim"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Kullanıcının editöryal sürece dahil olduğu, neyin haber olacağına etkileşimiyle karar verdiği yapı 'Katılımcı Gazetecilik'tir."
+    },
+    {
+      "soruid": 22,
+      "soru_metni": "Sosyal medya haberciliğinde 'trol' hesapların varlığı hangi riski oluşturur?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Haberin daha hızlı yayılmasını",
+        "B": "Tartışma ortamını sabote ederek nefret söylemi ve kutuplaşma yaratmayı",
+        "C": "Daha eğlenceli olmasını",
+        "D": "Reklam gelirini artırmayı",
+        "E": "Doğru bilginin öne çıkmasını"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Troller, provokatif içeriklerle tartışmaları amacından saptırır, nefret söylemi yayar ve sağlıklı bilgi alışverişini engeller."
+    },
+    {
+      "soruid": 23,
+      "soru_metni": "Haberin sunumunda 'Multimedya' kullanımı okuyucuya nasıl bir fayda sağlar?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Sadece metin okumasını sağlar.",
+        "B": "Farklı duyu organlarına hitap ederek (görsel, işitsel) bilginin daha kalıcı ve anlaşılır olmasını sağlar.",
+        "C": "İnternet hızını yavaşlatır.",
+        "D": "Daha fazla zaman kaybettirir.",
+        "E": "Haberin ciddiyetini bozar."
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Metin, video ve sesin birleşimi, haberin bağlamını güçlendirir ve öğrenmeyi/anlamayı kolaylaştırır."
+    },
+    {
+      "soruid": 24,
+      "soru_metni": "Geleneksel medya kuruluşlarının (Gazete, TV) sosyal medyayı kullanma temel amacı nedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Gazeteyi kapatmak",
+        "B": "Okuyucu/İzleyici kitlesine ulaşmak, trafiği kendi sitelerine çekmek ve etkileşim kurmak",
+        "C": "Sadece eğlenmek",
+        "D": "Haberleri saklamak",
+        "E": "Rakipleri engellemek"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Geleneksel medya, dijitalleşen kitleyi yakalamak ve içeriklerini daha geniş kitlelere yaymak için sosyal medyayı bir araç olarak kullanır."
+    },
+    {
+      "soruid": 25,
+      "soru_metni": "Sosyal medyada bir haberin 'Viral' olması ne anlama gelir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Virüs bulaşması",
+        "B": "Çok kısa sürede, kullanıcıdan kullanıcıya yayılarak çok geniş kitlelere ulaşması",
+        "C": "Silinmesi",
+        "D": "Sadece bir kişinin görmesi",
+        "E": "Yasaklanması"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Viral etki, içeriğin ağızdan ağza (veya paylaşımdan paylaşıma) hızla yayılarak popüler hale gelmesidir."
+    },
+    {
+      "soruid": 26,
+      "soru_metni": "Aşağıdakilerden hangisi dijital haberciliğin 'arşivleme' (bellek) özelliğinin bir avantajıdır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Eski haberlerin kaybolması",
+        "B": "Geçmiş haberlere ve bilgilere arama motorları sayesinde kolayca erişilebilmesi",
+        "C": "Sadece kütüphanede bulunması",
+        "D": "Kağıt israfı olması",
+        "E": "Yer kaplaması"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Dijital ortamda veriler saklanır ve indekslenir, böylece kullanıcılar eski haberlere istedikleri zaman ulaşabilirler."
+    },
+    {
+      "soruid": 27,
+      "soru_metni": "Kullanıcının kendi ilgi alanlarına göre haber akışını kişiselleştirebilmesi yeni medyanın hangi özelliğidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Kitleselleştirme",
+        "B": "Kişiselleştirme (Demassification)",
+        "C": "Tektipleştirme",
+        "D": "Genelleştirme",
+        "E": "Sansürleme"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Kişiselleştirme, kullanıcının sadece ilgilendiği konuları takip etmesine ve içeriği kendi tercihine göre filtrelemesine olanak tanır."
+    },
+    {
+      "soruid": 28,
+      "soru_metni": "Haberin kaynağının belirsiz olduğu ve teyit edilmediği durumlarda sosyal medya kullanıcısının yapması gereken en doğru davranış nedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Hemen paylaşmak",
+        "B": "Yorum yaparak desteklemek",
+        "C": "Şüpheyle yaklaşmak ve güvenilir kaynaklardan doğrulamadan paylaşmamak",
+        "D": "Arkadaşlarına göndermek",
+        "E": "Kaynağı önemsememek"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Dijital okuryazarlık, şüpheli bilgiyi yaymadan önce doğrulamayı ve eleştirel yaklaşmayı gerektirir."
+    },
+    {
+      "soruid": 29,
+      "soru_metni": "Sosyal medya haberciliğinde 'eşik bekçiliği'nin (gatekeeping) zayıflaması ne anlama gelir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Haberlerin daha geç yayınlanması",
+        "B": "Haberin editoryal filtreden geçmeden, doğrudan kaynağından veya vatandaştan kitleye ulaşabilmesi",
+        "C": "Devletin daha çok denetim yapması",
+        "D": "Gazetelerin kapanması",
+        "E": "Haberin paralı olması"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Aracıların (editörlerin) ortadan kalkmasıyla bilgi denetimsiz ama hızlı ve doğrudan bir şekilde yayılabilir."
+    },
+    {
+      "soruid": 30,
+      "soru_metni": "Aşağıdakilerden hangisi sosyal medyada haber paylaşımının toplumsal etkilerinden biridir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Toplumsal hareketlerin ve kamuoyu oluşumunun hızlanması",
+        "B": "İnsanların birbirinden kopması",
+        "C": "Haberleşmenin azalması",
+        "D": "Sadece eğlence amaçlı kullanılması",
+        "E": "Teknolojinin gerilemesi"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Sosyal medya, Arap Baharı gibi örneklerde görüldüğü üzere toplumsal olayların örgütlenmesinde ve kamuoyu oluşturmada güçlü bir etkendir."
+    },
+    {
+      "soruid": 31,
+      "soru_metni": "Geleneksel medyanın haber iletme sürecinde, haberin mutfağında yer alan ve haberi seçen, işleyen kişilere ne ad verilir? (Ünite Sorusu 1)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Muhabir",
+        "B": "Eşik Bekçisi",
+        "C": "Yurttaş Gazeteci",
+        "D": "Okur Temsilcisi",
+        "E": "Genel Yayın Yönetmeni"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Haberin seçim ve denetim sürecini yöneten mekanizma 'Eşik Bekçisi' (Gatekeeper) olarak adlandırılır."
+    },
+    {
+      "soruid": 32,
+      "soru_metni": "Yeni medyada kullanıcının içerik üretim sürecine dâhil olması ve geri bildirimde bulunabilmesi özelliğine ne denir? (Ünite Sorusu 2)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Hipermetinsellik",
+        "B": "Sanallık",
+        "C": "Etkileşimsellik",
+        "D": "Asenkronluk",
+        "E": "Kitlesizleştirme"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Kullanıcının sisteme tepki verebilmesi ve içeriği etkileyebilmesi 'Etkileşimsellik' özelliğidir."
+    },
+    {
+      "soruid": 33,
+      "soru_metni": "Aşağıdakilerden hangisi yurttaş haberciliğinin (citizen journalism) özelliklerinden biri değildir? (Ünite Sorusu 3)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Profesyonel gazetecilik eğitimi almış kişilerce yapılması",
+        "B": "Gönüllülük esasına dayanması",
+        "C": "Dijital teknolojileri kullanması",
+        "D": "Ana akım medyanın yer vermediği konulara değinmesi",
+        "E": "Kamu yararını gözetmesi"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Yurttaş haberciliği, profesyonel eğitimi olmayan sıradan vatandaşların yaptığı habercilik türüdür."
+    },
+    {
+      "soruid": 34,
+      "soru_metni": "Sosyal medyada yalan haberlerin ve dezenformasyonun yayılmasının en temel nedeni aşağıdakilerden hangisidir? (Ünite Sorusu 4)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Teknolojik yetersizlik",
+        "B": "Kullanıcıların eğitimsizliği",
+        "C": "Eşik bekçiliği mekanizmasının zayıflaması/olmaması",
+        "D": "İnternet hızının düşük olması",
+        "E": "Yasal düzenlemelerin çok sıkı olması"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Denetim mekanizmasının (eşik bekçisi) olmaması, yanlış bilginin filtrelenmeden yayılmasına zemin hazırlar."
+    },
+    {
+      "soruid": 35,
+      "soru_metni": "Haberin metin, ses, video ve grafik gibi farklı formatların bir arada kullanılarak sunulmasına ne ad verilir? (Ünite Sorusu 5)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Hipermetin",
+        "B": "Multimedya (Çoklu Ortam)",
+        "C": "Simülasyon",
+        "D": "Etkileşim",
+        "E": "Sanal Gerçeklik"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Farklı medya türlerinin bir arada kullanımı 'Multimedya' olarak tanımlanır."
+    },
+    {
+      "soruid": 36,
+      "soru_metni": "Aşağıdakilerden hangisi sosyal medya haberciliğinde etik sorunlardan biri değildir? (Ünite Sorusu 6)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Özel hayatın gizliliğinin ihlali",
+        "B": "Telif haklarına saygı gösterilmemesi",
+        "C": "Nefret söylemi",
+        "D": "Doğru ve tarafsız haber yapma",
+        "E": "Dezenformasyon yayma"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": "Doğru ve tarafsız haber yapma bir sorun değil, olması gereken etik bir ilkedir. Diğerleri ihlal ve sorunlardır."
+    },
+    {
+      "soruid": 37,
+      "soru_metni": "Yeni medyada haberin zamandan ve mekândan bağımsız olarak istenildiği zaman tüketilebilmesi özelliğine ne denir? (Ünite Sorusu 7)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Eşzamanlılık",
+        "B": "Asenkronluk (Eşzamansızlık)",
+        "C": "Kitlesellik",
+        "D": "Doğrusallık",
+        "E": "Süreklilik"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "İçeriğe yayınlandığı anda değil, istenilen zamanda erişilebilmesi asenkron iletişim özelliğidir."
+    },
+    {
+      "soruid": 38,
+      "soru_metni": "Sosyal medyada içeriklerin etiketlenerek kategorize edilmesini ve bulunabilirliğini sağlayan sembol hangisidir? (Ünite Sorusu 8)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "@",
+        "B": "# (Hashtag)",
+        "C": "$",
+        "D": "&",
+        "E": "*"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Hashtag (#), içerikleri etiketlemek ve konu başlıkları oluşturmak için kullanılır."
+    },
+    {
+      "soruid": 39,
+      "soru_metni": "Kullanıcının sadece kendi görüşlerini destekleyen içeriklerle karşılaşıp farklı görüşlerden izole olduğu duruma ne ad verilir? (Ünite Sorusu 9)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Filtre Balonu / Yankı Odası",
+        "B": "Bilgi Toplumu",
+        "C": "Açık Erişim",
+        "D": "Siber Zorbalık",
+        "E": "Dijital Uçurum"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Filtre balonu veya yankı odası, kullanıcının algoritma veya tercihleri nedeniyle tek tip bilgiyle çevrelenmesidir."
+    },
+    {
+      "soruid": 40,
+      "soru_metni": "Aşağıdakilerden hangisi dijital okuryazarlığın bir gereği olarak haber tüketiminde yapılması gerekenlerden biridir? (Ünite Sorusu 10)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Sadece başlığa bakarak paylaşmak",
+        "B": "Kaynağı doğrulamadan inanmak",
+        "C": "Şüpheci yaklaşmak ve teyit etmek",
+        "D": "Duygusal tepkilerle hareket etmek",
+        "E": "Her gördüğünü beğenmek"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Dijital okuryazar birey, bilgiye eleştirel yaklaşır, kaynağını sorgular ve doğruluğunu teyit eder."
+    }
+      ]
+    }
+  ]
+}
