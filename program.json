@@ -9,15 +9,12 @@
           {
             "ders_adi": "SOSYAL MEDYA VE PROPAGANDA",
             "kod": "SMY201U",
-            "dosyalar": [ 
-              "sosyalmedyapropaganda_sorular.json",
-              "sosyalmedyapropagandakitapsorulariunite1.json"
-            ]
+           "dosya_adi": "sosyal_medya_2023.json,sosyal_medya_2024.json,sosyal_medya_ozet.json"
           },
           {
             "ders_adi": "İdare Hukuku",
             "kod": "HUK103U",
-            "dosyalar": [
+            "dosya_adi": [
               "huk_103_sorular.json"
             ]
           }
@@ -35,7 +32,7 @@
           {
             "ders_adi": "Eski Türk Edebiyatına Giriş",
             "kod": "TDE101U",
-            "dosyalar": [
+            "dosya_adi": [
               "deneme.json"
             ]
           }
