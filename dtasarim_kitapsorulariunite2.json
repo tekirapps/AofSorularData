@@ -1,0 +1,573 @@
+{
+  "ders_kodu": "SMY203U",
+  "ders_adi": "DİJİTAL TASARIM",
+  "sinavlar": [
+    {
+      "baslik": "2025 Ünite 2 Yapay Zeka Destekli Çıkabilecek Sorular",
+      "tur": "AI",
+      "yil": 2025,
+      "sorular": [
+    {
+      "soruid": 1,
+      "soru_metni": "Masaüstü yayıncılık (Desktop Publishing) terimi ilk kez hangi yıl ve hangi firma tarafından kullanılmıştır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "1990 - Microsoft",
+        "B": "1985 - Aldus",
+        "C": "1980 - Apple",
+        "D": "1995 - Adobe",
+        "E": "2000 - Corel"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Metinde masaüstü yayıncılık teriminin ilk kez 1985 yılında Aldus (PageMaker'ın yaratıcısı) tarafından kullanıldığı belirtilmektedir."
+    },
+    {
+      "soruid": 2,
+      "soru_metni": "Bilgisayar yazılımları yardımıyla, dijital dosyaları bir baskı makinesi için yazdırmaya hazır hale getirme işlemine ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Baskı Sonrası",
+        "B": "Grafik Tasarım",
+        "C": "Baskı Öncesi Hazırlık",
+        "D": "Web Tasarımı",
+        "E": "Ciltleme"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Metinde baskı öncesi hazırlık, dijital dosyaları baskı makinesi için yazdırmaya hazır hale getirme işlemi olarak tanımlanmıştır."
+    },
+    {
+      "soruid": 3,
+      "soru_metni": "Aşağıdakilerden hangisi masaüstü yayıncılıkta kullanılan 'Sistem Yazılımları'na bir örnektir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Adobe Photoshop",
+        "B": "Corel Draw",
+        "C": "Windows",
+        "D": "QuarkXPress",
+        "E": "Adobe Illustrator"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "MacOS ve Windows, bilgisayarı çalışır hale getiren ve donanımı denetleyen işletim sistemleri (sistem yazılımları) olarak örneklendirilmiştir."
+    },
+    {
+      "soruid": 4,
+      "soru_metni": "Görüntüyü oluşturan, içerisinde renk pigmenti barındıran en küçük birim karesine ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Vektör",
+        "B": "Piksel",
+        "C": "Tram",
+        "D": "Lümen",
+        "E": "İnç"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Piksel, görüntünün en küçük birim karesi olarak tanımlanmış ve noktacıklar halinde görüntüyü oluşturduğu belirtilmiştir."
+    },
+    {
+      "soruid": 5,
+      "soru_metni": "Matematiksel olarak x ve y koordinatları ile tanımlanan, büyütülüp küçültüldüğünde çözünürlük kaybı yaşamayan grafik türü hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Bitmap",
+        "B": "Raster",
+        "C": "Piksel Tabanlı",
+        "D": "Vektörel",
+        "E": "Fotoğrafik"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": "Vektörler matematiksel formüllerle tanımlandığı için çözünürlükten bağımsızdır ve detay kaybetmeden ölçeklendirilebilir."
+    },
+    {
+      "soruid": 6,
+      "soru_metni": "Baskı sektöründe kullanılan ve Cyan, Magenta, Yellow, Black renklerinin karışımıyla oluşan renk modeline ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "RGB",
+        "B": "HSB",
+        "C": "Lab",
+        "D": "CMYK",
+        "E": "Grayscale"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": "CMYK (Cyan, Magenta, Yellow, Key/Black), baskı sektöründe kullanılan ve maddesel pigmentlerin karışımına dayalı renk sistemidir."
+    },
+    {
+      "soruid": 7,
+      "soru_metni": "Televizyon ve monitör gibi ışık yayan cihazlarda kullanılan, Kırmızı, Yeşil ve Mavi ışığın karışımıyla oluşan renk sistemi hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "CMYK",
+        "B": "RGB",
+        "C": "Pantone",
+        "D": "Spot Renk",
+        "E": "Tifdruk"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "RGB (Red, Green, Blue), ışık renk karışım sistemidir ve ekran teknolojilerinde kullanılır."
+    },
+    {
+      "soruid": 8,
+      "soru_metni": "Su ve yağın birbirini itmesi prensibine dayanan, günümüzde en yaygın kullanılan düz baskı tekniği hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Tifdruk",
+        "B": "Serigrafi",
+        "C": "Ofset Baskı",
+        "D": "Tipo Baskı",
+        "E": "Flekso"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Ofset baskı, suyun yağı (mürekkebi) itmesi prensibiyle çalışan bir düz baskı tekniğidir."
+    },
+    {
+      "soruid": 9,
+      "soru_metni": "İnce ipek bir elek kullanılarak, geçirgen olan ve olmayan alanların oluşturulmasıyla yapılan baskı türü hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Ofset",
+        "B": "Serigrafi (Elek Baskı)",
+        "C": "Dijital Baskı",
+        "D": "Gravür",
+        "E": "Lito"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Serigrafi, ipek elekler ve emisyonlar kullanılarak yapılan bir elek baskı türüdür, genellikle tekstil ve promosyon ürünlerinde kullanılır."
+    },
+    {
+      "soruid": 10,
+      "soru_metni": "Baskı sonrası aşamada, baskı yüzeyine koruyucu amaçla kaplanan ince, şeffaf plastik tabakaya ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Lak",
+        "B": "Gofre",
+        "C": "Selefon",
+        "D": "Kros",
+        "E": "Tram"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Selefon, baskısı yapılan işe koruyucu özellik kazandıran saydam kaplamadır."
+    },
+    {
+      "soruid": 11,
+      "soru_metni": "Baskı yüzeyinde belirli alanları (örneğin logoyu) kabartmak veya çökertmek için uygulanan işleme ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Gofre",
+        "B": "Varak",
+        "C": "Ciltleme",
+        "D": "Laminasyon",
+        "E": "Revolta"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Gofre, özel klişe hazırlanarak uygulanan çökertme veya kabartma işlemidir."
+    },
+    {
+      "soruid": 12,
+      "soru_metni": "Ciltleme ve kesim sırasında oluşabilecek kaymaları önlemek amacıyla sayfa kenarlarına verilen (genellikle 3-5 mm) ek paya ne denir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Makas Payı",
+        "B": "Taşma Payı (Bleed)",
+        "C": "Sırt Payı",
+        "D": "Kros",
+        "E": "Pilyaj"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Kesim sırasında oluşabilecek beyaz boşlukları önlemek için verilen paya taşma payı (bleed) denir."
+    },
+    {
+      "soruid": 13,
+      "soru_metni": "Baskısı yapılacak çalışmanın ön ve arka yüzeylerinin aynı kalıpta basılıp, kağıdın çevrilerek (takla attırılarak) diğer yüzünün de aynı kalıpla basılması işlemine ne denir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Ofset",
+        "B": "Revolta",
+        "C": "Serigrafi",
+        "D": "Harmanlama",
+        "E": "Prova"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Revolta baskı, kağıdın ön ve arka yüzeyinin aynı kalıpta buluşması ve çevrilerek basılması tekniğidir."
+    },
+    {
+      "soruid": 14,
+      "soru_metni": "Bir görselin arka plandan ayrılarak istenmeyen yerlerinin temizlenmesi işlemine masaüstü yayıncılıkta ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Degrade",
+        "B": "Tram",
+        "C": "Dekupe",
+        "D": "Montaj",
+        "E": "Rötuş"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Dekupe, bir görüntünün istenmeyen yerlerinin ayıklanması, kesilmesi ve kırpılması işlemidir."
+    },
+    {
+      "soruid": 15,
+      "soru_metni": "Adobe tarafından geliştirilen, hem vektör hem piksel tabanlı içeriği barındırabilen ve baskı için standart kabul edilen 'Taşınabilir Belge Formatı' hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "JPEG",
+        "B": "TIFF",
+        "C": "PDF",
+        "D": "EPS",
+        "E": "PSD"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "PDF (Portable Document Format), Adobe tarafından geliştirilen ve baskı endüstrisinde standart olarak kullanılan dosya formatıdır."
+    },
+    {
+      "soruid": 16,
+      "soru_metni": "Web ortamında saydamlık (transparanlık) özelliği ve kayıpsız sıkıştırması nedeniyle tercih edilen dosya formatı hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "JPEG",
+        "B": "BMP",
+        "C": "PNG",
+        "D": "EPS",
+        "E": "RAW"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "PNG (Portable Network Graphics), web sayfalarında kaliteli görüntü ve saydamlık özelliği sağlayan formattır."
+    },
+    {
+      "soruid": 17,
+      "soru_metni": "Adobe firmasının vektörel tabanlı çizimler (logo, grafik vb.) oluşturmak için geliştirdiği yazılım hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Adobe Photoshop",
+        "B": "Adobe Illustrator",
+        "C": "Adobe InDesign",
+        "D": "Adobe Premiere",
+        "E": "Adobe Acrobat"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Adobe Illustrator, vektör tabanlı çizimler, grafikler ve yazılar hazırlamak için kullanılan programdır."
+    },
+    {
+      "soruid": 18,
+      "soru_metni": "Fotoğraf işleme, rötuş ve piksel tabanlı düzenlemeler için en yaygın kullanılan yazılım hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Corel Draw",
+        "B": "Adobe Illustrator",
+        "C": "Adobe Photoshop",
+        "D": "QuarkXPress",
+        "E": "FreeHand"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Adobe Photoshop, görüntüyü işleme ve etkili görseller hazırlama işlemlerini piksel tabanlı yapan programdır."
+    },
+    {
+      "soruid": 19,
+      "soru_metni": "Sayfa düzenleme, kitap, dergi ve gazete mizanpajı yapmak için geliştirilen Adobe yazılımı hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Adobe InDesign",
+        "B": "Adobe Lightroom",
+        "C": "Adobe Dreamweaver",
+        "D": "Adobe After Effects",
+        "E": "Adobe Flash"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Adobe InDesign, sayfa düzenleme ve çok sayfalı yayınların (kitap, dergi) mizanpajı için kullanılan temel yazılımdır."
+    },
+    {
+      "soruid": 20,
+      "soru_metni": "Matbaada baskı makinesinin kağıdı tutabilmesi için kağıt kenarında bırakılan boşluğa ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Kros",
+        "B": "Taşma",
+        "C": "Makas Payı",
+        "D": "Sırt",
+        "E": "Oluk"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Makas payı, baskı makinesinin kağıdı tuttuğu kısımlara verilen ve baskı yapılmayan alandır."
+    },
+    {
+      "soruid": 21,
+      "soru_metni": "Dijital fotoğraf makinesinin sensöründen gelen, işlenmemiş ham veriyi içeren dosya formatı hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "JPEG",
+        "B": "TIFF",
+        "C": "RAW",
+        "D": "GIF",
+        "E": "BMP"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "RAW formatı, dijital fotoğrafın ham, işlenmemiş ve negatif hali olarak kaydedilen formatıdır."
+    },
+    {
+      "soruid": 22,
+      "soru_metni": "Baskı kalitesini belirleyen ve 'inç başına düşen nokta sayısı' anlamına gelen kısaltma hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "RGB",
+        "B": "CPU",
+        "C": "DPI",
+        "D": "URL",
+        "E": "FTP"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "DPI (Dots Per Inch) baskı kalitesini belirleyen, bir inçlik alandaki nokta sayısını ifade eden ölçü birimidir."
+    },
+    {
+      "soruid": 23,
+      "soru_metni": "Baskıda renklerin farklı tonlarını oluşturmak için kullanılan noktalardan oluşan yapıya ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Piksel",
+        "B": "Tram",
+        "C": "Vektör",
+        "D": "Kontrast",
+        "E": "Degrade"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Tram, baskıların renkli ya da siyah beyaz değerlerinin farklı tonlarını oluşturan noktalardır."
+    },
+    {
+      "soruid": 24,
+      "soru_metni": "Baskı yüzeyine özel bir klişe ile sıcak baskı yöntemiyle altın veya gümüş yaldız uygulanması işlemine ne denir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Gofre",
+        "B": "Lak",
+        "C": "Varak-Yaldız",
+        "D": "Serigrafi",
+        "E": "Selefon"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Varak-Yaldız, klişe kullanılarak sıcak baskı yöntemiyle yüzeye uygulanan özel yaldız işlemidir."
+    },
+    {
+      "soruid": 25,
+      "soru_metni": "Aşağıdakilerden hangisi yüksek baskı (Tipo) tekniğinin çalışma prensibini açıklar?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Suyun yağı itmesi prensibi",
+        "B": "Boyanın çukur alanlara dolması",
+        "C": "Yüzeydeki yüksek kısımların boya alıp kağıda aktarılması",
+        "D": "Boyanın elekten geçmesi",
+        "E": "Elektrostatik tozlanma"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Tipo baskı, kalıp üzerindeki yüksekte kalan kısımların boyayı alarak kağıda aktardığı geleneksel yöntemdir."
+    },
+    {
+      "soruid": 26,
+      "soru_metni": "Baskı öncesinde kullanılan 'Overprint' komutu ne işe yarar?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Rengi açar",
+        "B": "Kağıdı keser",
+        "C": "Nesnenin altındaki rengi oymadan üstüne baskı yapılmasını sağlar",
+        "D": "Resmi siler",
+        "E": "Yazı tipini değiştirir"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Overprint (Üstüne Baskı), alttaki rengin oyulmasını (beyaz boşluk kalmasını) engelleyerek üst üste basılmasını sağlar, kaymaları önler."
+    },
+    {
+      "soruid": 27,
+      "soru_metni": "Pantone renk kataloğu ne amaçla kullanılır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Sadece siyah beyaz baskı yapmak için",
+        "B": "Standartlaştırılmış özel spot renkleri seçmek ve tutarlılığı sağlamak için",
+        "C": "Web sitesi kodlamak için",
+        "D": "Kağıt kalınlığını ölçmek için",
+        "E": "Yazı karakteri seçmek için"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Pantone, 14 esas renkten türetilen binlerce standart rengin yer aldığı, baskıda renk tutarlılığını sağlayan katalogdur."
+    },
+    {
+      "soruid": 28,
+      "soru_metni": "Aşağıdakilerden hangisi bir yazı karakterinin (font) 'Tırnaklı' (Serif) olduğunu ifade eder?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Harf uçlarında küçük uzantıların olması",
+        "B": "Harflerin düz bitmesi",
+        "C": "Harflerin el yazısı gibi olması",
+        "D": "Sadece büyük harf olması",
+        "E": "Harflerin kalın olması"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Serif (tırnaklı) yazılar, harflerin anatomisinde köşe yerlere denk gelen kısımlarında tırnak gibi uzantıların olduğu karakterlerdir."
+    },
+    {
+      "soruid": 29,
+      "soru_metni": "Çok sayfalı işlerde (kitap, dergi) sayfaların baskı tabakasına doğru sırada yerleştirilmesi işlemine ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Montaj / Forma Düzeni",
+        "B": "Ciltleme",
+        "C": "Tasarım",
+        "D": "İllüstrasyon",
+        "E": "Tarama"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Baskı öncesinde sayfaların kağıt katlandığında doğru sıraya gelmesi için yapılan yerleştirme işlemine forma düzeni veya montaj denir."
+    },
+    {
+      "soruid": 30,
+      "soru_metni": "Görsellerin çözünürlüğünü ifade ederken kullanılan 'PPI' kısaltmasının anlamı nedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Pages Per Inch",
+        "B": "Pixels Per Inch (İnç başına piksel)",
+        "C": "Paper Print Ink",
+        "D": "Process Print Image",
+        "E": "Photo Pixel Index"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "PPI (Pixels Per Inch), dijital görüntülerde inç başına düşen piksel sayısını ifade eder."
+    },
+    {
+      "soruid": 31,
+      "soru_metni": "Masaüstü yayıncılık kavramı ile ilgili aşağıdaki ifadelerden hangisi doğrudur? (Ünite Sorusu 1)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Bilgisayar teknolojilerinin donanım birimleriyle ilgilidir.",
+        "B": "Sadece baskısı olan kitap, dergi, gazete tasarımlarını yapar.",
+        "C": "Matbaa da basılan fatura ve sayısal formların girdisini yapar.",
+        "D": "Baskı öncesi ve baskı sonrası aşamaların yazılım programlarıyla ele alınan süreçler bütünüdür.",
+        "E": "Baskı sonrası ciltleme, kesim, mücellit işleri masaüstünde yapılır."
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": "Masaüstü yayıncılık, baskı öncesi, basım ve baskı sonrası süreçlerin yazılımlarla hazırlanması ve yönetilmesi işidir."
+    },
+    {
+      "soruid": 32,
+      "soru_metni": "Masaüstü yayıncılık ile ilgili aşağıdaki bilgilerden hangisi yanlıştır? (Ünite Sorusu 2)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Masaüstü yayıncılık terimi ilk olarak Aldus tarafından kullanılmıştır.",
+        "B": "Baskı aşamaları ve dizgide yaygın olarak kullanılan bir terimdir.",
+        "C": "İlk masaüstü yayıncılık yazılımı Microsoft Paint'tir.",
+        "D": "Tarihi süreçte ilk üretilen masa üstü yayıncılık yazılımı Adobe tarafından yapılmıştır.",
+        "E": "'Masa başında yayıncılık' desktop publishing olarak kullanılır."
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "İlk masaüstü yayıncılık yazılımları Aldus PageMaker ve Adobe ürünleridir, Microsoft Paint değildir."
+    },
+    {
+      "soruid": 33,
+      "soru_metni": "Görüntünün en küçük birim karesine ne ad verilir? (Ünite Sorusu 3)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Vektör",
+        "B": "PDF",
+        "C": "Pilyaj",
+        "D": "Dekupe",
+        "E": "Piksel"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": "Görüntüyü oluşturan en küçük birim karesi pikseldir."
+    },
+    {
+      "soruid": 34,
+      "soru_metni": "X Y koordinatlarına sahip, çözünürlüğü bozulmayan, matematiksel veri aşağıdakilerden hangisidir? (Ünite Sorusu 4)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Vektör",
+        "B": "Piksel",
+        "C": "TIFF",
+        "D": "PSD",
+        "E": "JPEG"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Vektörler matematiksel koordinatlarla (x,y) tanımlanır ve çözünürlükten bağımsızdır."
+    },
+    {
+      "soruid": 35,
+      "soru_metni": "Masaüstü yayıncılıkta kullanılan baskı tekniklerinin genel çeşitleri aşağıdakilerin hangisinde birlikte ve doğru olarak verilmiştir? (Ünite Sorusu 5)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Düz Baskı - Çukur Baskı - Yüksek Baskı - Dijital Baskı - Elek Baskı",
+        "B": "Düz Baskı - Yan Baskı - Yarım Baskı - Elek Baskı - Dijital Baskı",
+        "C": "Ağaç Baskı - Linol Baskı - Taş Baskı - Elek Baskı - Dijital Baskı",
+        "D": "Gravür Baskı - Yüksek Baskı - Taş Baskı - Ön Baskı - Serigraf Baskı",
+        "E": "Düz Baskı - Ağaç Baskı - Yüksek Baskı - Elek Baskı - Taş Baskı"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Temel baskı teknikleri Düz (Ofset), Çukur (Tifdruk), Yüksek (Tipo), Elek (Serigrafi) ve Dijital baskıdır."
+    },
+    {
+      "soruid": 36,
+      "soru_metni": "Aşağıdakilerden hangisi dijital baskı teknolojilerinden biri değildir? (Ünite Sorusu 6)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Dijital donanımlı ofset baskı",
+        "B": "Özel mürekkepli, elektronik duyarlıklı dijital baskı",
+        "C": "Tonerli dijital baskı",
+        "D": "İç ve dış cephe İnkjet dijital baskı",
+        "E": "Metal gravür baskı"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": "Metal gravür (Tifdruk) geleneksel bir çukur baskı tekniğidir, dijital baskı teknolojisi değildir."
+    },
+    {
+      "soruid": 37,
+      "soru_metni": "Aşağıdakilerden hangisi masaüstü yayıncılık ile yapılabilen çalışmalardan biri değildir? (Ünite Sorusu 7)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Broşürler, el ilanları, reklamlar ve posterler",
+        "B": "Logolar, kartvizitler ve antetli kağıt",
+        "C": "Faturalar, irsaliyeler, notlar ve etiketler",
+        "D": "İşlemci, CPU, ekran kartı ve anakartlar",
+        "E": "Mağaza işaretleri, otoyol işaretleri ve reklam panoları"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": "İşlemci ve anakart gibi donanım parçaları masaüstü yayıncılık ile üretilmez, bunlar elektronik mühendisliği konusudur."
+    },
+    {
+      "soruid": 38,
+      "soru_metni": "Masaüstü yayıncılık ve grafik tasarım arasındaki en önemli fark nedir? (Ünite Sorusu 8)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Masaüstü yayıncılık ve grafik tasarım aşamaları benzerdir.",
+        "B": "Masaüstü yayıncılık web tasarımı ile grafik tasarımcılar dizgi ile uğraşır.",
+        "C": "Grafik tasarımcı özgün ve yaratıcı çalışmalar üretebilen birikimlere sahiptir.",
+        "D": "Masaüstü yayıncılık genelde matbaa ile ilgilenir.",
+        "E": "Masaüstü yayıncılar grafik tasarımcılara oranla daha deneyimsizdir."
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Masaüstü yayıncılık daha teknik bir operatörlük işiyken, grafik tasarım özgün fikir üretimi ve estetik birikim gerektirir."
+    },
+    {
+      "soruid": 39,
+      "soru_metni": "Aşağıdakilerden hangisi özellikle baskısı yapılacak belgelerde kullanılan renk formatıdır? (Ünite Sorusu 9)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "CMYK",
+        "B": "Pantone",
+        "C": "RGB",
+        "D": "Bitmap",
+        "E": "Degrade"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Baskı teknolojilerinde kullanılan temel renk modeli CMYK'dır."
+    },
+    {
+      "soruid": 40,
+      "soru_metni": "Taşınabilir görüntü formatı olarak geçen, içerisinde vektör ve piksel tabanlı görüntüler ile web linkleri ve postscript metinler yer alan dosya formatı aşağıdakilerden hangisidir? (Ünite Sorusu 10)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "PSD",
+        "B": "PDF",
+        "C": "PDI",
+        "D": "PDR",
+        "E": "HDR"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "PDF (Portable Document Format), taşınabilir belge formatıdır ve baskı için endüstri standardıdır."
+    }
+      ]
+    }
+  ]
+}
