@@ -1,0 +1,573 @@
+{
+  "ders_kodu": "SMY203U",
+  "ders_adi": "DİJİTAL TASARIM",
+  "sinavlar": [
+    {
+      "baslik": "2025 Ünite 5 Yapay Zeka Destekli Çıkabilecek Sorular",
+      "tur": "AI",
+      "yil": 2025,
+      "sorular": [
+   {
+      "soruid": 1,
+      "soru_metni": "Adobe Photoshop yazılımının temel çalışma prensibi aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Vektör tabanlı çizim",
+        "B": "Kelime işlemci",
+        "C": "Piksel tabanlı görüntü işleme",
+        "D": "Veri tabanı yönetimi",
+        "E": "Ses kurgusu"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Photoshop, piksellerden oluşan dijital görüntüleri işlemek, düzenlemek ve manipüle etmek için kullanılan piksel tabanlı bir yazılımdır."
+    },
+    {
+      "soruid": 2,
+      "soru_metni": "Dijital fotoğrafçılıkta 'Sınırsız Netlik' elde etmek amacıyla, farklı netlik noktalarına sahip birden fazla fotoğrafın birleştirilmesi tekniğine ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "HDR (High Dynamic Range)",
+        "B": "Focus Stacking (Odak İstifleme)",
+        "C": "Panorama",
+        "D": "Time Lapse",
+        "E": "Uzun Pozlama"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Focus Stacking, özellikle makro ve manzara çekimlerinde alan derinliğini artırmak için farklı netlik noktalarındaki fotoğrafların birleştirilmesidir."
+    },
+    {
+      "soruid": 3,
+      "soru_metni": "Dijital fotoğraf makinesinin sensöründen gelen ham verinin işlenmeden kaydedildiği, 'dijital negatif' olarak da adlandırılan dosya formatı hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "JPEG",
+        "B": "PNG",
+        "C": "GIF",
+        "D": "RAW",
+        "E": "TIFF"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": "RAW formatı, sensörden gelen veriyi sıkıştırmadan ve işlemeden ham haliyle saklar, bu da sonradan düzenlemede büyük esneklik sağlar."
+    },
+    {
+      "soruid": 4,
+      "soru_metni": "Yıldız kayması (Star Trails) fotoğrafları çekerken, yıldızların gökyüzünde çizgi şeklinde iz bırakmasının temel nedeni nedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Yıldızların çok hızlı hareket etmesi",
+        "B": "Dünyanın kendi ekseni etrafındaki dönüşü",
+        "C": "Rüzgarın etkisi",
+        "D": "Bulutların hareketi",
+        "E": "Kamera sensörünün ısınması"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Yıldızlar sabit durur (göreli olarak), ancak Dünya'nın kendi ekseni etrafındaki dönüşü nedeniyle uzun pozlamada yıldızlar hareket ediyormuş gibi iz bırakır."
+    },
+    {
+      "soruid": 5,
+      "soru_metni": "Geniş bir görüş açısını tek bir kareye sığdırmak için birden fazla fotoğrafın yan yana getirilerek birleştirilmesiyle oluşturulan görüntüye ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Makro Fotoğraf",
+        "B": "Portre",
+        "C": "Panorama",
+        "D": "Silüet",
+        "E": "Vignette"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Panorama tekniği, normal bir objektifin görüş açısına sığmayan geniş alanların parçalı çekilip birleştirilmesiyle elde edilir."
+    },
+    {
+      "soruid": 6,
+      "soru_metni": "Photoshop'ta yapılan düzenlemelerin orijinal görseli bozmadan, geri alınabilir şekilde yapılmasını sağlayan özellik/panel hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Katmanlar (Layers)",
+        "B": "Fırça (Brush)",
+        "C": "Silgi (Eraser)",
+        "D": "Kırpma (Crop)",
+        "E": "Damla (Blur)"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Katmanlar (Layers), üst üste binen şeffaf asetatlar gibi çalışarak orijinal görselin üzerine eklemeler yapmayı ve alttaki görseli korumayı sağlar."
+    },
+    {
+      "soruid": 7,
+      "soru_metni": "RAW formatında çekim yapmanın JPEG formatına göre en büyük avantajı nedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Dosya boyutunun çok küçük olması",
+        "B": "Her cihazda açılabilmesi",
+        "C": "Beyaz dengesi ve pozlama gibi ayarların çekim sonrasında kalite kaybı olmadan değiştirilebilmesi",
+        "D": "İnternette hemen paylaşılabilmesi",
+        "E": "Daha az yer kaplaması"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "RAW dosyaları ham veri içerdiği için, çekim anında hatalı yapılan beyaz dengesi gibi ayarlar sonradan kayıpsız düzeltilebilir."
+    },
+    {
+      "soruid": 8,
+      "soru_metni": "Fotoğraftaki tonal dağılımı (gölge, orta ton ve parlak alanları) grafiksel olarak gösteren ve pozlama kontrolü sağlayan araç hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Histogram",
+        "B": "Navigatör",
+        "C": "Fırça",
+        "D": "Katman",
+        "E": "Filtre"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Histogram, bir görüntüdeki piksellerin parlaklık değerlerine göre dağılımını gösteren grafiktir."
+    },
+    {
+      "soruid": 9,
+      "soru_metni": "Yıldız kayması (Star Trails) çekimlerinde fotoğraf makinesinin titremesini engellemek için hangi ekipmanın kullanılması zorunludur?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Flaş",
+        "B": "Tripod (Üç ayak)",
+        "C": "UV Filtre",
+        "D": "Parasoley",
+        "E": "Reflektör"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Uzun pozlama sürelerinde (dakikalarca veya saatlerce) makinenin en ufak bir hareketi görüntüyü bozacağından tripod zorunludur."
+    },
+    {
+      "soruid": 10,
+      "soru_metni": "Panorama çekimlerinde fotoğrafların birleştirilebilmesi için ardışık kareler arasında yaklaşık ne kadar örtüşme (bindirme) payı bırakılmalıdır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "%5",
+        "B": "%10",
+        "C": "%20 - %30",
+        "D": "%80",
+        "E": "%100"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Yazılımın kareleri doğru eşleştirebilmesi için fotoğrafların kenarlarında genellikle %20-%30 oranında ortak alan (örtüşme) bırakılmalıdır."
+    },
+    {
+      "soruid": 11,
+      "soru_metni": "Photoshop'ta istenmeyen lekeleri, sivilceleri veya objeleri doku kopyalayarak temizlemeye yarayan araç hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Metin Aracı (Type Tool)",
+        "B": "Taşıma Aracı (Move Tool)",
+        "C": "Düzeltme Fırçası / Klonlama Aracı (Healing Brush / Clone Stamp)",
+        "D": "Yakınlaştırma (Zoom)",
+        "E": "Degrade (Gradient)"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Healing Brush ve Clone Stamp araçları, görselin bir yerinden doku alıp hatalı yere uygulayarak düzeltme (rötuş) yapar."
+    },
+    {
+      "soruid": 12,
+      "soru_metni": "Bir fotoğraftaki renklerin canlılığını ve yoğunluğunu artırmak için hangi ayar kullanılır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Keskinlik (Sharpness)",
+        "B": "Doygunluk (Saturation)",
+        "C": "Gürültü (Noise)",
+        "D": "Kırpma (Crop)",
+        "E": "Döndürme (Rotate)"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Doygunluk (Saturation), renklerin şiddetini ve canlılığını kontrol eden parametredir."
+    },
+    {
+      "soruid": 13,
+      "soru_metni": "Focus Stacking (Odak İstifleme) tekniği en çok hangi fotoğrafçılık türünde gereklidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Spor fotoğrafçılığı",
+        "B": "Sokak fotoğrafçılığı",
+        "C": "Makro fotoğrafçılık",
+        "D": "Portre fotoğrafçılığı",
+        "E": "Haber fotoğrafçılığı"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Makro çekimlerde alan derinliği çok sığ olduğu için (bazen milimetreler), objenin tamamını netlemek için Focus Stacking kullanılır."
+    },
+    {
+      "soruid": 14,
+      "soru_metni": "Photoshop'ta bir görselin sadece belirli bir bölümünü seçerek işlem yapmak için kullanılan araçlara genel olarak ne denir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Seçim Araçları (Selection Tools)",
+        "B": "Boyama Araçları",
+        "C": "Yazı Araçları",
+        "D": "Ölçüm Araçları",
+        "E": "Navigasyon Araçları"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Marquee, Lasso, Magic Wand gibi araçlar 'Seçim Araçları' grubundadır ve lokal düzenlemeler için alan belirler."
+    },
+    {
+      "soruid": 15,
+      "soru_metni": "Dijital görüntü işlemede 'White Balance' (Beyaz Dengesi) ayarının temel amacı nedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Fotoğrafı siyah beyaz yapmak",
+        "B": "Işık kaynağının renk sıcaklığına göre renkleri doğrulayarak beyazın beyaz görünmesini sağlamak",
+        "C": "Fotoğrafı bulanıklaştırmak",
+        "D": "Dosya boyutunu küçültmek",
+        "E": "Piksel sayısını artırmak"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Beyaz dengesi, farklı ışık kaynaklarının (güneş, floresan vb.) oluşturduğu renk sapmalarını düzelterek renklerin doğal görünmesini sağlar."
+    },
+    {
+      "soruid": 16,
+      "soru_metni": "Yıldız kayması çekimlerinde kullanılan 'Uzaktan Kumanda' veya 'Kablolu Deklanşör'ün temel işlevi nedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Flaşın patlamasını sağlamak",
+        "B": "Makineye dokunmadan çekimi başlatıp bitirerek titreşimi önlemek",
+        "C": "Zoom yapmak",
+        "D": "Fotoğrafları bilgisayara aktarmak",
+        "E": "Pili şarj etmek"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Uzun pozlamada deklanşöre parmakla basmak titreşim yaratır; uzaktan kumanda temassız çekim sağlayarak netlik kaybını önler."
+    },
+    {
+      "soruid": 17,
+      "soru_metni": "Panorama fotoğraf çekerken pozlama değerlerinin (enstantane, diyafram, ISO) nasıl olması önerilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Her karede otomatik olarak değişmeli",
+        "B": "Sürekli farklı değerler kullanılmalı",
+        "C": "Tüm karelerde sabit (manuel) olmalı",
+        "D": "Sadece ISO otomatik olmalı",
+        "E": "Rastgele seçilmeli"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Birleştirme sırasında ton farkı ve ışık dalgalanması olmaması için tüm karelerin aynı pozlama değerleriyle (sabit) çekilmesi gerekir."
+    },
+    {
+      "soruid": 18,
+      "soru_metni": "Photoshop'ta 'Levels' (Düzeyler) ve 'Curves' (Eğriler) araçları temel olarak neyi düzenlemek için kullanılır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Görüntü boyutunu",
+        "B": "Tonal aralığı, kontrastı ve parlaklığı",
+        "C": "Görselin keskinliğini",
+        "D": "Dosya ismini",
+        "E": "Meta verilerini"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Levels ve Curves, görselin gölge, orta ton ve ışık değerlerini ayarlayarak kontrast ve parlaklık kontrolü sağlar."
+    },
+    {
+      "soruid": 19,
+      "soru_metni": "Fotoğraflarda yüksek ISO kullanımı veya yetersiz ışık nedeniyle oluşan kumlanmaya ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Pikselleşme",
+        "B": "Gürültü (Noise)",
+        "C": "Bulanıklık",
+        "D": "Doygunluk",
+        "E": "Keskinlik"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Yüksek ISO değerlerinde sensörün ısınması veya sinyal yükseltmesi sonucu oluşan istenmeyen noktalara 'Noise' (Gürültü) denir."
+    },
+    {
+      "soruid": 20,
+      "soru_metni": "Dijital karanlık oda olarak da bilinen, RAW dosyalarını işlemek için kullanılan Photoshop eklentisi/modülü hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Camera Raw",
+        "B": "Paint",
+        "C": "Word",
+        "D": "Excel",
+        "E": "Calculator"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Adobe Camera Raw, Photoshop içinde çalışan ve RAW dosyalarını detaylı işlemeye yarayan güçlü bir modüldür."
+    },
+    {
+      "soruid": 21,
+      "soru_metni": "Aşağıdakilerden hangisi Photoshop'ta bir görselin boyutunu değiştirmek veya istenmeyen kenarlarını atmak için kullanılan araçtır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Brush (Fırça)",
+        "B": "Crop (Kırpma)",
+        "C": "Gradient (Degrade)",
+        "D": "Text (Yazı)",
+        "E": "Pen (Kalem)"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Crop (Kırpma) aracı, görselin kadrajını yeniden düzenlemek ve fazlalıkları atmak için kullanılır."
+    },
+    {
+      "soruid": 22,
+      "soru_metni": "Yıldız kayması (Star Trails) fotoğraflarının birleştirilmesi aşamasında kullanılan yazılım tekniği nedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Videoya dönüştürme",
+        "B": "İstifleme (Stacking)",
+        "C": "Kırpma",
+        "D": "Sıkıştırma",
+        "E": "Silme"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Çekilen yüzlerce ardışık fotoğraf, özel yazılımlarla (Photoshop veya StarStaX gibi) üst üste istiflenerek (stacking) yıldız izleri oluşturulur."
+    },
+    {
+      "soruid": 23,
+      "soru_metni": "Photoshop'ta birden fazla katmanın özelliklerini (ışık, renk vb.) alttaki katmanlarla etkileşime sokarak değiştiren özelliğe ne denir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Karıştırma Modları (Blending Modes)",
+        "B": "Filtreler",
+        "C": "Fırçalar",
+        "D": "Seçimler",
+        "E": "Cetveller"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Blending Modes (Multiply, Screen, Overlay vb.), üstteki katmanın piksellerinin alttaki katmanla nasıl karışacağını belirler."
+    },
+    {
+      "soruid": 24,
+      "soru_metni": "Fotoğrafın kenarlarında oluşan, mercek kaynaklı veya yapay olarak eklenen kararmalara ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Vignette (Vinyet)",
+        "B": "Flare",
+        "C": "Bokeh",
+        "D": "Noise",
+        "E": "Contrast"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Vignette, fotoğrafın köşelerinin merkeze göre daha karanlık olması durumudur; estetik amaçla da eklenebilir."
+    },
+    {
+      "soruid": 25,
+      "soru_metni": "Aşağıdakilerden hangisi dijital görüntü işlemede 'Keskinlik' (Sharpness) artırmanın sonucudur?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Görüntü bulanıklaşır",
+        "B": "Kenar konturlarının belirginliği artar ve detaylar daha net görünür",
+        "C": "Renkler solar",
+        "D": "Görüntü kararır",
+        "E": "Dosya boyutu azalır"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Keskinleştirme işlemi, pikseller arasındaki kontrastı artırarak kenarların ve detayların daha belirgin algılanmasını sağlar."
+    },
+    {
+      "soruid": 26,
+      "soru_metni": "360 derece sanal tur yapımında temel alınan fotoğraf tekniği hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Makro",
+        "B": "Panorama (Küresel/Sferik)",
+        "C": "Portre",
+        "D": "Siyah Beyaz",
+        "E": "Time Lapse"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Sanal turlar, 360 derece görüş açısına sahip küresel panoramik fotoğrafların birleştirilmesiyle oluşturulur."
+    },
+    {
+      "soruid": 27,
+      "soru_metni": "Photoshop'ta bir görseli siyah beyaz yapmak için en kontrollü yöntem hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Monitörün rengini kısmak",
+        "B": "Siyah Beyaz Ayar Katmanı (Black & White Adjustment Layer) kullanmak",
+        "C": "Fotoğrafın üzerine siyah boya dökmek",
+        "D": "Modu Gri Skala yapmak (Geri dönüşsüz)",
+        "E": "Doygunluğu sıfıra indirmek"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Black & White ayar katmanı, her renk kanalının (kırmızı, yeşil, mavi vb.) gri tonlarını ayrı ayrı kontrol etme imkanı sunar."
+    },
+    {
+      "soruid": 28,
+      "soru_metni": "Aşağıdakilerden hangisi RAW dosyalarının dezavantajlarından biridir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Düşük kalite sunması",
+        "B": "Dosya boyutlarının JPEG'e göre çok daha büyük olması",
+        "C": "Renk bilgisini saklamaması",
+        "D": "Düzenlemeye izin vermemesi",
+        "E": "Çok hızlı kaydedilmesi"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "RAW dosyaları sıkıştırılmamış tüm veriyi içerdiği için dosya boyutları JPEG'e göre oldukça yüksektir ve daha fazla depolama alanı gerektirir."
+    },
+    {
+      "soruid": 29,
+      "soru_metni": "Focus Stacking için çekim yaparken aşağıdakilerden hangisi değiştirilmelidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Pozlama süresi",
+        "B": "ISO değeri",
+        "C": "Netleme (Odak) noktası",
+        "D": "Beyaz dengesi",
+        "E": "Kadraj"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Focus Stacking'in mantığı, makineyi sabit tutup her karede odak noktasını (önden arkaya doğru) değiştirerek çekim yapmaktır."
+    },
+    {
+      "soruid": 30,
+      "soru_metni": "Bir fotoğrafta gökyüzünün çok parlak, zeminin çok karanlık çıktığı durumlarda dengeyi sağlamak için kullanılan teknik veya işlem nedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Kırpma",
+        "B": "Dinamik Aralık (Dynamic Range) düzenlemesi / HDR",
+        "C": "Keskinleştirme",
+        "D": "Yeniden Boyutlandırma",
+        "E": "Döndürme"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Yüksek dinamik aralık (HDR) teknikleri veya RAW işleme sırasında gölge/açık ton (Shadows/Highlights) ayarları bu dengeyi sağlar."
+    },
+    {
+      "soruid": 31,
+      "soru_metni": "Piksel tabanlı görüntü işleme yazılımlarının en popüler olanı aşağıdakilerden hangisidir? (Ünite Sorusu 1)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Photoshop",
+        "B": "Illustrator",
+        "C": "Freehand",
+        "D": "Corel Draw",
+        "E": "Indesign"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Photoshop, piksel tabanlı görüntü işlemede endüstri standardı ve en popüler yazılımdır."
+    },
+    {
+      "soruid": 32,
+      "soru_metni": "Dijital fotoğraf makinesinin sensörüne düşen görüntünün hiçbir kayba ve sıkıştırmaya uğramadan karta yazılmasına ne ad verilir? (Ünite Sorusu 2)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Jpeg",
+        "B": "Tiff",
+        "C": "Gif",
+        "D": "Psd",
+        "E": "Raw"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": "RAW, ham veri formatıdır ve kayıpsız, sıkıştırmasız (veya kayıpsız sıkıştırmalı) kayıt sağlar."
+    },
+    {
+      "soruid": 33,
+      "soru_metni": "Sanal tur yapımında kullanılan çekim tekniği aşağıdakilerden hangisidir? (Ünite Sorusu 3)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Makro",
+        "B": "Portre",
+        "C": "Panoramik",
+        "D": "Manzara",
+        "E": "Gece"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Sanal turlar, 360 derece panoramik fotoğraflar kullanılarak oluşturulur."
+    },
+    {
+      "soruid": 34,
+      "soru_metni": "Net alan derinliğinin yetersiz kaldığı durumlarda (Makro çekimlerde) tercih edilen ve birden fazla fotoğrafın birleştirilmesiyle oluşturulan çekim tekniği aşağıdakilerden hangisidir? (Ünite Sorusu 4)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Yıldız pozlama",
+        "B": "Focus Stacking",
+        "C": "Uzun pozlama",
+        "D": "Gece çekimi",
+        "E": "Panoramik çekim"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Focus Stacking (Odak istifleme), net alan derinliğini artırmak için kullanılan tekniktir."
+    },
+    {
+      "soruid": 35,
+      "soru_metni": "Yıldız pozlama tekniğinde makinenin titrememesi için kullanılan yardımcı ekipman aşağıdakilerden hangisidir? (Ünite Sorusu 5)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Flaş",
+        "B": "Hafıza kartı",
+        "C": "Parasoley",
+        "D": "Tripod",
+        "E": "Filtre"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": "Tripod, uzun pozlamalarda makineyi sabitleyerek titremeyi önleyen temel ekipmandır."
+    },
+    {
+      "soruid": 36,
+      "soru_metni": "Görüntü üzerinde yapılan değişikliklerin üst üste şeffaf asetat kağıtları mantığıyla çalışmasını sağlayan Photoshop paneli aşağıdakilerden hangisidir? (Ünite Sorusu 6)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Tools (Araçlar)",
+        "B": "Layers (Katmanlar)",
+        "C": "History (Geçmiş)",
+        "D": "Color (Renk)",
+        "E": "Navigator (Gezgin)"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Layers (Katmanlar) paneli, görüntüleri üst üste bağımsız katmanlar halinde düzenlemeyi sağlar."
+    },
+    {
+      "soruid": 37,
+      "soru_metni": "Fotoğrafın belirli bir bölümünü seçmek için kullanılan araç grubu aşağıdakilerden hangisidir? (Ünite Sorusu 7)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Seçim araçları",
+        "B": "Boyama araçları",
+        "C": "Rötuş araçları",
+        "D": "Yazı araçları",
+        "E": "Vektör araçları"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Seçim araçları (Lasso, Marquee, Magic Wand vb.) fotoğrafın belirli bölgelerini izole etmek için kullanılır."
+    },
+    {
+      "soruid": 38,
+      "soru_metni": "Fotoğraftaki istenmeyen lekeleri doku taşıyarak temizleyen araç aşağıdakilerden hangisidir? (Ünite Sorusu 8)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Fırça aracı",
+        "B": "Silgi aracı",
+        "C": "Klonlama aracı (Clone Stamp)",
+        "D": "Kırpma aracı",
+        "E": "Taşıma aracı"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Clone Stamp (Klonlama) aracı, bir bölgeden aldığı dokuyu başka bir bölgeye taşıyerek lekeleri temizler."
+    },
+    {
+      "soruid": 39,
+      "soru_metni": "Raw formatındaki fotoğrafların işlendiği Photoshop eklentisi aşağıdakilerden hangisidir? (Ünite Sorusu 9)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Camera Raw",
+        "B": "Bridge",
+        "C": "Lightroom",
+        "D": "Illustrator",
+        "E": "Indesign"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Photoshop içinde RAW dosyalarını açan ve işleyen modül Camera Raw'dur."
+    },
+    {
+      "soruid": 40,
+      "soru_metni": "Fotoğrafın pozlama değerlerini (aydınlık/karanlık) gösteren grafik aşağıdakilerden hangisidir? (Ünite Sorusu 10)",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Histogram",
+        "B": "Eğriler",
+        "C": "Düzeyler",
+        "D": "Kanal",
+        "E": "Yol"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Histogram, fotoğrafın tonal değerlerinin dağılımını gösteren grafiktir."
+    }
+      ]
+    }
+  ]
+}
