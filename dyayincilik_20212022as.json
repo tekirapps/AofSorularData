@@ -7,12 +7,6 @@
       "tur": "CIKMIS",
       "yil": 2021,
       "sorular": [
-        Belirtilen PDF dosyasındaki "Dijital Yayıncılık" dersine ait 2022 Güz Ara sınav sorularını içeren JSON formatı aşağıdadır.
-
-JSON
-
-{
-  "sorular": [
     {
       "soruid": 1,
       "soru_metni": "Mevcut iletişim teknolojilerinin birçok farklı özelliği ve hizmeti barındıracak biçimde birbirine yakınlaşmasına ne ad verilir?",
