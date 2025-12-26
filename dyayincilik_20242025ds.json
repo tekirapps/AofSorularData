@@ -1,0 +1,293 @@
+{
+  "ders_kodu": "SMY203U",
+  "ders_adi": "DİJİTAL YAYINCILIK",
+  "sinavlar": [
+    {
+      "baslik": "Çıkmış Sınav Soruları Dönem Sonu 2024-2025",
+      "tur": "CIKMIS",
+      "yil": 2024,
+      "sorular": [
+        {
+      "soruid": 1,
+      "soru_metni": "Aşağıdakilerden hangisi internetle ilgili etik dışı davranışlardan biri değildir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Ticari firmaların sırlarını ifşa etmek",
+        "B": "Telif haklarını göz ardı etmek",
+        "C": "Kaynak vermeden içerik hazırlamak",
+        "D": "Sponsorluk için manipule edici içerik hazırlamak",
+        "E": "Aileden habersiz bireysel yayıncılık yapmak"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 2,
+      "soru_metni": "Herhangi bir olaya ilişkin veriler girildikten sonra bu verilerin otomatik olarak işlenip haber metni oluşturulması süreci aşağıdakilerden hangisiyle adlandırılır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Savaş haberciliği",
+        "B": "Algoritmik habercilik",
+        "C": "Drone haberciliği",
+        "D": "Video haberciliği",
+        "E": "Yeni nesil habercilik"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 3,
+      "soru_metni": "Gece ay tutulması gibi uzun pozlama gerektiren bir olay fotoğraflanmak istendiğinde aşağıdaki pozlama modlarından hangisini kullanmak daha uygun olur?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "AV-A Diyafram Öncelikli mod",
+        "B": "M Manuel mod",
+        "C": "B Bulb modu",
+        "D": "TV-S Enstantane Öncelikli mod",
+        "E": "P Program modu"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 4,
+      "soru_metni": "Aşağıdakilerden hangisi sinemada kullanılan genel aydınlatma yöntemlerinden biri değildir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Dekor/Fon ışığı",
+        "B": "Dolgu ışığı",
+        "C": "Derin ışık",
+        "D": "Ana/Anahtar ışık",
+        "E": "Geri/tepe/arka ışık"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 5,
+      "soru_metni": "FM bandının bulunuşunun radyo yayıncılığına sağladığı en önemli katkı aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Radyo işletme giderlerini düşürmesi",
+        "B": "Radyo alıcılarını geliştirmesi",
+        "C": "Radyo bakım giderlerini düşürmesi",
+        "D": "İçeriğin kolaylıkla üretilmesini sağlaması",
+        "E": "Parazitsiz yayına imkan sağlaması"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 6,
+      "soru_metni": "Aşağıdakilerden hangisi dijital amatör formatlardan biridir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "HDV",
+        "B": "D-VHS",
+        "C": "Mini DV",
+        "D": "Betacam",
+        "E": "DV"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 7,
+      "soru_metni": "Elektronik sinyalleri ve elektrik gücünü yükseltmek veya değiştirmek için kullanılan yarı iletken cihaz aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Osilatör",
+        "B": "Transistör",
+        "C": "Amplifikatör",
+        "D": "Triyot",
+        "E": "Elektrot"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 8,
+      "soru_metni": "1971'de geliştirilmiş ve video bantın kaset içinde korunduğu ilk sistemlerden olan analog profesyonel format aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Betacam",
+        "B": "1 Inch Type A",
+        "C": "U-Matic",
+        "D": "IVC 2 Inch",
+        "E": "1 Inch Type C"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 9,
+      "soru_metni": "Televizyonun görüntü oluşturma teknolojisi başlangıcından itibaren satır tarama sistemi ile gerçekleşmektedir. Buna göre; 525 satırın tarandığı tarama sistemi aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "UHF",
+        "B": "SECAM",
+        "C": "PAL",
+        "D": "NTSC",
+        "E": "VHF"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": "NTSC 525 satır, PAL ve SECAM 625 satır kullanır. (Cevap anahtarında sehven A şıkkı gösterilmiş olabilir ancak doğru bilgi D'dir)."
+    },
+    {
+      "soruid": 10,
+      "soru_metni": "Radyoculukta isteğe bağlı olarak önceden kaydedilmiş radyo içeriklerine medya serverların web arayüzü üzerinden erişilmesini aşağıdakilerden hangisi ifade eder?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Podcast",
+        "B": "Doğrudan akış dijitali",
+        "C": "Ogg vorbis",
+        "D": "WEAF",
+        "E": "Dijital radyolink"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "İsteğe bağlı (on-demand) radyo içeriği Podcast'tir. (Cevap anahtarında sehven D şıkkı gösterilmiş olabilir)."
+    },
+    {
+      "soruid": 11,
+      "soru_metni": "3B televizyon izlemek için, ekranın önündeki bariyer ile ya da ekrandaki piksellere uygun yerleştirilen silindirik merceklerle sağlanan teknoloji aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Aktif gözlük teknolojisi",
+        "B": "Renk ayrımı gözlük teknolojisi",
+        "C": "Kutuplaşmış gözlük teknolojisi",
+        "D": "Obtüratörlü gözlük teknolojisi",
+        "E": "Gözlüksüz teknoloji"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 12,
+      "soru_metni": "Avrupa'da radyo yayıncılığının gelişimi ülkelere göre farklılık göstermiş, Birinci Dünya Savaşı'nın ardından hız kazanan radyo yayınları genellikle devlet eliyle kamu yayıncıları aracılığıyla yürütülmüştür. Buna göre, aşağıdakilerin hangisinde ülkeler ve radyo yayına başlama tarihi doğru eşleştirilmiştir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Almanya - 1921",
+        "B": "Fransa - 1922",
+        "C": "SSCB - 1923",
+        "D": "İngiltere - 1927",
+        "E": "Türkiye - 1932"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 13,
+      "soru_metni": "Avrupa Siber Suç Sözleşmesi, 1.7.2004 tarihinde yürürlüğe girdi. _____ adıyla anılan sözleşme bu alandaki ilk uluslararası sözleşme özelliğini taşımaktadır. Yukarıdaki paragrafta boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Budapeşte Sözleşmesi",
+        "B": "Roma Sözleşmesi",
+        "C": "Lizbon Sözleşmesi",
+        "D": "Paris Sözleşmesi",
+        "E": "Berlin Sözleşmesi"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 14,
+      "soru_metni": "Kişi ve kurumların internette kendi adlarıyla arama yapıldığında derlenen sonuçlar arasında kendileriyle ilgili bilgi, fotoğraf, belge gibi verilere yer verilmemesini isteme hakkına ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Unutulma hakkı",
+        "B": "İfade özgürlüğü",
+        "C": "Sosyal devlet anlayışı",
+        "D": "Var olma hakkı",
+        "E": "Ağ kullanma hakkı"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 15,
+      "soru_metni": "Aşağıdakilerden hangisi yeni medyanın geleneksel medyaya alternatif olan özelliklerinden biri değildir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Sayısal temsil",
+        "B": "Otomasyon",
+        "C": "Modülerlik",
+        "D": "Değişkenlik",
+        "E": "Domain"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 16,
+      "soru_metni": "Aşağıdakilerden hangisi halkla ilişkilerde kullanılan dijital medya araçlarından biri olan e-postanın sıklıkla kullanılmasının nedenlerinden biri değildir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Internet kullanıcısının genellikle e-postasını aktif kullanması",
+        "B": "E-posta kullanımının ücretsiz olması",
+        "C": "E-postanın kolay kullanımının olması",
+        "D": "E-posta tasarımının sade olması",
+        "E": "Genellikle her internet kullanıcısının bir e-posta adresi olması"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 17,
+      "soru_metni": "Avrupa Birliği' nin 1995 yılında kabul ettiği ve sonrasında tüm birlik ülkelerinde uygulanmaya başlayan ancak internetin yaygınlaşması ve yeni İletişim teknolojilerinin hızlı değişimi nedeniyle bir süre sonra işlevini yerine getiremez hale gelen düzenleme aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Veri Koruma Direktifi",
+        "B": "Sosyal Hayat Kontrolü",
+        "C": "Dijital Akış Regülatörü",
+        "D": "İnternet Ağları Yönergesi",
+        "E": "Yeni Medya Kuralları"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 18,
+      "soru_metni": "Faaliyetleri gerçekleştirebilmek için bütçenin ve neyin ne zaman yapılacağına dair zaman programı hazırlanması, halkla ilişkiler uygulamalarının hangi aşamasında yapılır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Değerlendirme",
+        "B": "Araştırma",
+        "C": "Planlama",
+        "D": "Uygulama",
+        "E": "Analiz"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Zamanlama ve bütçe planlama aşamasına aittir. (Cevap anahtarı D vermiş olabilir, ancak içerik olarak C doğrudur)."
+    },
+    {
+      "soruid": 19,
+      "soru_metni": "Aşağıdakilerden hangisi halkla ilişkilerin amaçlarından biri değildir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Kamuoyu ile yönetim arasında olumlu ilişki kurma",
+        "B": "Kamuoyunu örgüte bağımlı kılma",
+        "C": "Örgütü kamuoyuna tanıtma",
+        "D": "Sosyal sorumluluk duygusu oluşturma",
+        "E": "Kamuoyunun örgütle işini kolaylaştırma"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 20,
+      "soru_metni": "Başkasına ait banka veya kredi kartlarının kötüye kullanılması suçlarına ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Bu suçlar aynı konutta yaşayanlar arasında işlenirse ilgili kişi hakkında cezaya hükmolunmaz.",
+        "B": "Malvarlığına ilişkin etkin pişmanlık hükümleri bu suç bakımından uygulanabilmektedir.",
+        "C": "Kart bilgilerinin kullanılarak çıkar sağlanması bu suçun oluşumu için yeterlidir.",
+        "D": "Bu suçun işlenmesi için kartın fiziki olarak elde bulundurulması zorunludur.",
+        "E": "Bu suçlar eşler, alt ve üst soy arasında işlenirse ilgili kişi hakkında cezaya hükmolunmaz."
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": "Kartın fiziki varlığına gerek yoktur, kart bilgilerinin kullanılması suçun oluşması için yeterlidir."
+    }
+      ]
+    }
+  ]
+}
