@@ -1,0 +1,288 @@
+{
+  "ders_kodu": "SMY201U",
+  "ders_adi": "SOSYAL MEDYA VE PROPAGANDA",
+  "sinavlar": [
+    {
+      "soruid": 1,
+      "soru_metni": "Ukrayna'da 2014 yılındaki olaylar sırasında, özellikle Rus kaynaklı sahte haberlerle mücadele etmek amacıyla bir grup gönüllü aktivist ve gazeteci tarafından başlatılan karşı propaganda hareketine ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Dur ve Düşün Kampanyası",
+        "B": "StopFake.org",
+        "C": "Hızlı Yanıt Mekanizması",
+        "D": "Polizia Postale",
+        "E": "Ulusal Güvenlik İletişim Birimi"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 2,
+      "soru_metni": "Aşağıdakilerden hangisi sosyal medyada sıkça kullanılan algı yönetimi teknikleri arasında yer almaz?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Mizahlaştırma",
+        "B": "Gelecek Projeksiyonu Oluşturma",
+        "C": "Oyun Uygulamaları",
+        "D": "Sürekli Tekrar",
+        "E": "Tutarlı Paylaşımlar"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 3,
+      "soru_metni": "Propaganda faaliyetinin etki edebilmesi için hedef kitleye ait önyargıların tekrarlanması yöntemine ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Yanlış yönlendirme tekniği",
+        "B": "Aşılama tekniği",
+        "C": "Olumlu çağrışım tekniği",
+        "D": "Kişiliği yok etme tekniği",
+        "E": "İsim takma tekniği"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 4,
+      "soru_metni": "Aşağıdakilerden hangisi sosyal medyada kullanıcıları eyleme sevk etmek ve dezenformasyon içeriğinin paylaşılmasını tetiklemek için iletilen mesajların özelliklerinden biri değildir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Uzun, detaylı ve rasyonel analizler içermesi",
+        "B": "Slogan niteliğinde mesajlar içermesi",
+        "C": "Kısa, dikkat çekici ve anlaşılır olması",
+        "D": "Yorumlayıcıları provoke eden bir yapıda olması",
+        "E": "Duygusal dünyalara hitap etmesi"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 5,
+      "soru_metni": "Kaynağın kim olduğunun belli olduğu, mesajların büyük ölçüde gerçeklere dayandırılarak halka güven verilmeye çalışıldığı ve genellikle hükümetler tarafından belirli bir kamu politikası öncesinde kamuoyu oluşturmak için başvurulan propaganda aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Yatay propaganda",
+        "B": "Beyaz propaganda",
+        "C": "Gri propaganda",
+        "D": "Geleneksel propaganda",
+        "E": "Kara propaganda"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 6,
+      "soru_metni": "Aşağıdakilerden hangisi özellikle nüfusun çoğunluğu tarafından akıllı telefonların kullanıldığı ülkelerde, birincil propaganda mecrası olarak kabul edilmektedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Gazete",
+        "B": "Televizyon",
+        "C": "Sosyal medya",
+        "D": "Dergi",
+        "E": "Radyo"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 7,
+      "soru_metni": "Toplumsal medya paylaşımları, ağ günlükleri, bloglar, fotoğraf, video, log dosyaları gibi değişik kaynaklardan toparlanan tüm verinin analiz edilip sınıflandırılmış, anlamlı ve işlenebilir hale dönüştürülmüş biçimine ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Yanlış bilgi",
+        "B": "Manipülasyon",
+        "C": "Algı yönetimi",
+        "D": "Büyük veri",
+        "E": "Bilgi kirliliği"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 8,
+      "soru_metni": "Özellikle 2016 ABD Başkanlık seçimleri ve Brexit oylamaları sırasında gündeme gelen, yazılım temelli olan ve mesajları otomatik olarak üreterek yayan dijital hesaplara ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Hashtag",
+        "B": "Ewom",
+        "C": "Sosyal bot",
+        "D": "Internet trolü",
+        "E": "Blogger"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 9,
+      "soru_metni": "Propagandacıların, toplum tarafından kabul görmüş milli sporcuların ya da sevilen sanatçıların belirli bir siyasal kampanyayı desteklemesini sağlayarak onların itibarlarından faydalandığı teknik aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Ajitasyon",
+        "B": "İsim takma",
+        "C": "Tekrar",
+        "D": "Düşman yaratma",
+        "E": "Tanıklık"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 10,
+      "soru_metni": "Almanya'da 1 Ocak 2018'de yürürlüğe giren ve sosyal medyada nefret söylemi ya da dezenformasyon içeren paylaşımların 24 saat içinde kaldırılmasını, aksi takdirde paylaşılan içeriğe göre para cezası ödemeyi öngören yasa aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Seçim Eleştirileri Kamu Protokolü",
+        "B": "Medya Okuryazarlığı Mecburiyet Yasası",
+        "C": "Ulusal Güvenlik İletişim Birimi Yasası",
+        "D": "NetzDG",
+        "E": "Hızlı Yanıt Mekanizması"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 11,
+      "soru_metni": "I. Paylaşımların altına olumlu-olumsuz yorumlar yazılması\nII. Sahte hesaplar yapılması\nIII. Bireylerden çok toplulukların hedeflenmesi\nIV. Multimedya eklentileri de içinde barındıran görsel ve sembollerin kullanılması\n\nYukarıdakilerden hangileri siber takımların ve trollerin sosyal medyada kullandıkları manipülasyon yöntemleri arasında yer almaz?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Yalnız III",
+        "B": "I ve II",
+        "C": "I ve III",
+        "D": "II ve IV",
+        "E": "I, II ve IV"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 12,
+      "soru_metni": "Cialdini, bireyin daha öncesinde kendisine herhangi bir iyilik yapan kişiden gelen mesajlar doğrultusunda davranma ihtimalinin daha fazla olmasını, aşağıdaki ikna prensiplerinden hangisiyle açıklamaktadır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Tutarlı olma ihtiyacı",
+        "B": "Sosyal onaylanma ihtiyacı",
+        "C": "Çekicilik ve benzerlik",
+        "D": "Karşılıklılık normu",
+        "E": "Enderlik ilkesi"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 13,
+      "soru_metni": "I. Sosyal medya sayesinde ideolojilerin insanlara doğrudan ulaşabilmesi\nII. Herkesin ideolojik propagandadan eşit şekilde etkilenmesi\nIII. Sosyal medyanın siyasetçi ve seçmen ilişkisini azaltması\nIV. Farklı ideolojik propaganda nedeniyle aynı anda farklı ideolojilerden etkilenilmesi\n\nYukarıdaki sosyal medyadaki ideolojik propaganda süreciyle ilgili ifadelerden hangileri doğrudur?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "I ve II",
+        "B": "I ve III",
+        "C": "I ve IV",
+        "D": "II ve IV",
+        "E": "III ve IV"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 14,
+      "soru_metni": "Kaynağı belirsiz, yapan kişinin veya grubun ve arkasındaki ideolojiyi belirlemenin zor olduğu propaganda biçimi aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Örtülü propaganda",
+        "B": "Meşrulaştırıcı propaganda",
+        "C": "Beyaz propaganda",
+        "D": "Negatif propaganda",
+        "E": "Siyah propaganda"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 15,
+      "soru_metni": "Aşağıdakilerden hangisi, sosyal medyanın bilgi bombardımanı şeklinde içerik sunmasının bir sonucu olarak ortaya çıkan ve bireyin gerçek olmayan bilgileri gerçekmişçesine algılamasına neden olan durumu ifade eder?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Filtreleme",
+        "B": "Psikolojik tepkisellik",
+        "C": "Parasosyal etkileşim",
+        "D": "Prosumer",
+        "E": "Post-truth"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 16,
+      "soru_metni": "Küreselleşmenin beraberinde getirdiği dünyanın öncelikli konularının değişmesi sonucu bireyler üzerinde etkili olduğu düşünülen değişiklikler arasında aşağıdakilerden hangisi yer almaz?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Dünyadaki gelişmeleri yakından takip etmeleri",
+        "B": "Sosyal medya üzerinden de bireylerin kendilerini dünya vatandaşı olarak tanımlamaları",
+        "C": "Farklı kıtalarda ortaya çıkan siyasi direnişlere sanal ortamda destek vermeleri",
+        "D": "Küreselleşmenin artan baskısı karşısında ve belki de yanında yerelleşme eğilimlerinin azalması",
+        "E": "Eskiden haritadaki yerini dahi bilmedikleri şehirlerden arkadaşlar edinmeleri"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 17,
+      "soru_metni": "\"İdeoloji bir yanılsamadan ibarettir ve kitleleri uyutmak ve aldatmak için kullanılır.\" görüşünü savunarak ideoloji ifadesine olumsuz anlam yükleyen düşünce okulunun başında aşağıdakilerden hangisi yer alır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Sosyalistler",
+        "B": "Marksistler",
+        "C": "Kapitalistler",
+        "D": "Sosyal demokratlar",
+        "E": "Liberaller"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 18,
+      "soru_metni": "Kitleleri harekete geçirebilmek için verilecek olan mesajın akılda kalıcı, basit olması ve yalnızca bir bilgi üzerinden devam etmesi gerekmektedir. Yukarıdaki ifade Goebbels'in propaganda ilkelerinden hangisini tanımlamaktadır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Basitleştirme ve Tek Hedef Kuralı",
+        "B": "Abartma ve Çarpıtma Kuralı",
+        "C": "Yineleme Kuralı",
+        "D": "Sempati Kuralı",
+        "E": "Zamanlama Kuralı"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 19,
+      "soru_metni": "Aşağıdakilerden hangisi Chilton ve Schaffner tarafından ortaya konulan teoriye göre, ideolojik propagandanın gerçekleşmesi için gerekli stratejilerden biri değildir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Direnç ya da protesto oluşturma",
+        "B": "Meşrulaştırma ya da meşruiyetini yok etme",
+        "C": "İkna etme",
+        "D": "Temsil/yanlış temsil",
+        "E": "Rasyonelleştirme"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 20,
+      "soru_metni": "İnsanların evrimsel temelli hedeflerinin olduğunu ve bu hedefler temelinde sosyal etkinin bireyin davranışı üzerinde değişiklik gücü olduğunu ifade eden bilim insanı aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Adams",
+        "B": "Festinger",
+        "C": "Cialdini",
+        "D": "Gouldner",
+        "E": "Griskevicius"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": ""
+    }
+      ]
+    }
+  ]
+}
