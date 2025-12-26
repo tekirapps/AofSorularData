@@ -1,0 +1,293 @@
+{
+  "ders_kodu": "SMY203U",
+  "ders_adi": "DİJİTAL YAYINCILIK",
+  "sinavlar": [
+    {
+      "baslik": "Çıkmış Sınav Soruları Yaz Okulu 2022-2023",
+      "tur": "CIKMIS",
+      "yil": 2022,
+      "sorular": [
+        {
+      "soruid": 1,
+      "soru_metni": "Ortaya çıktığı dönemde, kullanıcıların internet sitelerini ziyaret ettiği, almak istediği bilgiyi aldığı fakat interaktif bir katılımın söz konusu olmadığı web konsepti aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Web 1.0",
+        "B": "Web 2.0",
+        "C": "Web 3.0",
+        "D": "Web 4.0",
+        "E": "Web 5.0"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 2,
+      "soru_metni": "Belirli bir alan ya da konuda daha özgün ve alanlarında uzman olan insanların oluşturdukları içeriklerin meydana getirdiği blog türüne ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Kişisel blog",
+        "B": "Temasal blog",
+        "C": "Topluluk blogu",
+        "D": "Kurumsal blog",
+        "E": "Medya blogu"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 3,
+      "soru_metni": "Herhangi bir olaya ilişkin veriler girildikten sonra bu verilerin otomatik olarak işlenip haber metni oluşturulması süreci aşağıdakilerden hangisiyle adlandırılır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Algoritmik habercilik",
+        "B": "Drone haberciliği",
+        "C": "Savaş haberciliği",
+        "D": "Yeni nesil habercilik",
+        "E": "Video haberciliği"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 4,
+      "soru_metni": "Yeni nesil haber organizasyonlarını bilgi toplumunda bir ihtiyaç haline getiren özellikler aşağıdakilerin hangisinde birlikte ve doğru olarak verilmiştir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Fişleme - Tasarım Çerçeveleme",
+        "B": "Çerçeveleme - Estetik - Tasarım",
+        "C": "Filtreleme Etiketleme - Tasarım",
+        "D": "Sınıflandırma - Tasarım - Çerçeveleme",
+        "E": "Filtreleme Kategorizasyon - Çerçeveleme"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 5,
+      "soru_metni": "Dijital fotoğrafçılığı analog fotoğrafçılıktan ayıran en önemli dönüşüm aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Pixelin yerini renk aralığının alması",
+        "B": "Basın fotoğrafçılığının yerini gezi fotoğrafçılığının alması",
+        "C": "Film banyosunun yerini bilgisayar ekranlarının alması",
+        "D": "Karanlık oda sürecinin ortadan kalkması",
+        "E": "Filmin yerini bilgisayar teknolojisinin ürünü olan algılayıcılara bırakmış olması"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 6,
+      "soru_metni": "Aşağıdakilerden hangisi dijital fotoğrafçılıkta kullanılan ekipmanlardan biridir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Pixel",
+        "B": "Raw",
+        "C": "Hafıza",
+        "D": "CMYK",
+        "E": "Tiff"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 7,
+      "soru_metni": "Bir oyuncunun omzunun arkasından diğer oyuncuyu göstermeye yarayan çekim açısı aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Bilinmeyen",
+        "B": "Alt açı",
+        "C": "Üst açı",
+        "D": "Göz hizası",
+        "E": "Eğik açı"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Soru kitapçığında A seçeneğinin metni basılmamıştır; ancak doğru cevap anahtarına göre cevap A şıkkıdır (Genellikle 'Omuz üstü çekim' olarak bilinir)."
+    },
+    {
+      "soruid": 8,
+      "soru_metni": "Günümüzde sağlıktan mühendisliğe, eğlenceden spora kadar birçok alanda kullanılan ____ tekniğinde, film çekim aşamasında işaret noktalı kıyafetler giyen oyuncunun hareketleri bilgisayara aktarılmaktadır. Sonrasında bu hareketler üzerinde oynanarak daha gerçekçi karakterler yaratılmaktadır. Yukarıdaki paragrafta boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Chroma key",
+        "B": "Stop-motion",
+        "C": "Bluebox",
+        "D": "Motion capture",
+        "E": "Rotoskop"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 9,
+      "soru_metni": "Dosya boyutlarını mp3 formatı kadar küçültebilirken minimum kayba uğratan ve en profesyonel ses codeci aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Alac",
+        "B": "Flac",
+        "C": "Wma",
+        "D": "Aac",
+        "E": "Ogg Vorbis"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 10,
+      "soru_metni": "Aşağıdakilerden hangisi dijital radyo yayıncılığında kullanılan sıkıştırma (codec) yöntemlerinden biri değildir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Wav",
+        "B": "Uplink",
+        "C": "Wma",
+        "D": "Aac",
+        "E": "Mp3"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 11,
+      "soru_metni": "Aşağıdakilerden hangisi frekanslarından aralığıdır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "3",
+        "B": "3 MHz-30MHz",
+        "C": "30 kHz-300kHz",
+        "D": "300 kHz-3 MHz",
+        "E": "300MHz-3 GHz"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 12,
+      "soru_metni": "Aşağıdakilerden hangisi geleneksel televizyondaki yayınların iletim türlerinden biri değildir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Kablo TV",
+        "B": "Karasal Yayın",
+        "C": "Uydu yayını",
+        "D": "Açık devre yayın",
+        "E": "Internet"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 13,
+      "soru_metni": "___ geleneksel televizyon yayıncılığında izleyicilerin yayın esnasında istediği anda haber ve bilgiye ulaşabilmesini sağlayan bir veri yayınıdır. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "OTT TV",
+        "B": "VOD",
+        "C": "SVOD",
+        "D": "HBBTV",
+        "E": "Teletekst"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 14,
+      "soru_metni": "Dijital televizyon platformunun kendi kanallarında aynı programı belli bir süre aralığıyla peş peşe başlatması hizmeti aşağıdakilerden hangisiyle adlandırılır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Pay per view",
+        "B": "Video on demand",
+        "C": "Subscription video on demand",
+        "D": "Personal video record",
+        "E": "Near video on demand"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 15,
+      "soru_metni": "____ internet kullanıcıları hakkında veri toplamayı sağlayan dosyalardır. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Kodlama",
+        "B": "Podcast",
+        "C": "Domain",
+        "D": "Çerez",
+        "E": "Tarayıcı"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 16,
+      "soru_metni": "Aşağıdakilerden hangisi bir mikroblog sitesidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Google Plus+",
+        "B": "Facebook",
+        "C": "Instagram",
+        "D": "LinkedIn",
+        "E": "Tumblr"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 17,
+      "soru_metni": "Aşağıdakilerden hangisi halkla İlişkiler kampanyası tasarım aşamalarından biri değildir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Değerlendirme",
+        "B": "Uygulama",
+        "C": "Bilinçlendirme",
+        "D": "Araştırma",
+        "E": "Planlama"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 18,
+      "soru_metni": "Kişi ve kurumların internette kendi adlarıyla arama yapıldığında derlenen sonuçlar arasında kendileriyle ilgili bilgi, fotoğraf, belge gibi verilere yer verilmemesini isteme hakkı aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "İfade özgürlüğü",
+        "B": "Sosyal devlet anlayışı",
+        "C": "Unutulma hakkı",
+        "D": "Ağ kullanma hakkı",
+        "E": "Var olma hakkı"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 19,
+      "soru_metni": "Aşağıdakilerden hangisi Budapeşte Sözleşmesi'nde tanımlanan suç tiplerinden biri değildir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Kişilik haklarına hakaret",
+        "B": "Yasadışı erişim",
+        "C": "Telif hakkı ihlali",
+        "D": "Çocuk pornografisi",
+        "E": "Bilgisayarla bağlantılı dolandırıcılık"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 20,
+      "soru_metni": "Internet ortamı üzerinden kullanıcılara sunulan her türlü bilgi veya veriyi üreten, değiştiren ve sağlayan gerçek veya tüzel kişilere verilen isim aşağıdakilerin hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Yazıcı",
+        "B": "İçerik sağlayıcı",
+        "C": "Veri hazırlayan",
+        "D": "Yayına hazırlayan",
+        "E": "Programcı"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": ""
+    }
+      ]
+    }
+  ]
+}
