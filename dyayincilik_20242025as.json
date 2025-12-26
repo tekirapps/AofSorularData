@@ -1,0 +1,279 @@
+{
+  "ders_kodu": "SMY203U",
+  "ders_adi": "DİJİTAL YAYINCILIK",
+  "sinavlar": [
+    {
+      "baslik": "Çıkmış Sınav Soruları Ara Sınav 2024-2025",
+      "tur": "CIKMIS",
+      "yil": 2024,
+      "sorular": [
+        {
+      "soruid": 1,
+      "soru_metni": "Aşağıdakilerden hangisi sosyal medyanın özelliklerinden biridir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Paylaşım olanağı yoktur.",
+        "B": "Geç zamanlı takipçi listesi vardır.",
+        "C": "Arşivlere ulaşım sınırlıdır.",
+        "D": "Sürekli güncellenebilir.",
+        "E": "Kontrol edilebilirdir."
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 2,
+      "soru_metni": "Üyelik ile gerçekleştirilen ve bu üyelerin paylaştıkları içerik ile oluşan blog türü aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Kişisel bloglar",
+        "B": "Medya blogları",
+        "C": "Temasal bloglar",
+        "D": "Kurumsal bloglar",
+        "E": "Topluluk blogları"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 3,
+      "soru_metni": "Aşağıdakilerden hangisi Web 2.0'ın özelliklerinden biri değildir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Değiştirilemeyen içerik",
+        "B": "Hem okunabilme hem yazılabilme",
+        "C": "Tıklama başına ücret",
+        "D": "Topluluk odaklılık",
+        "E": "İnteraktif reklam"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 4,
+      "soru_metni": "Türkiyede internet bağlantısı ilk kez hangi üniversitede gerçekleştirilmiştir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Bilkent",
+        "B": "ODTÜ",
+        "C": "Boğaziçi",
+        "D": "ITÜ",
+        "E": "Hacettepe"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 5,
+      "soru_metni": "Aşağıdakilerden hangisi dijitalleşmenin televizyon yayıncılığına kazandırdığı kazanımlardan biri değildir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Zaman sınırının ortadan kalkması",
+        "B": "Haber kaynağında artış",
+        "C": "Habere erişimin sınırlanması",
+        "D": "Geçmişteki içeriklere erişim",
+        "E": "Olay yerinden canlı yayın imkanı"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 6,
+      "soru_metni": "Anadolu Ajansı özerk statüye kaç yılında kavuşmuştur?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "1918",
+        "B": "1920",
+        "C": "1922",
+        "D": "1925",
+        "E": "1927"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 7,
+      "soru_metni": "Aşağıdakilerden hangisi \"hız\" olgusunun habercilikte meydana getirdiği sorunlardan biri değildir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Sürekli güncellenme",
+        "B": "Doğruluk",
+        "C": "Mahremiyet",
+        "D": "Sınırlı editoryal denetim",
+        "E": "Içerik ve kaynak güvenirliği"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 8,
+      "soru_metni": "Aşağıdaki platformlardan hangisi Türkiye'deki yeni nesil haber platformlarından biri değildir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Teyit.org",
+        "B": "Medyascope",
+        "C": "Journo",
+        "D": "Doğruluk payı",
+        "E": "Criteo"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 9,
+      "soru_metni": "Gazetecilere, medya çalışanlarına ve gazeteci adaylarına yönelik internet yayını sunan dijital medya platformu aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "140 Journos",
+        "B": "Teyit.org",
+        "C": "Doğruluk Payı",
+        "D": "Journo",
+        "E": "Medyascope"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 10,
+      "soru_metni": "Aşağıdakilerden hangisi drone haberciliğinin avantajlarından biri değildir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Ekonomik olması",
+        "B": "Haber anlatımına dair sunduğu imkanlar",
+        "C": "Alternatif medyaya yeni kanallar eklemesi",
+        "D": "Haber toplamayı kolaylaştırması",
+        "E": "Özel yaşamı koruması"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 11,
+      "soru_metni": "Fotoğrafa yeni başlayanlar ya da enstantane diyafram ayarları ile zaman kaybetmek istemeyen kullanıcıların tercih edeceği pozlama modu aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "TV-S Enstantane Öncelikli Mod",
+        "B": "B Bulb Modu",
+        "C": "P Program Modu",
+        "D": "M Manuel Mod",
+        "E": "AV-A Diyafram Öncelikli Mod"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 12,
+      "soru_metni": "Aşağıdakilerden hangisi CCD algılayıcıların özelliklerinden biridir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Işığa karşı CMOS algılayıcıya göre daha hassastırlar.",
+        "B": "CCD, CMOS'a göre daha az enerji tüketimine ihtiyaç duyar.",
+        "C": "Üretimi CMOS'a göre daha az maliyetlidir.",
+        "D": "Tarihi, CMOS algılayıcıya göre daha yenidir.",
+        "E": "CMOS algılayıcıya göre daha küçük bir alanı vardır."
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 13,
+      "soru_metni": "Fotoğrafçılıkta flu, netsiz çıktılara sebep olan sonuçları engellemek amacıyla makinenin gövdesiyle beraber üzerine oturtulan üç ayaklı mekanizma aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Yazıcı",
+        "B": "Tripod",
+        "C": "Program",
+        "D": "Disk",
+        "E": "Kart"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 14,
+      "soru_metni": "Aşağıdakileden hangisi standart diyafram açıklıklarından biridir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "f2.7",
+        "B": "f3.9",
+        "C": "f5.6",
+        "D": "f12",
+        "E": "f23"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 15,
+      "soru_metni": "Aşağıdakilerden hangisi 35 mm DSLR fotoğraf makinalarının body (gövde) parçasının iç donanımında bulunan düzeneklerden biri değildir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Bilinmeyen",
+        "B": "Bilinmeyen",
+        "C": "Vizör",
+        "D": "Ayna",
+        "E": "Pozometre"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Soru kitapçığında A ve B seçenekleri eksik basılmıştır. Cevap anahtarına göre doğru seçenek C'dir (Vizör)."
+    },
+    {
+      "soruid": 16,
+      "soru_metni": "Tren rayına sahip bir düzenek olan \"__\" sayesinde kamera yatay eksende sorunsuz hareket edebilmektedir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Jimmy Jip",
+        "B": "Şaryo",
+        "C": "Steadicam",
+        "D": "Tripod",
+        "E": "Pedestal"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 17,
+      "soru_metni": "Aşağıdakilerden hangisi Lev Manovich'in dijital sinemayı formülleştirmek için kullandığı ögelerden biri değildir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "2 boyutlu bilgisayar animasyonu",
+        "B": "Resim/boyama",
+        "C": "Görüntü işleme",
+        "D": "35 mm film",
+        "E": "Canlı aksiyon materyali"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 19,
+      "soru_metni": "Aşağıdakilerden hangisi Işık ekipmanlarından biri değildir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Alüminyum folyo",
+        "B": "Soğuk ışık",
+        "C": "Arc",
+        "D": "Kino Flo",
+        "E": "Gren"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": "Gren (Grain), ışık ekipmanı değil, fotoğraf veya filmdeki karıncalanma/gürültü efektidir."
+    },
+    {
+      "soruid": 20,
+      "soru_metni": "İlk uzun metrajlı animasyon filmi aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Toy Story",
+        "B": "El Apostol",
+        "C": "Humorous Phases of Funny Faces",
+        "D": "Wall-E",
+        "E": "Avatar"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": ""
+    }
+      ]
+    }
+  ]
+}
