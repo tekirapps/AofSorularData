@@ -1,0 +1,293 @@
+{
+  "ders_kodu": "SMY203U",
+  "ders_adi": "DİJİTAL YAYINCILIK",
+  "sinavlar": [
+    {
+      "baslik": "Çıkmış Sınav Soruları Ara Sınav 2023-2024",
+      "tur": "CIKMIS",
+      "yil": 2025,
+      "sorular": [
+        {
+      "soruid": 1,
+      "soru_metni": "2010'da fotoğraf paylaşım ağı olarak kurulan sosyal ağ sitesi aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Facebook",
+        "B": "Instagram",
+        "C": "Snapchat",
+        "D": "Scorp",
+        "E": "Twitter"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 2,
+      "soru_metni": "_______ birçok dilde farklı kullanıcıların katkılarıyla oluşturulan sanal ansiklopedidir. Yukarıdaki boşluğa uygun düşen ifade aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Wikipedia",
+        "B": "Snapchat",
+        "C": "Instagram",
+        "D": "Whatsapp",
+        "E": "Swarm"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 3,
+      "soru_metni": "Aşağıdakilerden hangisi dijitalleşmenin televizyon yayıncılığına sağladığı avantajlardan biri değildir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Zaman ve mekan sınırının ortadan kalkması",
+        "B": "Habere erişimin hızlanması",
+        "C": "Tamamen özgür ve denetimden muaf olması",
+        "D": "Olay yerinden canlı yayın imkanı",
+        "E": "Geçmiş zamanlı içeriğe erişimin sağlanması"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 4,
+      "soru_metni": "Aşağıdakilerden hangisi sosyal medyanın özelliklerinden biridir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Bilinmeyen",
+        "B": "Arşivlere ulaşım sınırlıdır.",
+        "C": "Paylaşım olanağı yoktur.",
+        "D": "Geç zamanlı takipçi listesi vardır.",
+        "E": "Sürekli güncellenebilir."
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 5,
+      "soru_metni": "Aşağıdakilerden hangisi internetin insan ve toplum hayatının bütünlüğünü etkileyen dezavantajlarından biri değildir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "İnsanları manipule etmek",
+        "B": "Küfür ya da aşağılayıcı girişimde bulunmak",
+        "C": "Kişisel ve kurumsal bilgilerin çalınması",
+        "D": "Terör propagandası yapmak",
+        "E": "Bireysel yayıncılığa olanak tanımak"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 6,
+      "soru_metni": "Aşağıdakilerden hangisi drone haberciliğinin avantajlarından biri değildir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Ekonomik olması",
+        "B": "Haber toplamayı kolaylaştırması",
+        "C": "Özel yaşamı koruması",
+        "D": "Alternatif medyaya yeni kanallar eklemesi",
+        "E": "Haber anlatımına dair sunduğu imkanlar"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Dronlar genellikle özel yaşamın gizliliğini ihlal etme riski taşıdığı için bu bir avantaj değil, dezavantaj veya etik sorundur."
+    },
+    {
+      "soruid": 7,
+      "soru_metni": "Aşağıdakilerden hangisi dijital medya bağlamında haberciliğe ilişkin mevcut sorunlardan biri değildir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Mahremiyet ihlalleri",
+        "B": "Medyanın giderek ticarileşmesi",
+        "C": "Hükümetlerin medya sistemi üzerindeki etkisi",
+        "D": "Şeffaf algoritmalar",
+        "E": "Doğrulama yapılmadan sunulan haberler"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": "Algoritmaların şeffaf olmaması (opaklığı) bir sorundur; 'Şeffaf algoritmalar' bir sorun değil, aksine istenen bir durumdur."
+    },
+    {
+      "soruid": 8,
+      "soru_metni": "BBC ve The New York Times gazeteleri sanal gerçeklik teknolojisini habercilikte ilk kez hangi yılda kullanılmıştır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "2009",
+        "B": "2010",
+        "C": "2013",
+        "D": "2015",
+        "E": "2020"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 9,
+      "soru_metni": "İnternet ilk planda aşağıdaki hangi alana yönelik amaçlar doğrultusunda geliştirilmiştir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Askeriyeye",
+        "B": "Denizciliğe",
+        "C": "Haberciliğe",
+        "D": "Endüstriye",
+        "E": "Eğitime"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 10,
+      "soru_metni": "Aşağıdakilerden hangisi Anadolu Ajansı'nın sitesinde kullanıldığı tespit edilen araçlardan biri değildir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Simülasyon",
+        "B": "Zaman tüneli",
+        "C": "Infograflar",
+        "D": "Sanal gerçeklik uygulamaları",
+        "E": "Fotoğraf kütüphanesi"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 11,
+      "soru_metni": "Diyafram ayarını makinenin enstantane değerini fotoğrafçının belirlediği mod aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "A",
+        "B": "TVS",
+        "C": "M",
+        "D": "AV",
+        "E": "P"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Enstantane öncelikli mod Tv veya S olarak bilinir."
+    },
+    {
+      "soruid": 12,
+      "soru_metni": "Full frame makineler ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Farklı kimyasal süreçler kullanır.",
+        "B": "Büyük sensör boyutuna sahiptir.",
+        "C": "Profesyonel fotoğrafçılar tarafından tercih edilir.",
+        "D": "Fazla pixel sayısına sahiptir.",
+        "E": "Üretimleri zor ve pahalıdır."
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Dijital makineler (Full frame dahil) kimyasal süreçler kullanmaz, dijital sensör kullanır."
+    },
+    {
+      "soruid": 13,
+      "soru_metni": "Gece ay tutulması gibi uzun pozlama gerektiren bir olay fotoğraflanmak istendiğinde aşağıdaki pozlama modlarından hangisini kullanmak daha uygun olur?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "M Manuel mod",
+        "B": "P Program modu",
+        "C": "AV-A Diyafram Öncelikli mod",
+        "D": "TV-S Enstantane Öncelikli mod",
+        "E": "B Bulb modu"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 14,
+      "soru_metni": "Objektifteki mercek alanından geçerek ışığa duyarlı yüzey üzerine düşecek ışığın ne kadar süre ile bu yüzey üzerinde kalacağını belirleyen sistem aşağıdakilerden hangisiyle adlandırılır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Çözünürlük",
+        "B": "Diyafram",
+        "C": "Bakaç",
+        "D": "Enstantane",
+        "E": "Piksel"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 15,
+      "soru_metni": "Dijital fotoğraf makinelerinin dijital görüntüyü kaydederken kullandığı farklı dosya formatları aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "CCD CMOS - Tiff",
+        "B": "Pixel Megapixel - Raw",
+        "C": "Film Algılayıcı -Jpeg",
+        "D": "Megapiksel - Renk derinliği - Raw",
+        "E": "Jpeg Raw - Tiff"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 16,
+      "soru_metni": "Aşağıdakilerden hangisi kurgudaki klasik geçişlerden biri değildir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "blue box",
+        "B": "iris in",
+        "C": "bindirme",
+        "D": "kesme",
+        "E": "zincirleme"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Blue box bir geçiş efekti değil, görüntü birleştirme (chroma key) tekniğidir."
+    },
+    {
+      "soruid": 17,
+      "soru_metni": "Aşağıdakilerden hangisi dijitalleşmenin film izleyicilerine sağladığı avantajlardan biri değildir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Filmden alınan hazzı artırması",
+        "B": "Salon sayılarının artması ve bilet fiyatlarının düşmesi",
+        "C": "Izleyicinin daha fazla katharsis yaşaması",
+        "D": "İzleyicinin kahramanla tam anlamıyla özdeşleşmesi",
+        "E": "İzleyiciyi özgür kılması"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 18,
+      "soru_metni": "Tren rayına sahip bir düzenek olan ____ sayesinde kamera yatay eksende sorunsuz hareket edebilmektedir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Steadicam",
+        "B": "Şaryo",
+        "C": "Jimmy Jip",
+        "D": "Tripod",
+        "E": "Pedestal"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 19,
+      "soru_metni": "Şeffaf selüloit kağıtlar kullanılan ve her hareketin çizimine dayanan animasyon türü aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Stop-motion animasyon",
+        "B": "Edius",
+        "C": "Cel animasyon",
+        "D": "3 boyutlu animasyon",
+        "E": "Rotoskop"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 20,
+      "soru_metni": "İlk uzun metrajlı animasyon filmi aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Avatar",
+        "B": "Toy Story",
+        "C": "El Apostol",
+        "D": "Wall-E",
+        "E": "Humorous Phases of Funny Faces"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": ""
+    }
+      ]
+    }
+  ]
+}
