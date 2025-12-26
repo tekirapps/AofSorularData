@@ -1,0 +1,293 @@
+{
+  "ders_kodu": "SMY203U",
+  "ders_adi": "DİJİTAL YAYINCILIK",
+  "sinavlar": [
+    {
+      "baslik": "Çıkmış Sınav Soruları Ara Sınav 2025-2026",
+      "tur": "CIKMIS",
+      "yil": 2025,
+      "sorular": [
+        {
+      "soruid": 1,
+      "soru_metni": "Aşağıdakilerden hangisi drone haberciliğinin avantajlarından biri değildir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Özel yaşamı koruması",
+        "B": "Haber toplamayı kolaylaştırması",
+        "C": "Alternatif medyaya yeni kanallar eklemesi",
+        "D": "Haber anlatımına dair sunduğu imkanlar",
+        "E": "Ekonomik olması"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Dronlar genellikle özel yaşamın gizliliğini tehdit etme potansiyeline sahiptir, bu yüzden 'özel yaşamı koruması' bir avantaj olarak değerlendirilmez."
+    },
+    {
+      "soruid": 2,
+      "soru_metni": "Aşağıdakilerden hangisi LinkedIn'in öne çıkan özelliklerinden biridir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Yer bildirimi ve konum paylaşımı",
+        "B": "Fotoğraf ve video slaytları hazırlama",
+        "C": "Sesli ve görüntülü konuşma",
+        "D": "Canlı yayın ve hikâye paylaşımı",
+        "E": "CV hazırlama ve profesyonel iş ağı kurma"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": "LinkedIn, profesyonel iş ağı oluşturma ve kariyer gelişimi odaklı bir platformdur."
+    },
+    {
+      "soruid": 3,
+      "soru_metni": "Statik web siteleri ile İlgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Veriler veri tabanında saklanır ve dinamik şekilde çekilir.",
+        "B": "Kullanıcıya özel içerik üretir.",
+        "C": "Sürekli değişen, etkileşimli içerik sunar.",
+        "D": "HTML kodları ile hazırlanır ve genellikle tanıtım amaçlıdır.",
+        "E": "ASP ve PHP gibi dillerle geliştirilir."
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": "Statik siteler genellikle HTML/CSS ile hazırlanır, veri tabanı kullanmazlar ve içerikleri kullanıcıya göre değişmez."
+    },
+    {
+      "soruid": 4,
+      "soru_metni": "Aşağıdakilerden hangisi sosyal medyanın özelliklerinden biridir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Sürekli güncellenebilir olması",
+        "B": "Kontrol edilebilir olması",
+        "C": "Arşivlere ulaşımın sınırlı olması",
+        "D": "Paylaşım olanağının olmaması",
+        "E": "Geç zamanlı takipçi listesinin olması"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Sosyal medya dinamik, anlık ve sürekli güncellenebilen bir yapıya sahiptir."
+    },
+    {
+      "soruid": 5,
+      "soru_metni": "Aşağıdakilerden hangisi \"hız\" olgusunun habercilikte meydana getirdiği sorunlardan biri değildir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "İçerik ve kaynak güvenirliği",
+        "B": "Sürekli güncellenme",
+        "C": "Sınırlı editoryal denetim",
+        "D": "Mahremiyet",
+        "E": "Doğruluk"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Sürekli güncellenme, dijital haberciliğin bir özelliği ve avantajıdır; güvenirlik, denetim veya doğruluk gibi 'sorun' yaratan bir unsur değildir."
+    },
+    {
+      "soruid": 6,
+      "soru_metni": "İnfografiklerin temel amacı aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Görsellerle konunun bütününü görmeyi sağlamak",
+        "B": "Haberi eğlenceli hale getirmek",
+        "C": "Olay ve olgular arasında mizahi bağ kurmak",
+        "D": "Kullanıcının hangi kısmı okuyacağına karar vermesini sağlamak",
+        "E": "Videolardan kesit alarak haber oluşturmak"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 7,
+      "soru_metni": "1. NASA'nın VR teknolojisini uzay araçlarında kullanması 2. Morton Heilig'in Sensorama'yı geliştirmesi 3. Ivan Sutherland'in elektro-optik başlığı icat etmesi. Yukarıdaki gelişmelerin kronolojik sıralanışı aşağıdakilerin hangisinde doğru olarak verilmiştir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "1-2-3",
+        "B": "2-1-3",
+        "C": "2-3-1",
+        "D": "3-1-2",
+        "E": "3-2-1"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Sensorama (1950'ler/60'lar) -> Ivan Sutherland (1968) -> NASA (Daha sonraki dönemler)."
+    },
+    {
+      "soruid": 8,
+      "soru_metni": "Aşağıdakilerden hangisi otomobiller konusunda bilgiler içeren, otomobil ile ilgili uzmanların görüşlerine yer veren ve yeni çıkan otomobil değerlendirmelerinin bulunabileceği bir blog türüdür?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Temasal blog",
+        "B": "Medya blogu",
+        "C": "Kişisel blog",
+        "D": "Kurumsal blog",
+        "E": "Topluluk blogu"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Belirli bir tema (otomobil) üzerine uzmanlaşmış içerik sunan bloglar 'Temasal Blog' olarak adlandırılır."
+    },
+    {
+      "soruid": 9,
+      "soru_metni": "Aşağıdakilerden hangisi televizyon yayıncılığında dijitalleşmenin getirdiği en önemli değişimlerden biridir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Haber kaynaklarının sınırlandırılması",
+        "B": "Zaman ve mekân bağımlılığının azalması",
+        "C": "Canlı yayınların tamamen ortadan kalkması",
+        "D": "İnternetin izleyiciye erişimini engellemesi",
+        "E": "Habercilikte arşivlerin kullanılamaması"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Dijital yayıncılık, izleyicinin yayına istediği zaman ve istediği yerden ulaşmasına olanak tanıyarak zaman ve mekân kısıtlamasını azaltmıştır."
+    },
+    {
+      "soruid": 10,
+      "soru_metni": "Aşağıdakilerin hangisinde, Algoritmik habercilikte haber metninin oluşturulma süreci doğru verilmiştir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Olayın kaynağında gözlem -> Notların alınması -> Haberin yazılması",
+        "B": "Röportaj yapılması -> Ses kaydı alınması -> Yazıya dökülmesi",
+        "C": "İnsan gazetecilerin yorum eklemesi -> Editör onayı -> Basılı yayım",
+        "D": "Verilerin girilmesi -> Algoritmaların işlemesi -> Metinleştirme",
+        "E": "Görsel arşivlerden tarama -> Yorum ekleme"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 11,
+      "soru_metni": "\"Işığın devamlılığı\" ilkesinin ihlal edilmesi durumunda ortaya çıkabilecek temel sorun aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Kamera hareketlerinin sınırlanması",
+        "B": "Görüntüde kumlama ve gren oluşması",
+        "C": "Arka planın fazla aydınlanması",
+        "D": "Kadrajda perspektif kaybı yaşanması",
+        "E": "Renk kontrastının artması"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": "Cevap anahtarı D seçeneğini işaret etmektedir."
+    },
+    {
+      "soruid": 12,
+      "soru_metni": "I. Durağan konularda tekil servo gibi çalışır. II. Hareket algılandığında otomatik olarak sürekli servoya geçer. III. Sadece manuel odaklama ile çalışır. IV. Anlık hareket değişikliklerinde tercih edilir. Yukarıdakilerden hangileri \"değişken servo\" netleme modunun özelliklerindendir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Yalnız IV",
+        "B": "II ve III",
+        "C": "I, II ve III",
+        "D": "I, II ve IV",
+        "E": "II, III ve IV"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": "Değişken servo (AI Focus), durağan nesnelerde One Shot, hareket algılandığında AI Servo moduna otomatik geçiş yapan hibrit bir moddur."
+    },
+    {
+      "soruid": 13,
+      "soru_metni": "Kameranın yatay eksen üzerinde sağa ve sola dönme hareketine ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "180 derece",
+        "B": "Diyagonal",
+        "C": "Pan",
+        "D": "Tilt",
+        "E": "Greenbox"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 14,
+      "soru_metni": "Bir sinematograf, çekim yaptığı sahnede oyuncunun yüzünde sert gölgeler oluştuğunu fark eder. Ana ışığın yönünü değiştirmek istemez, ancak bu gölgeleri yumuşatmak ve yüz hatlarını daha doğal göstermek ister. Yukarıdaki durumda sinematograf, aşağıdaki ışıklardan hangisini ayarlaması gerekir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Fon ışık",
+        "B": "Spot Işık",
+        "C": "Arka Işık",
+        "D": "Ana ışık",
+        "E": "Dolgu ışık"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": "Dolgu ışığı (Fill light), ana ışığın yarattığı sert gölgeleri yumuşatmak için kullanılır."
+    },
+    {
+      "soruid": 15,
+      "soru_metni": "I. Hafıza kartı II. Taşınabilir disk III. Kart okuyucu IV. Veri aktarma kablosu. Yukarıdakilerden hangileri dijital fotoğrafçılıkta veri güvenliği ve yedekleme için kullanılan ekipmanlardandır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Yalnız I",
+        "B": "Yalnız II",
+        "C": "I ve II",
+        "D": "III ve IV",
+        "E": "I, II ve III"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Hafıza kartı ve taşınabilir disk veriyi depolamak ve yedeklemek için kullanılır; kart okuyucu ve kablo sadece veri transferi içindir."
+    },
+    {
+      "soruid": 16,
+      "soru_metni": "Dijital fotoğraf makinelerinin dijital görüntüyü kaydederken kullandığı farklı dosya formatları aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Megapiksel - Renk derinliği - Raw",
+        "B": "Pixel - Megapixel - Raw",
+        "C": "CCDCMOS - Tiff",
+        "D": "Film Algılayıcı -Jpeg",
+        "E": "Jpeg - Raw - Tiff"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 17,
+      "soru_metni": "Aşağıdakilerden hangisi standart diyafram açıklıklarından biridir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "f2.7",
+        "B": "f3.9",
+        "C": "f5.6",
+        "D": "f12",
+        "E": "f23"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 18,
+      "soru_metni": "Bir fotoğrafçı, 35 MM Dijital DSLR fotoğraf makinesi ile hızla hareket eden bir sporcunun fotoğrafını net bir şekilde dondurmak istiyor. Yukarıdaki durumda fotoğrafçının aşağıdaki pozlama modlarından hangisini kullanması daha uygundur?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "P Program Modu",
+        "B": "B-Bulb Modu",
+        "C": "M Manuel Mod",
+        "D": "AV-A Diyafram Öncelikli Mod",
+        "E": "TV-S Enstantane Öncelikli Mod"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": "Hareketi dondurmak için enstantane hızının kontrol edilmesi gerekir, bu da Enstantane Öncelikli Mod (Tv/S) ile sağlanır."
+    },
+    {
+      "soruid": 19,
+      "soru_metni": "Quirino Christiani tarafından 1917'de çekilen ____ filmi ilk uzun metrajlı animasyon filmdir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Toy Story",
+        "B": "Wall-E",
+        "C": "Humorous Phases of Funny Faces",
+        "D": "El Apostol",
+        "E": "Avatar"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 20,
+      "soru_metni": "Bir oyuncunun omzunun arkasından diğer oyuncuyu göstermeye yarayan çekim açısı aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Üst açı",
+        "B": "Amors",
+        "C": "Göz hizası",
+        "D": "Eğik açı",
+        "E": "Alt açı"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": ""
+    }
+  ]
+    }
+  ]
+}
