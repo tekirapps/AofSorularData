@@ -1,0 +1,293 @@
+{
+  "ders_kodu": "SMY201U",
+  "ders_adi": "SOSYAL MEDYA VE PROPAGANDA",
+  "sinavlar": [
+    {
+      "baslik": "Çıkmış Sınav Soruları Ara Dönem 2022-2023",
+      "tur": "CIKMIS",
+      "yil": 2022,
+      "sorular": [
+        {
+      "soruid": 1,
+      "soru_metni": "Aşağıdakilerden hangisi özellikle nüfusun çoğunluğu tarafından kullanıldığı ülkelerde, birincil propaganda mecrası olarak kabul edilmektedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Sosyal medya",
+        "B": "Gazete",
+        "C": "Dergi",
+        "D": "Televizyon",
+        "E": "Mobil telefon"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 2,
+      "soru_metni": "Propagandayı, haberleşme araçları kullanılarak hedef grupların belirli durum ya da konumdaki tepkilerini önceden tasarlanmış amaçlar doğrultusunda şekillendirmeye yönelik bilinçli bir faaliyet olarak tanımlayan bilim insanı aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Jowett",
+        "B": "Chomsky",
+        "C": "Qualter",
+        "D": "Erbschloe",
+        "E": "Lipmann"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 3,
+      "soru_metni": "I. Propagandanın toplumsal yapıya uygun hale getirilerek yerelleştirilmesi\nII. Kaynağın aksi istikametten geldiği izleniminin uyandırılması\nIII. Belirli bir kamu politikası uygulanmadan önce kamuoyu oluşturmak için kullanılması\nIV. Propagandayı yapan kişilerin kim olduğunun belli olması\n\nYukarıdakilerden hangisi ya da hangileri kara propagandanın özellikleri arasında yer almaktadır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Yalnız III",
+        "B": "I ve II",
+        "C": "I ve III",
+        "D": "I ve IV",
+        "E": "II ve III"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 4,
+      "soru_metni": "I. Sosyal medya şirketlerinin yayınladıkları reklamları üçüncü şahısların denetimine açması\nII. Hangi hesapların sahte olduğunu bulan yapay zeka uygulamalarının yetersiz olması\nIII. Sosyal medya şirketlerinin hiçbir kullanıcı şikayetini dikkate almaması\nIV. Sosyal medya şirketlerinin uygulamalarıyla ilgili bilgi paylaşmada isteksiz davranması\n\nYukarıdaki ifadelerden hangisi sosyal medyadaki propaganda ile mücadeledeki zorluklar arasında yer almaktadır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Yalnız II",
+        "B": "Yalnız III",
+        "C": "II ve III",
+        "D": "II ve IV",
+        "E": "III ve IV"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 5,
+      "soru_metni": "Propagandacı tezlerinin doğruluğuna gerekçeler üreterek, meşrulaştırmaya çalıştığı kavram aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "İdeoloji",
+        "B": "Mesaj",
+        "C": "Gerçek",
+        "D": "Manipülasyon",
+        "E": "İnanç"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 6,
+      "soru_metni": "Sosyal medyadaki bir paylaşımın ne kadar çok etkileşime sahip olursa o kadar doğru olduğu kanaatini oluşturmaya çalışan propaganda yöntemi aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Sosyal onaylama ihtiyacı yöntemi",
+        "B": "Basitleştirme yöntemi",
+        "C": "Uzmanlık yöntemi",
+        "D": "Enderlik yöntemi",
+        "E": "Benzerlik yöntemi"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 7,
+      "soru_metni": "İnsanların evrimsel temelli hedeflerinin olduğunu ve bu hedefler temelinde sosyal etkinin bireyin davranışı üzerinde değişiklik gücü olduğunu söyleyen bilim insanı aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Adams",
+        "B": "Festinger",
+        "C": "Griskevicius",
+        "D": "Gouldner",
+        "E": "Cialdini"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 8,
+      "soru_metni": "Hedefe verilen mesajın ögelerinin herhangi bir değerlendirmeden geçmeden önce, bir bütün olarak ele alınacağını belirten kural aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Sentez kuralı",
+        "B": "Yineleme kuralı",
+        "C": "Basitleştirme ve tek hedef kuralı",
+        "D": "Abartma ve çarpıtma kuralı",
+        "E": "Sempati kuralı"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 9,
+      "soru_metni": "Propagandanın toplumdaki diğer bireyler tarafından kabul edilen bir süreç olduğu bilgisini yerleştirmeyi amaçlayan propaganda tekniği aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Zamanlama kuralı",
+        "B": "Devamlılık ve süreklilik kuralı",
+        "C": "Yayılma kuralı",
+        "D": "Uyumlaştırma kuralı",
+        "E": "Orkestrasyon kuralı"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 10,
+      "soru_metni": "Sosyal medyanın karşılıklı etkileşime izin veren doğası, ....... etkileşimin de sosyal medyada daha güçlü bir şekilde ortaya çıkmasına sebep olabilir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "rasyonel",
+        "B": "ideolojik",
+        "C": "parasosyal",
+        "D": "çevrimiçi",
+        "E": "kültürel"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 11,
+      "soru_metni": "Aşağıdakilerden hangisi çağdaş bilgi ortamının temel özelliklerinden biri değildir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Bilginin gerçek zamanlı olarak güvenilir kişiler arasında aktarılması ve bilginin sorgulanmasının en aza indirgenmiş olması",
+        "B": "Bilginin yayılma hızının giderek arttığı, hızlandırılmış haber döngüsü içeren internete bağlı cihazlara sahip olma",
+        "C": "Bilgi kaynağının belirsiz hale gelmesi",
+        "D": "Bilginin hızlı tüketildiği, özel olanın çabucak kamusal hale gelebildiği platformlar yaratabilme",
+        "E": "Geniş çapta erişim sağlanan, ucuz ve teknoloji temelli bilgi üretme"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 12,
+      "soru_metni": "Toplumsal medya paylaşımları, ağ günlükleri, bloglar, fotoğraf, video, log dosyaları gibi değişik kaynaklardan toparlanan tüm verinin analiz edilip sınıflandırılmış, anlamlı ve işlenebilir hale dönüştürülmüş biçimine ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Bilgi kirliliği",
+        "B": "Big data",
+        "C": "Yanlış bilgi",
+        "D": "Manipülasyon",
+        "E": "Algı yönetimi"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 13,
+      "soru_metni": "Bir toplumu yönlendirebilmenin en kolay yolunun kararlılık halini çözmek, kararsızlığı pekiştirmek ve içeriği bunun üzerine eklemek olduğu söylenebilir. Aşağıdakilerden hangisi bu bağlamda sosyal medyada en sık uygulanan algı yönetimi tekniklerinden biridir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Meşruiyet oluşturma",
+        "B": "Çelişkili paylaşım içerikleri üretme",
+        "C": "Çoğunluk üretmek",
+        "D": "Gelecek projeksiyonu oluşturma",
+        "E": "Sürekli tekrar"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 14,
+      "soru_metni": "Objektif gerçekliği tamamen ortadan kaybolmuş, aldatma amacıyla kasti olarak bilgi üretilmesi anlamına gelen kavrama \".......\" denilmektedir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "yanlış bilgi",
+        "B": "zararlı bilgi",
+        "C": "eksik bilgi",
+        "D": "manipülasyon",
+        "E": "dezenformasyon"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 15,
+      "soru_metni": "16. yüzyıldan günümüze geçen zaman boyunca hala doğruluk değerini koruyan \"Bilginin kendisi güçtür.\" ifadesini dile getiren düşünür aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "İbn Rüşd",
+        "B": "Aristo",
+        "C": "Hobbes",
+        "D": "Platon",
+        "E": "Bacon"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 16,
+      "soru_metni": "İdeolojiyi geniş çaplı ve bütüncül görüşler ya da doktrinler olarak gören ve devletin ideolojiyi dikte etmek yerine makul bir çoğulculuğu sağlaması gerektiğini savunan düşünür kimdir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Althusser",
+        "B": "Locke",
+        "C": "Plato",
+        "D": "Rawls",
+        "E": "Weber"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 17,
+      "soru_metni": "Türkiye'de ilk defa hangi yıllarda televizyon reklamları kullanılarak ideolojik propaganda yapılmaya başlanmıştır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "1940",
+        "B": "1950",
+        "C": "1960",
+        "D": "1970",
+        "E": "1980"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 18,
+      "soru_metni": "\"Kitle İletişim Teorisi\" adlı eserinde medya içeriklerinin bazen farkında olmayarak bile olsa belli değerleri ve normları dayattığını öne süren bilim insanı aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Orwell",
+        "B": "Carpentier",
+        "C": "Jenkins",
+        "D": "McQuail",
+        "E": "Dahl"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 19,
+      "soru_metni": "Propaganda yapan kişinin ya da grubun çıkarlarını, taleplerini ve arkasında yatan ideolojiyi belirlemenin zor olduğu bir propaganda biçimi aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "İdeolojik propaganda",
+        "B": "Kara propaganda",
+        "C": "Açık propaganda",
+        "D": "Örtülü propaganda",
+        "E": "Gri propaganda"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 20,
+      "soru_metni": "Küreselleşmenin beraberinde getirdiği dünyanın öncelikli konularının değişmesi, bireyler üzerinde etkili olduğu düşünülen değişiklikler arasında yer almaz?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Eskiden haritadaki yerini dahi bilmedikleri şehirlerden arkadaşlar edinmeleri",
+        "B": "Dünyadaki gelişmeleri yakından takip etmeleri",
+        "C": "Farklı kıtalarda ortaya çıkan siyasi direnişlere sanal ortamda destek vermeleri",
+        "D": "Sosyal medya üzerinden de bireylerin kendilerini dünya vatandaşı olarak tanımlamaları",
+        "E": "Küreselleşmenin artan baskısı karşısında ve belki de yanında yerelleşme eğilimlerinin azalması"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": ""
+    }
+      ]
+    }
+  ]
+}
