@@ -1,0 +1,293 @@
+{
+  "ders_kodu": "SMY201U",
+  "ders_adi": "SOSYAL MEDYA VE PROPAGANDA",
+  "sinavlar": [
+    {
+      "baslik": "Çıkmış Sınav Soruları DÖnem Sonu 2022-2023",
+      "tur": "CIKMIS",
+      "yil": 2022,
+      "sorular": [
+        {
+      "soruid": 1,
+      "soru_metni": "Dini ya da seküler topluluk özellikleri gösteren grupların, kendi yaşam tarzlarını grup dışında daha geniş toplumsal kesimlere yaymak için giriştikleri faaliyetlere ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "İdeolojik propaganda",
+        "B": "Ekonomik propaganda",
+        "C": "Askeri propaganda",
+        "D": "Siyasal propaganda",
+        "E": "Sosyolojik propaganda"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "İdeolojik propaganda, belirli bir dünya görüşünü, yaşam tarzını veya inanç sistemini yaymayı amaçlayan propaganda türüdür."
+    },
+    {
+      "soruid": 2,
+      "soru_metni": "Sosyal medyada mesajı veren kaynağın, hedef tarafından olumlu değerlendirilmesinin verilen mesajın kabulünü daha da kolaylaştırdığına yönelik kural aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "İdeoloji kuralı",
+        "B": "Sempati kuralı",
+        "C": "Büyütme kuralı",
+        "D": "Algı yönetimi kuralı",
+        "E": "Uyum kuralı"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Sempati kuralı, kaynağın sevilen veya saygı duyulan biri olmasının, mesajın hedef kitle üzerindeki ikna ediciliğini artırdığını belirtir."
+    },
+    {
+      "soruid": 3,
+      "soru_metni": "I. Dezenformasyonun kullanıcının duygularından çok akli değerlendirmesine hitap etme\nII. Dezenformasyonun kullanıcıda oluşturacağı etkinin önceden belirlenmiş olması\nIII. Kullanıcıların dezenformasyonun daha çok yayılmasını sağlayabilmesi\nIV. Dezenformasyonun uzun olmasının kullanıcıdaki etkisini artırması\n\nYukarıdaki dezenformasyonun, sosyal medya kullanıcılarıyla etkileşimi ile ilgili ifadelerden hangileri doğrudur?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "I ve III",
+        "B": "I ve IV",
+        "C": "II ve III",
+        "D": "II ve IV",
+        "E": "III ve IV"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Dezenformasyon genellikle kurgulanmış bir etki (II) hedefler ve kullanıcıların (bilerek veya bilmeyerek) yayılımına katkı sağlamasıyla (III) güçlenir. Akli değerlendirmeden ziyade duygulara hitap eder."
+    },
+    {
+      "soruid": 4,
+      "soru_metni": "I. Düşünürlerin tanımı konusunda uzlaşıyor olması\nII. Doktrin olmakla birlikte insanları etkileme gücünün de olması\nIII. Hiçbir değişiklik yaşamadan varlığını sürdürmesi\nIV. İnanç sistemi ve söylem biçimi ekseninde oluşması\n\nYukarıdaki ideoloji kavramıyla ilgili ifadelerden hangileri doğrudur?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "I ve II",
+        "B": "I ve III",
+        "C": "II ve III",
+        "D": "II ve IV",
+        "E": "III ve IV"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": "İdeolojiler birer doktrindir ve insanları etkiler (II), inanç/söylem eksenindedir (IV). Ancak tanımları üzerinde tam bir uzlaşı yoktur ve zamanla değişebilirler."
+    },
+    {
+      "soruid": 5,
+      "soru_metni": "Aşağıdakilerden hangisi sosyal medyanın kutuplaşmayı artırmasının temel nedenlerinden biridir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Sosyal medyadaki paylaşımların yazılı ve görsel unsurlar içermesi",
+        "B": "Sosyal medyanın kutuplaşmayı önleyecek bir özelliği içermemesi",
+        "C": "Sosyal medyada geçirilen ortalama sürenin fazla olması",
+        "D": "Sosyal medyanın dışarıdan bir denetim sürecine tabi olmaması",
+        "E": "Sosyal medyanın daha fazla insanın tanışmasını sağlaması"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": "Sosyal medyadaki denetimsizlik ve yankı odaları (echo chambers), kullanıcıların sadece kendi görüşlerini teyit eden içeriklerle karşılaşmasına ve kutuplaşmanın artmasına neden olur."
+    },
+    {
+      "soruid": 6,
+      "soru_metni": "Siyasal ve toplumsal olaylara ilişkin kanaatlerin oluşmasında nesnel gerçekliklerden daha çok duyguların ve kişisel etmenlerin rolünün olduğu kabul edilen çağ aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Milenyum çağı",
+        "B": "Post-truth çağı",
+        "C": "Endüstri çağı",
+        "D": "Bilgi çağı",
+        "E": "İnternet çağı"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Post-truth (hakikat sonrası) çağı, nesnel hakikatlerin kamuoyu oluşturmada duygular ve kişisel inançlar kadar etkili olmadığı dönemi ifade eder."
+    },
+    {
+      "soruid": 7,
+      "soru_metni": "Siyasetçilerin genel olarak belirli toplumsal kesimlerin çıkarlarını savunmaları ya da kendileri için hedef kitle olarak belirledikleri grupların beklediği türden bir --- geliştirmeleri demokratik siyasetin doğasıyla uyumludur. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "kültür",
+        "B": "savunma",
+        "C": "siyaset",
+        "D": "dil",
+        "E": "direniş"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": "Siyasetçiler hedef kitlelerine ulaşmak için onlara uygun bir 'dil' ve söylem geliştirirler."
+    },
+    {
+      "soruid": 8,
+      "soru_metni": "Demokrasiye en büyük zararlarından biri, seçmenlerin kendi çıkarlarını savunduğunu düşündükleri parti veya liderler lehinde demokratik değerleri ve adil seçimleri bile feda edebilmeleri olan kavram aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Kutuplaşma",
+        "B": "Manipülasyon",
+        "C": "Siyasi komplo",
+        "D": "Propaganda",
+        "E": "Hizipçilik"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Kutuplaşma, toplumu keskin çizgilerle ayırarak tarafların demokratik değerlerden ziyade kendi gruplarının kazanmasına odaklanmasına neden olur."
+    },
+    {
+      "soruid": 9,
+      "soru_metni": "İletişim teknolojileri ve sosyal medya etkisiyle şekillenen yeni toplum yapısını \"ağ toplumu\" olarak adlandıran bilim insanı aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Castells",
+        "B": "McLuhan",
+        "C": "Aronson",
+        "D": "Pratkanis",
+        "E": "Habermas"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Manuel Castells, enformasyon çağındaki toplum yapısını 'Ağ Toplumu' (Network Society) kavramıyla açıklamıştır."
+    },
+    {
+      "soruid": 10,
+      "soru_metni": "Kamuyu etkilemek amacıyla bir grubun güçlü bir şekilde hissettikleri konu lehine aktif olarak savunuculuk yapmaları olarak tarif edilen kavram aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Yandaşlık",
+        "B": "Muhalefet",
+        "C": "Aktivizm",
+        "D": "Propaganda",
+        "E": "Direnç"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Aktivizm, toplumsal veya politik bir değişim yaratmak amacıyla yapılan aktif savunuculuk ve eylemlilik halidir."
+    },
+    {
+      "soruid": 11,
+      "soru_metni": "Yeni iletişim teknolojisi sistemleri ile ilgili olarak aşağıdaki ifadelerden hangisi yanlıştır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Toplumsal çevrelerce ve özellikle de genç kitle tarafından geç kabul görmüştür.",
+        "B": "İnsanlar sosyal ağlar sayesinde, fazla bir risk almadan ya da bir bedel ödemeden büyük kitleleri harekete geçirebilmektedir.",
+        "C": "Kitleleri içerik ve bilgi paylaşımı noktasında büyük ölçüde özgürleştirmiştir.",
+        "D": "Devlet sırrı sayılabilecek bir bilgi artık bir anda bütün dünyaya yayılabilmektedir.",
+        "E": "Bireyler fotoğraf ve videolar vasıtasıyla anında önemli bir olayı ifşa edebilmektedir."
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Yeni iletişim teknolojileri, özellikle gençler (dijital yerliler) tarafından çok hızlı benimsenmiştir; geç kabul görmüş ifadesi yanlıştır."
+    },
+    {
+      "soruid": 12,
+      "soru_metni": "I. Bilgi toplumuyla birlikte varlık kazanması\nII. Özel alanla hiçbir bağının olmaması\nIII. Kamuoyuna benzer bir oluşum olması\nIV. Sosyal medyanın yeni bir kamusal alan oluşturması\n\nYukarıdaki kamusal alan kavramıyla ilgili ifadelerden hangileri doğrudur?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "I ve III",
+        "B": "I ve IV",
+        "C": "II ve III",
+        "D": "II ve IV",
+        "E": "III ve IV"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": "Kamusal alan kamuoyunun oluştuğu yerdir (III) ve sosyal medya günümüzde yeni bir dijital kamusal alan (IV) işlevi görmektedir."
+    },
+    {
+      "soruid": 13,
+      "soru_metni": "2011'de Londra'da meydana gelen, sosyal medya üzerinden dışarıya kapalı, şifreli mesajlaşma sistemleri kullanılan ve eylemlerin organizasyon ve koordinasyonu bu kapalı gruplar içinde güncellenen ve kamu güvenliği için bir tehdit oluşturan eylemler aşağıdakilerden hangisine örnek verilebilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Pasif dijital kalabalık",
+        "B": "Sanal ağlar",
+        "C": "Sosyal medya istihbaratı",
+        "D": "Terör eylemi",
+        "E": "Dijital örgütlenme"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Bu tür olaylarda kitlelerin bıraktığı dijital izler ve hareketler 'pasif dijital kalabalık' verisi olarak analiz edilir."
+    },
+    {
+      "soruid": 14,
+      "soru_metni": "Aşağıdaki sosyal medyanın ulusal güvenlikle ilişkisiyle ilgili ifadelerden hangisi yanlıştır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Toplumsal olayların organizasyonunda etkili olması",
+        "B": "Siber suçları önlemede etkisinin az olması",
+        "C": "Kişisel bilgilerin korunmasının önem taşıması",
+        "D": "Aranan suçluların bulunmasını sağlaması",
+        "E": "Önemli kişilere ait hesapların korunmasının önem taşıması"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Sosyal medya ve dijital izler, siber suçların takibi ve önlenmesinde (açık kaynak istihbaratı vb. ile) oldukça etkilidir; etkisi az değildir."
+    },
+    {
+      "soruid": 15,
+      "soru_metni": "Aşağıdakilerden hangisi profili herkese açık bir kullanıcının hakaret, nefret söylemi, ayrımcılık ve tehdit içeren \"yani suç unsuru içeren\" paylaşımlarda bulunduğunda, sosyal medyada kullandığı kimliği ne olursa olsun, yeri ve gerçek kimliğinin kolaylıkla tespit edilebilmesini sağlamaktadır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Filtreleme",
+        "B": "Profil",
+        "C": "İstihbarat",
+        "D": "Dijital iz",
+        "E": "Şifre kırma"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": "Dijital iz (digital footprint), kullanıcıların internetteki aktiviteleri sonucu bıraktıkları verilerdir ve kimlik tespitinde kullanılır."
+    },
+    {
+      "soruid": 16,
+      "soru_metni": "Bir sorunun çözümü uzmanlar tarafından bulunamadığında, kitlelerden çözümün sağlanması sürecine ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Sanal istihbarat",
+        "B": "Açık istihbarat",
+        "C": "Sosyal medya istihbaratı",
+        "D": "Dijital kalabalık",
+        "E": "Kitle kaynak"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": "Kitle kaynak (Crowdsourcing), bir işin veya problemin çözümünün geniş halk kitlelerine (kalabalığa) çağrı yapılarak halledilmesidir."
+    },
+    {
+      "soruid": 17,
+      "soru_metni": "Medya merkezli terörizmi, medyanın ilgisini çekecek şekilde ve medya aracılığıyla düzenlenen terör eylemleri olarak tanımlayan bilim insanı aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Ganor",
+        "B": "Martin",
+        "C": "Ludendorff",
+        "D": "Wardlaw",
+        "E": "Kartal"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Gus Martin, terörizmin medya ile olan simbiyotik ilişkisini ve medya odaklı eylem stratejilerini incelemiştir."
+    },
+    {
+      "soruid": 18,
+      "soru_metni": "Birinci Dünya Savaşı Almanya'sının ünlü generallerinden Erich Ludendorff, \"Artık savaşlar silahla değil, sözcüklerle yapılıyor. Silahı değil sözü iyi kullanan savaşı da kazanır.\" ifadesiyle aşağıdaki kavramlardan hangisinin etkisine vurgu yapmaktadır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Terör",
+        "B": "İletişim",
+        "C": "Propaganda",
+        "D": "İkna",
+        "E": "Sosyal medya"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Ludendorff bu sözüyle, modern savaşlarda psikolojik üstünlüğün ve propagandanın (sözcüklerin gücünün) önemini vurgulamıştır."
+    },
+    {
+      "soruid": 19,
+      "soru_metni": "Artık fundamentalist örgütlerin yürüttüğü terör faaliyetlerinin siber savaşa odaklı ve lidersiz, birbirinden bağımsız ve hatta habersiz küçük hücre yapılanmaları yoluyla şiddetli terör eylemleri yapan bir formasyona evrilmesine ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Sanal terörizm",
+        "B": "Radikal terörizm",
+        "C": "Küresel terörizm",
+        "D": "Yalnız kurt terörizm",
+        "E": "Bireysel terör"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": "Yalnız kurt (Lone wolf) terörizmi, merkezi bir emre bağlı olmadan bireysel veya küçük hücreler halinde hareket eden eylemcileri tanımlar."
+    },
+    {
+      "soruid": 20,
+      "soru_metni": "I. Klasik radikalleşmede ilk aşamayı terörist ve radikalleşecek kişinin yüz yüze temasının oluşturması\nII. Sosyal medya üzerinden radikallerin terör eylemi yapmaya ikna edilmesinin mümkün olması\nIII. Sosyal medyadaki radikalleşmenin sadece fundamentalist örgütlerce yapılması\n\nYukarıdaki radikalleşmeyle ilgili ifadelerden hangileri doğrudur?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Yalnız I",
+        "B": "Yalnız II",
+        "C": "I ve II",
+        "D": "I ve III",
+        "E": "II ve III"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Klasik yöntem yüz yüze temasa dayanırken (I), günümüzde sosyal medya uzaktan radikalleşmeyi mümkün kılar (II). III yanlıştır çünkü her türlü radikal grup sosyal medyayı kullanabilir."
+    }
+      ]
+    }
+  ]
+}
