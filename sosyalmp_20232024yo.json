@@ -1,0 +1,293 @@
+{
+  "ders_kodu": "SMY201U",
+  "ders_adi": "SOSYAL MEDYA VE PROPAGANDA",
+  "sinavlar": [
+    {
+      "baslik": "Çıkmış Sınav Soruları Yaz Okulu 2023-2024",
+      "tur": "CIKMIS",
+      "yil": 2023,
+      "sorular": [
+        {
+      "soruid": 1,
+      "soru_metni": "İnsanların evrimsel temelli hedeflerinin olduğunu ve bu hedefler temelinde sosyal etkinin bireyin davranışı üzerinde değişiklik gücü olduğunu söyleyen bilim insanı aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Cialdini",
+        "B": "Griskevicius",
+        "C": "Festinger",
+        "D": "Gouldner",
+        "E": "Adams"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 2,
+      "soru_metni": "Aşağıdakilerden hangisi özellikle nüfusun çoğunluğu tarafından kullanıldığı ülkelerde, birincil propaganda mecrası olarak kabul edilmektedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Sosyal medya",
+        "B": "Televizyon",
+        "C": "Gazete",
+        "D": "Dergi",
+        "E": "Mobil telefon"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 3,
+      "soru_metni": "Genellikle siyasal iktidara karşı halk arasında hoşnutsuzluğu yükseltmek için kullanılan propaganda türü aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Geleneksel",
+        "B": "Yatay",
+        "C": "Gri",
+        "D": "Karışıklık",
+        "E": "Beyaz"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 4,
+      "soru_metni": "Propagandanın toplumdaki diğer bireyler tarafından kabul edilen bir süreç olduğu bilgisini yerleştirmeyi amaçlayan propaganda tekniği aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Uyumlaştırma kuralı",
+        "B": "Orkestrasyon kuralı",
+        "C": "Yayılma kuralı",
+        "D": "Zamanlama kuralı",
+        "E": "Devamlılık ve süreklilik kuralı"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 5,
+      "soru_metni": "Propagandayı, haberleşme araçları kullanılarak hedef grupların belirli durum ya da konumdaki tepkilerini önceden tasarlanmış amaçlar doğrultusunda şekillendirmeye yönelik bilinçli bir faaliyet olarak tanımlayan bilim insanı aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Erbschloe",
+        "B": "Qualter",
+        "C": "Lipmann",
+        "D": "Chomsky",
+        "E": "Jowett"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 6,
+      "soru_metni": "Bir toplumu yönlendirebilmenin en kolay yolunun kararlılık halini çözmek, kararsızlığı pekiştirmek ve içeriği bunun üzerine eklemek olduğu söylenebilir. Aşağıdakilerden hangisi bu bağlamda sosyal medyada en sık uygulanan algı yönetimi tekniklerinden biridir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Çoğunluk üretmek",
+        "B": "Gelecek projeksiyonu oluşturma",
+        "C": "Sürekli tekrar",
+        "D": "Meşruiyet oluşturma",
+        "E": "Çelişkili paylaşım içerikleri üretme"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 7,
+      "soru_metni": "Propaganda yapan kişinin ya da grubun çıkarlarını, taleplerini ve arkasında yatan ideolojiyi belirlemenin zor olduğu propaganda biçimi aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Temsili",
+        "B": "Meşru",
+        "C": "Ideolojik",
+        "D": "Örtülü",
+        "E": "Sınıfsal"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 8,
+      "soru_metni": "Toplumsal medya paylaşımları, ağ günlükleri, bloglar, fotoğraf, video, log dosyaları gibi değişik kaynaklardan toparlanan tüm verinin analiz edilip sınıflandırılmış, anlamlı ve işlenebilir hale dönüştürülmüş biçimine ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Bilgi kirliliği",
+        "B": "Manipülasyon",
+        "C": "Algı yönetimi",
+        "D": "Yanlış bilgi",
+        "E": "Big data"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 9,
+      "soru_metni": "Aşağıdakilerden hangisi Karlova ve Fisher'in yanlış bilgi, zararlı bilgi ve dezenformasyon arasındaki farkları dayandırdığı beş temel unsurdan biri değildir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Bütünlük",
+        "B": "Algılanan gerçeklik",
+        "C": "Aldatıcılık",
+        "D": "Güvenirlik",
+        "E": "Objektif gerçeklik"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 10,
+      "soru_metni": "Değişen dünyada, Steger'in (2005) ifade ettiği gibi en baskın siyasi inanç sistemi olarak belirginlik kazanan ve karşıtlarının dahi kendilerini onun üzerinden tanımladıkları kavram aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Radikaller",
+        "B": "Küreselleşme",
+        "C": "Yeni dünya düzeni",
+        "D": "Liberalizm",
+        "E": "Kapitalizm"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 11,
+      "soru_metni": "I. Güvenilir bulunmadığı için sosyal medyada TV kanallarından bilgi aktarılmaması\nII. Eylemlerin sosyal medya devrimi olarak da görülmesi\nIII. Sosyal medyanın ülke dışındaki destekçilerle irtibat kurulmasını sağlaması\nIV. Protestocuların eylemle birlikte sosyal medyayı kullanmaya başlamaları\n\nYukarıdaki Arap Baharıyla ilgili ifadelerden hangileri doğrudur?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "I ve II",
+        "B": "I ve III",
+        "C": "II ve III",
+        "D": "II ve IV",
+        "E": "III ve IV"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 12,
+      "soru_metni": "En belirgin özelliği demokratik değerlere sıkı sıkıya bağlı olmaları ancak mevcut geleneksel hükümet yapılarının bunu sağlamada yeterli olduğuna inanmamaları ve onlara karşı şüpheci olmaları şeklinde değerlendirilen vatandaş grubuna ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Aktivist",
+        "B": "Eleştirel",
+        "C": "Modern",
+        "D": "Dijital",
+        "E": "Aykırı"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 13,
+      "soru_metni": "Aşağıdakilerden hangisi dünyada kutuplaşmanın artmasının nedenlerinden biri değildir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Çoğulculuğun gelişmesi",
+        "B": "Güvenlik anlayışının değişmesi",
+        "C": "İşsizliğin yükselmesi",
+        "D": "Siyasal kamplaşmanın artması",
+        "E": "Refahın azalması"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 14,
+      "soru_metni": "Belirli bir konu kişi hakkında yoğun şekilde üst düzey mesaj üretimi sağlayan yapıya ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Ağ",
+        "B": "Kampanya",
+        "C": "Trol ordusu",
+        "D": "Yankı odası",
+        "E": "Filtre balonu"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Sorunun tam metni belgede eksik olsa da bağlam 'yoğun mesaj üretimi sağlayan yapı' üzerinedir ve cevap C olarak verilmiştir."
+    },
+    {
+      "soruid": 15,
+      "soru_metni": "Yeni iletişim teknolojisi sistemleri ile ilgili olarak aşağıdaki ifadelerden hangisi yanlıştır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Devlet sırrı sayılabilecek bir bilgi artık bir anda bütün dünyaya yayılabilmektedir.",
+        "B": "Toplumsal çevrelerce ve özellikle de genç kitle tarafından geç kabul görmüştür.",
+        "C": "İnsanlar sosyal ağlar sayesinde, fazla bir risk almadan ya da bir bedel ödemeden büyük kitleleri harekete geçirebilmektedir.",
+        "D": "Kitleleri içerik ve bilgi paylaşımı noktasında büyük ölçüde özgürleştirmiştir.",
+        "E": "Bireyler fotoğraf ve videolar vasıtasıyla anında önemli bir olayı ifşa edebilmektedir."
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 16,
+      "soru_metni": "Demokrasinin kendini koruma yollarından en önemlisi aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Eğitim hakkı",
+        "B": "Yürütme",
+        "C": "Serbest seçimler",
+        "D": "Yasama",
+        "E": "Siyasetçiler"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 17,
+      "soru_metni": "1980'li yıllarda uygulanan, örgütlerin daha ziyade basılı-yazılı neşriyata başvurdukları görülen strateji aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Korku",
+        "B": "Yakın düşman",
+        "C": "Uzak düşman",
+        "D": "Ofansif",
+        "E": "Defansif"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 18,
+      "soru_metni": "Aşağıdakilerden hangisi pasif dijital kalabalık temelli sosyal medya istihbaratı açısından önem taşımamaktadır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Bilginin yayılmasının izlenmesi",
+        "B": "Bilginin olası etkilerinin analizi",
+        "C": "Kaynakların doğrulanması",
+        "D": "Bilgi içeriğinin kaynağının tespiti",
+        "E": "Krize müdahale planlaması yapma"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": "Cevap anahtarı E olarak verilmiştir; ancak soru 2024-2025 Güz Dönemi sınavında da (Soru 7) sorulmuş ve orada cevap B (Krize müdahale...) olarak işaretlenmiştir. İki sınavın cevap anahtarı tutarlıdır."
+    },
+    {
+      "soruid": 19,
+      "soru_metni": "Büyük ölçekli veriler arasından faydalı bilgiye ulaşma işlemi aşağıdaki kavramlardan hangisiyle açıklanmaktadır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Açık istihbarat",
+        "B": "Güvenlik yönetişimi",
+        "C": "Veri madenciliği",
+        "D": "Yapay zekâ",
+        "E": "Toplum mühendisliği"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 20,
+      "soru_metni": "Savaş ve barışın, asker ve sivilin, güvenli ve güvenliksiz alanın belirsizleştiği, konvansiyonel savaşı geçersiz kılan, daha ziyade devlet dışı aktörlerden yararlanılarak yapılan, kazanan ve kaybeden arasındaki farkın da belirsizleştiği savaş aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Örtülü savaş",
+        "B": "Terör savaşı",
+        "C": "Psikolojik savaş",
+        "D": "Dördüncü nesil savaş",
+        "E": "Konvansiyonel savaş"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": ""
+    }}
+      ]
+    }
+  ]
+}
