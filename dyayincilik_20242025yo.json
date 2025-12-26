@@ -1,0 +1,293 @@
+{
+  "ders_kodu": "SMY203U",
+  "ders_adi": "DİJİTAL YAYINCILIK",
+  "sinavlar": [
+    {
+      "baslik": "Çıkmış Sınav Soruları Yaz Okulu 2024-2025",
+      "tur": "CIKMIS",
+      "yil": 2024,
+      "sorular": [
+        {
+      "soruid": 1,
+      "soru_metni": "Alan derinliğinin önemli olduğu bir fotoğraf çekilirken tercih edilen pozlama modu aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "P Program Modu",
+        "B": "AV-A Diyafram Öncelikli Mod",
+        "C": "M Manuel Mod",
+        "D": "TV-S Enstantane Öncelikli Mod",
+        "E": "B Bulb Modu"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Alan derinliği diyafram açıklığı ile kontrol edilir, bu yüzden Diyafram Öncelikli Mod (Av/A) tercih edilir."
+    },
+    {
+      "soruid": 2,
+      "soru_metni": "\"Fi\", \"Görünen Adam\", \"Dip\" ve \"Dudullu Postası\" gibi medya yapımlarının ortak özelliği aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Sadece internet tabanlı platformlar üzerinden izlenmesi",
+        "B": "Animasyon olmaları",
+        "C": "Tamamen yeşil perdede çekilmeleri",
+        "D": "Senaryolarının doğaçlama olması",
+        "E": "Senaryolarının yapay zeka ürünü olması"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 3,
+      "soru_metni": "Aşağıdakilerden hangisi geleneksel medyanın özelliklerinden biri değildir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Kontrol edilebilir.",
+        "B": "Yorumlar sınırlıdır.",
+        "C": "Arşivlere ulaşım sınırlıdır.",
+        "D": "Sabittir, değiştirilemez.",
+        "E": "Paylaşım ve katılım desteklenir."
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": "Geleneksel medyada (TV, Gazete vb.) etkileşim ve katılım sınırlıyken, paylaşım ve katılım yeni medyanın özelliğidir."
+    },
+    {
+      "soruid": 4,
+      "soru_metni": "Otomobiller konusunda bilgiler içeren, otomobil ile ilgili olan uzmanların görüşlerine yer veren, yeni çıkan otomobil değerlendirmelerini bulabileceğimiz bir blog aşağıdaki blog türlerinden hangisine karşılık gelir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Medya blogu",
+        "B": "Topluluk blogu",
+        "C": "Temasal blog",
+        "D": "Kurumsal blog",
+        "E": "Kişisel blog"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Belirli bir tema (otomobil) üzerine yoğunlaştığı için Temasal Blog'dur."
+    },
+    {
+      "soruid": 5,
+      "soru_metni": "Dijital fotoğraf makinelerinin dijital görüntüyü kaydederken kullandığı farklı dosya formatları aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Megapiksel - Renk derinliği - Raw",
+        "B": "Film Algılayıcı -Jpeg",
+        "C": "Pixel - Megapixel - Raw",
+        "D": "Jpeg Raw - Tiff",
+        "E": "CCDCMOS - Tiff"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 6,
+      "soru_metni": "Aşağıdakilerden hangisi dijitalleşmenin film izleyicilerine sağladığı avantajlardan biri değildir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Salon sayılarının artması ve bilet fiyatlarının düşmesi",
+        "B": "İzleyicinin daha fazla katharsis yaşaması",
+        "C": "İzleyicinin kahramanla özdeşleşmesi",
+        "D": "İzleyiciyi özgür kılması",
+        "E": "Tam anlamıyla hazzı artırması"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Dijitalleşme evde izleme olanaklarını artırsa da, salon sayılarının artması veya bilet fiyatlarının düşmesi doğrudan dijitalleşmenin sağladığı bir avantaj olarak tanımlanmaz."
+    },
+    {
+      "soruid": 7,
+      "soru_metni": "Stüdyolarda kameranın aşağı yukarı yönlü hareketi sorunsuz yapmasını sağlamak üzere kullanılan taşıyıcı aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Şaryo",
+        "B": "Slider",
+        "C": "Jimmy jip",
+        "D": "Dolly",
+        "E": "Pedestal"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 8,
+      "soru_metni": "Yeni nesil haber sitelerinde kullanılan, şekil ya da görselle okuyucunun konunun bütününü görmesini sağlayan araç aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Test",
+        "B": "Interaktif",
+        "C": "Video",
+        "D": "Infografik",
+        "E": "Gif"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 9,
+      "soru_metni": "Herhangi bir olaya ilişkin veriler girildikten sonra bu verilerin otomatik olarak işlenip haber metni oluşturulması süreci aşağıdakilerden hangisiyle adlandırılır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Yeni nesil habercilik",
+        "B": "Algoritmik habercilik",
+        "C": "Video haberciliği",
+        "D": "Drone haberciliği",
+        "E": "Savaş haberciliği"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 10,
+      "soru_metni": "Aşağıdakilerin hangisi \"Uluslararası Haber Doğrulama Ağı\" anlamına gelen kısaltmadır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "HMD",
+        "B": "QR",
+        "C": "ARPA",
+        "D": "ENIAC",
+        "E": "IFCN"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 11,
+      "soru_metni": "Aşağıdakilerden hangisi radyo frekanslarından [Orta Dalga] aralığıdır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Bilinmeyen",
+        "B": "3 MHz-30MHz",
+        "C": "30 kHz-300kHz",
+        "D": "300 kHz-3 MHz",
+        "E": "300 MHz-3 GHz"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": "300 kHz - 3 MHz aralığı Orta Frekans (MF) veya Orta Dalga (MW) radyo yayınları için kullanılır."
+    },
+    {
+      "soruid": 12,
+      "soru_metni": "Aşağıdakilerden hangisi halkla İlişkiler uygulamaları aşamalarından biri değildir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Planlama",
+        "B": "Tanıtma",
+        "C": "Araştırma",
+        "D": "Uygulama",
+        "E": "Değerlendirme"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Halkla İlişkiler sürecinin temel aşamaları: Araştırma, Planlama, Uygulama ve Değerlendirme'dir. Tanıtma bu aşamalardan biri olarak sayılmaz."
+    },
+    {
+      "soruid": 13,
+      "soru_metni": "Görsel imlerin, görsel koleksiyonlar aracılığıyla sosyal ağlar ile paylaşılmasını sağlayan sosyal medya sitesi aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Tiktok",
+        "B": "Facebook",
+        "C": "Pinterest",
+        "D": "Youtube",
+        "E": "LinkedIn"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 14,
+      "soru_metni": "En profesyonel ses codeci olarak bilinen, dosya boyutlarını mp3 formatı kadar küçültürken minimum kayba uğratan ses codeci aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Ogg Vorbis",
+        "B": "Flac",
+        "C": "Wma",
+        "D": "DSD",
+        "E": "Wav"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 15,
+      "soru_metni": "isteğe bağlı olarak önceden kaydedilmiş radyo içeriklerine medya serverların web arayüzü üzerinden erişilmesini aşağıdakilerden hangisi ifade eder?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "WEAF",
+        "B": "Dijital radyolink",
+        "C": "Podcast",
+        "D": "Doğrudan akış dijitali",
+        "E": "Ogg vorbis"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 16,
+      "soru_metni": "Kişi ve kurumların internette kendi adlarıyla arama yapıldığında derlenen sonuçlar arasında kendileriyle ilgili bilgi, fotoğraf, belge gibi verilere yer verilmemesini isteme hakkına ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Unutulma hakkı",
+        "B": "Telif hakkı",
+        "C": "Kişilik hakkı",
+        "D": "Güvenlik hakkı",
+        "E": "Gizlilik hakkı"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 17,
+      "soru_metni": "Avrupa Birliği' nin 1995 yılında kabul ettiği ve sonrasında tüm birlik ülkelerinde uygulanmaya başlayan ancak internetin yaygınlaşması ve yeni İletişim teknolojilerinin hızlı değişimi nedeniyle bir süre sonra işlevini yerine getiremez hale gelen düzenleme aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Dijital Akış Regülatörü",
+        "B": "İnternet Ağları Yönergesi",
+        "C": "Sosyal Hayat Kontrolü",
+        "D": "Veri Koruma Direktifi",
+        "E": "Yeni Medya Kuralları"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": "1995 tarihli düzenleme AB Veri Koruma Direktifi'dir (95/46/EC)."
+    },
+    {
+      "soruid": 18,
+      "soru_metni": "Televizyon ve/veya görüntü sinyallerinin geniş bant (kablo/internet/DSL) kullanıcısı aboneler veya izleyicilere internet protokolü üzerinden dağıtıldığı sistemlere ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "IP TV",
+        "B": "Sosyal TV",
+        "C": "HBB TV",
+        "D": "WEB TV",
+        "E": "OTT TV"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 19,
+      "soru_metni": "3B televizyon izlemek için, ekranın önündeki bariyer ile ya da ekrandaki piksellere uygun yerleştirilen silindirik merceklerle sağlanan teknoloji aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Aktif gözlük teknolojisi",
+        "B": "Renk ayrımı gözlük teknolojisi",
+        "C": "Kutuplaşmış gözlük teknolojisi",
+        "D": "Obtüratörlü gözlük teknolojisi",
+        "E": "Gözlüksüz teknoloji"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": "Paralaks bariyer veya lentiküler mercek sistemleri, gözlük gerektirmeyen (Auto-stereoscopic) 3D teknolojileridir."
+    },
+    {
+      "soruid": 20,
+      "soru_metni": "\"İnternet Ortamında Yapılan Yayınların Düzenlenmesi ve Bu Yayınlar Yoluyla İşlenen Suçlarla Mücadele Edilmesi Hakkındaki Kanun\" hangi yılda yürürlüğe girmiştir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "1999",
+        "B": "2001",
+        "C": "2007",
+        "D": "2010",
+        "E": "2017"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "5651 sayılı kanun 2007 yılında yürürlüğe girmiştir."
+    }
+      ]
+    }
+  ]
+}
