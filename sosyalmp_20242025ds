@@ -1,0 +1,293 @@
+{
+  "ders_kodu": "SMY201U",
+  "ders_adi": "SOSYAL MEDYA VE PROPAGANDA",
+  "sinavlar": [
+    {
+      "baslik": "Çıkmış Sınav Soruları Yaz Okulu 2024-2025",
+      "tur": "CIKMIS",
+      "yil": 2024,
+      "sorular": [
+       {
+      "soruid": 1,
+      "soru_metni": "Aşağıdakilerden hangisi Karlova ve Fisher'in yanlış bilgi, zararlı bilgi ve dezenformasyon arasındaki farkları dayandırdığı beş temel unsurdan biri değildir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Bütünlük",
+        "B": "Objektif gerçeklik",
+        "C": "Güvenirlik",
+        "D": "Algılanan gerçeklik",
+        "E": "Aldatıcılık"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 2,
+      "soru_metni": "Genellikle siyasal iktidara karşı halk arasında hoşnutsuzluğu yükseltmek için kullanılan propaganda türü aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Beyaz",
+        "B": "Geleneksel",
+        "C": "Gri",
+        "D": "Karışıklık",
+        "E": "Yatay"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 3,
+      "soru_metni": "\"Kitle İletişim Teorisi\" adlı eserinde medya içeriklerinin bazen farkında olmayarak bile olsa belli değerleri ve normları dayattığını öne süren bilim insanı aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "Jenkins",
+        "E": "McQuail"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 4,
+      "soru_metni": "Propagandanın toplumdaki diğer bireyler tarafından kabul edilen bir süreç olduğu bilgisini yerleştirmeyi amaçlayan propaganda tekniği aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Uyumlaştırma kuralı",
+        "B": "Zamanlama kuralı",
+        "C": "Yayılma kuralı",
+        "D": "Devamlılık ve süreklilik kuralı",
+        "E": "Orkestrasyon kuralı"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 5,
+      "soru_metni": "Muazzam büyüklükteki veri kümelerini araştırmak, analiz etmek ve daha sonra verilerin anlamını çıkarmak için kullanılan bilgisayar destekli sürece ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Duygu analizi",
+        "B": "Sosyal ağ istihbaratı",
+        "C": "Dijital kalabalık",
+        "D": "Bulut sistemi",
+        "E": "Veri madenciliği"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 6,
+      "soru_metni": "Soğuk Savaş yıllarında liberal demokratik rejimlerle yönetilen ülkeler için en büyük tehdit aşağıdakilerden hangisi olarak görülmekteydi?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Anarşizm",
+        "B": "Nükleer savaş",
+        "C": "Liberalizm",
+        "D": "Komünizm",
+        "E": "Faşizm"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 7,
+      "soru_metni": "Aşağıdakilerden hangisi pasif dijital kalabalık temelli sosyal medya istihbaratı açısından önem taşımamaktadır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Bilgi içeriğinin kaynağının tespiti",
+        "B": "Krize müdahale planlaması yapma",
+        "C": "Kaynakların doğrulanması",
+        "D": "Bilginin yayılmasının izlenmesi",
+        "E": "Bilginin olası etkilerinin analizi"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 8,
+      "soru_metni": "Tanışma platformu olarak 2004 yılı başlarında ABD'li seçkin üniversite öğrencileri arasında bir sosyal ağ olarak kullanılmaya başlayan 2005 yılından itibaren, site kullanıcı tabanını üniversite öğrenci ağının ötesine genişletmeye başlayarak herkese üyelik açan sosyal ağ aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Youtube",
+        "B": "Tiktok",
+        "C": "Facebook",
+        "D": "Twitter",
+        "E": "MySpace"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 9,
+      "soru_metni": "Sosyal medya ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Sosyal medyanın sunduğu özgürlük ortamı kullanıcıların yeni fikirler geliştirmesinde etkili olur.",
+        "B": "Sosyal medya kullanımının kutuplaşma açısından her zaman olumsuz etkiler üretmesi gerekmez.",
+        "C": "Sosyal medya aracılığıyla bilgi kaynakları artacağından kişilerin ufku açılabilecek ve farklı yaklaşımlar geliştirmeleri mümkün olacaktır.",
+        "D": "Sosyal medya aracılığıyla kişilerin geçmişte ulaşamayacakları yeni bilgi kaynaklarından beslenmeleri mümkündür.",
+        "E": "Sosyal medya aracılığıyla insanlar karşıt görüşleri tanıdıkça bunlara yönelik düşmanlıkları artabilir."
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 10,
+      "soru_metni": "Aşağıdakilerden hangisi propagandada kullanılan pek çok geleneksel yöntemlerden biri değildir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Hedef kitlenin rasyonel akıl yürütmesinin desteklenmesine yönelik faaliyetler",
+        "B": "Kişilerin korku ve endişe içine sevk edilmesi",
+        "C": "Akılda kalıcı emir kiplerinde kısa cümleler ve sloganlar oluşturarak yönlendirme",
+        "D": "Hedef kitleye yönelik istenen düşünce ve davranışın çoğunluk tarafından yapılıyor gibi gösterilmesi",
+        "E": "Bir otoriteyi referans göstererek belirli düşüncelere ikna etme"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 11,
+      "soru_metni": "Demokrasinin kendini koruma yollarından en önemlisi aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Yürütme",
+        "B": "Eğitim hakkı",
+        "C": "Siyasetçiler",
+        "D": "Serbest seçimler",
+        "E": "Yasama"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 12,
+      "soru_metni": "En genel şekilde toplum içinde siyasal görüşler ve tercihlerin en uçta yer alan iki noktada yoğunlaşması olarak tanımlanabilecek kavram aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Kutuplaşma",
+        "B": "Hegemonya",
+        "C": "Soğuk savaş",
+        "D": "Emperyalizm",
+        "E": "Faşizm"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 13,
+      "soru_metni": "Sosyal medyanın terör örgütleri tarafından kullanımı günümüzde aşağıdakilerden hangisini tehdit eden bir güvenlik problemi olarak değerlendirilmektedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Etnik azınlıkları",
+        "B": "Ulus devletleri",
+        "C": "Düşünce özgürlüğünü",
+        "D": "Küresel ekonomiyi",
+        "E": "Özel hayatın gizliliğini"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 14,
+      "soru_metni": "Fiili itibariyle sonuçları olmasa da gerçekleştirilen fiilin üzerine bina edilen propaganda ile halk kitleleri ve devlet otoritesi arasındaki bağa zarar vermeyi ve koparmayı amaçlayan eylemler bütününe ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Isyan",
+        "B": "Vandalizm",
+        "C": "Toplumsay olay",
+        "D": "Kitlesel eylem",
+        "E": "Terör eylemi"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 15,
+      "soru_metni": "Aşağıdakilerden hangisi, sosyal medyanın bilgi bombardımanı şeklinde içerik sunmasının bir sonucu olarak ortaya çıkan ve bireyin gerçek olmayan bilgileri gerçekmişçesine algılamasına neden olan durumu ifade eder?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Filtreleme",
+        "B": "Psikolojik tepkisellik",
+        "C": "Parasosyal etkileşim",
+        "D": "Prosumer",
+        "E": "Post-truth"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 16,
+      "soru_metni": "Kamuyu etkilemek amacıyla bir grubun, dijital ağlar sayesinde örgütlenen kampanya ve eylemler yoluyla güçlü bir şekilde hissettikleri konu lehine aktif olarak savunuculuk yapmalarına ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Kamu diplomasisi",
+        "B": "Siyasi faaliyet",
+        "C": "Dijital aktivizm",
+        "D": "Propaganda",
+        "E": "Algı yaratma"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 17,
+      "soru_metni": "Yeni iletişim teknolojisi sistemleri ile ilgili olarak aşağıdaki ifadelerden hangisi yanlıştır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Bireyler fotoğraf ve videolar vasıtasıyla anında önemli bir olayı ifşa edebilmektedir.",
+        "B": "Toplumsal çevrelerce ve özellikle de genç kitle tarafından geç kabul görmüştür.",
+        "C": "Devlet sırrı sayılabilecek bir bilgi artık bir anda bütün dünyaya yayılabilmektedir.",
+        "D": "İnsanlar sosyal ağlar sayesinde, fazla bir risk almadan ya da bir bedel ödemeden büyük kitleleri harekete geçirebilmektedir.",
+        "E": "Kitleleri içerik ve bilgi paylaşımı noktasında büyük ölçüde özgürleştirmiştir."
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 18,
+      "soru_metni": "Belirli bir öğretiyi bir kitleye, bir gruba, bir kişiye empoze etmek, telkin etmek, beyin yıkama sürecine tabi tutmaya ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Psikolojik harekât",
+        "B": "Dezenformasyon",
+        "C": "Endoktrinasyon",
+        "D": "Devşirme",
+        "E": "Propaganda"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 19,
+      "soru_metni": "Savaş ve barışın, asker ve sivilin, güvenli ve güvenliksiz alanın belirsizleştiği, konvansiyonel savaşı geçersiz kılan, daha ziyade devlet dışı aktörlerden yararlanılarak yapılan, kazanan ve kaybeden arasındaki farkın da belirsizleştiği savaş türü aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Dördüncü nesil savaş",
+        "B": "Konvansiyonel savaş",
+        "C": "Terör savaşı",
+        "D": "Örtülü savaş",
+        "E": "Psikolojik savaş"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 20,
+      "soru_metni": "Manuel Castells, sosyal yapısı, iletişim teknolojileri ve sosyal medya etkisiyle şekillenen toplumları nasıl adlandırmıştır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Demokratik toplum",
+        "B": "Ağ toplumu",
+        "C": "Modern toplum",
+        "D": "Etkileşimli toplum",
+        "E": "İletişim toplumu"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": ""
+    }
+      ]
+    }
+  ]
+}
