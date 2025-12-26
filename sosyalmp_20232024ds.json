@@ -1,0 +1,293 @@
+{
+  "ders_kodu": "SMY201U",
+  "ders_adi": "SOSYAL MEDYA VE PROPAGANDA",
+  "sinavlar": [
+    {
+      "baslik": "Çıkmış Sınav Soruları DÖnem Sonu 2024-2025",
+      "tur": "CIKMIS",
+      "yil": 2023,
+      "sorular": [
+        {
+      "soruid": 1,
+      "soru_metni": "I. Propagandanın toplumsal yapıya uygun hale getirilerek yerelleştirilmesi\nII. Kaynağın aksi istikametten geldiği izleniminin uyandırılması\nIII. Belirli bir kamu politikası uygulanmadan önce kamuoyu oluşturmak için kullanılması\nIV. Propagandayı yapan kişilerin kim olduğunun belli olması\n\nYukarıdakilerden hangisi ya da hangileri kara propagandanın özellikleri arasında yer almaktadır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Yalnız III",
+        "B": "I ve II",
+        "C": "I ve III",
+        "D": "I ve IV",
+        "E": "II ve III"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 2,
+      "soru_metni": "Hedefe verilen mesajın ögelerinin herhangi bir değerlendirmeden geçmeden önce, bir bütün olarak ele alınacağını belirten propaganda kuralı aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Basitleştirme kuralı",
+        "B": "Yineleme kuralı",
+        "C": "Zamanlama kuralı",
+        "D": "Sempati kuralı",
+        "E": "Sentez kuralı"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 3,
+      "soru_metni": "Küreselleşmenin beraberinde getirdiği dünyanın öncelikli konularının değişmesi, bireyler üzerinde etkili olduğu düşünülen değişiklikler arasında yer almaz?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Küreselleşmenin artan baskısı karşısında ve belki de yanında yerelleşme eğilimlerinin azalması",
+        "B": "Sosyal medya üzerinden de bireylerin kendilerini dünya vatandaşı olarak tanımlamaları",
+        "C": "Eskiden haritadaki yerini dahi bilmedikleri şehirlerden arkadaşlar edinmeleri",
+        "D": "Dünyadaki gelişmeleri yakından takip etmeleri",
+        "E": "Farklı kıtalarda ortaya çıkan siyasi direnişlere sanal ortamda destek vermeleri"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 4,
+      "soru_metni": "Bireylerin kendi iradeleri dışında düşünce, tutum ve davranışlarının etkilenmesi ya da yönlendirilmesine ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Bilgi kirliliği",
+        "B": "Manipülasyon",
+        "C": "Zararlı bilgi",
+        "D": "Dezenformasyon",
+        "E": "Yanlış bilgilendirme"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 5,
+      "soru_metni": "Temelde mizahi amaçla doğru olmayan, hatta bir kısmı tamamen absürt birtakım bilgiler paylaşan ve insanların buna inandırılmasını amaçlayan kişi ya da gruplara ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Troll",
+        "B": "Fenomen",
+        "C": "Influencer",
+        "D": "Hacker",
+        "E": "Yandaş"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 6,
+      "soru_metni": "I. Güvenilir bulunmadığı için sosyal medyada TV kanallarından bilgi aktarılmaması\nII. Eylemlerin sosyal medya devrimi olarak da görülmesi\nIII. Sosyal medyanın ülke dışındaki destekçilerle irtibat kurulmasını sağlaması\nIV. Protestocuların eylemle birlikte sosyal medyayı kullanmaya başlamaları\n\nYukarıdaki Arap Baharıyla ilgili ifadelerden hangileri doğrudur?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "I ve II",
+        "B": "I ve III",
+        "C": "II ve III",
+        "D": "II ve IV",
+        "E": "III ve IV"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 7,
+      "soru_metni": "Aşağıdakilerden hangisi dünyada kutuplaşmanın artmasının nedenlerinden biri değildir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Refahın azalması",
+        "B": "Çoğulculuğun gelişmesi",
+        "C": "Güvenlik anlayışının değişmesi",
+        "D": "İşsizliğin yükselmesi",
+        "E": "Siyasal kamplaşmanın artması"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 8,
+      "soru_metni": "Demokrasinin kendini koruma yollarından en önemlisi aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Yürütme",
+        "B": "Siyasetçiler",
+        "C": "Serbest seçimler",
+        "D": "Yasama",
+        "E": "Eğitim hakkı"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 9,
+      "soru_metni": "\"Sosyal ağlar tarih boyunca çeşitli şekillerde kurulmuştur; nerede yaşam varsa orada bir sosyal ağ vardır.\" görüşünü ileri süren bilim insanı aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Castells",
+        "B": "Adorno",
+        "C": "Habermas",
+        "D": "McQuail",
+        "E": "Taylor"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 10,
+      "soru_metni": "Sosyal medya kuruluşları tarafından kullanıcının sitede kalış sürecini uzatmak amacıyla sıklıkla kullanılan ve kutuplaştırmayı güçlendiren bir yüzü olduğu söylenen uygulama aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Server",
+        "B": "Ağ güncesi",
+        "C": "Filtre balonu",
+        "D": "Mikro blog",
+        "E": "Eşik bekçisi"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 11,
+      "soru_metni": "Bireylerin özel yaşamlarında toplumun yararına ilişkin konular üzerinde özgürce toplanabildikleri, düşüncelerini yayınlama özgürlükleri garantilenmiş olarak ifade edip tartışabildikleri ve bu arada kamuoyuna benzer bir durum oluşturdukları alana ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Meclis",
+        "B": "Siyasal tem",
+        "C": "Özgür ifade",
+        "D": "Kamusal alan",
+        "E": "Sivil toplum"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 12,
+      "soru_metni": "Kamuyu etkilemek amacıyla bir grubun, dijital ağlar sayesinde örgütlenen kampanya ve eylemler yoluyla güçlü bir şekilde hissettikleri konu lehine aktif olarak savunuculuk yapmalarına ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Algı yaratma",
+        "B": "Propaganda",
+        "C": "Kamu diplomasisi",
+        "D": "Siyasi faaliyet",
+        "E": "Dijital aktivizm"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 13,
+      "soru_metni": "Benmerkezci ağlar sayesinde bilgi de artık kişiselleştirerek zenginleşirken, kullanıcının ilgi alanları dışındaki bilgiler de yok sayılarak bir anlamda -- yok olmuştur. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "değişim",
+        "B": "muhalefet",
+        "C": "denetim",
+        "D": "bilgi derinliği",
+        "E": "seçme özgün"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 14,
+      "soru_metni": "İnsan gibi davranışlar sergileme, sayısal mantık yürütme, hareket, konuşma ve ses algılama gibi birçok yeteneğe sahip yazılımsal ve donanımsal sistemler bütününe ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "",
+        "B": "Yapay zeka",
+        "C": "Sanal gerçeklik",
+        "D": "Arttırılmış gerçeklik",
+        "E": "Android"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 15,
+      "soru_metni": "I. Sert bir liderlik anlayışının olması\nII. Sosyal medyanın gelişiminden önce de internetten propaganda yapmaları\nIII. Faaliyet göstermeleri bir merkez üzerinden\nIV. Günümüzde internet ve sosyal medya olmadan varlıklarını sürdüremeyecek olmaları\n\nYukarıdaki Fundamentalist terör örgütleriyle ilgili ifadelerden hangileri doğrudur?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "I ve II",
+        "B": "I ve III",
+        "C": "I ve IV",
+        "D": "II ve IV",
+        "E": "III ve IV"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 16,
+      "soru_metni": "İhtiyaç duyulan bilgilerin çeşitli analiz yöntemlerinden geçirilerek istifade edecek noktaya (kişi, şirket veya devlet) raporlanması olarak tanımlanan kavram aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Rapor",
+        "B": "Araştırma",
+        "C": "İstihbarat",
+        "D": "Sentez",
+        "E": "Analiz"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 17,
+      "soru_metni": "Her iki tarafın doğrudan çatışma içine girdiği, kurban sayısının da görece az olduğu ve belirli bir siyasi hedef doğrultusunda gerçekleştirilmesinden ötürü sonuçları da daha az yıkıcı gerçekleşen eylemlere ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Konvansiyonel harp",
+        "B": "Misilleme",
+        "C": "Modern savaş",
+        "D": "Hesaplaşma",
+        "E": "Klasik terörizm"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 18,
+      "soru_metni": "Propagandayı \"her türlü bilgi, fikir ve doktrinin belirli bir grubun fikir, his, davranış ve tavırlarını etkileme gayesi güderek dolaylı ve dolaysız şekilde kullanımı\" olarak ifade eden organizasyon aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "NATO",
+        "B": "AB",
+        "C": "OECD",
+        "D": "G20",
+        "E": "UNICEF"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 19,
+      "soru_metni": "1980'li yıllarda uygulanan, örgütlerin daha ziyade basılı-yazılı neşriyata başvurdukları görülen strateji aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Yakın düşman",
+        "B": "Korku",
+        "C": "Ofansif",
+        "D": "Uzak düşman",
+        "E": "Defansif"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 20,
+      "soru_metni": "1990'ların sonunda ilk kez kullanıcıların kendi sayfalarını kişiselleştirmesine izin veren ve Web 2.0 teknolojisini başarıyla kullanan uygulama aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Instagram",
+        "B": "Facebook",
+        "C": "Youtube",
+        "D": "MySpace",
+        "E": "Twitter"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": ""
+    }
+      ]
+    }
+  ]
+}
