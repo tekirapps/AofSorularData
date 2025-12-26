@@ -1,0 +1,293 @@
+{
+  "ders_kodu": "SMY203U",
+  "ders_adi": "DİJİTAL YAYINCILIK",
+  "sinavlar": [
+    {
+      "baslik": "Çıkmış Sınav Soruları Dönem Sonu 2021-2022",
+      "tur": "CIKMIS",
+      "yil": 2021,
+      "sorular": [
+        {
+      "soruid": 1,
+      "soru_metni": "Sosyal medya ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Arşivlere ulaşım kapalıdır.",
+        "B": "Sürekli güncellenebilir.",
+        "C": "Paylaşım ve katılım desteklenir.",
+        "D": "Bütün medyalar kullanılabilir.",
+        "E": "Yorum imkanı sunar."
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Sosyal medyada arşivlere ulaşım genellikle açıktır ve kullanıcılar geçmiş içeriklere erişebilir."
+    },
+    {
+      "soruid": 2,
+      "soru_metni": "_______ birçok dilde farklı kullanıcıların katkılarıyla oluşturulan sanal ansiklopedidir. Yukarıdaki boşluğa uygun düşen ifade aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Swarm",
+        "B": "Wikipedia",
+        "C": "Instagram",
+        "D": "Snapchat",
+        "E": "Whatsapp"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 3,
+      "soru_metni": "Aşağıdakilerin hangisi \"Uluslararası Haber Doğrulama Ağı\" anlamına gelen kısaltmadır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "HMD",
+        "B": "ENIAC",
+        "C": "ARPA",
+        "D": "IFCN",
+        "E": "QR"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 4,
+      "soru_metni": "Yeni nesil haber organizasyonlarını bilgi toplumunda bir ihtiyaç haline getiren özellikler aşağıdakilerin hangisinde birlikte ve doğru olarak verilmiştir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Filtreleme - Etiketleme - Tasarım",
+        "B": "Filtreleme - Kategorizasyon - Çerçeveleme",
+        "C": "Çerçeveleme - Estetik - Tasarım",
+        "D": "Fişleme - Tasarım - Çerçeveleme",
+        "E": "Sınıflandırma - Tasarım - Çerçeveleme"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 5,
+      "soru_metni": "Dijital fotoğrafçılıkta kullanılan bir kavram olan ISO aşağıdakilerden hangisini ifade etmektedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Netlemeyi",
+        "B": "Makinenin diyafram açıklığını",
+        "C": "Sensörlerin ışığa duyarlılık derecesini",
+        "D": "Pozlamayı",
+        "E": "Objektifin odak noktasını"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 6,
+      "soru_metni": "Fotoğrafçılıkta flu netsiz çıktılara sebep olan sonuçları engellemek amacıyla makinenin gövdesiyle beraber üzerine oturttulan üç ayaklı mekanizma aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Kart",
+        "B": "Yazıcı",
+        "C": "Disk",
+        "D": "Program",
+        "E": "Tripod"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 7,
+      "soru_metni": "\"Ana, Dolgu, Arka, Fon, Geri, Tepe\" gibi ön isimleri olan sinema çekim araçlarının genel ifade şekli aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Kamera hareketi",
+        "B": "Işık",
+        "C": "Sahne",
+        "D": "Green Box",
+        "E": "Kamera"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 8,
+      "soru_metni": "Aks çizgisi veya aksiyon ekseni olarak da anılan ____ devamlılıklı kurgunun en önemli parçalarındandır. İki nesne arasındaki hayali bir çizgidir ve seyircinin dikkatinin dağılmadan, yön duygusunun kaybolmadan filme odaklanmasını sağlamaktadır. Yukarıdaki paragrafta boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Stop-motion",
+        "B": "180 derece kuralı",
+        "C": "Yöndeşme",
+        "D": "Chroma key",
+        "E": "Motion capture"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 9,
+      "soru_metni": "Elektronik sinyalleri ve elektrik gücünü yükseltmek veya değiştirmek için kullanılan yarı iletken cihaz aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Encoder",
+        "B": "Osilatör",
+        "C": "Flaman",
+        "D": "Stereo",
+        "E": "Transistör"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 10,
+      "soru_metni": "Radyoculukta isteğe bağlı olarak önceden kaydedilmiş radyo içeriklerine medya serverların web arayüzü üzerinden erişilmesini aşağıdakilerden hangisi ifade eder?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Podcast",
+        "B": "Ogg vorbis",
+        "C": "Sanal yayıncılık",
+        "D": "Internet radyosu",
+        "E": "WEAF"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 11,
+      "soru_metni": "Aşağıdakilerden hangisi dijital radyo yayıncılığında kullanılan sıkıştırma (codec) yöntemlerinden biri değildir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Wav",
+        "B": "Wma",
+        "C": "Aac",
+        "D": "Mp3",
+        "E": "Uplink"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": "Uplink bir sıkıştırma yöntemi değil, uyduya veri gönderme işlemidir."
+    },
+    {
+      "soruid": 12,
+      "soru_metni": "Aşağıdakilerden hangisi 16:9 veya 4:3 en boy oranlarına karşılık dikey çerçeve ile uzun video yayını yapmayı sağlamaktadır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "IGTV",
+        "B": "NVOD",
+        "C": "HBB TV",
+        "D": "IPTV",
+        "E": "OTT TV"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "IGTV (Instagram TV), dikey formatta uzun video yayını için geliştirilmiştir."
+    },
+    {
+      "soruid": 13,
+      "soru_metni": "____ olarak adlandırılan, geleneksel televizyon yayıncılığında izleyicilerin yayın esnasında istediği anda haber ve bilgiye ulaşabilmesini sağlayan bir veri yayınıdır. Yukarıda verilen boşluğa uygun gelen ifade aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Interlaced Scan (Karma Tarama)",
+        "B": "Analog Sistem",
+        "C": "Progressive Scan: (Sabit Tarama)",
+        "D": "Teletekst (Telemetin)",
+        "E": "Uydu Yayını"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 14,
+      "soru_metni": "Güvenli ve kapalı bir şekilde yönetilip geniş bant bir internet ağı üzerinden gelişmiş TV hizmeti veren dijital televizyon yayıncılık platformu aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "HBB TV",
+        "B": "IPTV",
+        "C": "Kablo TV",
+        "D": "Sosyal TV",
+        "E": "OTT TV"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 15,
+      "soru_metni": "İnternet kullanıcıları hakkında verileri toplamayı sağlayan dosyalara ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Tıklanma oranı",
+        "B": "Yazılı ve görsel reklam",
+        "C": "Çerez",
+        "D": "Domain",
+        "E": "Gösterim"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 16,
+      "soru_metni": "Dijital medya, dijital pazarlama ve halkla İlişkiler açısından seslenilen, kısacası hedef alınan kişilere verilen isim aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Grup",
+        "B": "Temsil",
+        "C": "Halk",
+        "D": "Topluluk",
+        "E": "Kitle"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": "B grubu cevap anahtarına göre 'Kitle' (B grubunda B şıkkı, A grubunda E şıkkı) doğru cevaptır. Genellikle 'Hedef Kitle' olarak bilinir."
+    },
+    {
+      "soruid": 17,
+      "soru_metni": "Aşağıdakilerden hangisi halkla ilişkilerde kullanılan ortam ve araçlarından biri değildir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Sosyal Paylaşım Ağları",
+        "B": "Web Siteleri",
+        "C": "Gazete",
+        "D": "Hedef Kitle",
+        "E": "Festival"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": "Hedef kitle bir iletişim aracı değil, iletişimin yöneltildiği gruptur."
+    },
+    {
+      "soruid": 18,
+      "soru_metni": "Kişi ve kurumların internette kendi adlarıyla arama yapıldığında derlenen sonuçlar arasında kendileriyle ilgili bilgi, fotoğraf, belge gibi verilere yer verilmemesini isteme hakkına ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Kişilik hakkı",
+        "B": "Telif hakkı",
+        "C": "Unutulma hakkı",
+        "D": "Gizlilik hakkı",
+        "E": "Güvenlik hakkı"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 19,
+      "soru_metni": "Avrupa Birliği Genel Veri Koruma Yönetmeliği (GDPR) Avrupa Birliği'nin 1995 yılında kabul ettiği ve sonrasında tüm birlik ülkelerinde ... işlevini yerine getiremez hale gelmesi üzerine getirdiği düzenleme aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Yeni Medya Kuralları",
+        "B": "Dijital Akış Regülatörü",
+        "C": "İnternet Ağları Yönergesi",
+        "D": "Veri Koruma Direktifi",
+        "E": "Sosyal Hayat Kontrolü"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": "GDPR'ın yerine geçtiği 1995 tarihli düzenleme 'Veri Koruma Direktifi'dir."
+    },
+    {
+      "soruid": 20,
+      "soru_metni": "Bilginin elektronik ve teknolojik araçlar kullanılarak işlenmesi ve işlenen bilginin aktarılmasını içeren kavrama ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "İletişim",
+        "B": "Internet",
+        "C": "Bilişim",
+        "D": "Teknoloji",
+        "E": "Tecrübe"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": ""
+    }
+      ]
+    }
+  ]
+}
