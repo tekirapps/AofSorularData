@@ -1,0 +1,293 @@
+{
+  "ders_kodu": "SMY203U",
+  "ders_adi": "DİJİTAL YAYINCILIK",
+  "sinavlar": [
+    {
+      "baslik": "Çıkmış Sınav Soruları Yaz Okulu 2024-2025",
+      "tur": "CIKMIS",
+      "yil": 2021,
+      "sorular": [
+        {
+      "soruid": 1,
+      "soru_metni": "Mevcut iletişim teknolojilerinin birçok farklı özelliği ve hizmeti barındıracak biçimde birbirine yakınlaşmasına ne ad verilir? [cite: 5]",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Filtreleme",
+        "B": "Fişleme",
+        "C": "Yöndeşme",
+        "D": "Kategorizasyon",
+        "E": "Tasarım"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 2,
+      "soru_metni": "Belirli bir alan ya da konuda daha özgün ve alanlarında uzman olan insanların oluşturdukları içeriklerin meydana getirdiği blog türüne ne ad verilir? [cite: 17]",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Kurumsal blog",
+        "B": "Temasal blog",
+        "C": "Topluluk blogu",
+        "D": "Medya blogu",
+        "E": "Kişisel blog"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 3,
+      "soru_metni": "Aşağıdakilerin hangisinde ilk çevrimiçi gazete örnekleri birlikte ve doğru olarak verilmiştir? [cite: 32]",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Bordeaux - Paris Matin - Sunday Times",
+        "B": "Bilinmeyen",
+        "C": "The Washington Post - The Tribune - The Times",
+        "D": "The Guardian - The Sun - Daily Mirror",
+        "E": "Le Monde - La Figaro - Paris Match"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 4,
+      "soru_metni": "Üretilen metinler çoğunlukla insan gazeteciler tarafından yazılan bir metinden ayırt edilemez durumda olup; editöryal olanaklardan çok daha fazla bir sayıda ve çok daha kısa bir zamanda oluşturulur. Bu habercilik biçiminin temel amacı zamandan ve insan emeğinden tasarruf etmektir. Yukarıda sözü edilen habercilik biçiminin kavramsal karşılığı hangisidir? [cite: 46, 47, 48, 49]",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Sanal Habercilik",
+        "B": "Akıllı Habercilik",
+        "C": "Ritmik Habercilik",
+        "D": "Dijital Habercilik",
+        "E": "Algoritmik Habercilik"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 5,
+      "soru_metni": "Fotoğraf makinelerinde genelde 30 saniye olan pozlama süresinin dışına çıkmak istediğimizde kullanmamız gereken yöntem aşağıdakilerden hangisidir? [cite: 11]",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Bulb Modu",
+        "B": "Program Modu",
+        "C": "Enstantane Öncelikli modu",
+        "D": "Manuel Mod",
+        "E": "Diyafram Öncelikli Mod"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 6,
+      "soru_metni": "Aşağıdakilerden hangisi dijital fotoğrafçılıkta kullanılan ekipmanlardan biridir? [cite: 24, 25, 26]",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Tiff",
+        "B": "Bilinmeyen",
+        "C": "Bilinmeyen",
+        "D": "Bilinmeyen",
+        "E": "Hafıza kartları"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 7,
+      "soru_metni": "Dijital olarak çekilen ve gösterilen ilk Türk filmi aşağıdakilerden hangisidir? [cite: 58]",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Hacivat Karagöz Neden Öldürüldü? (Ezel Akay, 2006)",
+        "B": "Üç Maymun (Nuri Bilge Ceylan, 2008)",
+        "C": "Eşkıya (Yavuz Turgul, 1996)",
+        "D": "Yeraltı (Zeki Demirkubuz, 2012)",
+        "E": "Cenneti Beklerken (Derviş Zaim, 2006)"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 8,
+      "soru_metni": "Sinema teknolojisinde standartlaştırılmış saniyede kare kayıt ve gösterim hızı aşağıdakilerin hangisidir? [cite: 66, 67]",
+      "resim_url": null,
+      "secenekler": {
+        "A": "10",
+        "B": "13",
+        "C": "17",
+        "D": "24",
+        "E": "30"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 9,
+      "soru_metni": "Radyo alıcısına gelen ses dalgalarını yükseltme görevini üstlenen radyo parçası aşağıdakilerden hangisidir? [cite: 80]",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Modülatör",
+        "B": "Amplifikatör",
+        "C": "Dedektör",
+        "D": "Anten",
+        "E": "Mikrofon"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 10,
+      "soru_metni": "Aşağıdakilerden hangisi bir radyo dalgası çeşidi değildir? [cite: 93]",
+      "resim_url": null,
+      "secenekler": {
+        "A": "FM",
+        "B": "Orta",
+        "C": "Uzun",
+        "D": "Yüksek",
+        "E": "Kısa"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 11,
+      "soru_metni": "Dosya boyutlarını mp3 formatı kadar küçültebilirken minimum kayba uğratan ve en profesyonel ses codeci aşağıdakilerden hangisidir? [cite: 107, 109, 110]",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Aac",
+        "B": "Wma",
+        "C": "Flac",
+        "D": "Ogg Vorbis",
+        "E": "Alac"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 12,
+      "soru_metni": "Aşağıdakilerden hangisi televizyondaki yayınların iletim türlerinden biri değildir? [cite: 119, 121, 122]",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Karasal Yayın",
+        "B": "Yayın",
+        "C": "Internet",
+        "D": "Uydu yayını",
+        "E": "Kablo TV"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 13,
+      "soru_metni": "Aşağıdakilerden hangisi analog televizyon profesyonel formatlarından biridir? [cite: 138]",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Cartrivision",
+        "B": "EIAJ-1",
+        "C": "U-Matic",
+        "D": "VHS",
+        "E": "CVC"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 14,
+      "soru_metni": "Üç Boyutlu Televizyon stereoskopik görüntüyü temel almaktadır. Yukarıdaki boşluğu aşağıdakilerden hangisi doğru şekilde tamamlar? [cite: 86, 87, 88]",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Peoplemeter",
+        "B": "IPTV",
+        "C": "Personmeter",
+        "D": "stereoskopik",
+        "E": "OTT TV"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 15,
+      "soru_metni": "İnternet kullanıcıları hakkında verileri toplamayı sağlayan dosyalara ne ad verilir? [cite: 97, 102, 103, 104, 105]",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Çerez (Cookie)",
+        "B": "Bilinmeyen",
+        "C": "Bilinmeyen",
+        "D": "Bilinmeyen",
+        "E": "Bilinmeyen"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 16,
+      "soru_metni": "Dijital ortama aktarılan bağımsız farklı materyallerin bilgisayar ortamı sayesinde birleştirilerek yeni nesnelerin oluşturulması İşlemidir. Örnek olarak bir filmin ses ve görüntünün birleştirilmesi olarak gösterilebilir. Yukarıdaki boşluğu aşağıdakilerden hangisi doğru şekilde tamamlar? [cite: 124, 125, 126]",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Modülerlik",
+        "B": "Kod Çevrimi",
+        "C": "Otomasyon",
+        "D": "Değişkenlik",
+        "E": "Sayısal Temsil"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 17,
+      "soru_metni": "Aşağıdakilerden hangisi halkla ilişkiler kampanyalarında uygulama aşamalarından biridir? [cite: 144, 145]",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Deneme",
+        "B": "Sürdürme",
+        "C": "Takip",
+        "D": "Gözleme",
+        "E": "Değerlendirme"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 18,
+      "soru_metni": "Aşağıdakilerden hangisi Avrupa Birliği Genel Veri Koruma Yönetmeliği'ne göre verinin İşlenmesi sırasında uyulması gereken temel prensiplerden biri değildir? [cite: 156, 157]",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Kişisel veriler hukuka uygun, adil ve şeffaf bir biçimde işlenmesi",
+        "B": "Kişisel verilerin belirli, açık ve meşru amaçlarla toplanması",
+        "C": "Kişisel verilerin işlenme amacından daha uzun süre tutulmaması",
+        "D": "Kişisel verilerin doğru ve gerekli hallerde güncel tutulması",
+        "E": "Kişisel verilerin, veri sahibinin onayı olmadan işlenmesi"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 19,
+      "soru_metni": "TCK madde 244 göre sistemi engelleme, bozma, verileri yok etme veya değiştirme fiillerinden herhangi birinin banka veya kamu kurumuna ait bilişim sistemi üzerinden gerçekleştirilmesi suçu nitelikli hale getirecek ve cezasını ____ oranında artıracaktır. [cite: 176, 177]",
+      "resim_url": null,
+      "secenekler": {
+        "A": "1/2",
+        "B": "1/3",
+        "C": "1 kat",
+        "D": "2 kat",
+        "E": "4 kat"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 20,
+      "soru_metni": "Internet ortamı üzerinden kullanıcılara sunulan her türlü bilgi veya veriyi üreten, değiştiren ve sağlayan gerçek veya tüzel kişilere verilen isim hangisidir? [cite: 160, 161]",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Veri hazırlayan",
+        "B": "Yazıcı",
+        "C": "Programcı",
+        "D": "İçerik sağlayıcı",
+        "E": "Yayına hazırlayan"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": ""
+    }
+      ]
+    }
+  ]
+}
