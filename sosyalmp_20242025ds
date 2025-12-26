@@ -3,6 +3,11 @@
   "ders_adi": "SOSYAL MEDYA VE PROPAGANDA",
   "sinavlar": [
     {
+      "baslik": "Çıkmış Sınav Soruları Dönem Sonu 2024-2025",
+      "tur": "CIKMIS",
+      "yil": 2024,
+      "sorular": [
+        {
       "soruid": 1,
       "soru_metni": "Ukrayna'da 2014 yılındaki olaylar sırasında, özellikle Rus kaynaklı sahte haberlerle mücadele etmek amacıyla bir grup gönüllü aktivist ve gazeteci tarafından başlatılan karşı propaganda hareketine ne ad verilir?",
       "resim_url": null,
