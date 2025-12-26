@@ -1,0 +1,293 @@
+{
+  "ders_kodu": "SMY201U",
+  "ders_adi": "SOSYAL MEDYA VE PROPAGANDA",
+  "sinavlar": [
+    {
+      "baslik": "Çıkmış Sınav Soruları Ara Dönem 2023-2024",
+      "tur": "CIKMIS",
+      "yil": 2024,
+      "sorular": [
+        {
+      "soruid": 1,
+      "soru_metni": "Sosyal bir varlık olan insanın kendisinin ne kadar \"iyi\", \"kötü\", \"başarılı\", ya da \"başarısız\" olduğunu anlayabilmek amacıyla dışarıdan aldığı sosyal ipuçlarını kullandığını ifade eden bilim insanı aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Goldstein",
+        "B": "Festinger",
+        "C": "Freedman",
+        "D": "Griskevicius",
+        "E": "Palmer"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Leon Festinger'in Sosyal Karşılaştırma Teorisi, bireylerin kendilerini değerlendirmek için başkalarıyla karşılaştırma yaptıklarını ifade eder."
+    },
+    {
+      "soruid": 2,
+      "soru_metni": "Siyasal ya da toplumsal otoritelerin yukarıdan halka empoze ettikleri propaganda çeşidi aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Dikey propaganda",
+        "B": "Amacına göre propaganda",
+        "C": "Kara propaganda",
+        "D": "Kaynağına göre propaganda",
+        "E": "Yatay propaganda"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Dikey propaganda, bir lider, teknokrat ya da siyasi parti gibi bir otoriteden kitleye doğru yukarıdan aşağıya yapılan propagandadır."
+    },
+    {
+      "soruid": 3,
+      "soru_metni": "Propagandayı, haberleşme araçları kullanılarak hedef grupların belirli durum ya da konumdaki tepkilerini önceden tasarlanmış amaçlar doğrultusunda şekillendirmeye yönelik bilinçli bir faaliyet olarak tanımlayan bilim insanı aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Lipmann",
+        "B": "Erbschloe",
+        "C": "Chomsky",
+        "D": "Jowett",
+        "E": "Qualter"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": "Terence Qualter, propagandayı belirli bir amaç doğrultusunda bilinçli bir şekillendirme faaliyeti olarak tanımlamıştır."
+    },
+    {
+      "soruid": 4,
+      "soru_metni": "Sosyal medya ağları diğer sosyal medya platformlarından ayırt eden temel özellik aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Hız",
+        "B": "Kapsama alanı",
+        "C": "Etkileşim",
+        "D": "Erişim kolaylığı",
+        "E": "Ücret"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Sosyal medya ağlarını geleneksel medyadan ve diğer platformlardan ayıran en temel özellik, kullanıcıların içerik üretimine ve paylaşıma katılabildiği 'etkileşim'dir."
+    },
+    {
+      "soruid": 5,
+      "soru_metni": "Propagandanın toplumdaki diğer bireyler tarafından kabul edilen bir süreç olduğu bilgisini yerleştirmeyi amaçlayan propaganda tekniği aşağıdakilerde hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Yayılma kuralı",
+        "B": "Uyumlaştırma kuralı",
+        "C": "Zamanlama kuralı",
+        "D": "Devamlılık ve süreklilik kuralı",
+        "E": "Orkestrasyon kuralı"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Uyumlaştırma kuralı, bireye düşüncesinin tek olmadığını, toplumun geneli tarafından paylaşıldığını hissettirerek onu propagandaya uymaya yöneltir."
+    },
+    {
+      "soruid": 6,
+      "soru_metni": "Mesajı veren kaynağın hedef tarafından olumlu değerlendirilmesinin verilen mesajın kabulünü daha da kolaylaştırdığına yönelik kural aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Sempati kuralı",
+        "B": "(Seçenek Eksik)",
+        "C": "(Seçenek Eksik)",
+        "D": "Tek hedef",
+        "E": "Abartma"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Sempati kuralı, propagandacının veya kaynağın sevilmesinin, mesajın kabul edilebilirliğini artırdığını belirtir. (Not: Seçenek A metinde eksik olsa da cevap anahtarına göre doğru seçenek A'dır ve tanım Sempati Kuralı'na aittir)."
+    },
+    {
+      "soruid": 7,
+      "soru_metni": "Genellikle çevrim içi gruplarda verdikleri mesajlarla insanların duygularını dengesizleştirerek grup içinde verimsiz tartışma çıkmasını sağlayan ya da ana tartışma konusu saptırarak meselenin konuşulmaz hâle gelmesine sebebiyet veren sosyal medya kullanıcılarına ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Twitter kullanıcıları",
+        "B": "Hackerlar",
+        "C": "Internet trolleri",
+        "D": "Manipülasyon ekipleri",
+        "E": "Bilgisayar korsanları"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "İnternet trolleri, provokatif ve konu dışı gönderilerle tartışma ortamını bozan ve duygusal tepkiler yaratmayı amaçlayan kullanıcılardır."
+    },
+    {
+      "soruid": 8,
+      "soru_metni": "I. Paylaşımların altına olumlu-olumsuz yorumlar yazılması\nII. Sahte hesaplar aracılığıyla paylaşımlar yapılması\nIII. Bireylerden çok toplulukların hedef alınması\nIV. Multimedya eklentileri de içinde barındıran, görsel ve sembollerin kullanılması\n\nYukarıdakilerden hangisi ya da hangileri siber takımların ve trollerin sosyal medyada kullandıkları manipülasyon yöntemleri arasında yer almaz?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Yalnız III",
+        "B": "I ve II",
+        "C": "I ve III",
+        "D": "II ve IV",
+        "E": "I, II ve IV"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Troller ve siber takımlar genellikle bireyleri de hedef alarak taciz ve manipülasyon yaparlar, sadece toplulukları hedef almazlar."
+    },
+    {
+      "soruid": 9,
+      "soru_metni": "Dünyada gerçekleşen büyük kırılmaların öncelikli olarak zihinsel bir dönüşüm temelinde gerçekleşiyor olmasının anlaşılmasıyla aşağıdakilerden hangisinin sürekliliğinin önemli olduğu fark edilmiştir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Manipülasyon",
+        "B": "Siyaset",
+        "C": "Ideoloji",
+        "D": "Propaganda",
+        "E": "Temsil"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Zihinsel dönüşüm ve algı yönetimi süreçlerinde manipülasyonun sürekliliği, kitlelerin yönlendirilmesinde kritik bir rol oynar."
+    },
+    {
+      "soruid": 10,
+      "soru_metni": "Psikolojik manipülasyon yöntemlerini kullanarak temel insani kusurlardan sosyal medya sayesinde etkin bir şekilde faydalandığı görülen kavram aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Propaganda",
+        "B": "Algı",
+        "C": "Kamuoyu",
+        "D": "Baskı",
+        "E": "Ideoloji"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Propaganda, insan psikolojisinin zaaflarını (korku, öfke, aidiyet vb.) kullanarak kitleleri etkilemeyi amaçlar."
+    },
+    {
+      "soruid": 11,
+      "soru_metni": "Bir sabah kansere neden olmakla suçlanan bir besinin, ertesi gün başka bir sosyal medya paylaşımında kanserin ilacı olarak gösterilebilmesi aşağıdakilerden hangisine örnektir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Demagoji",
+        "B": "Manipülasyon",
+        "C": "Bilgi kirliliği",
+        "D": "Kasıt",
+        "E": "Yalan haber"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Çelişkili ve doğruluğu teyit edilmemiş bilgilerin yayılması bilgi kirliliğinin (enformasyon kirliliği) tipik bir örneğidir."
+    },
+    {
+      "soruid": 12,
+      "soru_metni": "İdeolojik duruşuna zarar verme ihtimali bulunan malumatı sansürleme, kendi ideolojik propagandasına yarayacak kısmı alarak, malumatın bütününü aktarmama ya da gizlemeye ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Göz ardı etme",
+        "B": "Meşruiyetini yok etme",
+        "C": "Örtülü propaganda",
+        "D": "Oto kontrol",
+        "E": "Yanlış temsil"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": "Yanlış temsil (Misrepresentation), gerçeğin bir kısmını gizleyerek veya bağlamından kopararak ideolojiye uygun hale getirme stratejisidir."
+    },
+    {
+      "soruid": 13,
+      "soru_metni": "İdeolojiyi devletlerin kendi varlıklarını sürdürmek için kullandıkları araçlar olarak gören filozof aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Adorno",
+        "B": "Marks",
+        "C": "Althusser",
+        "D": "Gramsci",
+        "E": "Horkheimer"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Karl Marx, ideolojiyi egemen sınıfın (ve devletin) çıkarlarını meşrulaştıran ve devam ettiren bir araç olarak görmüştür."
+    },
+    {
+      "soruid": 14,
+      "soru_metni": "Toplumsal medya paylaşımları, ağ günlükleri, bloglar, fotoğraf, video, log dosyaları gibi değişik kaynaklardan toparlanan tüm verinin analiz edilip sınıflandırılmış, anlamlı ve işlenebilir hale dönüştürülmüş biçimine ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Yanlış bilgi",
+        "B": "Manipülasyon",
+        "C": "Algı yönetimi",
+        "D": "Yanlış bilgi",
+        "E": "Big data"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": "Big Data (Büyük Veri), çeşitli dijital kaynaklardan elde edilen devasa veri yığınlarının işlenmiş ve anlamlandırılmış halidir."
+    },
+    {
+      "soruid": 15,
+      "soru_metni": "Belli bir grup, çevre ya da ideolojiye mensup olanların kendi aralarında kullandıkları ezoterik ifadeler bütününe ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Temsil",
+        "B": "Mit",
+        "C": "Hitap",
+        "D": "Jargon",
+        "E": "Ideoloji"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": "Jargon, belirli bir grubun üyeleri arasında kullanılan, dışarıdakilerin anlamayabileceği özel dil veya terminolojidir."
+    },
+    {
+      "soruid": 16,
+      "soru_metni": "Bir toplumu yönlendirebilmenin en kolay yolunun kararlılık halini çözmek, kararsızlığı pekiştirmek ve içeriği bunun üzerine eklemek olduğu söylenebilir. Aşağıdakilerden hangisi bu bağlamda sosyal medyada en sık uygulanan algı yönetimi tekniklerinden biridir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Gelecek projeksiyonu oluşturma",
+        "B": "Sürekli tekrar",
+        "C": "Çoğunluk üretmek",
+        "D": "Çelişkili paylaşım içerikleri üretme",
+        "E": "Meşruiyet oluşturma"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": "Çelişkili paylaşımlar, hedef kitlede kafa karışıklığı ve kararsızlık yaratarak mevcut inançları sarsmak ve yeni algıları yerleştirmek için kullanılır."
+    },
+    {
+      "soruid": 17,
+      "soru_metni": "\"İnsan aklının erebileceği olgu, gerçek ve ilkelerin bütünü; öğrenme, araştırma veya gözlem yolu ile elde edilen gerçek\" olarak tanımlanan kavram aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Beceri",
+        "B": "Bilgi",
+        "C": "Gelişim",
+        "D": "Eğitim",
+        "E": "Enformasyon"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Bu tanım, 'Bilgi' kavramının sözlük ve akademik karşılığıdır."
+    },
+    {
+      "soruid": 18,
+      "soru_metni": "Aşağıdakilerden hangisi Malcolm B. Hamilton'ın, ideolojinin farklı kavramsal çerçeveler göz önünde tutulduğunda birçok bileşeninin olabileceğinden söz ettiği bileşenlerden biri değildir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Kimi zaman yanlış, genelleme ve basitleştirmelere dayalı bileşenler içerdiği",
+        "B": "Bireyin ya da grubun dünya ile ilişkisi üzerinden tanımlanabileceği",
+        "C": "İçinde takipçilerini duygusal olarak etkileyen bir coşku ve tutku barındırdığı",
+        "D": "Sosyal ve siyasal gerçekliği anlamaya ve açıklamaya çalıştığı",
+        "E": "İspata açık olduğu, doğrulamanın mümkün olduğu"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Cevap anahtarı B olarak verilmiştir."
+    },
+    {
+      "soruid": 19,
+      "soru_metni": "Propaganda yapan kişinin ya da grubun çıkarlarını, taleplerini ve arkasında yatan ideolojiyi belirlemenin zor olduğu bir propaganda biçimi aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Ideolojik propaganda",
+        "B": "Kara propaganda",
+        "C": "Açık propaganda",
+        "D": "Örtülü propaganda",
+        "E": "Gri propaganda"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": "Örtülü propaganda, kaynağın ve amacın gizlendiği, fark edilmesinin zor olduğu propaganda türüdür."
+    },
+    {
+      "soruid": 20,
+      "soru_metni": "Karlova ve Fisher, yanlış bilgi, zararlı bilgi ve dezenformasyon arasındaki temel farkları beş temel unsura dayandırmaktadır. Aşağıdakilerden hangisi bunlardan biri değildir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Bütünlük",
+        "B": "Öznel gerçeklik",
+        "C": "Geçerlilik",
+        "D": "Aldatıcılık",
+        "E": "Algılanan gerçeklik"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Karlova ve Fisher'ın modelinde Öznel Gerçeklik (Subjective Reality) genellikle temel bir ayırt edici kriter olarak sayılmaz."
+    }
+      ]
+    }
+  ]
+}
