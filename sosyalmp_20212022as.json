@@ -1,0 +1,293 @@
+{
+  "ders_kodu": "SMY201U",
+  "ders_adi": "SOSYAL MEDYA VE PROPAGANDA",
+  "sinavlar": [
+    {
+      "baslik": "Çıkmış Sınav Soruları Ara Dönem 2021-2022",
+      "tur": "CIKMIS",
+      "yil": 2021,
+      "sorular": [
+        {
+      "soruid": 1,
+      "soru_metni": "I. Sosyal medya şirketlerinin yayınladıkları reklamları üçüncü şahısların denetimine açması,\nII. Hangi hesapların sahte olduğunu bulan yapay zeka uygulamalarının yetersiz olması,\nIII. Sosyal medya şirketlerinin hiçbir kullanıcı şikayetini dikkate almaması,\nIV. Sosyal medya şirketlerinin uygulamalarıyla ilgili bilgi paylaşmada isteksiz davranması,\n\nYukarıdaki ifadelerden hangisi sosyal medyadaki propaganda ile mücadeledeki zorluklar arasında yer almaktadır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Yalnız II",
+        "B": "Yalnız III",
+        "C": "II ve III",
+        "D": "II ve IV",
+        "E": "III ve IV"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 2,
+      "soru_metni": "Sinema filmi aracılığıyla gerçekleştirilen propaganda faaliyetleri, konusuna göre aşağıdaki hangi propaganda türü olarak değerlendirilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Askeri",
+        "B": "Ekonomik",
+        "C": "Siyasal",
+        "D": "Geleneksel",
+        "E": "Sosyolojik"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 3,
+      "soru_metni": "Propagandayı, haberleşme araçları kullanılarak hedef grupların belirli durum ya da konumdaki tepkilerini önceden tasarlanmış amaçlar doğrultusunda şekillendirmeye yönelik bilinçli bir faaliyet olarak tanımlayan bilim insanı aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Chomsky",
+        "B": "Erbschloe",
+        "C": "Lipmann",
+        "D": "Jowett",
+        "E": "Qualter"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 4,
+      "soru_metni": "Yalan ve gerçeğin aynı anda kullanılması nedeniyle hedef kitlenin, gerçeği yalandan ayırt edememesine yol açan propagandaya ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Beyaz propaganda",
+        "B": "Dikey propaganda",
+        "C": "Kara propaganda",
+        "D": "Karışık propaganda",
+        "E": "Gri propaganda"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 5,
+      "soru_metni": "Propaganda faaliyetinin etkili olabilmesi için hedef kitleye ait önyargıların tekrarlanması yöntemine ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Yanlış yönlendirme tekniği",
+        "B": "Kişiliği yok etme tekniği",
+        "C": "Aşılama tekniği",
+        "D": "Olumlu çağrışım tekniği",
+        "E": "İsim takma tekniği"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 6,
+      "soru_metni": "I. Paylaşımların altına olumlu-olumsuz yorumlar yazılması,\nII. Sahte hesaplar aracılığıyla paylaşımlar yapılması,\nIII. Bireylerden çok toplulukların hedef alınması,\nIV. Görsel ve sembollerin kullanılması,\n\nYukarıdakilerden hangisi siber takımların ve trollerin sosyal medyada kullandıkları manipülasyon yöntemleri arasında yer almaz?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Yalnız III",
+        "B": "I ve II",
+        "C": "I ve III",
+        "D": "I ve IV",
+        "E": "II ve IV"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 7,
+      "soru_metni": "Sosyal medyada mesajı veren kaynağın, hedef tarafından olumlu değerlendirilmesinin verilen mesajın kabulünü daha da kolaylaştırdığına yönelik kural aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Uyum kuralı",
+        "B": "Büyütme kuralı",
+        "C": "Sempati kuralı",
+        "D": "Ideoloji kuralı",
+        "E": "Algı yönetimi kuralı"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 8,
+      "soru_metni": "Propagandada kullanılan mesajın tek hedefi içeriyor olması gerektiğini belirten propaganda tekniğine ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Otorite Kuralı",
+        "B": "Basitleştirme Kuralı",
+        "C": "Yineleme Kuralı",
+        "D": "Yayılma Kuralı",
+        "E": "Benimsenme Kuralı"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 9,
+      "soru_metni": "Sosyal medyadaki bir paylaşımın ne kadar çok etkileşime sahip olursa o kadar doğru olduğu kanaatini oluşturmaya çalışan propaganda yöntemi aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Sosyal onaylama ihtiyacı yöntemi",
+        "B": "Basitleştirme yöntemi",
+        "C": "Enderlik yöntemi",
+        "D": "Uzmanlık yöntemi",
+        "E": "Benzerlik yöntemi"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 10,
+      "soru_metni": "I. Sosyal medya hesaplarına kullanıcıların şifreyle girmeleri,\nII. Sosyal medyada, kullanıcıların içerikleri hem üreten hem de tüketen olmaları,\nIII. Sosyal medyanın daha çok gençler tarafından kullanılması,\nIV. Sosyal medyada anonimitenin daha çok görünmesi,\n\nYukarıdakilerden hangisi sosyal medyadaki propagandanın gücünü artırmada etkilidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Yalnız IV",
+        "B": "I ve II",
+        "C": "II ve III",
+        "D": "II ve IV",
+        "E": "III ve IV"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 11,
+      "soru_metni": "Herhangi bir konuda uzman veya otoriterlerden çok toplumun kendi içinde üretilip yayılan, birbiriyle çelişir durumdaki birden fazla yanlış değerlendirmeyi içeren ve bazı durumlarda inandırıcılığın artırılması için komplo teorilerinden destek alan iddialara \".......\" denilmektedir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "propaganda",
+        "B": "bilgi kirliliği",
+        "C": "algı yönetimi",
+        "D": "manipülasyon",
+        "E": "enformasyon"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 12,
+      "soru_metni": "I. Uzman bir ekibin sistematik çalışmalarıyla ortaya çıkmaktadır.\nII. Çoğu zaman algı yönetiminin bir parçası olarak sürdürülmektedir.\nIII. Gerçek bilginin eksik sunulmasıyla ortaya çıkmaktadır.\nIV. Zarar verici bir niyet içermemektedir.\n\n\"Yanlış Bilgi\" kavramıyla ilgili yukarıdaki ifadelerden hangisi/hangileri doğrudur?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Yalnız I",
+        "B": "Yalnız II",
+        "C": "I ve II",
+        "D": "I, II ve III",
+        "E": "Yalnız IV"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": "Yanlış bilgi (misinformation), hatalı olsa da zarar verme kastı taşımayan bilgidir. Dezenformasyon ise kasıtlıdır."
+    },
+    {
+      "soruid": 13,
+      "soru_metni": "Bir toplumu yönlendirebilmenin en kolay yolunun kararlılık halini çözmek, kararsızlığı pekiştirmek ve içeriği bunun üzerine eklemek olduğu söylenebilir. Aşağıdakilerden hangisi bu bağlamda sosyal medyada en sık uygulanan algı yönetimi tekniklerinden biridir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Sürekli tekrar",
+        "B": "Çelişkili paylaşım içerikleri üretme",
+        "C": "Meşruiyet oluşturma",
+        "D": "Çoğunluk üretmek",
+        "E": "Gelecek Projeksiyonu Oluşturma"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 14,
+      "soru_metni": "Aşağıdakilerden hangisi genellikle üzerinde oynanmış fotoğraflar, sahte görüntüler ve ses kayıtları gibi kurgulanmış gerçekliklerden yararlanır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Dezenformasyon",
+        "B": "Bilgi Kirliliği",
+        "C": "Yanlış Bilgi",
+        "D": "Manipülasyon",
+        "E": "Zararlı Bilgi"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 15,
+      "soru_metni": "Aşağıdakilerden hangisi çağdaş bilgi ortamının temel özelliklerinden biri değildir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Bilginin gerçek zamanlı olarak güvenilir kişiler arasında aktarılması ve bilginin sorgulanmasının en aza indirgenmiş olması",
+        "B": "Bilginin hızlı tüketildiği, özel olanın çabucak kamusal hâle gelebildiği platformlar yaratabilme",
+        "C": "Geniş çapta erişim sağlanan, ucuz ve teknoloji temelli bilgi üretme",
+        "D": "Bilgi kaynağının belirsiz hale gelmesi",
+        "E": "Bilginin yayılma hızının giderek arttığı, hızlandırılmış haber döngüsü içeren internete bağlı cihazlara sahip olma"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 16,
+      "soru_metni": "I. Sosyal medya sayesinde ideolojilerin insanlara doğrudan ulaşabilmesi\nII. Herkesin ideolojik propagandadan eşit şekilde etkilenmesi\nIII. Sosyal medyanın siyasetçi ve seçmen ilişkisini azaltması\nIV. Farklı ideolojik propaganda nedeniyle aynı anda farklı ideolojilerden etkilenilmesi\n\nYukarıdaki sosyal medyadaki ideolojik propaganda süreciyle ilgili ifadelerden hangileri doğrudur?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "I ve II",
+        "B": "I ve III",
+        "C": "I ve IV",
+        "D": "II ve IV",
+        "E": "III ve IV"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 17,
+      "soru_metni": "İdeolojiyi geniş çaplı ve bütüncül görüşler ya da doktrinler olarak gören ve devletin bir ideolojiyi dikte etmek yerine makul bir çoğulculuğu sağlaması gerektiğini savunan düşünür kimdir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Weber",
+        "B": "Karl Max",
+        "C": "Plato",
+        "D": "Locke",
+        "E": "John Rawls"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 18,
+      "soru_metni": "Geleneksel medyada yer almayan ve sosyal medyada gerçek isimlerini kullanıp kullanmadıkları bilinmemekle birlikte sosyal medyada yoğun ideolojik propaganda faaliyetinde bulunarak gündemi belirleme gücüne sahip olanlara \"------\" denilmektedir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "trol",
+        "B": "hayalet kanaat oluşturucu",
+        "C": "kanaat önderi",
+        "D": "ideolog",
+        "E": "yorumcu"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 19,
+      "soru_metni": "Aşağıdakilerden hangisi ideolojik propagandanın gerçekleştirilmesinde başvurulan stratejilerden biri değildir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Kişiselleştirme",
+        "B": "Direnç oluşturma",
+        "C": "Meşrulaştırma/Gayrimeşrulaştırma",
+        "D": "İkna",
+        "E": "Temsil/Yanlış Temsil"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Cevap anahtarı A (Kişiselleştirme) olarak verilmiştir."
+    },
+    {
+      "soruid": 20,
+      "soru_metni": "I. Düşünürlerin tanımı konusunda uzlaşıyor olması\nII. Doktrin olmakla birlikte insanları etkileme gücünün de olması\nIII. Hiçbir değişiklik yaşamadan varlığını sürdürmesi\nIV. İnanç sistemi ve söylem biçimi ekseninde oluşması\n\nYukarıdaki ideoloji kavramıyla ilgili ifadelerden hangileri doğrudur?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "I ve II",
+        "B": "I ve III",
+        "C": "II ve III",
+        "D": "II ve IV",
+        "E": "III ve IV"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": ""
+    }
+      ]
+    }
+  ]
+}
