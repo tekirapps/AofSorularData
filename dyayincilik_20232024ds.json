@@ -1,0 +1,293 @@
+{
+  "ders_kodu": "SMY203U",
+  "ders_adi": "DİJİTAL YAYINCILIK",
+  "sinavlar": [
+    {
+      "baslik": "Çıkmış Sınav Soruları Dönem Sonu 2023-2024",
+      "tur": "CIKMIS",
+      "yil": 2023,
+      "sorular": [
+        {
+      "soruid": 1,
+      "soru_metni": "Sosyal medya ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Bütün medyalar kullanılabilir.",
+        "B": "Arşivlere ulaşım kapalıdır.",
+        "C": "Yorum imkanı sunar.",
+        "D": "Paylaşım ve katılım desteklenir.",
+        "E": "Sürekli güncellenebilir."
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Sosyal medya platformlarında paylaşılan içerikler arşivlenir ve genellikle geçmişe dönük erişim mümkündür."
+    },
+    {
+      "soruid": 2,
+      "soru_metni": "Otomobiller konusunda bilgiler içeren, otomobil ile ilgili olan uzmanların görüşlerine yer veren, yeni çıkan otomobil değerlendirmelerini bulabileceğimiz bir blog aşağıdaki blog türlerinden hangisine karşılık gelir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Medya blogu",
+        "B": "Kurumsal blog",
+        "C": "Kişisel blog",
+        "D": "Topluluk blogu",
+        "E": "Temasal blog"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 3,
+      "soru_metni": "Aşağıdakilerin hangisi \"Uluslararası Haber Doğrulama Ağı\" anlamına gelen kısaltmadır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "HMD",
+        "B": "IFCN",
+        "C": "ENIAC",
+        "D": "ARPA",
+        "E": "QR"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 4,
+      "soru_metni": "Herhangi bir olaya ilişkin veriler girildikten sonra bu verilerin otomatik olarak işlenip haber metni oluşturulması süreci aşağıdakilerden hangisiyle adlandırılır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Savaş haberciliği",
+        "B": "Yeni nesil habercilik",
+        "C": "Video haberciliği",
+        "D": "Algoritmik habercilik",
+        "E": "Drone haberciliği"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 5,
+      "soru_metni": "Aşağıdakileden hangisi standart diyafram açıklıklarından biridir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "f2.7",
+        "B": "f3.9",
+        "C": "f5.6",
+        "D": "f12",
+        "E": "f23"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 6,
+      "soru_metni": "Fotoğrafçılıkta flu, netsiz çıktılara sebep olan sonuçları engellemek amacıyla makinenin gövdesiyle beraber üzerine oturtulan üç ayaklı mekanizma aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Program",
+        "B": "Tripod",
+        "C": "Disk",
+        "D": "Kart",
+        "E": "Yazıcı"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 7,
+      "soru_metni": "Kameranın yatay eksen üzerinde sağa ve sola döndüğü hareket aşağıdakilerden hangisiyle adlandırılır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Tilt",
+        "B": "Diyagonal",
+        "C": "180 derece",
+        "D": "Greenbox",
+        "E": "Pan"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 8,
+      "soru_metni": "\"Ana, Dolgu, Arka, Fon, Geri, Tepe\" gibi ön isimleri olan sinema çekim araçlarının genel ifade şekli aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Kamera hareketi",
+        "B": "Sahne",
+        "C": "Işık",
+        "D": "Green Box",
+        "E": "Kamera"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 9,
+      "soru_metni": "Radyoculukta isteğe bağlı olarak önceden kaydedilmiş radyo içeriklerine medya serverların web arayüzü üzerinden erişilmesini aşağıdakilerden hangisi ifade eder?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Podcast",
+        "B": "Doğrudan akış dijitali",
+        "C": "Ogg vorbis",
+        "D": "Dijital radyolink",
+        "E": "WEAF"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 10,
+      "soru_metni": "Aşağıdakilerden hangisi bir radyo dalgası çeşidi değildir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Orta",
+        "B": "FM",
+        "C": "Uzun",
+        "D": "Yüksek",
+        "E": "Kısa"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 11,
+      "soru_metni": "En profesyonel ses codeci olarak bilinen, dosya boyutlarını mp3 formatı kadar küçültürken minimum kayba uğratan ses codeci aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Wma",
+        "B": "Ogg Vorbis",
+        "C": "Wav",
+        "D": "DSD",
+        "E": "Flac"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 12,
+      "soru_metni": "Servis kalitesi olmayan bir internet ağını kullanan, LCD/Plazma TV ekranlarından izlemeye imkan sağlayan internet televizyon yayıncılığı türü aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "IPTV",
+        "B": "OTT TV",
+        "C": "HBB TV",
+        "D": "Sosyal TV",
+        "E": "Geleneksel TV"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 13,
+      "soru_metni": "Üç Boyutlu Televizyon ______ görüntüyü temel almaktadır. Yukarıdaki boşluğu aşağıdakilerden hangisi doğru şekilde tamamlar?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "IPTV",
+        "B": "OTT TV",
+        "C": "Stereoskopik",
+        "D": "Personmeter",
+        "E": "Peoplemeter"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 14,
+      "soru_metni": "Aşağıdakilerden hangisi analog televizyon profesyonel formatlarından biridir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Cartrivision",
+        "B": "EIAJ-1",
+        "C": "Bilinmeyen",
+        "D": "U-Matic",
+        "E": "Bilinmeyen"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 15,
+      "soru_metni": "Aşağıdakilerden hangisi halkla ilişkilerin amaçlarından biri değildir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Kamuoyunun örgütle işini kolaylaştırma",
+        "B": "Örgütü kamuoyuna tanıtma",
+        "C": "Kamuoyu ile yönetim arasında olumlu ilişki kurma",
+        "D": "Kamuoyunu örgüte bağımlı kılma",
+        "E": "Sosyal sorumluluk duygusu oluşturma"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 16,
+      "soru_metni": "Aşağıdakilerden hangisi halkla ilişkiler uygulamaları aşamalarından biri değildir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Uygulama",
+        "B": "Planlama",
+        "C": "Araştırma",
+        "D": "Değerlendirme",
+        "E": "Tanıtma"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 17,
+      "soru_metni": "İnternet kullanıcıları hakkında verileri toplamayı sağlayan dosyalara ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Çerez",
+        "B": "Tıklanma oranı",
+        "C": "Gösterim",
+        "D": "Domain",
+        "E": "Yazılı"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 18,
+      "soru_metni": "TCK madde 244 göre sistemi engelleme, bozma, verileri yok etme veya değiştirme fiillerinden herhangi birinin banka veya kamu kurumuna ait bilişim sistemi üzerinden gerçekleştirilmesi suçu nitelikli hale getirecek ve cezasını ____ oranında artıracaktır.",
+      "resim_url": null,
+      "secenekler": {
+        "A": "1/2",
+        "B": "1/3",
+        "C": "1 kat",
+        "D": "2 kat",
+        "E": "4 kat"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 19,
+      "soru_metni": "Kişi ve kurumların internette kendi adlarıyla arama yapıldığında derlenen sonuçlar arasında kendileriyle ilgili bilgi, fotoğraf, belge gibi verilere yer verilmemesini isteme hakkına ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Unutulma hakkı",
+        "B": "İfade özgürlüğü",
+        "C": "Sosyal devlet anlayışı",
+        "D": "Var olma hakkı",
+        "E": "Ağ kullanma hakkı"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 20,
+      "soru_metni": "\"İnternet Ortamında Yapılan Yayınların Düzenlenmesi ve Bu Yayınlar Yoluyla İşlenen Suçlarla Mücadele Edilmesi Hakkındaki Kanun\" hangi yılda yürürlüğe girmiştir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "1999",
+        "B": "2001",
+        "C": "2007",
+        "D": "2010",
+        "E": "2017"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": ""
+    }
+      ]
+    }
+  ]
+}
