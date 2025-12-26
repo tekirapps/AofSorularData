@@ -1,0 +1,299 @@
+{
+  "ders_kodu": "SMY203U",
+  "ders_adi": "DİJİTAL YAYINCILIK",
+  "sinavlar": [
+    {
+      "baslik": "Çıkmış Sınav Soruları Ara Sınav 2021-2022",
+      "tur": "CIKMIS",
+      "yil": 2021,
+      "sorular": [
+        Belirtilen PDF dosyasındaki "Dijital Yayıncılık" dersine ait 2022 Güz Ara sınav sorularını içeren JSON formatı aşağıdadır.
+
+JSON
+
+{
+  "sorular": [
+    {
+      "soruid": 1,
+      "soru_metni": "Mevcut iletişim teknolojilerinin birçok farklı özelliği ve hizmeti barındıracak biçimde birbirine yakınlaşmasına ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Kategorizasyon",
+        "B": "Tasarım",
+        "C": "Fişleme",
+        "D": "Yöndeşme",
+        "E": "Filtreleme"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 2,
+      "soru_metni": "\"Fi\", \"Görünen Adam\", \"Dip\" ve \"Dudullu Postası\" gibi medya yapımlarının ortak özelliği aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Sadece internet tabanlı platformlar üzerinden izlenmesi",
+        "B": "Senaryolarının doğaçlama olması",
+        "C": "Tamamen yeşil perdede çekilmeleri",
+        "D": "Animasyon olmaları",
+        "E": "Senaryolarının yapay zeka ürünü olması"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 3,
+      "soru_metni": "Yapay zeka ürünü olan ilk film senaryosu aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "The Jazz Singer",
+        "B": "Avatar",
+        "C": "Bir Trenin Gara Gelişi",
+        "D": "Sunspring",
+        "E": "Bir Ulusun Doğuşu"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 4,
+      "soru_metni": "Belirli bir alan ya da konuda daha özgün ve alanlarında uzman olan insanların oluşturdukları içeriklerin meydana getirdiği blog türüne ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Kurumsal blog",
+        "B": "Temasal blog",
+        "C": "Kişisel blog",
+        "D": "Medya blogu",
+        "E": "Topluluk blogu"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Soru metni kaynakta eksik görünmekle birlikte, seçenekler ve 'alanlarında uzman' ifadesi Temasal Blog tanımıyla örtüşmektedir."
+    },
+    {
+      "soruid": 5,
+      "soru_metni": "İlk dijital film yapım, dağıtım ve gösteriminin yapıldığı yıl, yapım ve ülke aşağıdakilerin hangisinde sırasıyla ve doğru olarak verilmiştir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "1987-Geleceğe Dönüş - Amerika",
+        "B": "1998-The Last Broadcast - Amerika",
+        "C": "2000-Timecode - Amerika",
+        "D": "2000-Titan A.E. - İngiltere",
+        "E": "2002-Star Wars II - Amerika"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 6,
+      "soru_metni": "Appadurai, Featherstone, Thompson, Latouche, Robin ve Morley gibi iletişim kuramcılarına göre küresel dünyada dijital İletişimin toplumu dönüştürmesi aşağıdaki hangi kavramla açıklanmaktadır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Yersiz-yurtsuzlaşma",
+        "B": "Kolonizasyon",
+        "C": "Kimliksizleşme",
+        "D": "Değersizleşme",
+        "E": "Ulu-aşırılaşma"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 7,
+      "soru_metni": "Google ve Samsung'un geliştirdiği sanal gerçeklik uygulamaları aşağıdaki olaylardan hangisini haber haline getirirken kullanılmıştır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Suriye iç savaşında askeri bölgeye düzenlenen Amerikan saldırısını",
+        "B": "Iran'da bir bulvarda gerçekleşen polis takibini",
+        "C": "Körfez Savaşında Irak'a düzenlenen Amerikan Hammer'larının saldırısını",
+        "D": "Irak'taki bir AVM saldırısını",
+        "E": "Irak Başkanlık Sarayına yönelik dronlu saldırıyı"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 8,
+      "soru_metni": "Aşağıdakilerin hangisinde ilk çevrimiçi gazete örnekleri birlikte ve doğru olarak verilmiştir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "The Washington Post - Times Mirror Tribune",
+        "B": "Le Monde - La Figaro - Paris Match",
+        "C": "The Times The Tribune The Washington Post",
+        "D": "Bordeaux - Paris Matin - Sunday Times",
+        "E": "The Guardian - The Sun - Daily Mirror"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 9,
+      "soru_metni": "Üretilen metinler çoğunlukla insan gazeteciler tarafından yazılan bir metinden ayırt edilemez durumda olup; editöryal olanaklardan çok daha fazla bir sayıda ve çok daha kısa bir zamanda oluşturulur. Bu habercilik biçiminin temel amacı zamandan ve insan emeğinden tasarruf etmektir. Yukarıda sözü edilen habercilik biçiminin kavramsal karşılığı aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Sanal Habercilik",
+        "B": "Algoritmik Habercilik",
+        "C": "Ritmik Habercilik",
+        "D": "Akıllı Habercilik",
+        "E": "Dijital Habercilik"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": "Cevap anahtarı E (Dijital Habercilik) olarak verilmiştir; ancak tanım genellikle 'Algoritmik Habercilik' için kullanılır."
+    },
+    {
+      "soruid": 10,
+      "soru_metni": "Full frame makineler ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Üretimleri zor ve pahalıdır.",
+        "B": "Büyük sensör boyutuna sahiptir.",
+        "C": "Profesyonel fotoğrafçılar tarafından tercih edilir.",
+        "D": "Fazla pixel sayısına sahiptir.",
+        "E": "Farklı kimyasal süreçler kullanır."
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": "Dijital makineler (Full frame dahil) kimyasal süreçler (film banyosu vb.) kullanmazlar."
+    },
+    {
+      "soruid": 11,
+      "soru_metni": "Dijital fotoğraf makinesindeki sensör üzerindeki 1 inçlik alana düşen pixel sayısına ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Çözünürlük",
+        "B": "Renk derinliği",
+        "C": "CCD",
+        "D": "Tiff",
+        "E": "Jpeg"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 12,
+      "soru_metni": "Aşağıdakilerden hangisi dijital fotoğrafçılıkta kullanılan ekipmanlardan biridir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Tiff",
+        "B": "Pixel",
+        "C": "Hafıza kartları",
+        "D": "Raw",
+        "E": "CMYK"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 13,
+      "soru_metni": "Film üzerinde görüntüyü oluşturan grenin yerini dijital fotoğrafçılıkta aşağıdakilerden hangisi almıştır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Bilinmeyen",
+        "B": "Bilinmeyen",
+        "C": "Bilinmeyen",
+        "D": "Kimyasallar",
+        "E": "Işık"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Soru kitapçığında seçenekler tam okunamamakla birlikte cevap anahtarı C'dir. Genellikle bu sorunun cevabı 'Piksel'dir."
+    },
+    {
+      "soruid": 14,
+      "soru_metni": "Dijital fotoğraf makinelerinin kullandığı dosya formatları aşağıdakilerin hangisinde birlikte ve doğru olarak verilmiştir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Megapiksel - Renk derinliği - Raw",
+        "B": "Pixel Megapixel - Raw",
+        "C": "Film Algılayıcı -Jpeg",
+        "D": "CCDCMOS - Tiff",
+        "E": "Jpeg-Raw - Tiff"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 15,
+      "soru_metni": "Dijital fotoğrafçılıkta kullanılan bir kavram olan ISO aşağıdakilerden hangisini ifade etmektedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Netlemeyi",
+        "B": "Makinenin diyafram açıklığını",
+        "C": "Objektifin odak noktasını",
+        "D": "Sensörlerin ışığa duyarlılık derecesini",
+        "E": "Pozlamayı"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 16,
+      "soru_metni": "Aks çizgisi veya aksiyon ekseni olarak da anılan ____ devamlılıklı kurgunun en önemli parçalarındandır. İki nesne arasındaki hayali bir çizgidir ve seyircinin dikkatinin dağılmadan, yön duygusunun kaybolmadan filme odaklanmasını sağlamaktadır. Yukarıdaki paragrafta boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Chroma key",
+        "B": "Yöndeşme",
+        "C": "Stop-motion",
+        "D": "Motion capture",
+        "E": "180 derece kuralı"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 17,
+      "soru_metni": "Dijital olarak çekilen ve gösterilen ilk Türk filmi aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Yeraltı (Zeki Demirkubuz, 2012)",
+        "B": "Cenneti Beklerken (Derviş Zaim, 2006)",
+        "C": "Üç Maymun (Nuri Bilge Ceylan, 2008)",
+        "D": "Hacivat Karagöz Neden Öldürüldü? (Ezel Akay, 2006)",
+        "E": "Eşkıya (Yavuz Turgul, 1996)"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 18,
+      "soru_metni": "Aşağıdakilerden hangisi kameranın yer değiştirerek yaptığı hareketlerden biri değildir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Steadicam",
+        "B": "Jimmy jip",
+        "C": "Şaryo",
+        "D": "Vinç",
+        "E": "Pan"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": "Şaryo, Vinç, Steadicam ve Jimmy Jip kameranın fiziksel olarak yer değiştirmesini sağlarken; Pan, kameranın sabit bir eksen etrafında dönmesidir."
+    },
+    {
+      "soruid": 19,
+      "soru_metni": "Günümüzde sağlıktan mühendisliğe, eğlenceden spora kadar birçok alanda kullanılan ____ tekniğinde, film çekim aşamasında işaret noktalı kıyafetler giyen oyuncunun hareketleri bilgisayara aktarılmaktadır. Sonrasında bu hareketler üzerinde oynanarak daha gerçekçi karakterler yaratılmaktadır. Yukarıdaki paragrafta boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Rotoskop",
+        "B": "Stop-motion",
+        "C": "Motion capture",
+        "D": "Bluebox",
+        "E": "Chroma key"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 20,
+      "soru_metni": "Aşağıdakilerden hangisi çekim ölçeklerinden biri değildir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Genel çekim",
+        "B": "Drone",
+        "C": "Baş çekim",
+        "D": "Diz çekim",
+        "E": "Boy çekim"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": ""
+    }
+      ]
+    }
+  ]
+}
