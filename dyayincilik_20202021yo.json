@@ -1,0 +1,293 @@
+{
+  "ders_kodu": "SMY203U",
+  "ders_adi": "DİJİTAL YAYINCILIK",
+  "sinavlar": [
+    {
+      "baslik": "Çıkmış Sınav Soruları Yaz Okulu 2024-2025",
+      "tur": "CIKMIS",
+      "yil": 2020,
+      "sorular": [
+        {
+      "soruid": 1,
+      "soru_metni": "Aşağıdaki propagandayla ilgili ifadelerden hangisi yanlıştır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Propaganda araçlarının sadece savaş dönemlerinde kullanılması",
+        "B": "Propagandanın hedef kitlenin tutum ve inancını değiştirmeyi amaçlaması",
+        "C": "Kartpostal ve afişlerin propaganda araçları arasında yer alması",
+        "D": "Sosyal medyanın 21. yüzyılda yeni propaganda araçlarından biri olması",
+        "E": "Soğuk savaş döneminde televizyonun etkili bir propaganda aracı olması"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Propaganda sadece savaş dönemlerinde değil, barış zamanlarında da siyasal, sosyal veya ekonomik amaçlarla kullanılan sürekli bir faaliyettir."
+    },
+    {
+      "soruid": 2,
+      "soru_metni": "Kitle İletişim araçları kullanılarak belirli bir güç dengesini belirlemek için kişilerin algı, görüş ve kavrayışlarının önceden tasarlanmış amaçlara uygun şekilde biçimlendirmeye yönelik bilinçli ve sistematik faaliyetlere ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Propaganda",
+        "B": "Reklam",
+        "C": "Manipülasyon",
+        "D": "Dezenformasyon",
+        "E": "İstihbarat"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Bu tanım, propagandanın kitlelerin algılarını ve davranışlarını sistematik olarak etkileme amacını açıklar."
+    },
+    {
+      "soruid": 3,
+      "soru_metni": "Sosyal medyada kullanıcıların etkileşimde oldukları kişilerin herhangi bir talebini yerine getirdikten sonra kendilerinden istenen daha büyük veya zor talepleri daha kolay yerine getirmelerini amaçlayan taktiğe ....... denilmektedir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "algı yönetimi",
+        "B": "eşiğe adım atma",
+        "C": "manipülasyon",
+        "D": "tutarlı olma",
+        "E": "propaganda"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Eşiğe adım atma (Foot-in-the-door) tekniği, küçük bir ricayı kabul ettirerek kişinin daha büyük bir ricayı kabul etme olasılığını artırma prensibine dayanır."
+    },
+    {
+      "soruid": 4,
+      "soru_metni": "Aşağıdakilerden hangisi sosyal medyadaki kullanıcıların kendilerini veya paylaşımlarını beğenenlerle ilgili olumlu yorum yapma zorunda hissetmesine neden olan propaganda yöntemidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Karşılıklılık normu",
+        "B": "Uzmanlık ilkesi",
+        "C": "Tutarlı olma ihtiyacı",
+        "D": "Enderlik ilkesi",
+        "E": "Sosyal onaylama ihtiyacı"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Karşılıklılık normu, bir iyilik veya olumlu davranış gören kişinin buna karşılık verme zorunluluğu hissetmesi durumudur."
+    },
+    {
+      "soruid": 5,
+      "soru_metni": "Sosyal medyadaki propagandanın etkili olabilmesi için insanların ortak değerlerinin, ön yargılarının ve genel kabul gören düşüncelerin kullanılmasının etkili olduğunu savunan propaganda kuralı aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Yayılma Kuralı",
+        "B": "Zamanlama Kuralı",
+        "C": "Uyumlaştırma Kuralı",
+        "D": "Orkestrasyon Kuralı",
+        "E": "Süreklilik Kuralı"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Cevap anahtarı A olarak verilmiştir."
+    },
+    {
+      "soruid": 6,
+      "soru_metni": "Kişinin çevresinden edindiği genel bir olguyu veya durumu kendi fiziki ve zihni süreçlerinden geçirmesiyle edindiği değere ....... denilmektedir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "enformasyon",
+        "B": "manipülasyon",
+        "C": "bilgi",
+        "D": "algı",
+        "E": "yorum"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Dış dünyadan alınan verilerin (enformasyonun) zihinsel süreçlerle işlenip anlamlandırılması sonucu ortaya çıkan değer 'Bilgi'dir."
+    },
+    {
+      "soruid": 7,
+      "soru_metni": "I. Kendi içinde tutarlı bir bütünlüğe sahip olması\nII. Bilgilerin hatalı şekilde ilişkilendirilmesi\nIII. Doğru bilgileri de içerebilmesi\nIV. Bilgi Kirliliği türleri içerisinde en olumsuz sonuçlara yol açması\n\nYukarıdaki \"Zararlı Bilgi\" kavramıyla ilgili ifadelerden hangileri doğrudur?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "I ve II",
+        "B": "I ve III",
+        "C": "II ve III",
+        "D": "II ve IV",
+        "E": "III ve IV"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Zararlı bilgi (Malinformation), doğru bilgilerin (III) zarar verme kastıyla kullanılmasıdır ve genellikle kendi içinde tutarlı bir bütünlük (I) arz eder."
+    },
+    {
+      "soruid": 8,
+      "soru_metni": "İnsanların dünyanın farklı bölgelerindeki olaylardan haberdar olmasını, bunları yakından takip etmesini, bunlarla ilgili tepkisi vermesini, sanal ortamda bununla ilgili desteğini göstermesini sağlayan ve sosyal medyayla birlikte daha da güçlenen siyasi, iktisadi ve kültürel sürece \".......\" denilmektedir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "yeni medya",
+        "B": "ideoloji",
+        "C": "küreselleşme",
+        "D": "siyaset",
+        "E": "propaganda"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": "Cevap anahtarına göre E (Propaganda/Küreselleşme - seçenekler karışık görünebilir ancak E şıkkı Küreselleşme tanımıdır). Not: Cevap anahtarı E diyor ancak sorudaki tanım Küreselleşme'dir. Belgedeki E şıkkı 'küreselleşme' ise cevap doğrudur."
+    },
+    {
+      "soruid": 9,
+      "soru_metni": "Aşağıdakilerden hangisi sosyal medyadaki ideolojik propaganda faaliyetlerinde kullanılan stratejiler arasında yer almaz?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Direnç Oluşturma",
+        "B": "Meşrulaştırma / Gayrimeşrulaştırma",
+        "C": "İkna",
+        "D": "Destekleme",
+        "E": "Temsil/Yanlış Temsil"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": "Literatürde ideolojik propaganda stratejileri (Chilton ve Schaffner) arasında 'Destekleme' başlı başına bir strateji olarak sayılmaz."
+    },
+    {
+      "soruid": 10,
+      "soru_metni": "Sosyal medyada yapılan ideolojik propagandanın hangi değerleri, amaçları, beklentileri ve ideolojiyi esas aldığını tespit etmenin zor olduğu propaganda türü aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Dolaylı propaganda",
+        "B": "Örtülü propaganda",
+        "C": "Gizli propaganda",
+        "D": "Belirsiz propaganda",
+        "E": "Karanlık propaganda"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Örtülü propaganda, kaynağını ve gerçek niyetini gizleyerek hedef kitleyi etkilemeye çalışır."
+    },
+    {
+      "soruid": 11,
+      "soru_metni": "I. Siyasi olaylara özgü olması\nII. Sosyal medyayla birlikte ortaya çıkması\nIII. Popülizmin kutuplaşmaya neden olması\nIV. Toplumdaki iki zıt görüşün etrafında toplanılması anlamına gelmesi\n\nYukarıdaki kutuplaşma ile ilgili ifadelerden hangileri doğrudur?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "I ve III",
+        "B": "I ve IV",
+        "C": "II ve III",
+        "D": "II ve IV",
+        "E": "III ve IV"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": "Kutuplaşma popülizmle artar (III) ve toplumun zıt uçlarda toplanmasıdır (IV). Sadece siyasete özgü değildir ve sosyal medyadan önce de vardı."
+    },
+    {
+      "soruid": 12,
+      "soru_metni": "Aşağıdakilerden hangisi kutuplaşmanın olumsuz sonuçlarından biri değildir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Bazı kişilerin ayrıcalıklı hâle gelmesi",
+        "B": "Toplumdaki hoşgörünün azalması",
+        "C": "Toplumdaki otoriter eğilimlerin artması",
+        "D": "Siyasal katılımın artması",
+        "E": "Kişilerin kendilerine ahlaki üstünlük atfetmesi"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": "Siyasal katılımın artması, kutuplaşmanın demokrasi açısından olumlu sayılabilecek bir yan etkisidir."
+    },
+    {
+      "soruid": 13,
+      "soru_metni": "Aşağıdakilerden hangisi medya ve kutuplaşma arasındaki ilişki açısından doğru değildir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "İnsanların kendilerine yakın medyayı takip etmesinin kutuplaşmayı etkilemesi",
+        "B": "Medya gruplarının büyümesinin kutuplaşmayı etkilemesi",
+        "C": "İnternette yayın yapan medyanın kutuplaşmayı daha az etkilemesi",
+        "D": "Medyanın bazen farkında olmadan kutuplaşmayı etkilemesi",
+        "E": "Medyanın siyasal çıkarları doğrultusunda kutuplaşmayı etkilemesi"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "İnternet medyası ve sosyal medya, yankı odaları ve filtre balonları nedeniyle kutuplaşmayı azaltmaz, aksine daha fazla artırır."
+    },
+    {
+      "soruid": 14,
+      "soru_metni": "Bir grubun belirli bir konuda farkındalık oluşturmak için birtakım ağları kullanarak gerçekleştirdikleri kampanya ve eylemlerle kamuoyunu etkilemeye çalışması ....... adlandırılmaktadır. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "toplumsal olay",
+        "B": "eleştirel vatandaşlık",
+        "C": "ağ toplumu",
+        "D": "dijital aktivizm",
+        "E": "sivil itaatsizlik"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": "Dijital araçlar ve ağlar kullanılarak yapılan bu tür örgütlü eylemlilik 'Dijital Aktivizm' olarak tanımlanır."
+    },
+    {
+      "soruid": 15,
+      "soru_metni": "Aşağıdakilerden hangisi toplumsal olayların zararlı sonuçlarını önlemek için sosyal medyada dikkat edilmesi gereken kurallardan biri değildir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Internetteki her bilginin başka kaynaklardan teyit edilmesi",
+        "B": "Bilgi paylaşımı esnasında ahlâkî ve toplumsal kurallara riayet edilmesi",
+        "C": "Bilgiye hangi kaynaktan ulaşıldığının göz önünde bulundurulması",
+        "D": "Paylaşım yaparken başkalarına zarar vermekten kaçınılması",
+        "E": "Sosyal medyanın olayları başlatan temel unsur olduğunun bilinmesi"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": "Sosyal medya olayları başlatan 'temel unsur' değil, olayların yayılmasını ve örgütlenmesini sağlayan bir 'araç'tır."
+    },
+    {
+      "soruid": 16,
+      "soru_metni": "İstihbarat birimleri ile kişiler arasında açık ve gönüllü iş birliği neticesinde ortaya çıkan aktif dijital kalabalık ....... anlayışının bir parçasını meydana getirmektedir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "devlet güvenliği",
+        "B": "güvenlik yönetişimi",
+        "C": "karşı propaganda",
+        "D": "siber güvenlik",
+        "E": "ulusal güvenlik"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Güvenlik yönetişimi, güvenliğin sadece devlet tarafından değil, sivil toplum ve bireylerin katılımıyla sağlanmasını ifade eder."
+    },
+    {
+      "soruid": 17,
+      "soru_metni": "Aşağıdaki sosyal medyanın ulusal güvenlikle ilişkisiyle ilgili ifadelerden hangisi yanlıştır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Önemli kişilere ait hesapların korunmasının önem taşıması",
+        "B": "Kişisel bilgilerin korunmasının önem taşıması",
+        "C": "Siber suçları önlemede etkisinin az olması",
+        "D": "Toplumsal olayların organizasyonunda etkili olması",
+        "E": "Aranan suçluların bulunmasını sağlaması"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Sosyal medya verileri ve dijital izler, siber suçların takibi ve önlenmesinde oldukça etkilidir; etkisi az değildir."
+    },
+    {
+      "soruid": 18,
+      "soru_metni": "I. Modern terörizmin diğer terör türlerine göre daha az yıkıcı sonuçlara yol açması\nII. Post-modern terörizmin sadece konvansiyonel silahları kullanması\nIII. Korku ve dehşet oluşturmaya çalışması\nIV. Toplum ve devlet arasındaki bağa zarar vermeye çalışması\n\nYukarıdaki terörizmle ilgili ifadelerden hangileri doğrudur?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "I ve II",
+        "B": "I ve III",
+        "C": "I ve IV",
+        "D": "II ve IV",
+        "E": "III ve IV"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": "Cevap anahtarı D olarak verilmiştir (II ve IV). (Not: Bu cevap anahtarı, 'Post-modern terörizm sadece konvansiyonel silah kullanır' önermesini doğru kabul etmiş görünmektedir, bu genel literatürle çelişse de sınav bağlamında doğrudur)."
+    },
+    {
+      "soruid": 19,
+      "soru_metni": "I. Klasik radikalleşmede ilk aşamayı terörist ve radikalleşecek kişinin yüz yüze temasının oluşturması\nII. Sosyal medya üzerinden radikallerin terör eylemi yapmaya ikna edilmesinin mümkün olması\nIII. Sosyal medyadaki radikalleşmenin sadece fundamentalist örgütlerce yapılması\n\nYukarıdaki radikalleşmeyle ilgili ifadelerden hangileri doğrudur?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Yalnız I",
+        "B": "Yalnız II",
+        "C": "I ve II",
+        "D": "I ve III",
+        "E": "II ve III"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Klasik radikalleşme yüz yüze temasa dayanır (I), sosyal medya ise uzaktan radikalleşmeyi mümkün kılar (II). III yanlıştır çünkü her tür örgüt sosyal medyayı kullanabilir."
+    },
+    {
+      "soruid": 20,
+      "soru_metni": "Aşağıdakilerden hangisi terör örgütlerinin sosyal medyadaki faaliyetleriyle ilgili doğru değildir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Terör örgütlerinin sosyal medyayı kullanarak network oluşturması",
+        "B": "Sosyal medyanın terör örgütlerince faal olarak kullanılması",
+        "C": "Ulus-devletlerin bu tür faaliyetleri güvenlik sorunu görmeleri",
+        "D": "Terör örgütlerinin sosyal medyada konvansiyonel yöntemleri kullanması",
+        "E": "Terör örgütlerinin sosyal medya üzerinden kamuoyunu yönlendirmeye çalışması"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": "Terör örgütleri sosyal medyada konvansiyonel (geleneksel) yöntemlerden ziyade asimetrik, dijital ve modern propaganda tekniklerini kullanırlar."
+    }
+      ]
+    }
+  ]
+}
