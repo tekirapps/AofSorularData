@@ -1,0 +1,293 @@
+{
+  "ders_kodu": "SMY201U",
+  "ders_adi": "SOSYAL MEDYA VE PROPAGANDA",
+  "sinavlar": [
+    {
+      "baslik": "Çıkmış Sınav Soruları DÖnem Sonu 2021-2022",
+      "tur": "CIKMIS",
+      "yil": 2021,
+      "sorular": [
+        {
+      "soruid": 1,
+      "soru_metni": "I. Her zaman birden fazla kişiden oluşması\nII. İnandırıcı olmak için kendisine resmi bir görüntü verebilmesi\nIII. Sadece siyasal etki oluşturmayı amaç edinmesi\nIV. Takipçi sayısının fazla olmasının etki gücünü artırması\n\nYukarıdaki dezenformasyonu üreten kaynakla ilgili ifadelerden hangileri doğrudur?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "I ve II",
+        "B": "I ve III",
+        "C": "II ve III",
+        "D": "II ve IV",
+        "E": "III ve IV"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 2,
+      "soru_metni": "Kaynağına göre propaganda çeşitleri aşağıdakilerin hangisinde doğru verilmiştir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Beyaz propaganda - Kara propaganda - Gri propaganda",
+        "B": "Kamusal propaganda - Bireysel propaganda - Özel propaganda",
+        "C": "Sert propaganda - Yumuşak propaganda - Ölçülü propaganda",
+        "D": "Ulusal propaganda - Uluslararsı propaganda - Siyasal propaganda",
+        "E": "Genel propaganda - Sabit propaganda - Özel propaganda"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 3,
+      "soru_metni": "Propagandayı gerçekleştirmesi planlanan kurum ve kuruluşların mesajlarını uyum içerisinde vermesi gerektiğine dair kural aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Abartma ve çarpıtma",
+        "B": "Zamanlama",
+        "C": "Devamlılık ve süreklilik",
+        "D": "Orkestrasyon",
+        "E": "Yayılma"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 4,
+      "soru_metni": "İdeolojiyi yanılsamadan çok idealize edilenin ya da hayal edilenin temsili olarak gören ve farkında olmadan günlük hayatta yerine getirdiğimiz birçok eylemin bu ideoloji içinde yeniden üretilerek sürdürüldüğünü ifade eden düşünür aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Althusser",
+        "B": "Adorno",
+        "C": "Gramsci",
+        "D": "Marks",
+        "E": "Horkheimer"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 5,
+      "soru_metni": "....... bir siyasal zeminde, aynı pozisyonu paylaşan insanlar birbirlerine çok yaklaşmış; diğer cenahın ise tam karşısında konumlanmıştır. Yukarıdaki cümlede boş bırakılan yeri aşğıdakilerden hangisi doğru şekilde tamamlar?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Güçlü",
+        "B": "Kutuplaşmış",
+        "C": "Rekabetçi",
+        "D": "Sert",
+        "E": "Mesafeli"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 6,
+      "soru_metni": "Bilgisayar korsanlarının kişilerin özel bilgilerini elde etmek veya izin verilmeyen biçimde internetteki veri tabanlarına erişim sağlayabilmek için manipülasyona dayalı olarak kullanılan yönteme \".......\" adı verilir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "kitle kaynak",
+        "B": "algı yönetimi",
+        "C": "istihbarat",
+        "D": "propaganda",
+        "E": "toplum mühendisliği"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 7,
+      "soru_metni": "Aşağıdakilerden hangisi dünyada kutuplaşmanın artmasının nedenlerinden biri değildir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "İşsizliğin yükselmesi",
+        "B": "Siyasal kamplaşmanın artması",
+        "C": "Güvenlik anlayışının değişmesi",
+        "D": "Refahın azalması",
+        "E": "Çoğulculuğun gelişmesi"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 8,
+      "soru_metni": "Oldukça büyük veri kümelerini incelemek, analize tâbi tutmak, bunlardan faydalı bilgiler çıkarmak ve kişilerin izlenmeden önceki faaliyetleri hakkında istihbarat üretmek için gerçekleştirilen bilgisayar destekli sürece ....... denilmektedir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "psikolojik operasyon",
+        "B": "açık kaynak istihbaratı",
+        "C": "dijital kalabalık",
+        "D": "veri madenciliği",
+        "E": "algı yönetimi"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 9,
+      "soru_metni": "İhtiyaç duyulan bilgilerin çeşitli analiz yöntemlerinden geçirilerek istifade edecek noktaya (kişi, şirket veya devlet) raporlanması olarak tanımlanan kavram aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Rapor",
+        "B": "İstihbarat",
+        "C": "Araştırma",
+        "D": "Sentez",
+        "E": "Analiz"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 10,
+      "soru_metni": "Kutuplaşma ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Kutuplaşma ile vatandaşlar ülke içindeki siyasal ve toplumsal sorunlara daha çok ilgi gösterir ve seçimlere katılım oranı yükselir.",
+        "B": "Kutuplaşmanın güçlü olduğu yerlerde insanlar, tercihleri açısından daha fazla bilgi bulabilirler.",
+        "C": "Siyasal kutuplaşma, siyasal katılımı artırmak yoluyla demokrasiyi güçlendirici yönde etki yapar.",
+        "D": "Siyasetçiler, kendi kitlelerini harekete geçirmek ve sandığa götürmek için kutuplaşmadan yararlanırlar.",
+        "E": "Kutuplaşmanın her zaman ve her durumda olumsuz sonuçlar doğurduğunu söylemek mümkündür."
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 11,
+      "soru_metni": "Sosyal medyada kullanıcıların uygulamada daha fazla süre geçirmelerini sağlamak için ilgilendikleri ve beğendikleri içerikleri daha çok görmelerini sağlayan sisteme ....... denilmektedir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "filtre balonu",
+        "B": "algoritma",
+        "C": "spam",
+        "D": "pop-up",
+        "E": "ewom"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 12,
+      "soru_metni": "1990'ların sonunda ilk kez kullanıcıların kendi sayfalarını kişiselleştirmesine izin veren ve Web 2.0 teknolojisini başarıyla kullanan uygulama aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Twitter",
+        "B": "MySpace",
+        "C": "Instagram",
+        "D": "Youtube",
+        "E": "Facebook"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 13,
+      "soru_metni": "Belirli bir öğretiyi bir kitleye, bir gruba, bir kişiye empoze etmek, telkin etmek, beyin yıkama sürecine tabi tutmaya ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Dezenformasyon",
+        "B": "Endoktrinasyon",
+        "C": "Propaganda",
+        "D": "Psikolojik harekât",
+        "E": "Devşirme"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 14,
+      "soru_metni": "I. Uzaktan bağların oluşturulmasının ve korunmasının sağlanması\nII. Dikey ve hiyerarşik tarzda bir ağ toplumunun oluşması\nIII. Ağ toplumunun sosyal medyadaki propaganda faaliyetlerini azaltması\nIV. Yeni türde sosyal ilişkilerin kurulabilmesini sağlaması\n\nYukarıdakilerden hangileri ağ toplumu ve sosyal medya arasındaki ilişki açısından doğrudur?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Yalnız IV",
+        "B": "I ve III",
+        "C": "I ve IV",
+        "D": "II ve III",
+        "E": "II ve IV"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 15,
+      "soru_metni": "Yeni iletişim teknolojisi sistemleri ile ilgili olarak aşağıdaki ifadelerden hangisi yanlıştır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Devlet sırrı sayılabilecek bir bilgi artık bir anda bütün dünyaya yayılabilmektedir.",
+        "B": "İnsanlar sosyal ağlar sayesinde, fazla bir risk almadan ya da bir bedel ödemeden büyük kitleleri harekete geçirebilmektedir.",
+        "C": "Toplumsal çevrelerce ve özellikle de genç kitle tarafından geç kabul görmüştür.",
+        "D": "Kitleleri içerik ve bilgi paylaşımı noktasında büyük ölçüde özgürleştirmiştir.",
+        "E": "Bireyler fotoğraf ve videolar vasıtasıyla anında önemli bir olayı ifşa edebilmektedir."
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 16,
+      "soru_metni": "Siber savaşa odaklı faaliyet gösteren, birbirinden bağımsız ve habersiz hücrelerden oluşan lidersiz terörizm türü ....... olarak adlandırılmaktadır. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Fundamentalist Terörizm",
+        "B": "Uluslararası Terörizm",
+        "C": "Bireysel Terörizm",
+        "D": "Kitlesel Terörizm",
+        "E": "Post-Modern Terörizm"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 17,
+      "soru_metni": "Konvansiyonel silahların yanında kimyasal, biyolojik, radyolojik ve nükleer saldırı gibi topyekûn yıkıcı sonuçların meydana geldiği terör türü aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Modern",
+        "B": "Neoklasik",
+        "C": "Global",
+        "D": "Liberal",
+        "E": "Postmodern"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 18,
+      "soru_metni": "Birtakım sosyal sorunları çözmek için, toplumsal sistemi değiştirme ya da istenmeyen bir değişikliğin önüne geçme yoluyla, o toplumdaki bir grup tarafından organize edilen kolektif eylem türüne ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Toplumsal hareket",
+        "B": "Siyasal faaliyet",
+        "C": "Sosyal dayanışma",
+        "D": "Organize hareket",
+        "E": "Protesto eylemi"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 19,
+      "soru_metni": "I. Sert bir liderlik anlayışının olması\nII. Sosyal medyanın gelişiminden önce de internetten propaganda yapmaları\nIII. Tek bir merkez üzerinden faaliyet göstermeleri\nIV. Günümüzde internet ve sosyal medya olmadan varlıklarını sürdüremeyecek olmaları\n\nYukarıdaki Fundamentalist terör örgütleriyle ilgili ifadelerden hangileri doğrudur?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "I ve II",
+        "B": "I ve III",
+        "C": "I ve IV",
+        "D": "II ve IV",
+        "E": "III ve IV"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 20,
+      "soru_metni": "I. Güvenilir bulunmadığı için sosyal medyada TV kanallarından bilgi aktarılmaması\nII. Eylemlerin sosyal medya devrimi olarak da görülmesi\nIII. Sosyal medyanın ülke dışındaki destekçilerle irtibat kurulmasını sağlaması\nIV. Protestocuların eylemle medyayı kullanmaya başlamaları\n\nYukarıdaki Arap Baharıyla ilgili ifadelerden hangileri doğrudur?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "I ve II",
+        "B": "I ve III",
+        "C": "II ve III",
+        "D": "II ve IV",
+        "E": "III ve IV"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": ""
+    }
+      ]
+    }
+  ]
+}
