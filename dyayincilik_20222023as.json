@@ -1,0 +1,293 @@
+{
+  "ders_kodu": "SMY203U",
+  "ders_adi": "DİJİTAL YAYINCILIK",
+  "sinavlar": [
+    {
+      "baslik": "Çıkmış Sınav Soruları Ara Sınav 2022-2023",
+      "tur": "CIKMIS",
+      "yil": 2022,
+      "sorular": [
+       {
+      "soruid": 1,
+      "soru_metni": "Mevcut iletişim teknolojilerinin birçok farklı özelliği ve hizmeti barındıracak biçimde birbirine yakınlaşmasına ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Tasarım",
+        "B": "Kategorizasyon",
+        "C": "Yöndeşme",
+        "D": "Filtreleme",
+        "E": "Fişleme"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 2,
+      "soru_metni": "Belirli bir alan ya da konuda daha özgün ve alanlarında uzman olan insanların oluşturdukları içeriklerin meydana getirdiği blog türüne ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Kurumsal blog",
+        "B": "Temasal blog",
+        "C": "Medya blogu",
+        "D": "Topluluk blogu",
+        "E": "Kişisel blog"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 3,
+      "soru_metni": "İnternetin hızlı gelişimi, barındırdığı bir çok olumlu tarafın yanında bazı etik dışı davranışlara neden olmaktadır. Aşağıdakilerden hangisi etik dışı davranışlardan biri değildir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Telif hakkı vermek",
+        "B": "Çıkar için yönlendirici içerik hazırlamak",
+        "C": "Kaynak vermeden içerik hazırlamak",
+        "D": "Kişisel bilgileri izinsiz kopyalamak",
+        "E": "Kişisel bilgileri tahrip etmek"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 4,
+      "soru_metni": "Yapay zeka ürünü olan ilk film senaryosu aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Sunspring",
+        "B": "Avatar",
+        "C": "The Jazz Singer",
+        "D": "Bir Trenin Gara Gelişi",
+        "E": "Bir Ulusun Doğuşu"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "A Grubu cevap anahtarında 4. soru A şıkkı olarak görünmektedir; B grubu kitapçığında aynı soru E şıkkındadır (Sunspring). Bu nedenle A şıkkının Sunspring olduğu anlaşılmaktadır."
+    },
+    {
+      "soruid": 5,
+      "soru_metni": "Aşağıdakilerden hangisi dijitalleşmenin televizyon yayıncılığına kazandırdığı kazanımlardan biri değildir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Olay yerinden canlı yayın imkanı",
+        "B": "Geçmişteki içeriklere erişim",
+        "C": "Zaman sınırının ortadan kalkması",
+        "D": "Habere erişimin sınırlanması",
+        "E": "Haber kaynağında artış"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 6,
+      "soru_metni": "Üretilen metinler çoğunlukla insan gazeteciler tarafından yazılan bir metinden ayırt edilemez durumda olup; editöryal olanaklardan çok daha fazla bir sayıda ve çok daha kısa bir zamanda oluşturulur. Bu habercilik biçiminin temel amacı zamandan ve insan emeğinden tasarruf etmektir. Yukarıda sözü edilen habercilik biçiminin kavramsal karşılığı aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Dijital Habercilik",
+        "B": "Algoritmik Habercilik",
+        "C": "Ritmik Habercilik",
+        "D": "Akıllı Habercilik",
+        "E": "Sanal Habercilik"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 7,
+      "soru_metni": "Appadurai, Featherstone, Thompson, Latouche, Robin ve Morley gibi iletişim kuramcılarına göre küresel dünyada dijital İletişimin toplumu dönüştürmesi aşağıdaki hangi kavramla açıklanmaktadır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Kimliksizleşme",
+        "B": "Kolonizasyon",
+        "C": "Yersiz-yurtsuzlaşma",
+        "D": "Değersizleşme",
+        "E": "Uluşallaşma"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 8,
+      "soru_metni": "Aşağıdakilerin hangisinde ilk çevrimiçi gazete örnekleri birlikte ve doğru olarak verilmiştir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "The Guardian The Sun Daily Mirror- Times",
+        "B": "Bordeaux Paris Matin Sunday Times- Le Monde",
+        "C": "The Times The Tribune The Washington Post- La Figaro",
+        "D": "Le Monde - La Figaro - Paris Match- Tribune",
+        "E": "The Washington Post - Times Mirror - Tribune"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 9,
+      "soru_metni": "Yeni nesil haber sitelerinde kullanılan, şekil ya da görselle okuyucunun konunun bütününü görmesini sağlayan araç aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Infografik",
+        "B": "Test",
+        "C": "Gif",
+        "D": "Video",
+        "E": "Interaktif"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 10,
+      "soru_metni": "Aşağıdaki platformlardan hangisi Türkiye'deki yeni nesil haber platformlarından biri değildir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Journo",
+        "B": "Medyascope",
+        "C": "Teyit.org",
+        "D": "Doğruluk payı",
+        "E": "Criteo"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 11,
+      "soru_metni": "35 mm DSLR fotoğraf makinesinde fotoğraf çekerken diyafram değerini kendinizin ancak enstantane değerini makinanın ayarlamasını istiyorsanız aşağıdaki modlardan hangisini kullanmalısınız?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "M",
+        "B": "TVS",
+        "C": "AV",
+        "D": "P",
+        "E": "A"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 12,
+      "soru_metni": "Aşağıdakilerden hangisi dijital fotoğrafçılıkta kullanılan ekipmanlardan biridir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Raw",
+        "B": "Pixel",
+        "C": "CMYK",
+        "D": "Hafıza kartları",
+        "E": "Tiff"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 13,
+      "soru_metni": "35 mm DSLR kullanan bir fotoğrafçı atletizm yarışmasında başlama işaretini bekleyen atletin birden koşması anını görüntülemek istiyor. Bunun için hangi AF modunu kullanması gerekmektedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Sürekli servo",
+        "B": "Değişken servo",
+        "C": "Bilinmeyen",
+        "D": "B bulb modu",
+        "E": "AV-A Diyafram Öncelikli Mod"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "A Grubu cevap anahtarı B şıkkını (Değişken Servo) göstermektedir."
+    },
+    {
+      "soruid": 14,
+      "soru_metni": "Aşağıdakilerden hangisi 35 mm DSLR fotoğraf makinalarının body (gövde) parçasının iç donanımında bulunan düzeneklerden biri değildir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Örtücü",
+        "B": "Vizör",
+        "C": "Pozometre",
+        "D": "Ayna",
+        "E": "Pentaprizma"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": "Cevap anahtarı D şıkkını (Ayna) göstermektedir; ancak normal şartlarda ayna DSLR gövdesinin içinde bulunur."
+    },
+    {
+      "soruid": 15,
+      "soru_metni": "Fotoğraf makinelerinde genelde 30 saniye olan pozlama süresinin dışına çıkmak istediğimizde kullanmamız gereken pozlama modu aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "M Manuel Mod",
+        "B": "TV-S Enstantane Öncelikli modu",
+        "C": "B Bulb Modu",
+        "D": "AV-A Diyafram Öncelikli Mod",
+        "E": "P Program Modu"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 16,
+      "soru_metni": "Aşağıdakilerden hangisi dijital kurguda kullanılan programlardan biri değildir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "3D Max",
+        "B": "After Effects",
+        "C": "Final Cut",
+        "D": "Adwords",
+        "E": "Adobe Premiere"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 17,
+      "soru_metni": "Sinema tarihindeki ilk uzun metrajlı animasyon filmi aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Toy Story",
+        "B": "Avatar",
+        "C": "The Last Broadcast",
+        "D": "Matrix",
+        "E": "El Apostol"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 18,
+      "soru_metni": "Aşağıdakilerden hangisi sinemada kullanılan genel aydınlatma yöntemlerinden biri değildir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Derin ışık",
+        "B": "Ana/Anahtar ışık",
+        "C": "Dolgu ışığı",
+        "D": "Dekor/Fon ışığı",
+        "E": "Geri/tepe/arka ışık"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "A Grubu cevap anahtarı E şıkkını göstermektedir fakat bu bir hatadır; aynı sınavın B grubunda (Soru 16) doğru cevap A şıkkıdır (Derin Işık). Sinemada kullanılan temel aydınlatma yöntemleri Ana, Dolgu ve Arka ışıktır; Derin ışık bir yöntem değildir."
+    },
+    {
+      "soruid": 19,
+      "soru_metni": "Dijital olarak çekilen ve gösterilen ilk Türk filmi aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Hacivat Karagöz Neden Öldürüldü? (Ezel Akay, 2006)",
+        "B": "Eşkıya (Yavuz Turgul, 1996)",
+        "C": "Cenneti Beklerken (Derviş Zaim, 2006)",
+        "D": "Yeraltı (Zeki Demirkubuz, 2012)",
+        "E": "Üç Maymun (Nuri Bilge Ceylan, 2008)"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 20,
+      "soru_metni": "Sinema teknolojisinde standartlaştırılmış saniyede kare kayıt ve gösterim hızı aşağıdakilerin hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "10",
+        "B": "13",
+        "C": "17",
+        "D": "24",
+        "E": "30"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": ""
+    }
+      ]
+    }
+  ]
+}
