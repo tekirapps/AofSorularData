@@ -1,0 +1,293 @@
+{
+  "ders_kodu": "SMY201U",
+  "ders_adi": "SOSYAL MEDYA VE PROPAGANDA",
+  "sinavlar": [
+    {
+      "baslik": "Çıkmış Sınav Soruları Yaz Okulu 2024-2025",
+      "tur": "CIKMIS",
+      "yil": 2024,
+      "sorular": [
+        {
+      "soruid": 1,
+      "soru_metni": "Genellikle çevrim içi gruplarda verdikleri mesajlarla insanların duygularını dengesizleştirerek grup içinde verimsiz tartışma çıkmasını sağlayan ya da ana tartışma konusu saptırarak meselenin konuşulmaz hale gelmesine sebebiyet veren sosyal medya kullanıcılara ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Hacker",
+        "B": "Propagandacı",
+        "C": "Bot",
+        "D": "Yandaş",
+        "E": "Internet trolleri"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": "Troller, provokatif ve konu dışı mesajlarla tartışma ortamını bozan kullanıcılardır."
+    },
+    {
+      "soruid": 2,
+      "soru_metni": "Bir fikri, konuyu ya da tutumu öne çıkartmak için kullanılan bildirime ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Tweet",
+        "B": "Etiket",
+        "C": "Hashtag",
+        "D": "Emoji",
+        "E": "Retweet"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Hashtag (#), belirli bir konuyu veya fikri etiketleyerek öne çıkarmak ve gruplandırmak için kullanılır."
+    },
+    {
+      "soruid": 3,
+      "soru_metni": "Cialdini'ye göre insanın evrimsel iki amacı üremek ve hayatta kalmaktır. Aşağıdakilerden hangisi bu amaçları gerçekleştirebilmek için sahip olduğu üç hedeften biridir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Doğru olma",
+        "B": "Mücadele etme",
+        "C": "Sosyalleşme",
+        "D": "Barınma",
+        "E": "Tarım"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Cialdini'ye göre temel hedeflerden biri 'doğru olma' (veya doğru karar verme) ihtiyacıdır."
+    },
+    {
+      "soruid": 4,
+      "soru_metni": "Üre-tüketici \"prosumer\" kavramını ortaya koyan bilim insanı aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Wohl",
+        "B": "Toffler",
+        "C": "Adler",
+        "D": "Cialdini",
+        "E": "Horton"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Alvin Toffler, 'Üçüncü Dalga' kitabında üretim ve tüketimin iç içe geçtiği 'prosumer' kavramını ortaya atmıştır."
+    },
+    {
+      "soruid": 5,
+      "soru_metni": "Genellikle çevrim içi gruplarda verdikleri mesajlarla insanların duygularını dengesizleştirerek grup içinde verimsiz tartışma çıkmasını sağlayan ya da ana tartışma konusu saptırarak meselenin konuşulmaz hale gelmesine sebebiyet veren sosyal medya kullanıcılarına ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Manipülasyon ekipleri",
+        "B": "Bilgisayar korsanları",
+        "C": "Internet trolleri",
+        "D": "Hackerlar",
+        "E": "Twitter kullanıcıları"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Soru 1 ile aynı içeriğe sahiptir; cevap 'İnternet trolleri'dir."
+    },
+    {
+      "soruid": 6,
+      "soru_metni": "Bir sabah kansere neden olmakla suçlanan bir besinin, ertesi gün başka bir sosyal medya paylaşımında kanserin ilacı olarak gösterilebilmesi aşağıdakilerden hangisine örnektir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Manipülasyon",
+        "B": "Bilgi kirliliği",
+        "C": "Kasıt",
+        "D": "Yalan haber",
+        "E": "Demagoji"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Çelişkili ve doğruluğu teyit edilmemiş bilgilerin yayılması bilgi kirliliğine örnektir."
+    },
+    {
+      "soruid": 7,
+      "soru_metni": "Aşağıdakilerden hangisi ideolojik propagandanın gerçekleştirilmesinde başvurulan stratejilerden biri değildir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Meşrulaştırma/Gayrimeşrulaştırma",
+        "B": "Direnç oluşturma",
+        "C": "Kişiselleştirme",
+        "D": "İkna",
+        "E": "Temsil/Yanlış Temsil"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Cevap anahtarı C (Kişiselleştirme) olarak verilmiştir."
+    },
+    {
+      "soruid": 8,
+      "soru_metni": "16. yüzyıldan günümüze geçen zaman boyunca hala doğruluk değerini koruyan \"Bilginin kendisi güçtür.\" ifadesini dile getiren düşünür aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Bacon",
+        "B": "Aristo",
+        "C": "Platon",
+        "D": "Hobbes",
+        "E": "Ibn Rüşd"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Francis Bacon, 'Bilgi güçtür' (Scientia potentia est) sözüyle tanınır."
+    },
+    {
+      "soruid": 9,
+      "soru_metni": "I. Sosyal medya sayesinde ideolojilerin insanlara doğrudan ulaşabilmesi\nII. Herkesin ideolojik propagandadan eşit şekilde etkilenmesi\nIII. Sosyal medyanın siyasetçi ve seçmen ilişkisini azaltması\nIV. Farklı ideolojik propaganda nedeniyle aynı anda farklı ideolojilerden etkilenilmesi\n\nYukarıdaki sosyal medyadaki ideolojik propaganda süreciyle ilgili ifadelerden hangileri doğrudur?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "I ve II",
+        "B": "I ve III",
+        "C": "I ve IV",
+        "D": "II ve IV",
+        "E": "III ve IV"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Sosyal medya ideolojileri doğrudan ulaştırır (I) ve kullanıcıları aynı anda farklı propagandalara maruz bırakır (IV). Herkesin eşit etkilenmesi (II) veya ilişkinin azalması (III) kesin doğru değildir."
+    },
+    {
+      "soruid": 10,
+      "soru_metni": "Kendi perspektifine göre en makul görünen düşünce sistematiği olan liberalizmin ve onun getirdiği bireyciliğin dahi ideolojik bir manifestoya dönüşmesi durumunda patolojik bir hâl alabileceği ve despotizme kayabileceği konusunda endişelerini dile getiren düşünür aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Marx",
+        "B": "Tocqueville",
+        "C": "Rawls",
+        "D": "Horkheimer",
+        "E": "Hegel"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Tocqueville, demokrasinin ve bireyciliğin aşırılaşması durumunda 'çoğunluğun tiranlığı'na dönüşebileceği uyarısında bulunmuştur."
+    },
+    {
+      "soruid": 11,
+      "soru_metni": "Kutuplaşma ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Kutuplaşma ile vatandaşlar ülke içindeki siyasal ve toplumsal sorunlara daha çok ilgi gösterir ve seçimlere katılım oranı yükselir.",
+        "B": "Kutuplaşmanın güçlü olduğu yerlerde insanlar, tercihleri açısından daha fazla bilgi bulabilirler.",
+        "C": "Siyasal kutuplaşma, siyasal katılımı artırmak yoluyla demokrasiyi güçlendirici yönde etki yapar.",
+        "D": "Kutuplaşmanın her zaman ve her durumda olumsuz sonuçlar doğurduğunu söylemek mümkündür.",
+        "E": "Siyasetçiler, kendi kitlelerini harekete geçirmek ve sandığa götürmek için kutuplaşmadan yararlanırlar."
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": "Kutuplaşmanın her durumda olumsuz olduğu söylenemez; siyasi katılımı artırmak gibi bazı yan etkileri de olabilir. Bu yüzden D şıkkı yanlıştır."
+    },
+    {
+      "soruid": 12,
+      "soru_metni": "I. Bilgi toplumuyla birlikte varlık kazanması\nII. Özel alanla hiçbir bağının olmaması\nIII. Kamuoyuna benzer bir oluşum olması\nIV. Sosyal medyanın yeni bir kamusal alan oluşturması\n\nYukarıdaki kamusal alan kavramıyla ilgili ifadelerden hangileri doğrudur?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "I ve III",
+        "B": "I ve IV",
+        "C": "II ve III",
+        "D": "II ve IV",
+        "E": "III ve IV"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": "Cevap anahtarı D olarak verilmiştir."
+    },
+    {
+      "soruid": 13,
+      "soru_metni": "Geleneksel ilişki biçimlerinde insanların siyasal olayları değerlendirme ve yorumlama kaynakları genellikle aşağıdakilerin hangisinden oluşur?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Televizyon",
+        "B": "Gazeteler",
+        "C": "Sosyal medya",
+        "D": "Yakın çevre",
+        "E": "Siyasetçiler"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": "Cevap anahtarı E olarak verilmiştir."
+    },
+    {
+      "soruid": 14,
+      "soru_metni": "Birtakım sosyal sorunları çözmek için, toplumsal sistemi değiştirme ya da istenmeyen bir değişikliğin önüne geçme yoluyla, o toplumdaki bir grup tarafından organize edilen kolektif eylem türüne ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Protesto eylemi",
+        "B": "Toplumsal hareket",
+        "C": "Organize hareket",
+        "D": "Sosyal dayanışma",
+        "E": "Siyasal faaliyet"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Toplumsal hareket, değişim yaratmak veya değişimi engellemek için organize olmuş kolektif eylemdir."
+    },
+    {
+      "soruid": 15,
+      "soru_metni": "İletişim teknolojileri ve sosyal medya etkisiyle şekillenen yeni toplum yapısını \"ağ toplumu\" olarak adlandıran bilim insanı aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Habermas",
+        "B": "McLuhan",
+        "C": "Pratkanis",
+        "D": "Aronson",
+        "E": "Castells"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": "Manuel Castells, 'Ağ Toplumu' teorisiyle tanınır."
+    },
+    {
+      "soruid": 16,
+      "soru_metni": "Sosyal medyanın terör örgütleri tarafından kullanımı günümüzde aşağıdakilerden hangisini tehdit eden bir güvenlik problemi olarak değerlendirilmektedir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Ulus devletleri",
+        "B": "Etnik azınlıkları",
+        "C": "Küresel ekonomiyi",
+        "D": "Düşünce özgürlüğünü",
+        "E": "Özel hayatın gizliliğini"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Sosyal medya üzerinden örgütlenen sınır aşan terör, ulus devletlerin egemenliğini ve güvenliğini tehdit eder."
+    },
+    {
+      "soruid": 17,
+      "soru_metni": "I. Sert bir liderlik anlayışının olması\nII. Sosyal medyanın gelişiminden önce de internetten propaganda yapmaları\nIII. Tek bir merkez üzerinden faaliyet göstermeleri\nIV. Günümüzde internet ve sosyal medya olmadan varlıklarını sürdüremeyecek olmaları\n\nYukarıdaki Fundamentalist terör örgütleriyle ilgili ifadelerden hangileri doğrudur?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "I ve II",
+        "B": "I ve III",
+        "C": "I ve IV",
+        "D": "II ve IV",
+        "E": "III ve IV"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": "Fundamentalist örgütler sosyal medyadan önce de interneti kullanıyorlardı (II) ve günümüzde propagandalarını sürdürmek için bu araçlara bağımlıdırlar (IV)."
+    },
+    {
+      "soruid": 18,
+      "soru_metni": "I. Terör saldırılarını gerçekleştiren teröristleri bulmayı amaçlaması\nII. Kamu kurumları tarafından örgütlü şekilde oluşturulmaları\nIII. Devletin istihbarat kuruluşlarının da içinde yer aldığı büyük çaplı kriz yönetiminin bir parçasını oluşturması\nIV. Kriz haritasının oluşmasında önemli rolünün olması\n\nYukarıdaki kriz odaklı dijital kalabalık ile ilgili ifadelerden hangileri doğrudur?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "I ve IV",
+        "B": "II ve IV",
+        "C": "III ve IV",
+        "D": "I ve III",
+        "E": "II ve III"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Kriz odaklı dijital kalabalıklar (crowdsourcing), failleri tespit etmeye çalışabilir (I) ve kriz haritası oluşturabilir (IV). Ancak genellikle devletten bağımsız ve sivil inisiyatiflerdir."
+    },
+    {
+      "soruid": 19,
+      "soru_metni": "Savaş ve barış hâli, yenen ve yenilen taraf, barış ve çatışma, asker ve sivil, güvenli ve güvensiz bölge gibi kavramlar bulanıklaştığı ve bu kavramların belirsiz hâle geldiği savaş türü aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Dördüncü nesil savaş",
+        "B": "Yalnız kurt radikalleşmesi",
+        "C": "Kendi muhitinde yetişen",
+        "D": "Küresel çatışma",
+        "E": "Konvansiyonel savaş"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Dördüncü nesil savaş, cephelerin, tarafların ve savaş/barış durumunun belirsizleştiği hibrit savaş türüdür."
+    },
+    {
+      "soruid": 20,
+      "soru_metni": "Büyük ölçekli veriler arasından faydalı bilgiye ulaşma işlemi aşağıdaki kavramlardan hangisiyle açıklanmaktadır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Güvenlik yönetişimi",
+        "B": "Yapay zekâ",
+        "C": "Toplum mühendisliği",
+        "D": "Veri madenciliği",
+        "E": "Açık istihbarat"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": "Veri madenciliği (Data mining), büyük veri yığınları içinden anlamlı örüntüler ve bilgiler çıkarma işlemidir."
+    }
+      ]
+    }
+  ]
+}
