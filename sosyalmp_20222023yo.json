@@ -1,0 +1,293 @@
+{
+  "ders_kodu": "SMY201U",
+  "ders_adi": "SOSYAL MEDYA VE PROPAGANDA",
+  "sinavlar": [
+    {
+      "baslik": "Çıkmış Sınav Soruları Yaz Okulu 2022-2023",
+      "tur": "CIKMIS",
+      "yil": 2022,
+      "sorular": [
+        {
+      "soruid": 1,
+      "soru_metni": "I. Her zaman birden fazla kişiden oluşması\nII. İnandırıcı olmak için kendisine resmi bir görüntü verebilmesi\nIII. Sadece siyasal etki oluşturmayı amaç edinmesi\nIV. Takipçi sayısının fazla olmasının etki gücünü artırması\n\nYukarıdaki dezenformasyonu üreten kaynakla ilgili ifadelerden hangileri doğrudur?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "I ve II",
+        "B": "I ve III",
+        "C": "II ve III",
+        "D": "II ve IV",
+        "E": "III ve IV"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 2,
+      "soru_metni": "Sızıntı, dedikodu, taciz ve nefret söylemi gibi olgular hangi bilgi kirliliği türüne girer?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Dezenformasyon",
+        "B": "Zararlı",
+        "C": "Propaganda",
+        "D": "Yanlış",
+        "E": "İftira"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 3,
+      "soru_metni": "Çevrim içi sosyal ağlar ve çevrim içi topluluklar aracılığıyla fikirlerin ve bilginin paylaşılmasını sağlayan internet ve bilgisayar tabanlı teknolojilere genel olarak ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Forum",
+        "B": "Network",
+        "C": "Sosyal medya",
+        "D": "Blog",
+        "E": "İnternet"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 4,
+      "soru_metni": "Genellikle çevrim içi gruplarda verdikleri mesajlarla insanların duygularını dengesizleştirerek grup içinde verimsiz tartışma çıkmasını sağlayan ya da ana tartışma konusu saptırarak meselenin konuşulmaz hâle gelmesine sebebiyet veren sosyal medya kullanıcılarına ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Manipülasyon ekipleri",
+        "B": "Internet trolleri",
+        "C": "Hackerlar",
+        "D": "Twitter kullanıcıları",
+        "E": "Bilgisayar korsanları"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 5,
+      "soru_metni": "Genellikle siyasal iktidara karşı halk arasında hoşnutsuzluğu yükseltmek için kullanılan propaganda türü aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Geleneksel",
+        "B": "Gri",
+        "C": "Yatay",
+        "D": "Beyaz",
+        "E": "Karışıklık"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 6,
+      "soru_metni": "Aşağıdakilerden hangisi ideolojik propagandanın gerçekleştirilmesinde başvurulan stratejilerden biri değildir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Kişiselleştirme",
+        "B": "Direnç oluşturma",
+        "C": "Meşrulaştırma/Gayrimeşrulaştırma",
+        "D": "İkna",
+        "E": "Temsil/Yanlış Temsil"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 7,
+      "soru_metni": "\"İnsan otoriteye bir başkasının ölümüne sebep olacak olsa bile itaat eder mi?\" sorusunu temel alarak, bir dizi deney gerçekleştiren bilim insanı aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Horton",
+        "B": "Milgram",
+        "C": "Berkowitz",
+        "D": "Goldstein",
+        "E": "Wohl"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 8,
+      "soru_metni": "I. Sosyal medya sayesinde ideolojilerin insanlara doğrudan ulaşabilmesi\nII. Herkesin ideolojik propagandadan eşit şekilde etkilenmesi\nIII. Sosyal medyanın siyasetçi ve seçmen ilişkisini azaltması\nIV. Farklı ideolojik propaganda nedeniyle aynı anda farklı ideolojilerden etkilenilmesi\n\nYukarıdaki sosyal medyadaki ideolojik propaganda süreciyle ilgili ifadelerden hangileri doğrudur?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "I ve II",
+        "B": "I ve III",
+        "C": "I ve IV",
+        "D": "II ve IV",
+        "E": "III ve IV"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 9,
+      "soru_metni": "Kendi perspektifine göre en makul görünen düşünce sistematiği olan liberalizmin ve onun getirdiği bireyciliğin dahi ideolojik bir manifestoya dönüşmesi durumunda patolojik bir hâl alabileceği ve despotizme kayabileceği konusunda endişelerini dile getiren düşünür aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Hegel",
+        "B": "Tocqueville",
+        "C": "Marx",
+        "D": "Rawls",
+        "E": "Horkheimer"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 10,
+      "soru_metni": "Üre-tüketici \"prosumer\" kavramını ortaya koyan bilim insanı aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Adler",
+        "B": "Cialdini",
+        "C": "Wohl",
+        "D": "Horton",
+        "E": "Toffler"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 11,
+      "soru_metni": "I. Terör saldırılarını gerçekleştiren teröristleri bulmayı amaçlaması\nII. Kamu kurumları tarafından örgütlü şekilde oluşturulmaları\nIII. Devletin istihbarat kuruluşlarının da içinde yer aldığı büyük çaplı kriz yönetiminin bir parçasını oluşturması\nIV. Kriz haritasının oluşmasında önemli rolünün olması\n\nYukarıdaki kriz odaklı dijital kalabalıklar ile ilgili ifadelerden hangileri doğrudur?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "I ve II",
+        "B": "I ve III",
+        "C": "I ve IV",
+        "D": "II ve IV",
+        "E": "III ve IV"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 12,
+      "soru_metni": "Büyük ölçekli veriler arasından faydalı bilgiye ulaşma işlemi aşağıdaki kavramlardan hangisiyle açıklanmaktadır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Veri madenciliği",
+        "B": "Güvenlik yönetişimi",
+        "C": "Toplum mühendisliği",
+        "D": "Açık istihbarat",
+        "E": "Yapay zekâ"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 13,
+      "soru_metni": "İnsanların siyasal tartışmalarda gündelik hayatlarındaki nezaketlerini bırakıp daha saldırgan bir tavır benimsemelerini ifade eden kavram aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Siyasal nezaketsizlik",
+        "B": "İdeolojik ayrışma",
+        "C": "Ötekileştirme",
+        "D": "Manipülasyon",
+        "E": "Sosyal ayrımcılık"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 14,
+      "soru_metni": "Kutuplaşma ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Kutuplaşmanın güçlü olduğu yerlerde insanlar, tercihleri açısından daha fazla bilgi bulabilirler.",
+        "B": "Kutuplaşma ile vatandaşlar ülke içindeki siyasal ve toplumsal sorunlara daha çok ilgi gösterir ve seçimlere katılım oranı yükselir.",
+        "C": "Kutuplaşmanın her zaman ve her durumda olumsuz sonuçlar doğurduğunu söylemek mümkündür.",
+        "D": "Siyasal kutuplaşma, siyasal katılımı artırmak yoluyla demokrasiyi güçlendirici yönde etki yapar.",
+        "E": "Siyasetçiler, kendi kitlelerini harekete geçirmek ve sandığa götürmek için kutuplaşmadan yararlanırlar."
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 15,
+      "soru_metni": "Bireylerin terör örgütleriyle temas kurarak tanışmaları, bu tanışma neticesinde terör örgütünün doktrin aşılama ve beyin yıkama evresini başlatması, bunun akabinde terör örgütü kamplarında eğitime tabi tutulmaları ve nihai aşamada eylem/şiddet aşamasına gelinmesi durumuna ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Dördüncü nesil savaş",
+        "B": "Fundamentalist terörizm",
+        "C": "Yalnız kurt eylemi",
+        "D": "Klasik radikalleşme",
+        "E": "Kendi muhitinde yetişen terörist"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 16,
+      "soru_metni": "Birtakım sosyal sorunları çözmek için, toplumsal sistemi değiştirme ya da istenmeyen bir değişikliğin önüne geçme yoluyla, o toplumdaki bir grup tarafından organize edilen kolektif eylem türüne ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Sosyal dayanışma",
+        "B": "Protesto eylemi",
+        "C": "Organize hareket",
+        "D": "Toplumsal hareket",
+        "E": "Siyasal faaliyet"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 17,
+      "soru_metni": "Kurulu düzen veya otoriteye karşı ya da kurulu düzen için birey veya grubun şiddet veya tehdit kullanımı ya da kullanma tehdidinde bulunması olarak özetlenen kavram aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "İsyan",
+        "B": "Eylem",
+        "C": "Terörizm",
+        "D": "Şantaj",
+        "E": "Propaganda"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 18,
+      "soru_metni": "I. Sert bir liderlik anlayışının olması\nII. Sosyal medyanın gelişiminden önce de internetten propaganda yapmaları\nIII. Tek bir merkez üzerinden faaliyet göstermeleri\nIV. Günümüzde internet ve sosyal medya olmadan varlıklarını sürdüremeyecek olmaları\n\nYukarıdaki Fundamentalist terör örgütleriyle ilgili ifadelerden hangileri doğrudur?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "I ve II",
+        "B": "I ve III",
+        "C": "I ve IV",
+        "D": "II ve IV",
+        "E": "III ve IV"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 19,
+      "soru_metni": "Aşağıdakilerden hangisi sosyal medyada kamuoyunu etkileme süreci açısından doğru değildir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Riski çok yüksek bir araç olması",
+        "B": "Sürecin gerçekleşmesi için aynı mekanda olmanın gerekmemesi",
+        "C": "Aynı fikre inananların daha kolay bir araya gelebilmesi",
+        "D": "Sürecin masrafsız ve kolay olması",
+        "E": "Aynı anda çok sayıda insanın dikkatinin çekilmesi"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 20,
+      "soru_metni": "I. Bilgi toplumuyla birlikte varlık kazanması\nII. Özel alanla hiçbir bağının olmaması\nIII. Kamuoyuna benzer bir oluşum olması\nIV. Sosyal medyanın yeni bir kamusal alan oluşturması\n\nYukarıdaki kamusal alan kavramıyla ilgili ifadelerden hangileri doğrudur?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "I ve III",
+        "B": "I ve IV",
+        "C": "II ve III",
+        "D": "II ve IV",
+        "E": "III ve IV"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": ""
+    }
+      ]
+    }
+  ]
+}
