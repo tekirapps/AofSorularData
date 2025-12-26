@@ -1,0 +1,293 @@
+{
+  "ders_kodu": "SMY203U",
+  "ders_adi": "DİJİTAL YAYINCILIK",
+  "sinavlar": [
+    {
+      "baslik": "Çıkmış Sınav Soruları Yaz Okulu 2023-2024",
+      "tur": "CIKMIS",
+      "yil": 2023,
+      "sorular": [
+        {
+      "soruid": 1,
+      "soru_metni": "Otomobiller konusunda bilgiler içeren, otomobil ile ilgili olan uzmanların görüşlerine yer veren, yeni çıkan otomobil değerlendirmelerini bulabileceğimiz bir blog aşağıdaki blog türlerinden hangisine karşılık gelir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Topluluk blogu",
+        "B": "Temasal blog",
+        "C": "Kurumsal blog",
+        "D": "Kişisel blog",
+        "E": "Medya blogu"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 2,
+      "soru_metni": "İnternetin hızlı gelişimi, barındırdığı bir çok olumlu tarafın yanında bazı etik dışı davranışlara neden olmaktadır. Aşağıdakilerden hangisi etik dışı davranışlardan biri değildir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Kaynak vermeden içerik hazırlamak",
+        "B": "Çıkar için yönlendirici içerik hazırlamak",
+        "C": "Kişisel bilgileri izinsiz kopyalamak",
+        "D": "Telif hakkı vermek",
+        "E": "Kişisel bilgileri tahrip etmek"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 3,
+      "soru_metni": "2010'da fotoğraf paylaşım ağı olarak kurulan sosyal ağ sitesi aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Scorp",
+        "B": "Snapchat",
+        "C": "Instagram",
+        "D": "Facebook",
+        "E": "Twitter"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 4,
+      "soru_metni": "Aşağıdakilerin hangisi \"Uluslararası Haber Doğrulama Ağı\" anlamına gelen kısaltmadır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "ARPA",
+        "B": "HMD",
+        "C": "IFCN",
+        "D": "QR",
+        "E": "ENIAC"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 5,
+      "soru_metni": "Herhangi bir olaya ilişkin veriler girildikten sonra bu verilerin otomatik olarak işlenip haber metni oluşturulması süreci aşağıdakilerden hangisiyle adlandırılır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Drone haberciliği",
+        "B": "Video haberciliği",
+        "C": "Savaş haberciliği",
+        "D": "Yeni nesil habercilik",
+        "E": "Algoritmik habercilik"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 6,
+      "soru_metni": "Aşağıdakilerden hangisi 35 mm DSLR makinalarının body (gövde) iç donanımında bulunan düzeneklerden biri değildir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Bilinmeyen",
+        "B": "Pentaprizma",
+        "C": "Pozometre",
+        "D": "Ayna",
+        "E": "Vizör"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 7,
+      "soru_metni": "Aşağıdakileden hangisi standart diyafram açıklıklarından biridir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "f2.7",
+        "B": "f3.9",
+        "C": "f5.6",
+        "D": "f12",
+        "E": "f23"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 8,
+      "soru_metni": "Fotoğrafçılıkta flu, netsiz çıktılara sebep olan sonuçları engellemek amacıyla makinenin gövdesiyle beraber üzerine oturtulan üç ayaklı mekanizma aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Tripod",
+        "B": "Kart",
+        "C": "Program",
+        "D": "Disk",
+        "E": "Yazıcı"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 9,
+      "soru_metni": "Aşağıdakilerden hangisi sinemada kullanılan genel aydınlatma yöntemlerinden biri değildir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Geri/tepe/arka ışık",
+        "B": "Ana/Anahtar ışık",
+        "C": "Dolgu ışığı",
+        "D": "Dekor/Fon ışığı",
+        "E": "Derin ışık"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 10,
+      "soru_metni": "Aşağıdakilerden hangisi dijital kurgu için kullanılan bilgisayar programlarından biri değildir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Maya",
+        "B": "Final Cut",
+        "C": "Adobe Premiere",
+        "D": "Canva",
+        "E": "After Effects"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 11,
+      "soru_metni": "AM ve FM bantlarının temel farklılıkları ile İlgili aşağıdaki ifadelerden hangisi yanlıştır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "FM parazite daha az eğilimlidir.",
+        "B": "AM gürültüye karşı daha hassastır.",
+        "C": "AM daha düşük ses kalitesine sahiptir.",
+        "D": "AM daha pahalıdır.",
+        "E": "FM, AM'e göre daha yüksek bir spektrumda değişir."
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 12,
+      "soru_metni": "En profesyonel ses codeci olarak bilinen, dosya boyutlarını mp3 formatı kadar küçültürken minimum kayba uğratan ses codeci aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Ogg Vorbis",
+        "B": "Flac",
+        "C": "Wma",
+        "D": "DSD",
+        "E": "Wav"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 13,
+      "soru_metni": "Güvenli ve kapalı bir şekilde yönetilip, geniş bant bir internet ağı üzerinden gelişmiş TV hizmeti veren dijital televizyon yayıncılık platformu aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "IPTV",
+        "B": "OTT TV",
+        "C": "Sosyal TV",
+        "D": "HBB TV",
+        "E": "Kablo TV"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 14,
+      "soru_metni": "Abonenin istediği televizyon yayınını, yayın zamanında uzaktan ya da yakından kaydetmesini sağlayan hizmet aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Teletekst",
+        "B": "Video on Demand",
+        "C": "Pay Per View",
+        "D": "Personel Video Record",
+        "E": "Near Video on Demand"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 15,
+      "soru_metni": "Aşağıdakilerden hangisi analog televizyon profesyonel formatlarından biridir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "U-Matic",
+        "B": "CVC",
+        "C": "EIAJ-1",
+        "D": "VHS",
+        "E": "Cartrivision"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 16,
+      "soru_metni": "Aşağıdakilerden hangisi halkla ilişkilerin amaçlarından biri değildir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Kamuoyu ile yönetim arasında olumlu ilişki kurma",
+        "B": "Örgütü kamuoyuna tanıtma",
+        "C": "Kamuoyunun örgütle işini kolaylaştırma",
+        "D": "Sosyal sorumluluk duygusu oluşturma",
+        "E": "Kamuoyunu örgüte bağımlı kılma"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 17,
+      "soru_metni": "Kullanıcının manuel olarak etkileşimde bulunduğu ve gerçekleştirdiği bir çok işlemin makineler aracılığıyla yapılması durumu yeni medyanın aşağıdaki hangi özelliğidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Sayısal temsil",
+        "B": "Kod çevrimi",
+        "C": "Otomasyon",
+        "D": "Modülerlik",
+        "E": "Değişkenlik"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 18,
+      "soru_metni": "Aşağıdakilerden hangisi halkla ilişkiler uygulamaları aşamalarından biri değildir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Değerlendirme",
+        "B": "Tanıtma",
+        "C": "Planlama",
+        "D": "Araştırma",
+        "E": "Uygulama"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 19,
+      "soru_metni": "İnternet ortamı üzerinden kullanıcılara sunulan her türlü bilgi veya veriyi üreten, değiştiren ve sağlayan gerçek veya tüzel kişilere verilen isim aşağıdakilerin hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "İçerik sağlayıcı",
+        "B": "Veri hazırlayan",
+        "C": "Programcı",
+        "D": "Yazıcı",
+        "E": "Yayına hazırlayan"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 20,
+      "soru_metni": "Türk Hukuku mevzuatında, \"bilişim\" kavramı ilk olarak .... tarihli Türk Ceza Kanunu Ön Tasarısı'nda \"bilgileri toplayıp depo ettikten sonra, bunları otomatik işleme tabi tutma sistemlerinden oluşan alan\" şeklinde yer almıştır. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "1978",
+        "B": "1989",
+        "C": "1990",
+        "D": "1995",
+        "E": "1998"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": ""
+    }
+      ]
+    }
+  ]
+}
