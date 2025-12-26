@@ -1,0 +1,293 @@
+{
+  "ders_kodu": "SMY201U",
+  "ders_adi": "SOSYAL MEDYA VE PROPAGANDA",
+  "sinavlar": [
+    {
+      "baslik": "Çıkmış Sınav Soruları Yaz Okulu 2021-2022",
+      "tur": "CIKMIS",
+      "yil": 2021,
+      "sorular": [
+        {
+      "soruid": 1,
+      "soru_metni": "Aşağıdakilerden hangisi Karlova ve Fisher'in yanlış bilgi, zararlı bilgi ve dezenformasyon arasındaki farkları dayandırdığı beş temel unsurdan biri değildir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Aldatıcılık",
+        "B": "Bütünlük",
+        "C": "Güvenirlik",
+        "D": "Objektif gerçeklik",
+        "E": "Algılanan gerçeklik"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Karlova ve Fisher, yanlış bilgi ve dezenformasyon ayrımını Bütünlük, Objektif Gerçeklik, Algılanan Gerçeklik, Aldatıcılık (Kasıt) gibi kriterlere dayandırır. 'Güvenirlik' bu beş temel unsurdan biri değildir."
+    },
+    {
+      "soruid": 2,
+      "soru_metni": "Siyasal ya da toplumsal otoritelerin yukarıdan halka empoze ettikleri propaganda çeşidi aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Yatay propaganda",
+        "B": "Dikey propaganda",
+        "C": "Kaynağına göre propaganda",
+        "D": "Amacına göre propaganda",
+        "E": "Kara propaganda"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Dikey propaganda, liderlerden veya otoritelerden halka doğru yukarıdan aşağıya (hiyerarşik) bir akışla gerçekleşen propagandadır."
+    },
+    {
+      "soruid": 3,
+      "soru_metni": "I. Kendi içinde tutarlı bir bütünlüğe sahip olması\nII. Bilgilerin hatalı şekilde ilişkilendirilmesi\nIII. Doğru bilgileri de içerebilmesi\nIV. Bilgi Kirliliği türleri içerisinde en olumsuz sonuçlara yol açması\n\nYukarıdaki \"Zararlı Bilgi\" kavramıyla ilgili ifadelerden hangileri doğrudur?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "I ve II",
+        "B": "I ve III",
+        "C": "II ve III",
+        "D": "II ve IV",
+        "E": "III ve IV"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Zararlı bilgi (Malinformation), doğru bilgilerin (III) zarar verme kastıyla ve bağlamından koparılarak kullanılmasıdır. Tutarlı bir bütünlük sergileyebilir (I) ancak dezenformasyon kadar yaygın manipülatif kurgular içermeyebilir. Cevap anahtarına göre B şıkkı (I ve III) doğrudur."
+    },
+    {
+      "soruid": 4,
+      "soru_metni": "Çevrim içi sosyal ağlar ve çevrim içi topluluklar aracılığıyla fikirlerin ve bilginin paylaşılmasını sağlayan internet ve bilgisayar tabanlı teknolojilere genel olarak ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Network",
+        "B": "Bilişim",
+        "C": "Web sitesi",
+        "D": "Sosyal medya",
+        "E": "Forum"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": "Bu tanım, 'Sosyal Medya' kavramını açıklar."
+    },
+    {
+      "soruid": 5,
+      "soru_metni": "Propaganda faaliyetinin etkili olabilmesi için hedef kitleye ait önyargıların tekrarlanması yöntemine ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "İsim takma tekniği",
+        "B": "Kişiliği yok etme tekniği",
+        "C": "Aşılama tekniği",
+        "D": "Yanlış yönlendirme tekniği",
+        "E": "Olumlu çağrışım tekniği"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Aşılama (Inoculation) veya önyargıları pekiştirme, hedef kitlenin mevcut inançlarını tekrar ederek onları propagandaya daha açık hale getirme yöntemidir."
+    },
+    {
+      "soruid": 6,
+      "soru_metni": "Bireylerin kendi iradeleri dışında düşünce, tutum ve davranışlarının etkilenmesi ya da yönlendirilmesine ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Zararlı bilgi",
+        "B": "Manipülasyon",
+        "C": "Yanlış bilgilendirme",
+        "D": "Dezenformasyon",
+        "E": "Bilgi kirliliği"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Manipülasyon, kişilerin karar alma süreçlerini onların farkında olmayacağı şekilde etkileme ve yönlendirme sanatıdır."
+    },
+    {
+      "soruid": 7,
+      "soru_metni": "Aşağıdakilerden hangisi ideolojik propagandanın gerçekleştirilmesinde başvurulan stratejilerden biri değildir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Meşrulaştırma/Gayrimeşrulaştırma",
+        "B": "İkna",
+        "C": "Temsil/Yanlış Temsil",
+        "D": "Direnç oluşturma",
+        "E": "Kişiselleştirme"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Cevap anahtarına göre 'B (İkna)' doğru cevap olarak işaretlenmiştir. Literatürde ideolojik propaganda stratejileri (meşrulaştırma, gizleme, parçalama vb.) arasında 'ikna' genel bir iletişim amacıdır, spesifik bir ideolojik strateji olarak sayılmamış olabilir veya soru bağlamında farklı bir sınıflandırma esas alınmıştır. (Not: 2023 Yaz okulunda benzer soruda cevap 'Kişiselleştirme' idi, burada 'İkna' olarak verilmiş. Cevap anahtarına sadık kalındı.)"
+    },
+    {
+      "soruid": 8,
+      "soru_metni": "Üre-tüketici \"prosumer\" kavramını ortaya koyan bilim insanı aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Toffler",
+        "B": "Wohl",
+        "C": "Horton",
+        "D": "Adler",
+        "E": "Cialdini"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Alvin Toffler, 'prosumer' (üre-tüketici) kavramının yaratıcısıdır."
+    },
+    {
+      "soruid": 9,
+      "soru_metni": "İdeolojik duruşuna zarar verme ihtimali bulunan malumatı sansürleme, kendi ideolojik propagandasına yarayacak kısmı alarak, malumatın bütününü aktarmama ya da gizlemeye ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Oto kontrol",
+        "B": "Örtülü propaganda",
+        "C": "Yanlış temsil",
+        "D": "Göz ardı etme",
+        "E": "Meşruiyetini yok etme"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": "Göz ardı etme (Disimulation/Omission), işine gelmeyen bilgiyi yok sayma veya gizleme stratejisidir."
+    },
+    {
+      "soruid": 10,
+      "soru_metni": "Hedefe verilen mesajın ögelerinin herhangi bir değerlendirmeden geçmeden önce, bir bütün olarak ele alınacağını belirten propaganda kuralı aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Sempati kuralı",
+        "B": "Yineleme kuralı",
+        "C": "Basitleştirme kuralı",
+        "D": "Zamanlama kuralı",
+        "E": "Sentez kuralı"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": "Sentez kuralı (Goebbels'in ilkeleri), propaganda mesajlarının parça parça değil, bir bütünlük içinde algılanması gerektiğini belirtir."
+    },
+    {
+      "soruid": 11,
+      "soru_metni": "İnsanların siyasal tartışmalarda gündelik hayatlarındaki nezaketlerini bırakıp daha saldırgan bir tavır benimsemelerini ifade eden kavram aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Manipülasyon",
+        "B": "Sosyal ayrımcılık",
+        "C": "Ötekileştirme",
+        "D": "Siyasal nezaketsizlik",
+        "E": "İdeolojik ayrışma"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": "Siyasal nezaketsizlik (Political Incivility), siyasi tartışmalarda saygı sınırlarının aşılması ve saldırganlaşmadır."
+    },
+    {
+      "soruid": 12,
+      "soru_metni": "I. Siyasi olaylara özgü olması\nII. Sosyal medyayla birlikte ortaya çıkması\nIII. Popülizmin kutuplaşmaya neden olması\nIV. Toplumdaki iki grubun birbirinden uzaklaşması\n\nYukarıdaki kutuplaşma kavramıyla ilgili ifadelerden hangileri doğrudur?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "I ve II",
+        "B": "I ve III",
+        "C": "II ve III",
+        "D": "II ve IV",
+        "E": "III ve IV"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": "Kutuplaşma sadece sosyal medyayla ortaya çıkmamıştır ve sadece siyasete özgü değildir; ancak popülizm kutuplaşmayı besler (III) ve grupların uzaklaşması (IV) temel tanımıdır."
+    },
+    {
+      "soruid": 13,
+      "soru_metni": "Aşağıdakilerden hangisi insanların kurduğu bireysel ve toplumsal ilişkilerin temelini oluşturan değerleri, normları ve kuralları doğru-yanlış ya da iyi-kötü gibi ahlaksal açıdan araştıran felsefe disiplinidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Etik",
+        "B": "Sosyoloji",
+        "C": "Ahlak",
+        "D": "İdeoloji",
+        "E": "Kültür"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Etik, ahlaki değerler ve davranışlar üzerine düşünen felsefe dalıdır."
+    },
+    {
+      "soruid": 14,
+      "soru_metni": "Büyük ölçekli veriler arasından faydalı bilgiye ulaşma işlemi aşağıdaki kavramlardan hangisiyle açıklanmaktadır?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Yapay zekâ",
+        "B": "Güvenlik yönetişimi",
+        "C": "Açık istihbarat",
+        "D": "Toplum mühendisliği",
+        "E": "Veri madenciliği"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": "Veri madenciliği, büyük veri setlerinden anlamlı bilgi ve örüntü çıkarma işlemidir."
+    },
+    {
+      "soruid": 15,
+      "soru_metni": "İstihbarat birimleri ile kişiler arasında açık ve gönüllü iş birliği neticesinde ortaya çıkan aktif dijital kalabalık ....... anlayışının bir parçasını oluşturur. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "siber güvenlik",
+        "B": "ulusal güvenlik",
+        "C": "karşı propaganda",
+        "D": "güvenlik yönetişimi",
+        "E": "devlet güvenliği"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": "Sivil katılım ve iş birliği ile güvenliğin sağlanması 'Güvenlik Yönetişimi' kavramı içinde değerlendirilir."
+    },
+    {
+      "soruid": 16,
+      "soru_metni": "Belirli bir öğretiyi bir kitleye, bir gruba, bir kişiye empoze etmek, beyin yıkama sürecine tabi tutmak \".......\" olarak adlandırılmaktadır. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "fundamentalizm",
+        "B": "asosyalleşme",
+        "C": "ideoloji",
+        "D": "radikalleşme",
+        "E": "endoktrinasyon"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": "Endoktrinasyon, sistematik olarak bir fikri veya doktrini empoze etme (beyin yıkama) sürecidir."
+    },
+    {
+      "soruid": 17,
+      "soru_metni": "I. Güvenilir bulunmadığı için sosyal medyada TV kanallarından bilgi aktarılmaması\nII. Eylemlerin sosyal medya devrimi olarak da görülmesi\nIII. Sosyal medyanın ülke dışındaki destekçilerle irtibat kurulmasını sağlaması\nIV. Protestocuların eylemle birlikte sosyal medyayı kullanmaya başlamaları\n\nYukarıdaki Arap Baharıyla ilgili ifadelerden hangileri doğrudur?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "I ve II",
+        "B": "I ve III",
+        "C": "II ve III",
+        "D": "II ve IV",
+        "E": "III ve IV"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": "Arap Baharı bir 'sosyal medya devrimi' olarak nitelenmiştir (II) ve dış dünyayla iletişim sosyal medya üzerinden sağlanmıştır (III)."
+    },
+    {
+      "soruid": 18,
+      "soru_metni": "Teorik olarak, bir ülke ne kadar demokratikse, yöneticiler uygulamalarında halkın ihtiyaç ve taleplerine o kadar duyarlı olacakları için, halkın bu hakkı kullanma ihtiyacı o ölçüde ---------",
+      "resim_url": null,
+      "secenekler": {
+        "A": "artar",
+        "B": "azalır",
+        "C": "değişmez",
+        "D": "belirsizleşir",
+        "E": "zorlaşır"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": "Demokratik mekanizmalar (seçim vb.) işlediğinde halkın sokağa çıkma, protesto etme veya direnme hakkını kullanma ihtiyacı azalır. (Not: Sorunun tam metni eksik olsa da bağlam 'direnme hakkı' veya 'protesto' üzerinedir)."
+    },
+    {
+      "soruid": 19,
+      "soru_metni": "I. Sert bir liderlik anlayışının olması\nII. Sosyal medyanın gelişiminden önce de internetten propaganda yapmaları\nIII. Tek bir merkez üzerinden faaliyet göstermeleri\nIV. Günümüzde internet ve sosyal medya olmadan varlıklarını sürdüremeyecek olmaları\n\nYukarıdaki Fundamentalist terör örgütleriyle ilgili ifadelerden hangileri doğrudur?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "I ve II",
+        "B": "I ve III",
+        "C": "I ve IV",
+        "D": "II ve IV",
+        "E": "III ve IV"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": "Fundamentalist örgütler interneti erken dönemden beri kullanmaktadır (II) ve günümüzde varlıklarını sürdürmek için dijital propagandaya bağımlıdırlar (IV)."
+    },
+    {
+      "soruid": 20,
+      "soru_metni": "Bireylerin terör örgütleriyle temas kurarak tanışmaları, bu tanışma neticesinde terör örgütünün doktrin aşılama ve beyin yıkama evresini başlatması, bunun akabinde terör örgütü kamplarında eğitime tabi tutulmaları ve nihai aşamada eylem/şiddet aşamasına gelinmesi durumuna ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Klasik radikalleşme",
+        "B": "Fundamentalist terörizm",
+        "C": "Kendi muhitinde yetişen terörist",
+        "D": "Dördüncü nesil savaş",
+        "E": "Yalnız kurt eylemi"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": "Bu süreç (temas, doktrinasyon, kamp eğitimi, eylem), yüz yüze ve örgüt içi hiyerarşide gerçekleşen 'Klasik Radikalleşme' sürecidir."
+    }
+      ]
+    }
+  ]
+}
