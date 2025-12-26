@@ -1,0 +1,293 @@
+{
+  "ders_kodu": "SMY201U",
+  "ders_adi": "SOSYAL MEDYA VE PROPAGANDA",
+  "sinavlar": [
+    {
+      "baslik": "Çıkmış Sınav Soruları Ara Dönem 2024-2025",
+      "tur": "CIKMIS",
+      "yil": 2024,
+      "sorular": [
+        {
+      "soruid": 1,
+      "soru_metni": "Propagandacı tezlerinin doğruluğuna gerekçeler üreterek, meşrulaştırmaya çalıştığı kavram aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Mesaj",
+        "B": "İdeoloji",
+        "C": "İnanç",
+        "D": "Manipülasyon",
+        "E": "Gerçek"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 2,
+      "soru_metni": "Propagandayı, haberleşme araçları kullanılarak hedef grupların belirli durum ya da konumdaki tepkilerini önceden tasarlanmış amaçlar doğrultusunda şekillendirmeye yönelik bilinçli bir faaliyet olarak tanımlayan bilim insanı aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Jowett",
+        "B": "Chomsky",
+        "C": "Erbschloe",
+        "D": "Lipmann",
+        "E": "Qualter"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 3,
+      "soru_metni": "Psikolojik savaşın temel insani kusurlardan kullanarak sosyal medya sayesinde faydalandığı görülen kavram aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Kamuoyu",
+        "B": "Baskı",
+        "C": "Algı",
+        "D": "İkna",
+        "E": "İdeoloji"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 4,
+      "soru_metni": "\"İnsan otoriteye bir başkasının ölümüne sebep olacak olsa bile itaat eder mi?\" sorusunu temel alarak, bir dizi deney gerçekleştiren bilim insanı aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Goldstein",
+        "B": "Milgram",
+        "C": "Horton",
+        "D": "Wohl",
+        "E": "Berkowitz"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 5,
+      "soru_metni": "Hedefe verilen mesajın ögelerinin herhangi bir değerlendirmeden geçmeden önce, bir bütün olarak ele alınacağını belirten propaganda kuralı aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Sentez",
+        "B": "Sempati",
+        "C": "Basitleştirme",
+        "D": "Tek hedef",
+        "E": "Çarpıtma"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 6,
+      "soru_metni": "Aşağıdakilerden hangisi sosyal medyadaki kullanıcıların kendilerini veya paylaşımlarını beğenenlerle ilgili olumlu yorum yapma zorunda hissetmesine neden olan propaganda yöntemidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Sosyal onaylama ihtiyacı",
+        "B": "Karşılıklılık normu",
+        "C": "Tutarlı olma ihtiyacı",
+        "D": "Enderlik ilkesi",
+        "E": "Hoşlanma ilkesi"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 7,
+      "soru_metni": "İzleyicinin izlemekte olduğu kişi ile karşılıklı kurduğu psikolojik ilişkiye ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Parasosyal etkileşim",
+        "B": "Geri bildirim",
+        "C": "Medya bağımlılığı",
+        "D": "İçerik tüketicisi",
+        "E": "İnteraktif iletişim"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 8,
+      "soru_metni": "Herhangi bir ürün ya da hizmetin kullanıcılarının sosyal medya üzerinden deneyimlerini paylaşması anlamına gelen kavram aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Etkileşim",
+        "B": "Sponsorluk",
+        "C": "Reklam",
+        "D": "Influencer",
+        "E": "Ewom"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 9,
+      "soru_metni": "Özellikle sosyal medyada politik propaganda malzemelerini yaymak için para alan kişilere ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Hacker",
+        "B": "Spam",
+        "C": "Siber takım",
+        "D": "Bot",
+        "E": "Yandaş"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 10,
+      "soru_metni": "Günümüzde yalan, kandırma, manipülasyon, zihin kontrolü, psikolojik savaş ya da beyin yıkama gibi olumsuz kelimelerle birlikte anılan kavram aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Dezenformasyon",
+        "B": "İstihbarat",
+        "C": "Casusluk",
+        "D": "Propaganda",
+        "E": "Terör"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 11,
+      "soru_metni": "Bir toplumu yönlendirebilmenin en kolay yolunun kararlılık halini çözmek, kararsızlığı pekiştirmek ve içeriği bunun üzerine eklemek olduğu söylenebilir. Aşağıdakilerden hangisi bu bağlamda sosyal medyada en sık uygulanan algı yönetimi tekniklerinden biridir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Sürekli tekrar",
+        "B": "Meşruiyet oluşturma",
+        "C": "Çelişkili paylaşım içerikleri üretme",
+        "D": "Komplo teorileri üretme",
+        "E": "Gelecek projeksiyonu oluşturma"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 12,
+      "soru_metni": "Herhangi bir olguya dair doğru ya da yanlış herhangi bir şey bilmek enformasyonu, enformasyonu çeşitli zihinsel süzgeçlerden geçirerek bir fikre dönüştürmek ise .... oluşturmaktadır. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "analizi",
+        "B": "bilgiyi",
+        "C": "istihbaratı",
+        "D": "iletişimi",
+        "E": "düşünceyi"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 13,
+      "soru_metni": "Bir sabah kansere neden olmakla suçlanan bir besinin, ertesi gün başka bir sosyal medya paylaşımında kanserin ilacı olarak gösterilebilmesi aşağıdakilerden hangisine örnektir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Manipülasyon",
+        "B": "Ajitasyon",
+        "C": "Bilgi kirliliği",
+        "D": "Propaganda",
+        "E": "İkna"
+      },
+      "dogru_cevap": "C",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 14,
+      "soru_metni": "Karlova ve Fisher, yanlış bilgi, zararlı bilgi ve dezenformasyon arasındaki temel farkları beş temel unsura dayandırmaktadır. Aşağıdakilerden hangisi bunlardan biri değildir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Bütünlük",
+        "B": "Aldatıcılık",
+        "C": "Algılanan gerçeklik",
+        "D": "Öznel gerçeklik",
+        "E": "Geçerlilik"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 15,
+      "soru_metni": "Zapatista Hareketi, Arap Baharı, Wall Street gibi birçok politik gelişme, aşağıdakilerden hangisi üzerinden yapılan ideolojik propaganda neticesinde örgütlenmiştir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Gizli örgütler",
+        "B": "TV",
+        "C": "Radyo",
+        "D": "İnternet",
+        "E": "Toplantılar"
+      },
+      "dogru_cevap": "D",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 16,
+      "soru_metni": "İdeolojik duruşuna zarar verme ihtimali bulunan malumatı sansürleme, kendi ideolojik propagandasına yarayacak kısmı alarak, malumatın bütününü aktarmama ya da gizlemeye ne ad verilir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Göz ardı etme",
+        "B": "Örtülü propaganda",
+        "C": "Yanlış temsil",
+        "D": "Meşruiyetini yok etme",
+        "E": "Oto kontrol"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 17,
+      "soru_metni": "Küreselleşmenin beraberinde getirdiği dünyanın öncelikli konularının değişmesi, bireyler üzerinde etkili olduğu düşünülen değişiklikler arasında yer almaz?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Küreselleşmenin artan baskısı karşısında ve belki de yanında yerelleşme eğilimlerinin azalması",
+        "B": "Sosyal medya üzerinden de bireylerin kendilerini dünya vatandaşı olarak tanımlamaları",
+        "C": "Eskiden haritadaki yerini dahi bilmedikleri şehirlerden arkadaşlar edinmeleri",
+        "D": "Dünyadaki gelişmeleri yakından takip etmeleri",
+        "E": "Farklı kıtalarda ortaya çıkan siyasi direnişlere sanal ortamda destek vermeleri"
+      },
+      "dogru_cevap": "A",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 18,
+      "soru_metni": "İdeoloji ifadesine olumsuz anlam yükleyen düşünce okulunun başında aşağıdakilerden hangisi gelir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Kapitalistler",
+        "B": "Sosyalistler",
+        "C": "Liberaller",
+        "D": "Hümanistler",
+        "E": "Marksistler"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 19,
+      "soru_metni": "1960 yılında ideolojilerin sonunun geldiğini ve liberal demokrasi ile sosyalizm arasındaki ideolojik çatışmanın artık anlamını yitirmeye başladığını öne süren düşünür aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Rawls",
+        "B": "Weber",
+        "C": "Habermas",
+        "D": "Althusser",
+        "E": "Bell"
+      },
+      "dogru_cevap": "E",
+      "neden_dogru": ""
+    },
+    {
+      "soruid": 20,
+      "soru_metni": "Hem içerdiği bilginin aldatıcı olması hem de doğrudan ve bilinçli bir zarar verme amacı taşıdığı için bilgi kirliliği türleri arasında en olumsuz sonuçlara neden olabilecek kapasiteye sahip olan kavram aşağıdakilerden hangisidir?",
+      "resim_url": null,
+      "secenekler": {
+        "A": "Gri propaganda",
+        "B": "Dezenformasyon",
+        "C": "Kara propaganda",
+        "D": "Zararlı bilgi",
+        "E": "Yanlış bilgi"
+      },
+      "dogru_cevap": "B",
+      "neden_dogru": ""
+    }
+      ]
+    }
+  ]
+}
